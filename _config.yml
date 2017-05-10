@@ -248,3 +248,6 @@ defaults:
 # Collections
 collections: 
   open_lab_notebook: 
+    output: true
+    permalink: /:collection/:path/
+    
