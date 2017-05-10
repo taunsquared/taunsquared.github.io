@@ -1,12 +1,16 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Home"
+    url: https://taunsquared.github.io/home/
+  - title: "Open Lab Notebook"
+    url: https://taunsquared.github.io/open-lab-notebook/
+  - title: "BrainPlay"
+    url: https://taunsquared.github.io/brainplay/
+  - title: "Idea Garden"
+    url: https://taunsquared.github.io/idea-garden/
+  - title: "The Goggle Gallery"
+    url: https://taunsquared.github.io/goggle-gallery/
+  - title: "About me" 
+    url: https://taunsquared.github.io/about-me/
   # - title: "Sitemap"
   #   url: /sitemap/
