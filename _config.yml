@@ -250,4 +250,17 @@ collections:
   open_lab_notebook: 
     output: true
     permalink: /:collection/:path/
+  brainplay: 
+    output: true
+    permalink: /:collection/:path/
+  idea_garden: 
+    output: true
+    permalink: /:collection/:path/
+  goggle_gallery: 
+    output: true
+    permalink: /:collection/:path/
+  about_me: 
+    output: true
+    permalink: /:collection/:path/
+    
     
