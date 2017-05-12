@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ---
 
-Hi! ^.^  \\
+Hi! ^.^  
 
 My name is Danbee (단비), which literally translated from Korean means "sweet rain". Many of my friends call me tauntaun - it's a doubling of a more accurate phoneticization of 단, coined during my freshman year at MIT when I was part of the Musical Theater Guild's production of Star Wars Trilogy: Musical Edition. <br/>
 
