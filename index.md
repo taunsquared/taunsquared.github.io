@@ -16,8 +16,8 @@ feature_row:
     alt: "every mind online"
     title: "Everymind.online"
     excerpt: "An online database for the study of surprise in humans, as part of an exhibit about the comparative study of intelligence at the Brighton Sea Life Center, July-August 2017"
-    url: "/docs/layouts/"
-    btn_label: "Learn More"
+    url: everymind.online
+    btn_label: "Visit Webpage"
   - image_path: /assets/images/mm-free-feature.png
     alt: "cats!"
     title: "Shameless Cat Gallery"
@@ -27,5 +27,4 @@ feature_row:
 ---
 
 {% include feature_row id="intro" type="center" %}
-
 {% include feature_row %}
