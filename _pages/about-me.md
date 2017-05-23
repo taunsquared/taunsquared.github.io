@@ -1,6 +1,7 @@
 ---
 layout: home
 author_profile: true
+permalink: /about-me/
 ---
 
 Hi! ^.^  
