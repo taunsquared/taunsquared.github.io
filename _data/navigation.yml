@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://taunsquared.github.io/
   - title: "Open Lab Notebook"
-    url: https://taunsquared.github.io/_collections/open-lab-notebook/
+    url: https://taunsquared.github.io/open-lab-notebook/
   - title: "BrainPlay"
     url: https://taunsquared.github.io/brainplay/
   - title: "Every Mind Online"
@@ -11,6 +11,6 @@ main:
   - title: "The Goggle Gallery"
     url: https://taunsquared.github.io/goggle-gallery/
   - title: "About me" 
-    url: https://taunsquared.github.io/_pages/about-me/
+    url: https://taunsquared.github.io/about-me/
   # - title: "Sitemap"
   #   url: /sitemap/
