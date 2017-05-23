@@ -1,6 +1,8 @@
 ---
-title: "Open Lab Notebook"
+layout: home
+author_profile: true
 permalink: /open-lab-notebook/
+title: "Open Lab Notebook"
 excerpt: "This is my primary documentation of my thought processes related to my PhD work, currently clustered under the title "How can we get more brains involved in the study of brains?""
 ---
 
