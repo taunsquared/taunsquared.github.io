@@ -1,152 +1,30 @@
 ---
-layout: home
-author_profile: true
-permalink: /open-lab-notebook/
 title: "Open Lab Notebook"
-excerpt: "This is my primary documentation of my thought processes related to my PhD work, currently clustered under the title "How can we get more brains involved in the study of brains?""
+excerpt: "This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the title 'How can we get more brains to study brains?'"
+header:
+  image: /assets/images/foo-bar-identity.jpg
+  teaser: /assets/images/foo-bar-identity-th.jpg
+sidebar:
+  - title: "Role"
+    image: http://placehold.it/350x250
+    image_alt: "logo"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
+gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
 ---
 
-The goal of my thesis is to understand how we can get more brains involved in the study of brains. 
+Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
 
-{% include toc %}
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
 
-## Installing the Theme
-
-If you're running Jekyll v3.3+ and self-hosting you can quickly install the theme as Ruby gem.
-If you're hosting with GitHub Pages you'll have to use the old "repo fork" method or directly copy all of the theme files[^structure] into your site.
-
-[^structure]: See [**Structure** page]({{ "/docs/structure/" | absolute_url }}) for a list of theme files and what they do.
-
-**ProTip:** Be sure to remove `/docs` and `/test` if you forked Minimal Mistakes. These folders contain documentation and test pages for the theme and you probably don't littering up in your repo.
-{: .notice--info}
-
-### Ruby Gem Method
-
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "minimal-mistakes-jekyll"
-```
-
-Add this line to your Jekyll site's `_config.yml` file:
-
-```yaml
-theme: minimal-mistakes-jekyll
-```
-
-Then run Bundler to install the theme gem and dependencies:
-
-```bash
-bundle install
-```
-
-### GitHub Pages Compatible Method
-
-Fork the [Minimal Mistakes theme](https://github.com/mmistakes/minimal-mistakes/fork), then rename the repo to **USERNAME.github.io** --- replacing **USERNAME** with your GitHub username.
-
-<figure>
-  <img src="{{ '/assets/images/mm-theme-fork-repo.png' | absolute_url }}" alt="fork Minimal Mistakes">
-</figure>
-
-**Note:** Your Jekyll site should be viewable immediately at <http://USERNAME.github.io>. If it's not, you can force a rebuild by **Customizing Your Site** (see below for more details).
-{: .notice--warning}
-
-If you're hosting several Jekyll based sites under the same GitHub username you will have to use Project Pages instead of User Pages. Essentially you rename the repo to something other than **USERNAME.github.io** and create a `gh-pages` branch off of `master`. For more details on how to set things up check [GitHub's documentation](https://help.github.com/articles/user-organization-and-project-pages/).
-
-<figure>
-  <img src="{{ '/assets/images/mm-gh-pages.gif' | absolute_url }}" alt="creating a new branch on GitHub">
-</figure>
-
-Replace the contents of `Gemfile` found in the root of your Jekyll site with the following:
-
-```ruby
-source "https://rubygems.org"
-
-gem "github-pages", group: :jekyll_plugins
-
-group :jekyll_plugins do
-  gem "jekyll-paginate"
-  gem "jekyll-sitemap"
-  gem "jekyll-gist"
-  gem "jekyll-feed"
-  gem "jemoji"
-end
-```
-
-Then run `bundle update` and verify that all gems install properly.
-
-### Remove the Unnecessary
-
-If you forked or downloaded the `minimal-mistakes-jekyll` repo you can safely remove the following folders and files:
-
-- `.editorconfig`
-- `.gitattributes`
-- `.github`
-- `/docs`
-- `/test`
-- `CHANGELOG.md`
-- `minimal-mistakes-jekyll.gemspec`
-- `README.md`
-- `screenshot-layouts.png`
-- `screenshot.png`
-
-## Setup Your Site
-
-Depending on the path you took installing Minimal Mistakes you'll setup things a little differently.
-
-### Starting Fresh
-
-Starting with an empty folder and `Gemfile` you'll need to copy or re-create this [default `_config.yml`](https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml) file. For a full explanation of every setting be sure to read the [**Configuration**]({{ "/docs/configuration/" | absolute_url }}) section.
-
-After taking care of Jekyll's configuration file, you'll need to create and edit the following data files.
-
-- [`_data/ui-text.yml`](https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml) - UI text [documentation]({{ "/docs/ui-text/" | absolute_url }})
-- [`_data/navigation.yml`](https://github.com/mmistakes/minimal-mistakes/blob/master/_data/navigation.yml) - navigation [documentation]({{ "/docs/navigation/" | absolute_url }})
-
-### Starting from `jekyll new`
-
-Scaffolding out a site with the `jekyll new` command requires you to modify a few files that it creates.
-
-Edit `_config.yml` and create `_data/ui-text.yml` and `_data/navigation.yml` same as above. Then:
-
-- Replace `<site root>/index.md` with a modified [Minimal Mistakes `index.html`](https://github.com/mmistakes/minimal-mistakes/blob/master/index.html). Be sure to enable pagination if using the [`home` layout]({{ "/docs/layouts/#home-page" | absolute_url }}) by adding the necessary lines to **_config.yml**.
-- Change `layout: post` in `_posts/0000-00-00-welcome-to-jekyll.markdown` to `layout: single`.
-- Remove `about.md`, or at the very least change `layout: page` to `layout: single` and remove references to `icon-github.html` (or [copy to your `_includes`](https://github.com/jekyll/minima/tree/master/_includes) if using it).
-
-### Migrating to Gem Version
-
-If you're migrating a site already using Minimal Mistakes and haven't customized any of the theme files things upgrading will be easier for you.
-
-Start by removing `_includes`, `_layouts`, `_sass`, `assets` folders and all files within. You won't need these anymore as they're bundled with the theme gem.
-
-If you customized any of these files leave them alone, and only remove the untouched ones. If done correctly your modified versions should [override](http://jekyllrb.com/docs/themes/#overriding-theme-defaults) the versions bundled with the theme and be used by Jekyll instead.
-
-#### Update Gemfile
-
-Replace `gem "github-pages` or `gem "jekyll"` with `gem "jekyll", "~> 3.3.0"`. You'll need the latest version of Jekyll[^update-jekyll] for Minimal Mistakes to work and load all of the theme's assets properly, this line forces Bundler to do that.
-
-[^update-jekyll]: You could also run `bundle update jekyll` to update Jekyll.
-
-Add the Minimal Mistakes theme gem: 
-
-```ruby
-gem "minimal-mistakes-jekyll"
-```
-
-When finished your `Gemfile` should look something like this:
-
-```ruby
-source "https://rubygems.org"
-
-gem "jekyll", "~> 3.3.0"
-gem "minimal-mistakes-jekyll"
-```
-
-Then run `bundle update` and add `theme: minimal-mistakes-jekyll` to your `_config.yml`.
-
-**v4 Breaking Change:** Paths for image headers, overlays, teasers, [galleries]({{ "/docs/helpers/#gallery" | absolute_url }}), and [feature rows]({{ "/docs/helpers/#feature-row" | absolute_url }}) have changed and now require a full path. Instead of just `image: filename.jpg` you'll need to use the full path eg: `image: /assets/images/filename.jpg`. The preferred location is now `/assets/images/` but can be placed elsewhere or external hosted. This all applies for image references in `_config.yml` and `author.yml` as well.
-{: .notice--danger}
-
----
-
-That's it! If all goes well running `bundle exec jekyll serve` should spin-up your site.
+hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
