@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/headshot_2017Greece_dark.jpg
-excerpt: 'Hi! <br /><small>This is my corner of the internet. <br /> It is constantly under revision ^.^ <br /> <br /> If you would like to get in touch, <br />please email danbeekim at mit dot edu.<br /> <br /> <br />Some of my favorite things: <br />Blue Scholars<br />Scubaphone<br />Cuttlefish<br />Star Wars Parkour<br />Lt. Cmdr. Data<br />Flying<br /><br /><br />Thanks for visiting!<br /></small>{:.text-center}'
+excerpt: 'Hi! <br /><small>This is my corner of the internet. <br /> It is constantly under revision ^.^ <br /> <br /> If you would like to get in touch, <br />please email danbeekim at mit dot edu.<br /> <br /> <br />Some of my favorite things: <br />Blue Scholars<br />[**Scubaphone**](scubaphone.org)<br />Cuttlefish<br />Star Wars Parkour<br />Lt. Cmdr. Data<br />Flying<br /><br /><br />Thanks for visiting!<br /></small>'
 feature_row:
   - image_path: /assets/images/Cuttles.png
     alt: "PhD thesis"
@@ -26,5 +26,6 @@ feature_row:
     btn_label: "Learn More"
 ---
 
+{% include excerpt id="excerpt" type="right" %}
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
