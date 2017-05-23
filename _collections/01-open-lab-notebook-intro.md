@@ -4,7 +4,7 @@ permalink: /open-lab-notebook/
 excerpt: "This is my primary documentation of my thought processes related to my PhD work, currently clustered under the title "How can we get more brains involved in the study of brains?""
 ---
 
-Minimal Mistakes has been developed as a [Jekyll theme gem](http://jekyllrb.com/docs/themes/) for easier use. It is also 100% compatible with GitHub Pages --- just with a more involved installation process.
+The goal of my thesis is to understand how we can get more brains involved in the study of brains. 
 
 {% include toc %}
 
