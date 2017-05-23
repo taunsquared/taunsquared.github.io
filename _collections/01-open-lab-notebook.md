@@ -2,8 +2,8 @@
 title: "Open Lab Notebook"
 excerpt: "This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the title 'How can we get more brains to study brains?'"
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  image: /assets/images/cuttles.png
+  teaser: /assets/images/DanbeeKim.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
