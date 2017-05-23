@@ -245,19 +245,34 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _open-lab-notebook
+  - scope:
+      path: ""
+      type: open-lab-notebook
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 # Collections
 collections: 
-  open_lab_notebook: 
+  open-lab-notebook: 
     output: true
     permalink: /:collection/:path/
   brainplay: 
     output: true
     permalink: /:collection/:path/
-  idea_garden: 
+  idea-garden: 
     output: true
     permalink: /:collection/:path/
-  goggle_gallery: 
+  goggle-gallery: 
     output: true
     permalink: /:collection/:path/
 
