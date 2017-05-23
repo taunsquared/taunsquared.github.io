@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/headshot_2017Greece_dark.jpg
-excerpt: 'Hi! <br /><small>This is my corner of the internet. <br /> It is constantly under revision ^.^ <br /> <br /> If you would like to get in touch, <br />please email danbeekim at mit dot edu.<br /> <br /> <br />Some of my favorite things: <br />Blue Scholars<br /><a href="scubaphone.org">Scubaphone</a><br />Cuttlefish<br />Star Wars Parkour<br />Lt. Cmdr. Data<br />Flying<br /><br /><br />Thanks for visiting!<br /></small>{::.text-right}'
+excerpt: '<p style="text-align: center;">Hi! <br /><small>This is my corner of the internet. <br /> It is constantly under revision ^.^ <br /> <br /> If you would like to get in touch, <br />please email danbeekim at mit dot edu.<br /> <br /> <br />Some of my favorite things: <br />Blue Scholars<br /><a href="http://scubaphone.org">Scubaphone</a><br />Cuttlefish<br /><a href="https://youtu.be/P8-Bv7E3pcE">Star Wars Parkour</a><br />Lt. Cmdr. Data<br />Flying<br /><br /><br />Thanks for visiting!<br /></small></p>'
 feature_row:
   - image_path: /assets/images/Cuttles.png
     alt: "PhD thesis"
