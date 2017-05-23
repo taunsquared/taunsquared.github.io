@@ -259,8 +259,5 @@ collections:
   goggle_gallery: 
     output: true
     permalink: /:collection/:path/
-  about_me: 
-    output: true
-    permalink: /:collection/:path/
-    
+
     
