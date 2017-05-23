@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Danbee Tauntaun Kim"
   avatar           : "/assets/images/DanbeeKim.jpg"
-  bio              : "How can we empower more brains to study brains?"
+  bio              : "Vigilante Intergalactic Roustabout Scholar"
   location         : "London, UK"
   email            : "danbeekim@mit.edu"
   uri              :
@@ -89,18 +89,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "taunsquared"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "taunbot"
   lastfm           :
   linkedin         :
-  pinterest        :
+  pinterest        : 
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "taunbot"
   vine             :
   weibo            :
   xing             :
