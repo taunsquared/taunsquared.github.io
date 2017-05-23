@@ -26,6 +26,4 @@ feature_row:
     btn_label: "Learn More"
 ---
 
-{% include excerpt id="excerpt" type="right" %}
-{% include feature_row id="intro" type="center" %}
 {% include feature_row %}
