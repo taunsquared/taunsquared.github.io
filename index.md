@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/headshot_2017Greece_dark.jpg
-excerpt: '<p style="text-align: right;">Hi! <br /><small>This is my corner of the internet. <br /> It is constantly under revision ^.^ <br /> <br /> If you would like to get in touch, <br />please email danbeekim at mit dot edu.<br /> <br /> <br />Some of my favorite things: <br /><a href="http://bluescholars.com">Blue Scholars</a><br /><a href="http://scubaphone.org">Scubaphone</a><br /><a href="https://youtu.be/6SCrRYDOg_s">Cuttlefish</a><br /><a href="https://youtu.be/P8-Bv7E3pcE">Star Wars Parkour</a><br /><a href="http://memory-alpha.wikia.com/wiki/Data">Lt. Cmdr. Data</a><br /><a href="https://www.flying-frenchies.com/en/movies">Flying</a><br /><br /><br />Thanks for visiting!<br /></small></p>'
+excerpt: '<p style="text-align: right;">Hi! <br />This is my corner of the internet. <br /> It is constantly under revision ^.^ <br /> <br /> If you would like to get in touch, <br />please email danbeekim at mit dot edu.<br /> <br /> <br />Some of my favorite things: <br /><a href="http://bluescholars.com">Blue Scholars</a><br /><a href="http://scubaphone.org">Scubaphone</a><br /><a href="https://youtu.be/6SCrRYDOg_s">Cuttlefish</a><br /><a href="https://youtu.be/P8-Bv7E3pcE">Star Wars Parkour</a><br /><a href="http://memory-alpha.wikia.com/wiki/Data">Lt. Cmdr. Data</a><br /><a href="https://www.flying-frenchies.com/en/movies">Flying</a><br /><br /><br />Thanks for visiting!<br /></p>'
 feature_row:
   - image_path: /assets/images/Cuttles.png
     alt: "PhD thesis"
