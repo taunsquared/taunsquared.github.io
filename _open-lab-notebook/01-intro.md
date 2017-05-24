@@ -25,11 +25,11 @@ gallery:
 ---
 hello
 
-{% include header %}
+{% include {{ page.header }} %}
 
 this is a test. 
 
-{% include excerpt %}
+{% include {{ page.excerpt }} %}
 
 In my research, I seek to understand how the intelligences of different animals are expressed as they navigate the complexities of their real-life environments. My goal is to design experiments that observe and analyze the behavior of freely moving animals as they are exposed to unexpected events. 
 
