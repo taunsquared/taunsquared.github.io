@@ -23,6 +23,13 @@ gallery:
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
 ---
+hello
+
+{% include header %}
+
+this is a test. 
+
+{% include excerpt %}
 
 In my research, I seek to understand how the intelligences of different animals are expressed as they navigate the complexities of their real-life environments. My goal is to design experiments that observe and analyze the behavior of freely moving animals as they are exposed to unexpected events. 
 
