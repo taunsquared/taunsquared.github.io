@@ -17,7 +17,7 @@ feature_row:
     title: "Everymind.online"
     excerpt: "An online database for the study of surprise in humans, as part of an exhibit about the comparative study of intelligence at the Brighton Sea Life Center, July-August 2017"
     url: "everymind.online"
-    btn_label: "Visit Webpage"
+    btn_label: "Visit Everymind.online"
   - image_path: /assets/images/Minima-Ramiro_effect.jpeg
     alt: "cats!"
     title: "Shameless Cat Gallery"
