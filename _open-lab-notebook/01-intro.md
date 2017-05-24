@@ -26,8 +26,6 @@ gallery:
 
 In my research, I seek to understand how the intelligences of different animals are expressed as they navigate the complexities of their real-life environments. My goal is to design experiments that observe and analyze the behavior of freely moving animals as they are exposed to unexpected events. 
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-
 Key ideas that shape my research pursuits include: 
 
 * **Movement is thought**: Movement is fundamental to the workings of the brain. It is clear from an evolutionary perspective that nervous systems developed as a tool for navigating unknown, complex environments. In turn, nervous systems adapt and change in response to the environments with which they interact, including the bodies through which this interaction is implemented; thus, cognition emerges from the interplay between brains, bodies, and the world. Taking all three into account is essential to understanding movement and thought, but this is often difficult, and such difficulties have created a trend to ignore this fundamental relationship. 
@@ -41,3 +39,5 @@ Key ideas that shape my research pursuits include:
 I'm always open to discussing and improving my understanding and implementation of these ideas. 
 
 Below is documentation of my thesis work, in various stages of polish. More thoughts can be found in "BrainPlay" and "Idea Garden" sections of this website. 
+
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
