@@ -3,7 +3,7 @@ title: "Open Lab Notebook"
 permalink: /open-lab-notebook/
 excerpt: "This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the title 'How can we get more brains to study brains?'"
 header:
-  image: /assets/images/cuttles.png
+  image: /assets/images/Cuttles.png
   teaser: /assets/images/DanbeeKim.jpg
 sidebar:
   - title: "Role"
