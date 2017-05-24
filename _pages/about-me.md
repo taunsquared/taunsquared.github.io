@@ -6,12 +6,12 @@ permalink: /about-me/
 
 Hi! ^.^  
 
-My name is Danbee (단비), which literally translated from Korean means "sweet rain". Many of my friends call me tauntaun - "taun" is a more accurate phoneticization of 단, coined during my freshman year at MIT when I was part of the Musical Theater Guild's production of Star Wars Trilogy: Musical Edition. <br/>
+My name is Danbee (단비), which literally translated from Korean means "sweet rain". Many of my friends call me tauntaun, a nickname coined during my freshman year at MIT when I was part of the Musical Theater Guild's production of Star Wars Trilogy: Musical Edition. <br/>
 
-I am part of the Intelligent Systems Lab, headquartered in London, UK at the Sainsbury-Wellcome Center for Neural Circuits and Behavior. We study intelligent behavior by looking at the moment of surprise, or the moment when an animal's expectations have been violated, which implies that any animal that shows surprise has the ability to create a set of expectations, or predictions, about the world. By studying how animals deal with unexpected events, or how they recover from surprise, we believe we can better understand what it means to behave intelligently. To do this, I am currently collaborating with the Brighton Sea Life Center to non-invasively study cuttlefish and their reactions to unexpected events. <br/>
+I am part of the Intelligent Systems Lab, headquartered in London, UK at the Sainsbury-Wellcome Center for Neural Circuits and Behavior. We want to know how brains understand the world. When we look at things, like this cup of water, we know what to do with them. We can imagine picking them up, throwing them around, what they feel like, and what they sound like. As of right now, we do not know how to give this power to things that we make.
+ 
+We try to understand this power by looking into the animal brain while it plays around in interesting worlds. When things in the world change, animals are surprised and look like they are trying to explain what happened. After that, they move in a different way when they expect that the world may change. By looking into their brains before and after the animals change what they expect, we hope to learn more about the brain's power to understand worlds.<br/>
 
-I spend a lot of time thinking about permaculture, anarchy, circus, and education. I love spending time in the wilderness. I make music with my band Scubaphone and any other willing musicians in the near vicinity. I study capoeira with the Mandigueros dos Palmares, led by Mestre Chuvisco. <br/>
+I spend a lot of time thinking about permaculture, anarchy, circus, and education. I love spending time in the wilderness. I make music with my band Scubaphone and any other willing musicians in the near vicinity. I study capoeira with the Mandigueros dos Palmares, led by Mestre Chuvisco, and love playing with any willing capoeiristas in the near vicinity. <br/>
 
-I live by the rule that the surest way to any heart is through the stomach. All food is created equally euphoric, but eggplants and cauliflower are my favorite veggies. <br/>
-
-If you would like to get in touch, please email me at danbeekim at mit.edu.
+If you would like to get in touch, please email me at danbee at alum dot mit dot edu.
