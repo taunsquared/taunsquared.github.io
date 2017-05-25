@@ -2,7 +2,7 @@
 layout: archive
 title: "BrainPlay"
 permalink: /brainplay/
-author_profile: false
+author_profile: true
 ---
 
 
