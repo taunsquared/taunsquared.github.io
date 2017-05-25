@@ -23,13 +23,8 @@ gallery:
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
 ---
-hello
 
-{% include {{ page.header }} %}
-
-this is a test. 
-
-{% include {{ page.excerpt }} %}
+This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the title *'How can we get more brains to study brains?'*
 
 In my research, I seek to understand how the intelligences of different animals are expressed as they navigate the complexities of their real-life environments. My goal is to design experiments that observe and analyze the behavior of freely moving animals as they are exposed to unexpected events. 
 
