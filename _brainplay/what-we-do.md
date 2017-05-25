@@ -9,6 +9,8 @@ categories:
   - EveryMind
 tags:
   - everymind
+header:
+  teaser: "assets/images/lorena_cuttlefish_style_by_javiergpacheco.jpg"
 ---
 
 {% include figure image_path="/assets/images/lorena_cuttlefish_style_by_javiergpacheco.jpg" alt="Lorena Cuttlefish Style by Javier G Pacheco" caption="'Lorena Cuttlefish Style' by Javier G Pacheco" %}
