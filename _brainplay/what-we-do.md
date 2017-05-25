@@ -11,6 +11,8 @@ tags:
   - everymind
 ---
 
+{% include figure image_path="/assets/images/lorena_cuttlefish_style_by_javiergpacheco.jpg" alt="Lorena Cuttlefish Style by Javier G Pacheco" caption="'Lorena Cuttlefish Style' by Javier G Pacheco" %}
+
 In July 2013, my labmate Goncalo and I described the research interests of our lab, the Intelligent Systems Lab, using only the ten hundred most used words in the english language. The idea came from the Up-Goer Five Text Editor, which was inspired by this XKCD comic. 
 
 "We want to know how the brain understands the world. When we look at things, we know what to do with them. We can imagine picking them up, throwing them around, what they feel like, what they sound like. We do not know how to give this power to things that we make. 
