@@ -24,4 +24,4 @@ Then, using the software <a href="https://bitbucket.org/horizongir/bonsai">Bonsa
 
 The insights gained from the first pilot dataset are now informing the next iteration of experimental protocols to study animals' abilities to dynamically adjust their movements to fit a variety of contextual needs. 
 
-{% include video id="PLM8kdf7qFeq_miFWwr6DibjRgxaeYKpSw" provider="youtube" %}
+{% include video id="g4HGWhlV9So?list=PLM8kdf7qFeq_miFWwr6DibjRgxaeYKpSw" provider="youtube" %}
