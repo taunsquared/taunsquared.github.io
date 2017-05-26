@@ -3,7 +3,7 @@ title: "Open Lab Notebook"
 permalink: /open-lab-notebook/
 excerpt: "This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the title 'How can we get more brains to study brains?'"
 header:
-  image: /assets/images/Cuttles.png
+  image: /assets/images/openLabNotebook.jpg
 gallery:
   - url: /open-lab-notebook/movement-control-across-timescales/
     image_path: assets/images/movementControlAcrossTimescales_pilot1.jpg
