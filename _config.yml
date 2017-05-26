@@ -242,7 +242,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
   # _pages
@@ -252,6 +252,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: true
+      share: true
   # _open-lab-notebook
   - scope:
       path: ""
@@ -259,6 +262,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      comments: true
       share: true
       sidebar: 
         nav: "oln"
