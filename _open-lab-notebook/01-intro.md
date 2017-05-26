@@ -9,7 +9,7 @@ tags:
 header:
   image: /assets/images/openLabNotebook.jpg
 gallery:
-  - url: /open-lab-notebook/phd-thesis-proposal-2013/
+  - url: /open-lab-notebook/phd-thesis-proposal/
     image_path: assets/images/ForagingRatVideoFrame_bright.png
     alt: "PhD Thesis Proposal, Oct 30 2013"
   - url: /open-lab-notebook/cuttlefish-hunting-behavior/
