@@ -5,15 +5,20 @@ excerpt: "This page is my primary documentation of my thought processes related 
 header:
   image: /assets/images/openLabNotebook.jpg
 gallery:
-  - url: /open-lab-notebook/movement-control-across-timescales/
-    image_path: assets/images/movementControlAcrossTimescales_pilot1.jpg
-    alt: "Movement Control Across Timescales"
-  - url: /open-lab-notebook/cuttlefish-hunting-behavior/
-    image_path: assets/images/Cuttles.png
-    alt: "Cuttlefish Hunting Behavior"
   - url: /open-lab-notebook/phd-thesis-proposal-2013/
     image_path: assets/images/ForagingRatVideoFrame_bright.png
     alt: "PhD Thesis Proposal, Oct 30 2013"
+  - url: /open-lab-notebook/cuttlefish-hunting-behavior/
+    image_path: assets/images/Cuttles.png
+    alt: "Cuttlefish Hunting Behavior"
+  - url: /open-lab-notebook/movement-control-across-timescales/
+    image_path: assets/images/movementControlAcrossTimescales_pilot1.jpg
+    alt: "Movement Control Across Timescales"
+  - url: /open-lab-notebook/comparative-intelligence-brighton/
+    image_path: /open-lab-notebook/comparative-intelligence-brighton/
+    alt: "Comparative Intelligence, Brighton Sea Life Center"
+sidebar:
+  nav: "oln"
 ---
 
 This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the title *'How can we get more brains to study brains?'*
