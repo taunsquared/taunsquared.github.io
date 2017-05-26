@@ -4,17 +4,16 @@ permalink: /open-lab-notebook/
 excerpt: "This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the title 'How can we get more brains to study brains?'"
 header:
   image: /assets/images/Cuttles.png
-  teaser: /assets/images/DanbeeKim.jpg
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/movementControlAcrossTimescales_pilot1.jpg
+    image_path: assets/images/movementControlAcrossTimescales_pilot1.jpg
+    alt: "Movement Control Across Timescales"
+  - url: /assets/images/Cuttles.png
+    image_path: assets/Cuttles.png
+    alt: "Cuttlefish Hunting Behavior"
+  - url: /assets/images/ForagingRatVideoFrame_bright.png
+    image_path: assets/images/ForagingRatVideoFrame_bright.png
+    alt: "PhD Thesis Proposal, Oct 30 2013"
 ---
 {% include toc %}
 
