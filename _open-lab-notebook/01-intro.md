@@ -15,7 +15,6 @@ gallery:
     image_path: assets/images/ForagingRatVideoFrame_bright.png
     alt: "PhD Thesis Proposal, Oct 30 2013"
 ---
-{% include toc %}
 
 This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the title *'How can we get more brains to study brains?'*
 
