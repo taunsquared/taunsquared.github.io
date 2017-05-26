@@ -2,15 +2,15 @@
 main:
   - title: "Home"
     url: https://taunsquared.github.io/
-  - title: "Open Lab Notebook"
-    url: https://taunsquared.github.io/open-lab-notebook/
-  - title: "BrainPlay"
-    url: https://taunsquared.github.io/brainplay/
-  - title: "Every Mind Online"
-    url: http://www.everymind.online
-  - title: "The Goggle Gallery"
-    url: https://taunsquared.github.io/goggle-gallery/
   - title: "About me" 
     url: https://taunsquared.github.io/about-me/
+  - title: "Open Lab Notebook"
+    url: https://taunsquared.github.io/open-lab-notebook/
+  - title: "Every Mind Online"
+    url: http://www.everymind.online
+  - title: "BrainPlay"
+    url: https://taunsquared.github.io/brainplay/
+  - title: "Galleries"
+    url: https://taunsquared.github.io/galleries/
   # - title: "Sitemap"
   #   url: /sitemap/
