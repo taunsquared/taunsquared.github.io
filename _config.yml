@@ -260,6 +260,8 @@ defaults:
       layout: single
       author_profile: false
       share: true
+      sidebar: 
+        nav: "oln"
 
 # Collections
 collections: 
