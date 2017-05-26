@@ -9,7 +9,7 @@ gallery:
     image_path: assets/images/movementControlAcrossTimescales_pilot1.jpg
     alt: "Movement Control Across Timescales"
   - url: /open-lab-notebook/cuttlefish-hunting-behavior/
-    image_path: assets/Cuttles.png
+    image_path: assets/images/Cuttles.png
     alt: "Cuttlefish Hunting Behavior"
   - url: /open-lab-notebook/phd-thesis-proposal-2013/
     image_path: assets/images/ForagingRatVideoFrame_bright.png
