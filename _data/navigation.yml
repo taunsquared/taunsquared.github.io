@@ -20,11 +20,11 @@ oln:
   - title: "Open Lab Notebook"
     url: /open-lab-notebook/
     children: 
-      - title: "PhD Thesis Proposal, 2013"
+      - title: "PhD Thesis Proposal"
         url: /open-lab-notebook/phd-thesis-proposal-2013/
       - title: "Cuttlefish Hunting Behavior"
         url: /open-lab-notebook/cuttlefish-hunting-behavior/
-      - title: "Movement Control Across Timescales"
+      - title: "Movement Control"
         url: /open-lab-notebook/movement-control-across-timescales/
-      - title: "Comparative Intelligence, Brighton Sea Life Center"
+      - title: "Comparative Intelligence"
         url: /open-lab-notebook/comparative-intelligence-brighton/
