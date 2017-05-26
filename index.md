@@ -12,7 +12,7 @@ feature_row:
     excerpt: "How can we get more brains involved in the study of brains?"
     url: "/open-lab-notebook/"
     btn_label: "Learn More"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/images/20170404_142656.jpg
     alt: "every mind online"
     title: "Everymind.online"
     excerpt: "An online database for the study of surprise in humans, as part of an exhibit about the comparative study of intelligence at the Brighton Sea Life Center, July-August 2017"
