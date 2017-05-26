@@ -38,6 +38,6 @@ Videos of the experimental sessions can be found online here:
 
 * <a href="https://www.youtube.com/playlist?list=PLM8kdf7qFeq-ewYerw0KcYMe-xdBvc5CT">Cropped and Aligned clips used for analysis</a>
 
-The most current draft of my experimental protocol can be found here. 
+[The most current draft of my experimental protocol can be found here.](/assets/files/ExperimentalProtocol_CuttleShuttle_20160620.pdf) 
 
-Here is my poster for the Champalimaud Research 2016 Retreat, which details the analysis done so far on this dataset. 
+Here is [my poster for the Champalimaud Research 2016 Retreat](/assets/files/DanbeeKim_CuttleShuttle_2016.pdf), which details the analysis done so far on this dataset. 
