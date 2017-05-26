@@ -15,7 +15,7 @@ gallery:
     image_path: assets/images/movementControlAcrossTimescales_pilot1.jpg
     alt: "Movement Control Across Timescales"
   - url: /open-lab-notebook/comparative-intelligence-brighton/
-    image_path: /open-lab-notebook/comparative-intelligence-brighton/
+    image_path: /assets/images/BrightonExhibitMockUp.jpg
     alt: "Comparative Intelligence, Brighton Sea Life Center"
 ---
 
