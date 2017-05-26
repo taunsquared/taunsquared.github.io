@@ -21,7 +21,7 @@ oln:
     url: /open-lab-notebook/
     children: 
       - title: "PhD Thesis Proposal"
-        url: /open-lab-notebook/phd-thesis-proposal/
+        url: /open-lab-notebook/phd-proposal/
       - title: "Cuttlefish Hunting Behavior"
         url: /open-lab-notebook/cuttlefish-hunting-behavior/
       - title: "Movement Control"
