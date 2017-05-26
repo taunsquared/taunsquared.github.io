@@ -5,13 +5,13 @@ excerpt: "This page is my primary documentation of my thought processes related 
 header:
   image: /assets/images/Cuttles.png
 gallery:
-  - url: /assets/images/movementControlAcrossTimescales_pilot1.jpg
+  - url: /open-lab-notebook/movement-control-across-timescales/
     image_path: assets/images/movementControlAcrossTimescales_pilot1.jpg
     alt: "Movement Control Across Timescales"
-  - url: /assets/images/Cuttles.png
+  - url: /open-lab-notebook/cuttlefish-hunting-behavior/
     image_path: assets/Cuttles.png
     alt: "Cuttlefish Hunting Behavior"
-  - url: /assets/images/ForagingRatVideoFrame_bright.png
+  - url: /open-lab-notebook/phd-thesis-proposal-2013/
     image_path: assets/images/ForagingRatVideoFrame_bright.png
     alt: "PhD Thesis Proposal, Oct 30 2013"
 ---
