@@ -10,13 +10,13 @@ feature_row:
     alt: "PhD thesis"
     title: "Comparative, Citizen Neuroscience"
     excerpt: "How can we get more brains involved in the study of brains?"
-    url: "/docs/configuration/"
+    url: "/open-lab-notebook/"
     btn_label: "Learn More"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "every mind online"
     title: "Everymind.online"
     excerpt: "An online database for the study of surprise in humans, as part of an exhibit about the comparative study of intelligence at the Brighton Sea Life Center, July-August 2017"
-    url: "everymind.online"
+    url: "http://www.everymind.online"
     btn_label: "Visit Everymind.online"
   - image_path: /assets/images/Minima-Ramiro_effect.jpeg
     alt: "cats!"
