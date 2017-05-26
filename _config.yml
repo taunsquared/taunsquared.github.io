@@ -113,6 +113,7 @@ include:
   - _pages
   - _collections
   - _open-lab-notebook
+  - _brainplay
   - _galleries
 exclude:
   - "*.sublime-project"
