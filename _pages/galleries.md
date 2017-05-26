@@ -8,7 +8,7 @@ author_profile: true
 
 <div class="grid_wrapper">
     {% for image in site.static_files %}
-        {% if image.path contains '_galleries/' %}
+        {% if image.path contains '_galleries/cats' %}
             <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
         {% endif %}
     {% endfor %}
