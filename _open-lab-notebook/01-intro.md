@@ -35,4 +35,4 @@ I'm always open to discussing and improving my understanding and implementation 
 
 Below is documentation of my thesis work, in various stages of polish. More thoughts can be found in "BrainPlay" and "Idea Garden" sections of this website. 
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="Click on an image to learn more about that project." %}
