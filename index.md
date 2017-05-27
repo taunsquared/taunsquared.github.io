@@ -22,7 +22,7 @@ feature_row:
     alt: "cats!"
     title: "Shameless Cat Gallery"
     excerpt: "We all have our familiars. Here are pictures of some of mine. "
-    url: "/galleries/"
+    url: "/galleries/cat-gallery/"
     btn_label: "Go to Cat Gallery"
 ---
 
