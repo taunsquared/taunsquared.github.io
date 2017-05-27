@@ -28,3 +28,13 @@ oln:
         url: /open-lab-notebook/movement-control-across-timescales/
       - title: "Comparative Intelligence"
         url: /open-lab-notebook/comparative-intelligence-brighton/
+
+# galleries
+galleries: 
+  - title: "Galleries"
+    url: /galleries/
+    children: 
+      - title: "Cats!"
+        url: /galleries/cat-gallery/
+      - title: "Goggle me!"
+        url: /galleries/goggles/
