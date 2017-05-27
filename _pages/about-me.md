@@ -13,3 +13,5 @@ I am part of the Intelligent Systems Lab, headquartered in London, UK at the Sai
 I spend a lot of time thinking about permaculture, anarchy, circus, and education. I love spending time in the wilderness, especially by the sea. I've co-written an original musical called <a href="https://hackpunttool.com/">Hack, Punt, Tool</a> (you can watch the <a href="https://youtu.be/IPpqXyo4jhM">2017 production on YouTube</a>). I'm a member of the band <a href="http://www.scubaphone.org/">Scubaphone</a> and the capoeira group <a href="http://www.mestrechuvisco.com/site/">Mandingueiros dos Palmares, led by Mestre Chuvisco</a>. <br/>
 
 If you would like to get in touch, please email me at danbee at alum dot mit dot edu.
+
+You can also [check out my resume here](/assets/files/DanbeeKim_cv_20170527.pdf). 
