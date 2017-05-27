@@ -6,10 +6,8 @@ author_profile: true
 ---
 
 
-<div class="grid_wrapper">
-    {% for image in site.static_files %}
-        {% if image.path contains 'images/catGallery' %}
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
-        {% endif %}
-    {% endfor %}
+<div class="grid__wrapper">
+  {% for post in site.galleries %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
 </div>
