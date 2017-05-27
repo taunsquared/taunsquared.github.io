@@ -268,6 +268,17 @@ defaults:
       share: true
       sidebar: 
         nav: "oln"
+  # _galleries
+  - scope:
+      path: ""
+      type: gallery
+    values:
+      layout: single
+      author_profile: false
+      comments: true
+      share: true
+      sidebar: 
+        nav: "gallery"
 
 # Collections
 collections: 
