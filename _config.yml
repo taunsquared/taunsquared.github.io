@@ -278,7 +278,7 @@ defaults:
       comments: true
       share: true
       sidebar: 
-        nav: "gallery"
+        nav: "galleries"
 
 # Collections
 collections: 
