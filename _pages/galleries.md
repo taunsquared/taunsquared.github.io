@@ -13,3 +13,7 @@ gallery:
     alt: "placeholder image 2"
     title: "Image 2 title caption"
 ---
+
+Below are some collections of photography. Unless credited to others in the caption, all photos were taken by me. 
+
+{% include gallery caption="Click on an image to see more photos from that collection!" %}
