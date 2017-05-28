@@ -35,6 +35,6 @@ galleries:
     url: /galleries/
     children: 
       - title: "Cats!"
-        url: /galleries/cat-gallery/
-      - title: "Goggle me!"
+        url: /galleries/cats/
+      - title: "Goggle Gallery"
         url: /galleries/goggles/
