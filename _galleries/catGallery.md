@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Cats!"
-permalink: /galleries/cat-gallery/
+permalink: /galleries/cats/
 excerpt: "Feline companions"
 comments: true
 categories:
