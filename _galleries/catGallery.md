@@ -5,7 +5,7 @@ permalink: /galleries/cats/
 excerpt: "Feline companions"
 comments: true
 categories:
-  - gallery
+  - galleries
 tags:
   - cats
 header:
