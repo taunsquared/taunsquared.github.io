@@ -14,4 +14,4 @@ I spend a lot of time thinking about permaculture, anarchy, circus, and educatio
 
 If you would like to get in touch, please email me at danbee at alum dot mit dot edu.
 
-[CV](/assets/files/DanbeeKim_cv_20170527.pdf). 
+[Curriculum Vitae](/assets/files/DanbeeKim_cv_20170527.pdf)
