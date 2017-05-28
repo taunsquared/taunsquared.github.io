@@ -1,9 +1,10 @@
 ---
-layout: archive
 title: "Galleries"
 permalink: /galleries/
 categories: 
   - galleries
+tags:
+  - photos
 gallery:
   - url: /galleries/cats
     image_path: /assets/images/catGallery/20160129_085836.jpg
