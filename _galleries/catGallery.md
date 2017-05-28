@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Cats!"
 permalink: /galleries/cats/
 excerpt: "Feline companions"
