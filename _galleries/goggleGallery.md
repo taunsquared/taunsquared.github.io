@@ -5,7 +5,7 @@ permalink: /galleries/goggles/
 excerpt: "People all over the world wearing my goggles"
 comments: true
 categories:
-  - gallery
+  - galleries
 tags:
   - goggles
 header:
