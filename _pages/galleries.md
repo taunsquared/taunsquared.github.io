@@ -2,7 +2,8 @@
 layout: archive
 title: "Galleries"
 permalink: /galleries/
-author_profile: true
+categories: 
+  - galleries
 gallery:
   - url: /galleries/cats
     image_path: /assets/images/catGallery/20160129_085836.jpg
