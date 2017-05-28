@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Goggles"
 permalink: /galleries/goggles/
 excerpt: "People all over the world wearing my goggles"
