@@ -3,7 +3,7 @@ title: "Cats!"
 permalink: /galleries/cats/
 excerpt: "Feline companions"
 categories:
-  - galleries
+  - photos
 tags:
   - cats
 header:
