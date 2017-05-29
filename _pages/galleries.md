@@ -2,7 +2,7 @@
 title: "Galleries"
 permalink: /galleries/
 categories: 
-  - galleries
+  - photos
 tags:
   - photos
 gallery:
@@ -13,7 +13,7 @@ gallery:
   - url: /galleries/goggles
     image_path: /assets/images/goggles/10-10-2012_dinner_01.jpg
     alt: "Goggle Gallery"
-    title: "Goggle Gallery  "
+    title: "Goggle Gallery"
 ---
 
 Below are some collections of photography. Unless credited to others in the caption, all photos were taken by me. Enjoy!
