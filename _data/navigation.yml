@@ -30,7 +30,7 @@ oln:
         url: /open-lab-notebook/comparative-intelligence-brighton/
 
 # galleries
-galleries: 
+photos: 
   - title: "Galleries"
     url: /galleries/
     children: 
