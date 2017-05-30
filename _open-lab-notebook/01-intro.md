@@ -7,19 +7,19 @@ categories:
 tags:
   - research
 header:
-  image: /assets/images/openLabNotebook.jpg
+  image: /assets/images/openLabNotebook/openLabNotebook.jpg
 gallery:
   - url: /open-lab-notebook/phd-proposal/
-    image_path: assets/images/ForagingRatVideoFrame_bright.png
+    image_path: assets/images/openLabNotebook/ForagingRatVideoFrame_bright.png
     alt: "PhD Thesis Proposal, Oct 30 2013"
   - url: /open-lab-notebook/cuttlefish-hunting-behavior/
-    image_path: assets/images/Cuttles.png
+    image_path: assets/images/openLabNotebook/Cuttles.png
     alt: "Cuttlefish Hunting Behavior"
   - url: /open-lab-notebook/movement-control-across-timescales/
-    image_path: assets/images/movementControlAcrossTimescales_pilot1.jpg
+    image_path: assets/images/openLabNotebook/movementControlAcrossTimescales_pilot1.jpg
     alt: "Movement Control Across Timescales"
   - url: /open-lab-notebook/comparative-intelligence-brighton/
-    image_path: /assets/images/BrightonExhibitMockUp.jpg
+    image_path: /assets/images/openLabNotebook/BrightonExhibitMockUp.jpg
     alt: "Comparative Intelligence, Brighton Sea Life Center"
 ---
 

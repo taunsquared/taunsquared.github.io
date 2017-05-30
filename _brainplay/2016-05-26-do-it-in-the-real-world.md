@@ -11,7 +11,7 @@ tags:
   - scubaphone
   - lyrics
 header:
-  teaser: "assets/images/Lushlife-Magnolia-video.jpg"
+  teaser: "assets/images/brainPlay/Lushlife-Magnolia-video.jpg"
   video:
     id: 52258194
     provider: vimeo
