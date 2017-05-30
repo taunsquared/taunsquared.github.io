@@ -39,3 +39,6 @@ In January 2011, I co-directed MIT's Musical Theater Guild production of Jekyll 
 
 {% include figure image_path="/assets/images/goggles/20150121_091141_interislandFerrySelfie.jpg" alt="goggles, 2015/01/21" caption="Cook Strait, New Zealand; 2015" %}
 
+{% include figure image_path="/assets/images/goggles/20150128_165136.jpg" alt="goggles, 2015/01/28" caption="Aoraki, New Zealand; 2015" %}
+
+
