@@ -16,6 +16,7 @@ gallery:
     title: "Goggle Gallery"
 ---
 
-Below are some collections of photography. Unless credited to others in the caption, all photos were taken by me. Enjoy!
+Below are some collections of photography. <br/>
+Unless credited to others in the caption, all photos were taken by me. Enjoy!
 
 {% include gallery caption="Click on an image to see more photos from that collection!" %}
