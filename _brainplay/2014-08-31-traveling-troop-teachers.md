@@ -26,7 +26,7 @@ The third goal is to prioritize disadvantaged inner-city school districts in maj
 
 Why these three goals?
 
-Educators, scientists, professionals, and parents have pointed out the outdated and under-serving nature of the current public education system for decades without seeing any significant structural changes to the public education system since the 1950s. "Things have changed, but not in education - why? Why is it that when we had rotary phones, whene we were having folks crippled by polio, that we were teaching the same way then taht we're doing right now?" (["Our failing schools. Enough is enough!" 2013 TED talk by Geoffrey Canada](https://www.ted.com/talks/geoffrey_canada_our_failing_schools_enough_is_enough)). 
+Educators, scientists, professionals, and parents have pointed out the outdated and under-serving nature of the current public education system for decades without seeing any significant structural changes to the public education system since the 1950s. "Things have changed, but not in education - why? Why is it that when we had rotary phones, whene we were having folks crippled by polio, that we were teaching the same way then taht we're doing right now?" (["Our failing schools. Enough is enough!" 2013 TED talk by Geoffrey Canada](http://www.ted.com/talks/geoffrey_canada_our_failing_schools_enough_is_enough)). 
 
 {% include video id="mABIBvhsgQ4" provider="youtube" %}
 
