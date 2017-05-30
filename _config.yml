@@ -270,7 +270,7 @@ defaults:
   # _galleries
   - scope:
       path: ""
-      type: galleries
+      type: photos
     values:
       layout: single
       author_profile: false
