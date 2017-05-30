@@ -113,7 +113,7 @@ include:
   - _pages
   - _open-lab-notebook
   - _brainplay
-  - _galleries
+  - _photos
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -267,7 +267,7 @@ defaults:
       share: true
       sidebar: 
         nav: "oln"
-  # _galleries
+  # _photos
   - scope:
       path: ""
       type: photos
@@ -290,7 +290,7 @@ collections:
   idea-garden: 
     output: true
     permalink: /:collection/:path/
-  galleries: 
+  photos: 
     output: true
     permalink: /:collection/:path/
 
