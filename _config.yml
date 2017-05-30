@@ -290,7 +290,7 @@ collections:
   idea-garden: 
     output: true
     permalink: /:collection/:path/
-  goggle-gallery: 
+  galleries: 
     output: true
     permalink: /:collection/:path/
 
