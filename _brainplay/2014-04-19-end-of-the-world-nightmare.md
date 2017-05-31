@@ -5,7 +5,7 @@ permalink: /brainplay/end-of-the-world-nightmare/
 excerpt: 
 comments: true
 categories:
-  - BrainPlay
+  - brainplay
   - dreams
 tags:
   - nightmare
