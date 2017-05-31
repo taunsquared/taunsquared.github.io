@@ -5,7 +5,7 @@ permalink: /brainplay/do-it-in-the-real-world/
 excerpt: 
 comments: true
 categories:
-  - BrainPlay
+  - brainplay
   - SongSnippets
 tags:
   - scubaphone
