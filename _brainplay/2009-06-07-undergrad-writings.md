@@ -5,7 +5,7 @@ permalink: /brainplay/old-writings/
 excerpt: "Some old writings from the MIT Admissions Blog and The Tech"
 comments: true
 categories:
-  - BrainPlay
+  - brainplay
 tags:
   - MIT
   - admissions blog
