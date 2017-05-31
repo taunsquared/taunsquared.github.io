@@ -278,6 +278,17 @@ defaults:
       share: true
       sidebar: 
         nav: "photos"
+   # _brainplay
+  - scope:
+      path: ""
+      type: brainplay
+    values:
+      layout: single
+      author_profile: false
+      comments: true
+      share: true
+      sidebar: 
+        nav: "brainplay"
 
 # Collections
 collections: 
