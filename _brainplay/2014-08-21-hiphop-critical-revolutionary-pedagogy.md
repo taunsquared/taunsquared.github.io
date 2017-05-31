@@ -5,7 +5,7 @@ permalink: /brainplay/hiphop-critical-revolutionary-pedagogy/
 excerpt: "Blue Scholarship to Challenge 'The Miseducation of the Filipino'"
 comments: true
 categories:
-  - BrainPlay
+  - brainplay
 tags:
   - Blue Scholars
   - hiphop
