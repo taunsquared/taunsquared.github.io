@@ -45,16 +45,16 @@ brainplay:
     url: /brainplay/ 
     children: 
       - title: "Writings from Undergrad"
-      url: /brainplay/old-writings/
+        url: /brainplay/old-writings/
       - title: "What We Do"
-      url: /brainplay/what-we-do/
+        url: /brainplay/what-we-do/
       - title: "nightmare"
-      url: /brainplay/end-of-the-world-nightmare/
+        url: /brainplay/end-of-the-world-nightmare/
       - title: "Critical Revolutionary Pedagogy"
-      url: /brainplay/hiphop-critical-revolutionary-pedagogy/
+        url: /brainplay/hiphop-critical-revolutionary-pedagogy/
       - title: "Traveling Troop of Teachers"
-      url: /brainplay/traveling-teachers/
+        url: /brainplay/traveling-teachers/
       - title: "do it in the real world"
-      url: /brainplay/do-it-in-the-real-world/
+        url: /brainplay/do-it-in-the-real-world/
     
     
