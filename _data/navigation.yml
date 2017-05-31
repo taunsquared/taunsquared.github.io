@@ -43,7 +43,7 @@ photos:
 brainplay:
   - title: "BrainPlay"
     url: /brainplay/ 
-    children
+    children: 
       - title: "Writings from Undergrad"
       url: /brainplay/old-writings/
       - title: "What We Do"
