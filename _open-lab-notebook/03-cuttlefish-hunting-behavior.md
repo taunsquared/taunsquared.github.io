@@ -40,4 +40,8 @@ Videos of the experimental sessions can be found online here:
 
 The most current draft of my [experimental protocol](/assets/files/ExperimentalProtocol_CuttleShuttle_20160620.pdf) can be found here.
 
-Here is [my poster for the Champalimaud Research 2016 Retreat](/assets/files/DanbeeKim_CuttleShuttle_2016.pdf), which details the analysis done so far on this dataset. 
+Below are posters describing the analysis done so far on this dataset:
+
+* [Champalimaud Research 2015 Retreat](/assets/images/DanbeeKim_poster_CCUretreat2015.jpg)
+
+* [Champalimaud Research 2016 Retreat](/assets/files/DanbeeKim_CuttleShuttle_2016.pdf)
