@@ -16,8 +16,8 @@ If you would like to get in touch, please email me at danbee at alum dot mit dot
 
 [Curriculum Vitae](/assets/files/DanbeeKim_cv_20170527.pdf)
 
-<figure>
-  <img src="/assets/images/NOLS_WM_BADGE_CREDENTIAL-WFR.png" width="200" alt="Wilderness First Responder Badge from NOLS Wilderness Medicine">
+<figure style="width: 150px" class="align-left">
+  <img src="/assets/images/NOLS_WM_BADGE_WFR.png" alt="Wilderness First Responder Badge from NOLS Wilderness Medicine">
   <figcaption><a href="https://www.nols.edu/en/courses/courses/wilderness-first-responder-WFR/">Wilderness First Medicine certified</a></figcaption>
 </figure>
 
