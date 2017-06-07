@@ -236,7 +236,7 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _scribbles
   - scope:
       path: ""
       type: posts
@@ -302,6 +302,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   photos: 
+    output: true
+    permalink: /:collection/:path/
+  scribbles: 
     output: true
     permalink: /:collection/:path/
 
