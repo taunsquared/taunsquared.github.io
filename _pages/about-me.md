@@ -18,7 +18,7 @@ If you would like to get in touch, please email me at danbee at alum dot mit dot
 
 <figure>
   <img src="/assets/images/NOLS_WM_BADGE_CREDENTIAL-WFR.png" alt="Wilderness First Responder Badge from NOLS Wilderness Medicine">
-  <figcaption>Wilderness First Medicine certified</figcaption>
+  <figcaption><a href="https://www.nols.edu/en/courses/courses/wilderness-first-responder-WFR/">Wilderness First Medicine certified</a></figcaption>
 </figure>
 
 
