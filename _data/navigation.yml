@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Home"
-    url: https://taunsquared.github.io/
   - title: "About me" 
     url: https://taunsquared.github.io/about-me/
   - title: "Open Lab Notebook"
