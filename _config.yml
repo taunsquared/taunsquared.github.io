@@ -114,6 +114,7 @@ include:
   - _open-lab-notebook
   - _brainplay
   - _photos
+  - _scribbles
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
