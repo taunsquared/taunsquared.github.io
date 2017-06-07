@@ -5,15 +5,6 @@ permalink: /brainplay/
 author_profile: true
 ---
 
-
-<div class="grid__wrapper">
-  {% for post in site.brainplay %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>
-
-## Posts by Year
-
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
