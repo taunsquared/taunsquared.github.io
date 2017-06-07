@@ -6,6 +6,8 @@ main:
     url: https://taunsquared.github.io/open-lab-notebook/
   - title: "BrainPlay"
     url: https://taunsquared.github.io/brainplay/
+  - title: "scribbles"
+    url: https://taunsquared.github.io/scribbles/
   - title: "Galleries"
     url: https://taunsquared.github.io/galleries/
   # - title: "Sitemap"
