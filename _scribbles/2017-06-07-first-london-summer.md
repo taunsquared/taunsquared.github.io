@@ -1,6 +1,6 @@
 ---
 title: "My First London Summer"
-excerpt_separator: "<!--more-->"
+excerpt: "The weather here is not what I expected."
 categories:
   - London
   - summer
