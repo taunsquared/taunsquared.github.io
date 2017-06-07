@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "My First London Summer"
 excerpt: "The weather here is not what I expected."
 categories:
