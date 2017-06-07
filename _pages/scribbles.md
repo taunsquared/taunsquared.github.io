@@ -1,11 +1,11 @@
 ---
 layout: archive
 permalink: /scribbles/
-title: "Scribbles"
+title: "scribbles"
 author_profile: true
 ---
 
-I want to write more, draw more, and take more photos. For now, I'll try to post something here at least once a week. 
+I want to write more, draw more, take more photos. For now, I'll try to post something here at least once a week. 
 
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.scribbles %}
