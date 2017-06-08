@@ -28,7 +28,9 @@ This page is my primary documentation of my thought processes related to my PhD 
 
 In my research, I want to know how brains understand the world, and how we are robust and flexible enough to deal with unexpected situations. My goal is to design experiments that observe the behavior of freely moving animals, and to develop a framework for testing hypotheses about natural behaviours. 
 
-## Key ideas that shape my research pursuits include: 
+## Key ideas 
+
+Key ideas that shape my research pursuits include: 
 
 * **Movement is thought**: Movement is fundamental to the workings of the brain. It is clear from an evolutionary perspective that nervous systems developed as a tool for navigating unknown, complex environments. In turn, nervous systems adapt and change in response to the environments with which they interact, including the bodies through which this interaction is implemented; thus, cognition emerges from the interplay between brains, bodies, and the world. Taking all three into account is essential to understanding movement and thought, and until now technical difficulties have created a trend to ignore this fundamental relationship. 
 
@@ -40,6 +42,8 @@ In my research, I want to know how brains understand the world, and how we are r
 
 I'm always open to discussing and improving my understanding and implementation of these ideas. 
 
-## Below is documentation of my thesis work, in various stages of polish. More thoughts can be found in the "BrainPlay" section of this website. 
+## Projects
+
+Below is documentation of my thesis work, in various stages of polish. More thoughts can be found in the "BrainPlay" section of this website. 
 
 {% include gallery caption="Click on an image to learn more about that project." %}
