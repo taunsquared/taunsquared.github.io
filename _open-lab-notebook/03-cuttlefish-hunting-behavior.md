@@ -7,7 +7,7 @@ categories:
 tags:
   - cuttlefish
   - behavioral neuroscience
-  - Woods Hole, USA
+  - Woods Hole USA
 header:
   teaser: /assets/images/openLabNotebook/Cuttles.png
 ---
