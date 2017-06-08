@@ -5,7 +5,7 @@ excerpt:
 header:
   teaser: /assets/images/openLabNotebook/movementControlAcrossTimescales_pilot1.jpg
 ---
-{% include toc %}
+{% include toc title="Movement Control" %}
 
 ## Moving at different timescales
 
