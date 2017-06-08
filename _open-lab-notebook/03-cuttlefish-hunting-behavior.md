@@ -11,7 +11,7 @@ tags:
 header:
   teaser: /assets/images/openLabNotebook/Cuttles.png
 ---
-{% include toc %}
+{% include toc title="The Cuttle Shuttle" %}
 
 From February 2014 to February 2015, I worked in collaboration with the Marine Biology Lab at Woods Hole, USA, to study the behavior of cuttlefish, an invertebrate marine animal related to octopus and squid. The experiments I conducted there are a part of a series of experiments in the Intelligent Systems Lab that ask animals of different species (rats, cuttlefish, humans) to solve open-ended movement challenges. 
 
