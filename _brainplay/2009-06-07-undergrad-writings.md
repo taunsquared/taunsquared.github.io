@@ -1,7 +1,5 @@
 ---
-layout: single
 title: "Writings from Undergrad"
-permalink: /brainplay/old-writings/
 excerpt: "Some old writings from the MIT Admissions Blog and The Tech"
 categories:
   - brainplay
