@@ -1,9 +1,6 @@
 ---
-layout: single
 title: "Do it in the real world"
-permalink: /brainplay/do-it-in-the-real-world/
-excerpt: 
-comments: true
+excerpt: "let's connect it back to places real"
 categories:
   - brainplay
   - SongSnippets
