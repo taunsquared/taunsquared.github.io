@@ -1,9 +1,6 @@
 ---
-layout: single
 title: "end of the world nightmare"
-permalink: /brainplay/end-of-the-world-nightmare/
-excerpt: 
-comments: true
+excerpt: "a lingering taste of loneliness and regret"
 categories:
   - brainplay
   - dreams
