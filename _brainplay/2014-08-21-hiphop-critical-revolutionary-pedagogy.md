@@ -1,9 +1,6 @@
 ---
-layout: single
 title: "Hiphop and Critical Revolutionary Pedagogy"
-permalink: /brainplay/hiphop-critical-revolutionary-pedagogy/
 excerpt: "Blue Scholarship to Challenge 'The Miseducation of the Filipino'"
-comments: true
 categories:
   - brainplay
 tags:
