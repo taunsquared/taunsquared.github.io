@@ -22,14 +22,15 @@ gallery:
     image_path: /assets/images/openLabNotebook/BrightonExhibitMockUp.jpg
     alt: "Comparative Intelligence, Brighton Sea Life Center"
 ---
+{% include toc %}
 
 This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the title *'How can we get more brains to study brains?'*
 
-In my research, I seek to understand how the intelligences of different animals are expressed as they navigate the complexities of their real-life environments. My goal is to design experiments that observe and analyze the behavior of freely moving animals as they are exposed to unexpected events. 
+In my research, I want to know how brains understand the world, and how we are robust and flexible enough to deal with unexpected situations. My goal is to design experiments that observe the behavior of freely moving animals, and to develop a framework for testing hypotheses about natural behaviours. 
 
-Key ideas that shape my research pursuits include: 
+## Key ideas that shape my research pursuits include: 
 
-* **Movement is thought**: Movement is fundamental to the workings of the brain. It is clear from an evolutionary perspective that nervous systems developed as a tool for navigating unknown, complex environments. In turn, nervous systems adapt and change in response to the environments with which they interact, including the bodies through which this interaction is implemented; thus, cognition emerges from the interplay between brains, bodies, and the world. Taking all three into account is essential to understanding movement and thought, but this is often difficult, and such difficulties have created a trend to ignore this fundamental relationship. 
+* **Movement is thought**: Movement is fundamental to the workings of the brain. It is clear from an evolutionary perspective that nervous systems developed as a tool for navigating unknown, complex environments. In turn, nervous systems adapt and change in response to the environments with which they interact, including the bodies through which this interaction is implemented; thus, cognition emerges from the interplay between brains, bodies, and the world. Taking all three into account is essential to understanding movement and thought, and until now technical difficulties have created a trend to ignore this fundamental relationship. 
 
 * **Empathetic animal research**: Neuroscience research has made us increasingly aware of both the influence of the environment on the brain, and the intimate similarities between human nervous systems and the nervous systems of other animals. The basic fundaments of biology also tell us that all living things are made from the same alphabet of five letters (A, T, G, C, U). We are starting to find that even in invertebrate animals exist abilities and processes that we once thought were only possible with a vertebrate nervous system. I want to engender and practice deep respect for all living systems in my pursuit of greater understanding. As a starting point, I do not use any research methodology that we do not currently find ethical to use in humans. I am constanly seeking collaborations to develop tools and methodologies that enable scientifically powerful observations of freely moving animals living in nurturing habitats. 
 
@@ -39,6 +40,6 @@ Key ideas that shape my research pursuits include:
 
 I'm always open to discussing and improving my understanding and implementation of these ideas. 
 
-Below is documentation of my thesis work, in various stages of polish. More thoughts can be found in the "BrainPlay" section of this website. 
+## Below is documentation of my thesis work, in various stages of polish. More thoughts can be found in the "BrainPlay" section of this website. 
 
 {% include gallery caption="Click on an image to learn more about that project." %}
