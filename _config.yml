@@ -237,10 +237,10 @@ compress_html:
 
 # Defaults
 defaults:
-  # _scribbles
+  # _posts
   - scope:
       path: ""
-      type: scribbles
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -296,16 +296,7 @@ collections:
   open-lab-notebook: 
     output: true
     permalink: /:collection/:path/
-  brainplay: 
-    output: true
-    permalink: /:collection/:path/
-  idea-garden: 
-    output: true
-    permalink: /:collection/:path/
   photos: 
-    output: true
-    permalink: /:collection/:path/
-  scribbles: 
     output: true
     permalink: /:collection/:path/
 
