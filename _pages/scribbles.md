@@ -5,7 +5,7 @@ title: "scribbles"
 author_profile: true
 ---
 
-I want to write more, draw more, take more photos. For now, I'll try to post something here at least once a week. 
+Bits of this and that. 
 
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
