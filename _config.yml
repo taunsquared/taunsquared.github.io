@@ -296,6 +296,9 @@ collections:
   open-lab-notebook: 
     output: true
     permalink: /:collection/:path/
+  brainplay: 
+    output: true
+    permalink: /:collection/:path/
   photos: 
     output: true
     permalink: /:collection/:path/
