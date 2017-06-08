@@ -1,9 +1,6 @@
 ---
-layout: single
 title: "The Traveling Troop of Teachers"
-permalink: /brainplay/traveling-teachers/
 excerpt: "Mostly a thinly-veiled rant about public education and teaching as an occupation in the US"
-comments: true
 categories:
   - brainplay
 tags:
