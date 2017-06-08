@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Little Birds"
 excerpt: "A little flock of birds live in a walking structure"
 categories:
