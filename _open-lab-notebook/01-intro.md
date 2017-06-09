@@ -7,7 +7,7 @@ categories:
 tags:
   - research
 header:
-  image: /assets/images/openLabNotebook/openLabNotebook.jpg
+  image: /assets/images/openLabNotebook/OpenLabNotebook_header.png
 gallery:
   - url: /open-lab-notebook/phd-proposal/
     image_path: assets/images/openLabNotebook/ForagingRatVideoFrame_bright.png
