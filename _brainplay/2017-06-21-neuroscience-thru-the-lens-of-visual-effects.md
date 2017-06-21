@@ -1,6 +1,6 @@
 ---
 title: "Neuroscience Thru the Lens of Visual Effects"
-excerpt: "let's connect it back to places real"
+excerpt: "My personal opinion is the special sauce is something that creates a personal connection between the CGI and the viewer.  Something that touches a nerve."
 categories:
   - brainplay
 tags:
