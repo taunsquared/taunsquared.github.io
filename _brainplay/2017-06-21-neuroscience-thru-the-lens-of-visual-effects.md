@@ -20,8 +20,8 @@ If the algorithms get us 70% of the way to our aim, then the remaining 40% has t
 
 That 40% is achieved by humans comparing the CGI on their computer monitor in front of them, with either:
 
-    a photograph of a real thing
-    an image in their mind's eye, based on their life experiences and memories
+a photograph of a real thing <br/>
+an image in their mind's eye, based on their life experiences and memories
 
 For example, imagine we are making a CGI house.  We use algorithms to define the shape of the house, the way light reflects from its roof tiles and bricks into the camera, the way ivy grows up its walls, the colour of the dirt on its windows.  That gets us 70% to our aim.
 
