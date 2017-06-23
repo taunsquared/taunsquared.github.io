@@ -5,7 +5,8 @@ categories:
   - brainplay
 tags:
   - neuroscience
-  - cross-pollination
+  - thru the lens series
+  - visual effects
 ---
 
 "To get this started, let me outline the work we do in the visual effects industry.
