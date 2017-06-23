@@ -2,7 +2,7 @@
 title: "Little Birds"
 excerpt: "A little flock of birds live in a walking structure"
 categories:
-  - scribbles
+  - song snippets
 tags:
   - lyrics
   - Woven
