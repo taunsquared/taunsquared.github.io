@@ -2,10 +2,9 @@
 title: "Neuroscience Thru the Lens of Visual Effects"
 excerpt: " 'My personal opinion is the special sauce is something that creates a personal connection between the CGI and the viewer.  Something that touches a nerve.' --Matthew Smith"
 categories:
-  - brainplay
+  - thru the lens
 tags:
   - neuroscience
-  - thru the lens series
   - visual effects
 ---
 
