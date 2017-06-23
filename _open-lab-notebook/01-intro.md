@@ -26,7 +26,17 @@ gallery:
 
 This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the title *'How can we get more brains to study brains?'*
 
-In my research, I want to know how brains understand the world, and how we are robust and flexible enough to deal with unexpected situations. My goal is to design experiments that observe the behavior of freely moving animals, and to develop a framework for testing hypotheses about natural behaviours. 
+In my research, I want to know how brains understand the world, and how we are robust and flexible enough to deal with unexpected situations. My goals are: 
+
+* to build a culture of collaboration and transparency in neuroscience; 
+
+* to engage young people in questioning the status quo, both in and out of science; 
+
+* to develop a theoretical framework for testing hypothesis about the general principles of intelligence, as applied to natural behaviours;
+
+* to establish a descriptive vocabulary for functions and aspects of the mind, in order to connect the activity of nervous cells to the behaviours and experiences of organisms and societies; and
+
+* to characterise the differences in the behaviours of laboratory-raised animals versus wild animals.
 
 ## Key ideas 
 
