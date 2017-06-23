@@ -2,7 +2,7 @@
 title: "The Traveling Troop of Teachers"
 excerpt: "Mostly a thinly-veiled rant about public education and teaching as an occupation in the US"
 categories:
-  - brainplay
+  - projects
 tags:
   - education
   - teaching
