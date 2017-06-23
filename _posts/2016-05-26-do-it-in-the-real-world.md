@@ -2,7 +2,7 @@
 title: "Do it in the real world"
 excerpt: "let's connect it back to places real"
 categories:
-  - brainplay
+  - scribbles
   - SongSnippets
 tags:
   - scubaphone
