@@ -43,18 +43,12 @@ brainplay:
     url: /brainplay/ 
     children: 
       - title: "Writings from Undergrad"
-        url: /brainplay/old-writings/
+        url: /brainplay/2009-06-07-undergrad-writings/
       - title: "What We Do"
-        url: /brainplay/what-we-do/
-      - title: "nightmare"
-        url: /brainplay/end-of-the-world-nightmare/
+        url: /brainplay/2013-07-01-what-we-do/
       - title: "Critical Revolutionary Pedagogy"
-        url: /brainplay/hiphop-critical-revolutionary-pedagogy/
-      - title: "Traveling Troop of Teachers"
-        url: /brainplay/traveling-teachers/
-      - title: "do it in the real world"
-        url: /brainplay/do-it-in-the-real-world/
+        url: /brainplay/2014-08-21-hiphop-critical-revolutionary-pedagogy/
       - title: "Thru the lens of Visual Effects"
-        url: /brainplay/thru-the-lens-of-visual-effects/
+        url: /brainplay/2017-06-21-thru-the-lens-of-visual-effects/
     
     
