@@ -46,4 +46,4 @@ My personal opinion is the special sauce is something that creates a personal co
 
 Does that make any sense? :)"
  
-*Many thanks to Matthew Smith for this delightful piece 
+_Many thanks to Matthew Smith for this delightful piece_
