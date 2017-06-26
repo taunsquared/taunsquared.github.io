@@ -47,10 +47,9 @@ Does that make any sense? :)"
  
 _Many thanks to Matthew Smith from [Double Negative Visual Effects](http://dneg.com/home/showreel/)_
 
->> A bit more about Matthew: 
 
->> Outside of VFX, I have an interest in understanding the world around us, and how people interact with it.  I don't have any formal education in any science.  But I do have some experience, both personal and indirect, of what happens to people when their understanding of the world, and their interaction with it, is flawed.  
-
->> My hero is Leonardo da Vinci.  I have some interest in Buddhism.
-
->> My ultimate aim is to build some solid framework that can help people understand more accurately the world around them.  I intend to get there by using the principles of observation of the natural world, reasoning, and testing, that Leonardo used.
+A bit more about Matthew: <br/>
+Outside of VFX, I have an interest in understanding the world around us, and how people interact with it.  I don't have any formal education in any science.  But I do have some experience, both personal and indirect, of what happens to people when their understanding of the world, and their interaction with it, is flawed. <br/>
+My hero is Leonardo da Vinci.  I have some interest in Buddhism. <br/>
+My ultimate aim is to build some solid framework that can help people understand more accurately the world around them.  I intend to get there by using the principles of observation of the natural world, reasoning, and testing, that Leonardo used.
+{: style="color:gray; font-size: 80%; text-align: center;"}
