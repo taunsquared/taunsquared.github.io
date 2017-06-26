@@ -32,11 +32,9 @@ In my research, I want to know how brains understand the world, and how we are r
 
 * to engage young people in questioning the status quo, both in and out of science; 
 
-* to develop a theoretical framework for testing hypothesis about the general principles of intelligence, as applied to natural behaviours;
+* to develop a theoretical framework for testing hypotheses about the general principles of intelligence (as opposed to how intelligence is specifically implemented in humans), as applied to natural behaviours; and
 
-* to establish a descriptive vocabulary for functions and aspects of the mind, in order to connect the activity of nervous cells to the behaviours and experiences of organisms and societies; and
-
-* to characterise the differences in the behaviours of laboratory-raised animals versus wild animals.
+* to establish a descriptive vocabulary for functions and aspects of the mind, in order to connect the activity of nervous cells to our life experiences.
 
 ## Key ideas 
 
