@@ -38,7 +38,7 @@ In my research, I want to know how brains understand the world, and how we are r
 
 ## Key ideas 
 
-Key ideas that shape my research pursuits include: 
+Below are some key ideas that shape my research pursuits. I'm always open to discussing and improving my understanding and implementation of these ideas.  
 
 * **Movement is thought**: Movement is fundamental to the workings of the brain. It is clear from an evolutionary perspective that nervous systems developed as a tool for navigating unknown, complex environments. In turn, nervous systems adapt and change in response to the environments with which they interact, including the bodies through which this interaction is implemented; thus, cognition emerges from the interplay between brains, bodies, and the world. Taking all three into account is essential to understanding movement and thought, and until now technical difficulties have created a trend to ignore this fundamental relationship. 
 
@@ -48,7 +48,30 @@ Key ideas that shape my research pursuits include:
 
 * **Open and cooperative research**: Discussion and collaboration are essential for investigating complex scientific questions. Researchers need safe spaces to make mistakes, report negative results, try radical new approaches, and pursue questions challenging the status quo. Transparent and universally accessible research motivates more meticulous documentation, greater trust between professional science and the general public, and increased cross-pollination of ideas and advances between fields. I seek to support an open science community by using open source technologies and publishing platforms, and by building bridges between science, engineering, humanities, and the arts. 
 
-I'm always open to discussing and improving my understanding and implementation of these ideas. 
+### History of Science
+
+**Without understanding where we've been, we cannot understand how to act in the present, nor can we be informed creators of our futures.**
+
+The perspective we gain when we understand our history is invaluable. An excellent example is this Guardian article by Stephen Buranyi about the history of scientific publishing: [Is the staggeringly profitable business of scientific publishing bad for science?](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
+
+Something that currently frustrates me a lot is that the expected standard basic training for a neuroscientist *does not include coursework on the history of our field.* If you are a historian of science, and are interested in developing university-level curriculum about historical events relevant to the field of neuroscience, please get in touch! 
+
+### If you are a journal editor...
+
+Thank you so much for your interest in my research. I have some questions regarding your journal:
+
+ - are you an open access journal, with no fees charged to authors who wish to publish open access nor to readers who wish to access your articles?
+
+ - do you enforce an open science policy, wherein authors are required to submit their experimental datasets and copies of any code used to implement or analyze the experiment?
+
+ - do you accept papers publishing negative results and replications of past experiments?
+
+ - do you enable the use of embedded videos as an option for figures included in papers?
+
+I eagerly await your response.
+
+Cheers,
+Danbee
 
 ## Projects
 
