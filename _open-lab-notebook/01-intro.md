@@ -18,9 +18,9 @@ gallery:
   - url: /open-lab-notebook/movement-control-across-timescales/
     image_path: assets/images/openLabNotebook/movementControlAcrossTimescales_pilot1.jpg
     alt: "Movement Control Across Timescales"
-  - url: /open-lab-notebook/comparative-neuroscience-brighton/
-    image_path: /assets/images/openLabNotebook/BrightonExhibitMockUp.jpg
-    alt: "Comparative Intelligence, Brighton Sea Life Center"
+  - url: /open-lab-notebook/surprising-minds-brighton/
+    image_path: /assets/images/openLabNotebook/SurprisingMinds_header_small.jpg
+    alt: "Surprising Minds at Sea Life Brighton"
 ---
 {% include toc title="Open Lab Notebook" %}
 
