@@ -1,5 +1,5 @@
 ---
-title: "Surprising Minds, an exhibit at the Brighton Sea Life Center"
+title: "Surprising Minds, an exhibit at Sea Life Brighton"
 permalink: /open-lab-notebook/surprising-minds-brighton/
 excerpt: 
 categories:
