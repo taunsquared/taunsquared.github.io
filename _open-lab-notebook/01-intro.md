@@ -19,7 +19,7 @@ gallery:
     image_path: assets/images/openLabNotebook/movementControlAcrossTimescales_pilot1.jpg
     alt: "Movement Control Across Timescales"
   - url: /open-lab-notebook/surprising-minds-brighton/
-    image_path: /assets/images/openLabNotebook/SurprisingMinds_header_small.jpg
+    image_path: /assets/images/openLabNotebook/SurprisingMinds_header_small.png
     alt: "Surprising Minds at Sea Life Brighton"
 ---
 {% include toc title="Open Lab Notebook" %}
