@@ -2,7 +2,6 @@
 title: "end of the world nightmare"
 excerpt: "a lingering taste of loneliness and regret"
 categories:
-  - brainplay
   - dreams
 tags:
   - nightmare

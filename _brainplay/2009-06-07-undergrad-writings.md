@@ -2,7 +2,7 @@
 title: "Writings from Undergrad"
 excerpt: "Some old writings from the MIT Admissions Blog and The Tech"
 categories:
-  - brainplay
+  - writings
 tags:
   - MIT
   - admissions blog

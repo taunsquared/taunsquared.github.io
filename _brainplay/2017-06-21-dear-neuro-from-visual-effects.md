@@ -1,11 +1,10 @@
 ---
-title: "Neuroscience Thru the Lens of Visual Effects"
+title: "Dear Neuroscience :: From Visual Effects"
 excerpt: " 'My personal opinion is the special sauce is something that creates a personal connection between the CGI and the viewer.  Something that touches a nerve.' --Matthew Smith"
 categories:
-  - brainplay
+  - dear neuroscience
 tags:
   - neuroscience
-  - thru the lens series
   - visual effects
 ---
 
@@ -17,9 +16,9 @@ Our aim is to trick the human eye into believing our CGI is real.
 
 Because the world around us is so complex, and computing power is limited, those algorithms do not, on their own, produce an image which is good enough to meet our aim.
 
-If the algorithms get us 70% of the way to our aim, then the remaining 40% has to be met with human craft.
+If the algorithms get us 70% of the way to our aim, then the remaining 30% has to be met with human craft.
 
-That 40% is achieved by humans comparing the CGI on their computer monitor in front of them, with either:
+That 30% is achieved by humans comparing the CGI on their computer monitor in front of them, with either:
 
 a photograph of a real thing <br/>
 an image in their mind's eye, based on their life experiences and memories
@@ -46,4 +45,11 @@ My personal opinion is the special sauce is something that creates a personal co
 
 Does that make any sense? :)"
  
-_Many thanks to Matthew Smith for this delightful piece_
+_Many thanks to Matthew Smith from [Double Negative Visual Effects](http://dneg.com/home/showreel/)_
+
+
+A bit more about Matthew: <br/>
+Outside of VFX, I have an interest in understanding the world around us, and how people interact with it.  I don't have any formal education in any science.  But I do have some experience, both personal and indirect, of what happens to people when their understanding of the world, and their interaction with it, is flawed. <br/>
+My hero is Leonardo da Vinci.  I have some interest in Buddhism. <br/>
+My ultimate aim is to build some solid framework that can help people understand more accurately the world around them.  I intend to get there by using the principles of observation of the natural world, reasoning, and testing, that Leonardo used.
+{: style="color:gray; font-size: 80%;"}

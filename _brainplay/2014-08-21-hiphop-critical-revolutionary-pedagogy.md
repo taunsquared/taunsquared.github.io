@@ -2,7 +2,7 @@
 title: "Hiphop and Critical Revolutionary Pedagogy"
 excerpt: "Blue Scholarship to Challenge 'The Miseducation of the Filipino'"
 categories:
-  - brainplay
+  - writings
 tags:
   - Blue Scholars
   - hiphop
