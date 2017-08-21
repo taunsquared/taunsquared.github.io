@@ -51,6 +51,8 @@ Videos of the experimental sessions can be found online here:
 
 * [Champalimaud Research 2016 Retreat](/assets/files/DanbeeKim_CuttleShuttle_2016.pdf)
 
-## Presentations
+## Presentations and Videos
 
 {% include video id="CHrMDdK78Sk" provider="youtube" %}
+
+{% include video id="3SStj5fYHjU" provider="youtube" %}
