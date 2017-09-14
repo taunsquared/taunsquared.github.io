@@ -64,14 +64,14 @@ Verse 1:
 We don't need the robots to feel for us,  
 if someone else breathes, no oxygen fills my lungs,  
 remember to feed the organ that believes in the spirit of being kind,  
-\[clap clap\]
+\[clap clap\]  
 hands and mind are mine to give to you. 
 
 Verse 2:  
 We don't need the robots to work for us,  
 if someone else sweats, then I have not gained your trust,  
-remember we bleed from underneath an armour prentending to save us time, 
-\[clap clap\]
+remember we bleed from underneath an armour prentending to save us time,  
+\[clap clap\]  
 hands and mind are mine to give to you. 
 
 ## Results and Discussion
