@@ -26,11 +26,11 @@ A huge inspiration was the science outreach group at the CCU called Ar ("air" in
 
 >The way I see it now is that we are persons living a world we think is familiar, but actually if we are given the ability to look underneath the surface through the lens of new perspectives, our world transforms into a million amazing new dimensions. This can be very much akin to exploring a new, fascinating alien world. In this way, I imagined the Aronauts' goggles would give them the ability to see the world through these new perspectives, be it revealing all the different spatial scales, from atoms to molecules, cells, and so on, or even allowing them to perceive in different time scales, from centuries to nanoseconds. Furthermore, I imagined taking this into even more abstract domains, such as enabling them to look at the world through the eyes of other people's ideas (i.e. what is it like to see the world through the eyes of a  religious person, or someone from a radically different culture?)
 
-Danbee then shared this idea with Xiao, who at the time was working on her PhD with the Tangible Media group at the MIT Media Lab. The Aronauts idea resonated with Xiao's interest in exploring new ways to teach topics like music and mathematics, and how to bridge the cultural gap between 'rational, coldly logical' science and 'emotional, viscerally moving' art. Xiao and Danbee had also already started to collaborate musically, and the Aronauts concept began to simmer in the backs of their minds as a long-term inspiration for their musical practice. 
+Danbee then shared this idea with Xiao, an old friend who at the time was working on her PhD with the Tangible Media group at the MIT Media Lab. The Aronauts idea resonated with Xiao's interest in exploring new ways to teach topics like music and mathematics. Xiao and Danbee had also already started to collaborate musically, and the Aronauts concept began to simmer in the backs of their minds as a long-term inspiration for both their research and musical practices. 
 
 ## Methods
 
-The Aronauts share a passion for teaching, and understanding how to nurture both playful and rigorous learning. Because we believe in teaching (and leading) by example, we have pushed ourselves out of our comfort zones to make this album, by learning a skill that will be debuted for the first time at the Crick Live Music Symposium. 
+The Aronauts share a passion for teaching, and understanding how to nurture both playful and rigorous learning. Because we believe in teaching (and leading) by example, we have pushed ourselves out of our comfort zones to make this album, by learning a skill that will be debuted for the first time at our performance at the Live Music Symposium on 29 September 2017 at the Francis Crick Institute. 
 
 Danbee -- singing and playing bass simultaneously  
 Xiao -- improvising solos to new songs with only a week to practice as a full band  
@@ -42,13 +42,17 @@ The set will be highly improvisational yet based on the skeletal structure recor
 
 Sing along to the chorus while dancing like a cuttlefish! Lyrics are followed by \[dance instructions in brackets\]. 
 
-"W" eyes \[hold up 3 fingers on each hand, place hands on the side of your face\]  
-lookin' side to side, \[turn head side to side\]  
-squish to the front when the shrimp's on the run. \[move hands forward, in front of your real eyes\]  
+"W" eyes  
+\[hold up 3 fingers on each hand, place hands on the side of your face\]  
+lookin' side to side,  
+\[turn head side to side\]  
+squish to the front when the shrimp's on the run.  
+\[move hands forward, in front of your real eyes\]  
 
-A morpheus tangle,   
-got eight arms to wrangle. \[hold up 4 fingers in each hand and wiggle both hands in front of your mouth\]  
-No spine but masterminds of foolin' your sight. \[wiggle your body like a cuttlefish!\]
+A morpheus tangle, got eight arms to wrangle.  
+\[hold up 4 fingers in each hand and wiggle both hands in front of your mouth\]  
+No spine but masterminds of foolin' your sight. 
+\[wiggle your body while covering your eyes\]
 
 ### Mind Shape
 
