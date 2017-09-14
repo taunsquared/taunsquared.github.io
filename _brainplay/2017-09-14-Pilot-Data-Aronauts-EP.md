@@ -51,7 +51,7 @@ squish to the front when the shrimp's on the run.
 
 A morpheus tangle, got eight arms to wrangle.  
 \[hold up 4 fingers in each hand and wiggle both hands in front of your mouth\]  
-No spine but masterminds of foolin' your sight. 
+No spine but masterminds of foolin' your sight.  
 \[wiggle your body while covering your eyes\]
 
 ### Mind Shape
