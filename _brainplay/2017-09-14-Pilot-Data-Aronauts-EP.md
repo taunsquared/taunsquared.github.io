@@ -11,8 +11,6 @@ tags:
 
 {% include toc title="Pilot Data, an Aronauts EP" %}
 
-On Friday, 29 September 2017, the Aronauts will be performing a live music set at the Crick Institute's Live Music Symposium. 
-
 Authors: Danbee Kim[1,2], Goncalo C Lopes[3], Xiao Xiao [4]  
 1 - vocals, 2 - bass, 3 - percussion, 4 - keyboard
 
@@ -76,4 +74,4 @@ hands and mind are mine to give to you.
 
 ## Results and Discussion
 
-We would love to hear your feedback about our songs, the interactive elements, and our vision. Feel free to talk to us after our set at the Live Music Symposium, or email us. 
+We would love to hear your feedback about our songs, the interactive elements, and our vision. Feel free to talk to us after our set at the Crick Institute's Live Music Symposium on Friday, 29 September 2017, or leave a comment below! 
