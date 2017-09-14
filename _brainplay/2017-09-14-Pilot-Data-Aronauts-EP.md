@@ -1,6 +1,6 @@
 ---
 title: "Pilot Data, an Aronauts EP"
-excerpt: "Aronauts (Portuguese), or "Aeronauts" in English, are a band of V.I.R.S.'s (Vigilante Intergalactic Roustabout Scholars) who use interactive performance art to teach science."
+excerpt: "Aronauts (Portuguese), or 'Aeronauts' in English, are a band of V.I.R.S.'s (Vigilante Intergalactic Roustabout Scholars) who use interactive performance art to teach science."
 categories:
   - VIRS
 tags:
