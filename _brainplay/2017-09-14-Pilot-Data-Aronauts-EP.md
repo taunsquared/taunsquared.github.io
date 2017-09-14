@@ -11,8 +11,8 @@ tags:
 
 {% include toc title="Pilot Data, an Aronauts EP" %}
 
-Authors: Danbee Kim[1,2], Goncalo C Lopes[3], Xiao Xiao [4]  
-1 - vocals, 2 - bass, 3 - percussion, 4 - keyboard
+Authors: Danbee Kim<sup>1,2</sup>, Goncalo C Lopes<sup>3</sup>, Xiao Xiao<sup>4</sup>  
+<sup>1</sup>vocals, <sup>2</sup>bass, <sup>3</sup>percussion, <sup>4</sup>keyboard
 
 ## Abstract
 
