@@ -17,7 +17,7 @@ From February 2014 to February 2015, I worked in collaboration with the Marine B
 
 These experiments also gave me the opportunity to observe cuttlefish behaviour, learn some marine animal husbandry, and pilot experimental techniques for non-invasive studies of marine animals. I learned a lot about arduinos and cameras and how to film sea creatures. I took care of cuttlefish in all stages of their life cycle and even developed unique relationships with individuals. 
 
-Many thanks to Kendra Buresch, Stephen Senft, Alex Schnell, Troy McInerney, Kelsey Cramer, Corinne Cramer, Andrea Rummell, George Bell, Alan Kuzirian, Barbara Burbank, Lyda Harris, Dan Calzarette, and Roger T Hanlon for their support and assistance during this project. 
+Many thanks to Kendra Buresch, Stephen Senft, Alex Schnell, Andrew Carvey, Arthur Petron, Troy McInerney, Kelsey Cramer, Corinne Cramer, Andrea Rummell, George Bell, Alan Kuzirian, Barbara Burbank, Lyda Harris, Dan Calzarette, and Roger T Hanlon for their support and assistance during this project. 
 
 ## Introduction 
 
