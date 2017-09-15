@@ -15,7 +15,7 @@ header:
 
 From February 2014 to February 2015, I worked in collaboration with the Marine Biology Lab at Woods Hole, USA, to study the behavior of cuttlefish, an invertebrate marine animal related to octopus and squid. The experiments I conducted there are a part of a series of experiments in the Intelligent Systems Lab that ask animals of different species (rats, cuttlefish, humans) to solve open-ended movement challenges. 
 
-## Video introduction to the experimental setup: 
+## Introduction 
 
 {% include video id="3SStj5fYHjU" provider="youtube" %}
 
@@ -44,6 +44,10 @@ Videos of the experimental sessions can be found online here:
 * <a href="https://www.youtube.com/playlist?list=PLM8kdf7qFeq_zURYyS0C-CaGl4lEypVkm">Clips of all misses (tentacles were shot but attempt was not successful)</a>
 
 * <a href="https://www.youtube.com/playlist?list=PLM8kdf7qFeq-ewYerw0KcYMe-xdBvc5CT">Cropped and Aligned clips used for analysis</a>
+
+## Analysis
+
+Analysis code for the Cuttle Shuttle video dataset can be found [here](https://github.com/everymind/CuttleShuttle-Analysis). 
 
 ## Posters
 
