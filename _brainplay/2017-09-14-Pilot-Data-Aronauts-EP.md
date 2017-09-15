@@ -12,7 +12,7 @@ tags:
 {% include toc icon="music" title="Pilot Data, by Aronauts" %}
 
 Authors: Danbee Kim<sup>1,2</sup>, Goncalo C Lopes<sup>3</sup>, Xiao Xiao<sup>4,5</sup>  
-<sup>1</sup>Vocals, <sup>2</sup>Bass, <sup>3</sup>Percussion, <sup>4</sup>Keyboard, <sup>5</sup>Theramin
+<sup>1</sup>Vocals, <sup>2</sup>Bass, <sup>3</sup>Percussion, <sup>4</sup>Keyboard, <sup>5</sup>Theremin
 
 ## Abstract
 
