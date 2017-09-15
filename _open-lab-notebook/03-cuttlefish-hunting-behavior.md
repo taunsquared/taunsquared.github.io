@@ -17,7 +17,7 @@ From February 2014 to February 2015, I worked in collaboration with the Marine B
 
 ## Video introduction to the experimental setup: 
 
-{% include video id="pAByIF0VAW8" provider="youtube" %}
+{% include video id="3SStj5fYHjU" provider="youtube" %}
 
 In this experiment, cuttlefish must hunt for their food 4 days out of 7; their prey is a piece of shrimp at the end of an arduino-controlled skewer. We wanted to ask the following questions:
 
@@ -53,6 +53,6 @@ Videos of the experimental sessions can be found online here:
 
 ## Presentations and Videos
 
-{% include video id="CHrMDdK78Sk" provider="youtube" %}
+{% include video id="pAByIF0VAW8" provider="youtube" %}
 
-{% include video id="3SStj5fYHjU" provider="youtube" %}
+{% include video id="CHrMDdK78Sk" provider="youtube" %}
