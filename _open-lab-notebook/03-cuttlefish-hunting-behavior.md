@@ -13,9 +13,9 @@ header:
 ---
 {% include toc title="Cuttlefish Hunting Behavior" %}
 
-From February 2014 to February 2015, I worked in collaboration with the Marine Biology Lab at Woods Hole, USA, to study the behavior of cuttlefish, an invertebrate marine animal related to octopus and squid. The experiments I conducted there are a part of a series of experiments in the Intelligent Systems Lab that ask animals of different species (rats, cuttlefish, humans) to solve open-ended movement challenges. 
+From February 2014 to February 2015, I collaborated with the Marine Biology Lab at Woods Hole, USA, to study cuttlefish, an invertebrate marine animal related to octopus and squid, from the perspective of neuroscience. My primary goal was to learn about their behaviour, how to take care of them, and how to modify our lab's behaviour experiment setups for rats to work with cuttlefish. 
 
-These experiments also gave me the opportunity to observe cuttlefish behaviour, learn some marine animal husbandry, and pilot experimental techniques for non-invasive studies of marine animals. I learned a lot about arduinos and cameras and how to film sea creatures. I took care of cuttlefish in all stages of their life cycle and even developed unique relationships with individuals. 
+During this time, I learned a lot about arduinos and cameras and how to film sea creatures. I took care of cuttlefish in all stages of their life cycle and even developed unique relationships with individuals. 
 
 Many thanks to Kendra Buresch, Stephen Senft, Alex Schnell, Andrew Carvey, Arthur Petron, Troy McInerney, Kelsey Cramer, Corinne Cramer, Andrea Rummell, George Bell, Alan Kuzirian, Barbara Burbank, Lyda Harris, Dan Calzarette, and Roger T Hanlon for their support and assistance during this project. 
 
@@ -51,7 +51,7 @@ Videos of the experimental sessions can be found online here:
 
 ## Analysis
 
-Analysis code for the Cuttle Shuttle video dataset can be found [here](https://github.com/everymind/CuttleShuttle-Analysis). 
+Analysis work on the Cuttle Shuttle video dataset can be found [here](https://github.com/everymind/CuttleShuttle-Analysis). 
 
 ## Posters
 
