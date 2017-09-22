@@ -62,7 +62,7 @@ hands and mind are mine to give to you.
 
 We don't need the robots to work for us,  
 if someone else sweats, then I have not gained your trust,  
-remember we bleed from underneath an armour prentending to save us time,  
+remember we bleed from underneath an armour pretending to save us time,  
 \[clap clap\]  
 hands and mind are mine to give to you. 
 
