@@ -36,11 +36,9 @@ Danbee -- singing and playing bass simultaneously
 Xiao -- improvising solos to new songs with only a week to practice as a full band  
 Goncalo -- playing djembe and shaker  
 
-The set will be highly improvisational yet based on the skeletal structure recorded in [these rehearsals](https://www.dropbox.com/sh/nbccpx24soqlv53/AABhVeZI8fDLKASI8K0wEkvqa?dl=0). Because the set is also highly interactive, we've posted lyrics and other instructions to help the audience sing along to our songs: 
+The set will be highly improvisational yet based on the skeletal structure recorded in [these rehearsals](https://www.dropbox.com/sh/nbccpx24soqlv53/AABhVeZI8fDLKASI8K0wEkvqa?dl=0). Because the set is also interactive, we've posted lyrics and \[dance suggestions in brackets\] here: 
 
 ### The Cuttlefish Song 
-
-Sing along to the chorus while dancing like a cuttlefish! Lyrics are followed by \[dance instructions in brackets\]. 
 
 "W" eyes  
 \[hold up 3 fingers on each hand, place hands on the side of your face\]  
@@ -54,22 +52,14 @@ A morpheus tangle, got eight arms to wrangle.
 No spine but masterminds of foolin' your sight.  
 \[wiggle your body while covering your eyes\]
 
-### Mind Shape
-
-Sing along to the chorus! There are no words, so feel free to improvise your own harmonies to the very simple melody. 
-
 ### We don't need the robots but it's ok to love them 
 
-This song has two verses, which each share the same ending. Join us with your voices and your clapping hands on that ending!
-
-Verse 1:  
 We don't need the robots to feel for us,  
 if someone else breathes, no oxygen fills my lungs,  
 remember to feed the organ that believes in the spirit of being kind,  
 \[clap clap\]  
 hands and mind are mine to give to you. 
 
-Verse 2:  
 We don't need the robots to work for us,  
 if someone else sweats, then I have not gained your trust,  
 remember we bleed from underneath an armour prentending to save us time,  
