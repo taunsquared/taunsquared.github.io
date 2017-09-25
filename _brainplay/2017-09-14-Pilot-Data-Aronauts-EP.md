@@ -49,8 +49,12 @@ squish to the front when the shrimp's on the run.
 
 A morpheus tangle, got eight arms to wrangle.  
 \[hold up 4 fingers in each hand and wiggle both hands in front of your mouth\]  
-No spine but masterminds of foolin' your sight.  
-\[wiggle your body while covering your eyes\]
+No spine   
+\[wiggle your body as if you have no spine\]  
+but masterminds  
+\[place you hands on your head\]
+of foolin' your sight.
+\[cover eyes, then reveal eyes on "sight"\]
 
 ### We don't need the robots but it's ok to love them 
 
