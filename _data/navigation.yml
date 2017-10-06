@@ -18,6 +18,8 @@ oln:
   - title: "Open Lab Notebook"
     url: /open-lab-notebook/
     children: 
+      - title: "Key Ideas" 
+        url: /open-lab-notebook/key-ideas/
       - title: "PhD Thesis Proposal"
         url: /open-lab-notebook/phd-proposal/
       - title: "Cuttlefish Hunting Behavior"
