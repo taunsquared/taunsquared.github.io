@@ -47,6 +47,9 @@ An introduction to the Sainsbury Wellcome Centre for Neural Circuits and Behavio
 
 ## Presentations
 
+"What can we learn about brains by studying the movements of bodies?". Presented at the opening plenary session of the 2º Congresso Nacional de Psicomotricidade in Vila Real, Portugal.  
+{% include video provider="youtube" id="TVzpkTZ-QwM" %}
+
 "The Cuttle Shuttle: Behavior and Learning in Predatory Sepia officinalis (Cephalopoda)". Presented at the 2017 CephsInAction & CIAC meeting "Cephalopod Science from Biology to Welfare", Heraklion, Crete.  
 {% include video provider="youtube" id="CHrMDdK78Sk" %}
 
