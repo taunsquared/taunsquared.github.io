@@ -42,7 +42,7 @@ In my research, I want to know how brains understand the world, and how we are r
 
 ## Presentations
 
-"What can we learn about brains by studying the movements of bodies?". Presented at the opening plenary session of the 2\º Congresso Nacional de Psicomotricidade in Vila Real, Portugal.  
+"What can we learn about brains by studying the movements of bodies?". Presented at the opening plenary session of the 2<sup>o</sup> Congresso Nacional de Psicomotricidade in Vila Real, Portugal.  
 {% include video provider="youtube" id="TVzpkTZ-QwM" %}
 
 "The Cuttle Shuttle: Behavior and Learning in Predatory Sepia officinalis (Cephalopoda)". Presented at the 2017 CephsInAction & CIAC meeting "Cephalopod Science from Biology to Welfare", Heraklion, Crete.  
