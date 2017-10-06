@@ -36,11 +36,6 @@ In my research, I want to know how brains understand the world, and how we are r
 
 * to establish a descriptive vocabulary for functions and aspects of the mind, in order to connect the activity of nervous cells to our life experiences.
 
-## Videos
-
-An introduction to the Sainsbury Wellcome Centre for Neural Circuits and Behaviour.    
-{% include video provider="youtube" id="Hw2PpkREBVE" %}
-
 ## Writings
 
 ["Does modern neuroscience really help us understand behavior?"](https://massivesci.com/articles/neuroscience-behavior-vs-technology/) Co-written with [Gonçalo Lopes](http://neurogears.org/about-us/). Published by [MassiveSci.com](https://massivesci.com/pages/about/).
@@ -52,6 +47,11 @@ An introduction to the Sainsbury Wellcome Centre for Neural Circuits and Behavio
 
 "The Cuttle Shuttle: Behavior and Learning in Predatory Sepia officinalis (Cephalopoda)". Presented at the 2017 CephsInAction & CIAC meeting "Cephalopod Science from Biology to Welfare", Heraklion, Crete.  
 {% include video provider="youtube" id="CHrMDdK78Sk" %}
+
+## Videos
+
+An introduction to the Sainsbury Wellcome Centre for Neural Circuits and Behaviour.    
+{% include video provider="youtube" id="Hw2PpkREBVE" %}
 
 ## Projects
 
