@@ -1,5 +1,5 @@
 ---
-title: "My scientific philosophy and ethics"
+title: "Scientific Philosophy and Ethics"
 permalink: /open-lab-notebook/key-ideas/
 excerpt: "Key ideas that define my philosophy and ethics of science"
 categories:
