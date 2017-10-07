@@ -21,7 +21,7 @@ Below are some key ideas that shape my research pursuits. I'm always open to dis
 
 * **Open and cooperative research**: Mutual respect, non-violent communication, and forgiveness are essential when investigating complex scientific questions. Researchers need safe spaces to make mistakes, report negative results, try radical new approaches, and pursue questions challenging the status quo. In a field as young as neuroscience (born circa 1960s), we must also be willing to earnestly discuss the concepts and practices that define modern academic neuroscience, also known as our "[scientific paradigm](https://en.wikipedia.org/wiki/Paradigm#Scientific_paradigm)". [Radically inclusive](https://medium.com/the-beta-mode/what-i-learned-from-practicing-radical-inclusion-for-30-days-2a288a65c773) scientific research motivates more meticulous documentation, greater trust between professional science and the general public, and increased cross-pollination of ideas and techniques between fields. I want to support an open science community by using open source technologies and publishing platforms, and by building bridges between science, engineering, humanities, and the arts. 
 
-### History of Science
+## History of Science
 
 **Without understanding where we've been, we cannot understand how to act in the present, nor can we be informed creators of our futures.**
 
@@ -29,7 +29,7 @@ The perspective we gain when we understand our history is invaluable. An excelle
 
 Something that currently frustrates me a lot is that the expected standard basic training for a neuroscientist *does not include an overview of the major controversies in our field from a historical perspective.* If you are a historian of science, and are interested in developing university-level curriculum about historical events relevant to the field of neuroscience, please get in touch! 
 
-### If you are a journal editor...
+## If you are a journal editor...
 
 Thank you so much for your interest in my research. I have some questions regarding your journal:
 
