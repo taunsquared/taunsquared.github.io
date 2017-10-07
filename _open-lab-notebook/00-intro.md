@@ -28,7 +28,7 @@ This page is my primary documentation of my thought processes related to my PhD 
 
 In my research, I want to know how brains understand the world, and how we are robust and flexible enough to deal with unexpected situations. My goals are: 
 
-* to build a culture of collaboration and transparency in neuroscience; 
+* to build a culture of collaboration, trust, and rigorous play in neuroscience; 
 
 * to engage young people in questioning the status quo, both in and out of science; 
 
