@@ -70,6 +70,11 @@ remember we bleed from underneath an armour pretending to save us time,
 \[clap clap\]  
 hands and mind are mine to give to you. 
 
-## Results and Discussion
+## Results 
+
+Dress rehearsal:  
+{% include video provider="youtube" id="0dSHJEOLxBY" %}
+
+## Discussion
 
 We would love to hear your feedback about our songs, the interactive elements, and our vision. Feel free to talk to us after our set at the Crick Institute's Live Music Symposium on Friday, 29 September 2017, or leave a comment below! 
