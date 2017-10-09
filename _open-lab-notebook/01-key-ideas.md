@@ -1,6 +1,6 @@
 ---
 title: "Scientific Philosophy and Ethics"
-permalink: /open-lab-notebook/key-ideas/
+permalink: /open-lab-notebook/scientific-philosophy-ethics/
 excerpt: "Key ideas that define my philosophy and ethics of science"
 categories:
   - open-lab-notebook
@@ -9,7 +9,7 @@ tags:
   - philosophy of science
   - scientific ethics
 ---
-{% include toc title="Key Ideas" %}
+{% include toc title="Philosophy and Ethics" %}
 
 Below are some key ideas that shape my research pursuits. I'm always open to discussing and improving my understanding and implementation of these ideas.  
 
