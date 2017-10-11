@@ -33,7 +33,7 @@ Danbee then shared this idea with Xiao, an old friend who at the time was workin
 The Aronauts share a passion for teaching, and understanding how to nurture both playful and rigorous learning. Because we believe in teaching (and leading) by example, we have pushed ourselves out of our comfort zones to make this album, by learning a skill that will be debuted for the first time at our performance at the Live Music Symposium on 29 September 2017 at the Francis Crick Institute. 
 
 Danbee -- singing and playing bass simultaneously  
-Xiao -- improvising solos to new songs with only a week to practice as a full band  
+Xiao -- playing theremin, improvising solos to new songs with only a week to practice as a full band  
 Goncalo -- playing djembe and shaker  
 
 The set will be highly improvisational yet based on the skeletal structure recorded in [these rehearsals](https://www.dropbox.com/sh/nbccpx24soqlv53/AABhVeZI8fDLKASI8K0wEkvqa?dl=0). Because some of the songs are also interactive, we've posted lyrics and \[dance suggestions in brackets\] here: 
