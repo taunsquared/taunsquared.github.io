@@ -38,6 +38,16 @@ Goncalo -- playing djembe and shaker
 
 The set will be highly improvisational yet based on the skeletal structure recorded in [these rehearsals](https://www.dropbox.com/sh/nbccpx24soqlv53/AABhVeZI8fDLKASI8K0wEkvqa?dl=0). Because some of the songs are also interactive, we've posted lyrics and \[dance suggestions in brackets\] here: 
 
+### Mind Shape
+
+When our minds began to shape, faced an unknown landscape full of fatal fruits,  
+but we moved cuz that's what living things do.  
+Yeah, we groove and we rise to unchain our minds from the vines of the vices of the status quo. 
+
+They don't wanna free our minds, they want obedient drones,  
+who will labor for the myth of a rich man's favor, 'stead of lovin' their neighbor.  
+We all long to belong, sing along, harmonies of all the same song.  
+
 ### The Cuttlefish Song 
 
 "W" eyes  
@@ -55,6 +65,40 @@ but masterminds
 \[place you hands on your head\]
 of foolin' your sight.
 \[cover eyes, then reveal eyes on "sight"\]
+
+### Jackets in June
+
+Jackets in June just ain't my kinda tune for a plump summer.  
+Voraciously take the heat that it make,  
+decimate, glutton's pace, bake and eat our cake  
+today.  
+Don't wanna wait,  
+today.  
+Won't be long 'til we're gone,  
+so be merry with the fates.  
+
+They itch for your blood, they will make it flood into cold coffers.  
+Proceedural twine ensnares our minds,  
+you're inclined to be blind, turn the other cheek  
+today.  
+Can't handle the weight  
+of today.  
+Won't be long 'til it's gone,  
+now we're wedded to our fate.  
+
+Too dazed to look beyond the haze of money-makin' plays,  
+they eat the atmosphere,  
+don't know how to yield.  
+Too wasted by the race to be a money-makin' face,  
+they only keep us to bleed us  
+and feed their machine of  
+lust.  
+
+Today,  
+gotta learn how to wait.  
+Today,  
+won't be long 'til we're all gone,  
+so get ready for our fate.  
 
 ### We don't need the robots but it's ok to love them 
 
