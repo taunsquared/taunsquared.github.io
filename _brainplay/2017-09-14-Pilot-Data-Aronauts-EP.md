@@ -36,7 +36,7 @@ Danbee -- singing and playing bass simultaneously
 Xiao -- improvising solos to new songs with only a week to practice as a full band  
 Goncalo -- playing djembe and shaker  
 
-The set will be highly improvisational yet based on the skeletal structure recorded in [these rehearsals](https://www.dropbox.com/sh/nbccpx24soqlv53/AABhVeZI8fDLKASI8K0wEkvqa?dl=0). Because the set is also interactive, we've posted lyrics and \[dance suggestions in brackets\] here: 
+The set will be highly improvisational yet based on the skeletal structure recorded in [these rehearsals](https://www.dropbox.com/sh/nbccpx24soqlv53/AABhVeZI8fDLKASI8K0wEkvqa?dl=0). Because some of the songs are also interactive, we've posted lyrics and \[dance suggestions in brackets\] here: 
 
 ### The Cuttlefish Song 
 
@@ -74,6 +74,9 @@ hands and mind are mine to give to you.
 
 Dress rehearsal:  
 {% include video provider="youtube" id="0dSHJEOLxBY" %}
+
+Our debut at the Crick Live Music Symposium:  
+{% include video provider="youtube" id="Zf1H0AgfXY4" %}
 
 ## Discussion
 
