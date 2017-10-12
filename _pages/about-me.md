@@ -8,7 +8,7 @@ Hi! ^.^
 
 My name is Danbee (단비), which literally translated from Korean means "sweet rain". Many of my friends call me tauntaun, a nickname coined during my freshman year at MIT when I was part of the <a href="http://web.mit.edu/mtg/www/2005/FAL/ProdStaff.html">Musical Theater Guild's production of Star Wars Trilogy: Musical Edition</a>. <br/>
 
-I'm a PhD student in London, UK at the Sainsbury Wellcome Center for Neural Circuits and Behavior. I study cuttlefish, develop theories of intelligent behaviour, and synthesize art with neuroscience. You can learn more at <a href="http://www.everymind.online/projects/comparative-intelligence-brighton/">Every Mind Online</a>. <br/>
+I'm a PhD student in London, UK at the Sainsbury Wellcome Center for Neural Circuits and Behavior. I study cuttlefish, develop theories of intelligent behaviour, and synthesize art with neuroscience. You can learn more at <a href="http://www.everymind.online">Every Mind Online</a>. <br/>
 
 I spend a lot of time thinking about permaculture, anarchy, circus, and education. I love spending time in the wilderness, especially by the sea. I've co-written an original musical called <a href="https://hackpunttool.com/">Hack, Punt, Tool</a> (you can watch the <a href="https://youtu.be/IPpqXyo4jhM">2017 production on YouTube</a>). I'm a member of the band <a href="http://www.scubaphone.org/">Scubaphone</a> and the capoeira group <a href="http://www.mestrechuvisco.com/site/">Mandingueiros dos Palmares, led by Mestre Chuvisco</a>. <br/>
 
