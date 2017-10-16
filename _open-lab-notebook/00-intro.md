@@ -40,6 +40,8 @@ In my research, I want to know how brains understand the world, and how we are r
 
 ["Does modern neuroscience really help us understand behavior?"](https://massivesci.com/articles/neuroscience-behavior-vs-technology/) Co-written with [Gonçalo Lopes](http://neurogears.org/about-us/). Published by [MassiveSci.com](https://massivesci.com/pages/about/).
 
+["How theater, startup culture, and business history helped us become better neuroscientists"](https://massivesci.com/articles/neuroscience-can-learn-from-theater/) Co-written with [Gonçalo Lopes](http://neurogears.org/about-us/). Published by [MassiveSci.com](https://massivesci.com/pages/about/).
+
 ## Presentations
 
 "What can we learn about brains by studying the movements of bodies?". Presented at the opening plenary session of the 2<sup>o</sup> Congresso Nacional de Psicomotricidade in Vila Real, Portugal.  
