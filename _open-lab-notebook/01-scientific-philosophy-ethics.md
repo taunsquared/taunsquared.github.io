@@ -15,13 +15,13 @@ Below are the philosophies and ethics that shape my research pursuits. I'm alway
 
 ## Key ideas
 
-### Movement is thought 
+### Movement and thought are part of one loop
 
-Movement is fundamental to the workings of the brain. It is clear from an evolutionary perspective that nervous systems developed as a tool for navigating unknown, complex environments. In turn, nervous systems adapt and change in response to the environments with which they interact, including the bodies through which this interaction is implemented; thus, cognition emerges from the interplay between brains, bodies, and the world. Taking all three into account is essential to understanding movement and thought, and until now technical difficulties have created a trend to ignore this fundamental relationship. 
+Movement is fundamental to the workings of the brain. It is clear from an evolutionary perspective that nervous systems developed as a tool for navigating unknown, complex environments. In turn, nervous systems adapt and change in response to the environments with which they interact, including the bodies through which this interaction is implemented; thus, cognition emerges from the interplay between brains, bodies, and the world. Taking all three into account is essential to understanding movement and thought. These loops are hard to describe in the "feed-forward" biased language of current neuroscience, and a thoughtful re-examination can make our metaphors more useful. 
 
 ### Empathetic animal research 
 
-Neuroscience research has made us increasingly aware of both the influence of the environment on the brain, and the intimate similarities between human nervous systems and the nervous systems of other animals. The basic fundaments of biology also tell us that all living things are made from different combinations of the same five molecules (Adenine, Cytosine, Guanine, Thymine, and Uracil). We are starting to find that even invertebrate animals use abilities and processes that we once thought only vertebrates could use. I want to prioritize deep respect for all living systems in my pursuit of greater understanding. As a starting point, I do not use any research methodology that we do not currently find ethical to use in humans. Eventually I want to develop tools and methodologies that enable scientifically powerful observations of freely moving animals living in playful and enriching habitats. 
+Neuroscience research has made us increasingly aware of both the influence of the environment on the brain, and the intimate similarities between human nervous systems and the nervous systems of other animals. The basic fundaments of biology also tell us that all living things are made from different combinations of the same five molecules (Adenine, Cytosine, Guanine, Thymine, and Uracil). We are starting to find that even invertebrate animals use abilities and processes that we once thought only vertebrates could use. I want to prioritize deep respect for all living systems in my pursuit of greater understanding. As a starting point, I do not use any research methodology that we do not currently find ethical to use in humans. I want to develop tools and methodologies that enable scientifically powerful observations of freely moving animals living in playful and enriching habitats. 
 
 ### Holistic and non-fatalistic approach
 
