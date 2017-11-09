@@ -44,13 +44,13 @@ In my research, I want to know how brains understand the world, and how we are r
 
 ## Presentations
 
-"What can we learn about brains by studying the movements of bodies?". Presented at the opening plenary session of the 2<sup>o</sup> Congresso Nacional de Psicomotricidade in Vila Real, Portugal.  
+**"What can we learn about brains by studying the movements of bodies?"** Presented at the opening plenary session of the 2<sup>o</sup> Congresso Nacional de Psicomotricidade in Vila Real, Portugal.  
 {% include video provider="youtube" id="TVzpkTZ-QwM" %}
 
-"The Cuttle Shuttle: Behavior and Learning in Predatory Sepia officinalis (Cephalopoda)". Presented at the 2017 CephsInAction & CIAC meeting "Cephalopod Science from Biology to Welfare", Heraklion, Crete.  
+**"The Cuttle Shuttle: Behavior and Learning in Predatory Sepia officinalis (Cephalopoda)."** Presented at the 2017 CephsInAction & CIAC meeting "Cephalopod Science from Biology to Welfare", Heraklion, Crete.  
 {% include video provider="youtube" id="CHrMDdK78Sk" %}
 
-["The Power to explore, test, and realize your scientific fantasies"](https://docs.google.com/presentation/d/1DFBbxP-ZavQUYMEbmpesrK9iEtjAFlNhhzzt3jA7duA/edit?usp=sharing). Presented at the 2017 Champalimaud Centre for the Unknown Student Retreat in Mafra, Portugal. 
+**["The Power to explore, test, and realize your scientific fantasies."](https://docs.google.com/presentation/d/1DFBbxP-ZavQUYMEbmpesrK9iEtjAFlNhhzzt3jA7duA/edit?usp=sharing)** Presented at the 2017 Champalimaud Centre for the Unknown Student Retreat in Mafra, Portugal. 
 
 ## Videos
 
