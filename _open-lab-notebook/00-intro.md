@@ -9,6 +9,9 @@ tags:
 header:
   image: /assets/images/openLabNotebook/OpenLabNotebook_header.png
 gallery:
+  - url: /open-lab-notebook/scientific-philosophy-ethics/
+    image_path: /assets/images/headshot_2017Greece.jpg
+    alt: "My scientific principles"
   - url: /open-lab-notebook/phd-proposal/
     image_path: assets/images/openLabNotebook/ForagingRatVideoFrame_bright.png
     alt: "PhD Thesis Proposal, Oct 30 2013"
