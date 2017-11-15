@@ -1,7 +1,7 @@
 ---
 title: "Open Lab Notebook"
 permalink: /open-lab-notebook/
-excerpt: "This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the title 'How can we get more brains to study brains?'"
+excerpt: "This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the title 'A comparative neuroscience study of the general principles of intelligent behaviour'"
 categories:
   - open-lab-notebook
 tags:
@@ -27,7 +27,7 @@ gallery:
 ---
 {% include toc title="Open Lab Notebook" %}
 
-This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the title *'How can we get more brains to study brains?'*
+This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title *'A comparative neuroscience study of the general principles of intelligent behaviour'*
 
 In my research, I want to know how brains understand the world, and how we are robust and flexible enough to deal with unexpected situations. My goals are: 
 
