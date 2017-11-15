@@ -53,6 +53,10 @@ Videos of the experimental sessions can be found online here:
 
 Analysis work on the Cuttle Shuttle video dataset can be found [here](https://github.com/everymind/CuttleShuttle-Analysis). 
 
+## Want to get involved?
+
+To contribute to this project, please visit the [Cuttle Shuttle project page](http://www.everymind.online/CuttleShuttle/) at [Every Mind Online](http://www.everymind.online/).
+
 ## Posters
 
 * [Champalimaud Research 2015 Retreat](/assets/images/DanbeeKim_poster_CCUretreat2015.jpg)
