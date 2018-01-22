@@ -11,7 +11,9 @@ tags:
 ---
 {% include toc title="Philosophy and Ethics" %}
 
-Below are the philosophies and ethics that shape my research pursuits. I'm always open to discussing and improving my understanding and implementation of these ideas.  
+Below are the philosophies and ethics that shape my research pursuits. They were in large part inspired by the [Green Neuroscience Laboratory](http://greenneuro.org/principles/).  
+
+Please leave your thoughts in the comments below! I'm always open to discussing and improving my understanding and implementation of these ideas.  
 
 ## Key ideas
 
