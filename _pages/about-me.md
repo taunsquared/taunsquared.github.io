@@ -14,7 +14,7 @@ I spend a lot of time thinking about permaculture, anarchy, circus, and educatio
 
 If you would like to get in touch, please email me at danbee at alum dot mit dot edu.
 
-[Curriculum Vitae](/assets/files/DanbeeKim_cv_20170527.pdf)
+[Curriculum Vitae](/assets/files/DanbeeKim_cv_20180124.pdf)
 
 <figure style="width: 320px" class="align-center">
   <img src="/assets/images/NOLS_WM_BADGE_CREDENTIAL-WFR.png" alt="Wilderness First Responder Badge from NOLS Wilderness Medicine">
