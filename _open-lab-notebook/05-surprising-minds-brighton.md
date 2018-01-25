@@ -20,3 +20,7 @@ Our first project together was an interactive science exhibit that prototypes a 
 The following video is part of the Surprising Minds exhibit. It summarizes [the Cuttle Shuttle project](https://danbeekim.org/open-lab-notebook/cuttlefish-hunting-behavior/), and introduces the ideas behind Surprising Minds. 
 
 {% include video id="3SStj5fYHjU" provider="youtube" %}
+
+The next video shows an example of the data we have collected from this exhibit: 
+
+{% include video id="xp6s1gzVNLc" provider="youtube" %}
