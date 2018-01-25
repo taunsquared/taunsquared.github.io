@@ -19,7 +19,7 @@ Please leave your thoughts in the comments below! I'm always open to discussing 
 
 ### Movement, perception, and thought are part of the same loop
 
-Movement is fundamental to the workings of the brain. It is clear from an evolutionary perspective that nervous systems developed as a tool for navigating unknown, complex environments. In turn, nervous systems adapt and change in response to the environments with which they interact, including the bodies through which this interaction is implemented; thus, cognition emerges from the interplay between brains, bodies, and the world. Taking all three into account is essential to understanding movement, perception, and thought. These loops are hard to describe in the "feed-forward" biased language of current neuroscience, and a thoughtful re-examination can make our metaphors more useful. 
+Movement is fundamental to the workings of the brain. It is clear from an evolutionary perspective that nervous systems developed as a tool for navigating unknown, complex environments. In turn, nervous systems adapt and change in response to the environments with which they interact, including the bodies through which this interaction is implemented; thus, cognition emerges from the interplay between brains, bodies, and the world. Taking all three into account is essential to understanding movement, perception, and thought. These loops are hard to describe in the current "feed-forward" biased language used by most neuroscientists, and a thoughtful re-examination can make our metaphors more useful. 
 
 ### Empathetic animal research 
 
