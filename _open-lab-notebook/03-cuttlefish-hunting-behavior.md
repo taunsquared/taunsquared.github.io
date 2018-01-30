@@ -65,8 +65,10 @@ To contribute to this project, please visit the [Cuttle Shuttle project page](ht
 
 ## Presentations and Videos
 
+{% include video provider="youtube" id="CHrMDdK78Sk" %}
+
 {% include video provider="youtube" id="3SStj5fYHjU" %}
 
 {% include video provider="youtube" id="pAByIF0VAW8" %}
 
-{% include video provider="youtube" id="CHrMDdK78Sk" %}
+
