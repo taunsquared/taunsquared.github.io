@@ -59,6 +59,7 @@ In my research, I want to know how brains understand the world, and how we are r
 {% include figure image_path="/assets/images/openLabNotebook/CCUStudentRetreat2017_Danbee-Goncalo-talk.jpg" alt="Danbee speaks at the CCU 2017 Student Retreat" caption="Image credit to Gonçalo Guiomar" %}
 
 **["Validating Neuroscience Experimental Paradigms Across Species and Environments."](http://bit.ly/2EjwHS0)** Presented at a seminar at the N Center of Sungkyunkwan University on February 12, 2018. 
+{% include figure image_path="/assets/images/openLabNotebook/20180212_Seminar-NCenter-SKKU.jpeg" alt="Danbee gives a seminar at the N Center of Sungkyunkwan University" caption="Image credit to Jinwon Kim" %}
 
 ## Videos
 
