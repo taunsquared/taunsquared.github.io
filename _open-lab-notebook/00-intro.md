@@ -58,7 +58,12 @@ In my research, I want to know how brains understand the world, and how we are r
 **["The Power to explore, test, and realize your scientific fantasies."](https://docs.google.com/presentation/d/1DFBbxP-ZavQUYMEbmpesrK9iEtjAFlNhhzzt3jA7duA/edit?usp=sharing)** Presented at the 2017 Champalimaud Centre for the Unknown Student Retreat in Mafra, Portugal.  
 {% include figure image_path="/assets/images/openLabNotebook/CCUStudentRetreat2017_Danbee-Goncalo-talk.jpg" alt="Danbee speaks at the CCU 2017 Student Retreat" caption="Image credit to Gonçalo Guiomar" %}
 
+**[Validating Neuroscience Experimental Paradigms Across Species and Environments](http://bit.ly/2EjwHS0)** Presented at a seminar at the N Center of Sungkyunkwan University on February 12, 2018. 
+
 ## Videos
+
+An explanation of the research goals and interests of the Intelligent Systems lab using only the top "ten-hundred" words in English. 
+{% include video provider="youtube" id="aDSavyoXqhk" %}
 
 An introduction to the Sainsbury Wellcome Centre for Neural Circuits and Behaviour.    
 {% include video provider="youtube" id="Hw2PpkREBVE" %}
