@@ -27,7 +27,7 @@ gallery:
 ---
 {% include toc title="Open Lab Notebook" %}
 
-This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title *'A comparative neuroscience study of the general principles of intelligent behaviour'*
+This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title *'An evolutionary cognition approach for studying general principles of intelligent behaviour'*
 
 In my research, I want to know how brains understand the world, and how we are robust and flexible enough to deal with unexpected situations. My goals are: 
 
@@ -35,9 +35,9 @@ In my research, I want to know how brains understand the world, and how we are r
 
 * to engage young people in questioning the status quo, both in and out of science; 
 
-* to develop a theoretical framework for testing hypotheses about the general principles of intelligence (as opposed to intelligence as specifically implemented by humans); and
+* to develop a theory and methodology for field neuroscience, which would complement laboratory neuroscience to verify the ethological validity of behaviour studies and of humane research techniques; and
 
-* to establish a descriptive vocabulary for functions and aspects of the mind, in order to connect the activity of nervous cells to our life experiences.
+* to connect how we study the brain to the experience of living with one.
 
 ## Writings
 
