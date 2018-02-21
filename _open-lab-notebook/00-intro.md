@@ -29,15 +29,15 @@ gallery:
 
 This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title *'An evolutionary cognition approach for studying general principles of intelligent behaviour'*
 
-In my research, I want to know how brains understand the world, and how we are robust and flexible enough to deal with unexpected situations. My goals are: 
+In my research, I want to study how nervous systems "in the wild" (as opposed to in the laboratory) are robust and flexible enough to deal with unexpected situations. My goals are: 
 
 * to build a culture of collaboration, trust, and rigorous play in neuroscience; 
 
-* to engage young people in questioning the status quo, both in and out of science; 
+* to engage with historical context and in questioning the status quo, both in and out of science; 
 
-* to develop a theory and methodology for field neuroscience, which would complement laboratory neuroscience to verify the ethological validity of behaviour studies and of humane research techniques; and
+* to develop a theory and methodology for field neuroscience, which would complement laboratory neuroscience by verifying the ethological validity of behaviour studies and of humane research techniques; and
 
-* to connect how we study the brain to the experience of living with one.
+* to connect how we study the brain to the subjective experience of living with one.
 
 ## Writings
 
