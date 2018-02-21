@@ -76,7 +76,11 @@ An introduction to the Sainsbury Wellcome Centre for Neural Circuits and Behavio
 [**Building Bridges project at the London Science Museum**](https://group.sciencemuseum.org.uk/our-work/learning/projects-and-partnerships/building-bridges/)
 {% include figure image_path="/assets/images/openLabNotebook/20170418_BuildingBridgesLondonScienceMuseum_BackyardBrains.jpg" alt="A Backyard Brains pocket electrophysiology box" caption="I spoke to primary school children about my research, with the help of this pocket electrophysiology box (by [Backyard Brains](https://backyardbrains.com))" %}
 
+**["Pilot Data, an Aronauts EP"](http://www.danbeekim.org/brainplay/2017-09-14-Pilot-Data-Aronauts-EP/), performed at the 2017 Live Music Symposium at the Francis Crick Institute**
+{% include video provider="youtube" id="0dSHJEOLxBY" %}
+{% include video provider="youtube" id="Zf1H0AgfXY4" %}
 
+**"Roaming Researcher" at the [Wellcome Collection Friday Late Spectacular: Your Reality is Broken](https://wellcomecollection.org/events/friday-late-spectacular-your-reality-broken)**
 
 ## Projects
 
