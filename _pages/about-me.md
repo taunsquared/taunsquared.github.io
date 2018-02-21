@@ -14,6 +14,8 @@ I spend a lot of time thinking about permaculture, anarchy, circus, and educatio
 
 I'm currently developing a theory and methodology for field neuroscience, which would complement laboratory neuroscience by verifying the ethological validity of behaviour studies and of humane research techniques. After I earn my PhD, I'm interested in developing an educational system which presents and practices traditional school curriculum – maths, biology, chemistry, geography, history, physics, and more – in the context of permaculture farming. <br/>
 
+I enjoy creating interactive learning experiences, and I love working at the intersection of art, science, and activism. I think fostering each other’s creativity and curiosity is one of the most important and beautiful things we can do for one another. I also think it is so important for women to empower and inspire other women and girls to take on roles of influence, mediation, and mentorship. <br/>
+
 If you would like to get in touch, please email me at danbee at alum dot mit dot edu.
 
 [Curriculum Vitae](/assets/files/DanbeeKim_cv_20180124.pdf)
