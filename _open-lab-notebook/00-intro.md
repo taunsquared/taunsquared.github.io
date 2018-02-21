@@ -73,14 +73,19 @@ An introduction to the Sainsbury Wellcome Centre for Neural Circuits and Behavio
 
 ## Public Engagement
 
-[**Building Bridges project at the London Science Museum**](https://group.sciencemuseum.org.uk/our-work/learning/projects-and-partnerships/building-bridges/)
-{% include figure image_path="/assets/images/openLabNotebook/20170418_BuildingBridgesLondonScienceMuseum_BackyardBrains.jpg" alt="A Backyard Brains pocket electrophysiology box" caption="I spoke to primary school children about my research, with the help of this pocket electrophysiology box (by [Backyard Brains](https://backyardbrains.com))" %}
+**[Building Bridges project](https://group.sciencemuseum.org.uk/our-work/learning/projects-and-partnerships/building-bridges/)** 
 
-**["Pilot Data, an Aronauts EP"](http://www.danbeekim.org/brainplay/2017-09-14-Pilot-Data-Aronauts-EP/), performed at the 2017 Live Music Symposium at the Francis Crick Institute**
+A science outreach project at the London Science Museum where I spoke to groups of visiting primary school children about my research. Spring 2017. 
+{% include figure image_path="/assets/images/openLabNotebook/20170418_BuildingBridgesLondonScienceMuseum_BackyardBrains.jpg" alt="A Backyard Brains pocket electrophysiology box" caption="In the spring of 2017, I spoke to primary school children about my research, with the help of this pocket electrophysiology box (by [Backyard Brains](https://backyardbrains.com))" %}
+
+**["Pilot Data, an Aronauts EP"](http://www.danbeekim.org/brainplay/2017-09-14-Pilot-Data-Aronauts-EP/)**
+
+An original set of science songs performed at the 2017 Live Music Symposium at the Francis Crick Institute.
 {% include video provider="youtube" id="0dSHJEOLxBY" %}
 {% include video provider="youtube" id="Zf1H0AgfXY4" %}
 
-**"Roaming Researcher" at the [Wellcome Collection Friday Late Spectacular: Your Reality is Broken](https://wellcomecollection.org/events/friday-late-spectacular-your-reality-broken)**
+**[Wellcome Collection Friday Late Spectacular: Your Reality is Broken](https://wellcomecollection.org/events/friday-late-spectacular-your-reality-broken)**
+A "science busking" gig on Friday, 01 December 2017, where I spoke to the general public about my research while wandering the Wellcome Trust Collection. 
 
 ## Projects
 
