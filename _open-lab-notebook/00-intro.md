@@ -45,6 +45,8 @@ In my research, I want to study how nervous systems "in the wild" (as opposed to
 
 ["How theater, startup culture, and business history helped us become better neuroscientists"](https://massivesci.com/articles/neuroscience-can-learn-from-theater/) Co-written with [Gonçalo Lopes](http://neurogears.org/about-us/). Published by [MassiveSci.com](https://massivesci.com/pages/about/).
 
+["HIVE Tracker: a tiny, low-cost, and scalable device for sub-millimetric 3D positioning"](https://www.researchgate.net/publication/322842913_HIVE_Tracker_a_tiny_low-cost_and_scalable_device_for_sub-millimetric_3D_positioning) Co-written with [Darío R. Quiñones Colomer](https://www.researchgate.net/profile/Dario_R_Colomer), [Gonçalo Lopes](http://neurogears.org/about-us/), and [Cedric Honnet](http://honnet.eu). Published by [Augmented Human 2018](http://www.sigah.org/AH2018/). DOI: 10.1145/3174910.3174935. 
+
 ## Presentations
 
 **"What can we learn about brains by studying the movements of bodies?"** Presented at the opening plenary session of the 2<sup>o</sup> Congresso Nacional de Psicomotricidade in Vila Real, Portugal.  
@@ -68,6 +70,13 @@ An explanation of the research goals and interests of the Intelligent Systems la
 
 An introduction to the Sainsbury Wellcome Centre for Neural Circuits and Behaviour.    
 {% include video provider="youtube" id="Hw2PpkREBVE" %}
+
+## Public Engagement
+
+[**Building Bridges project at the London Science Museum**](https://group.sciencemuseum.org.uk/our-work/learning/projects-and-partnerships/building-bridges/)
+{% include figure image_path="/assets/images/openLabNotebook/20170418_BuildingBridgesLondonScienceMuseum_BackyardBrains.jpg" alt="A Backyard Brains pocket electrophysiology box" caption="I spoke to primary school children about my research, with the help of this pocket electrophysiology box (by [Backyard Brains](https://backyardbrains.com))" %}
+
+
 
 ## Projects
 
