@@ -1,7 +1,7 @@
 ---
 title: "Open Lab Notebook"
 permalink: /open-lab-notebook/
-excerpt: "This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the title 'A comparative neuroscience study of the general principles of intelligent behaviour'"
+excerpt: "This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the title 'A vigilante intergalactic roustabout scholar (VIRS) approach to the evolutionary cognition of intelligent behaviour'"
 categories:
   - open-lab-notebook
 tags:
@@ -27,7 +27,7 @@ gallery:
 ---
 {% include toc title="Open Lab Notebook" %}
 
-This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title *'An evolutionary cognition approach for studying general principles of intelligent behaviour'*
+This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title *'A vigilante intergalactic roustabout scholar (VIRS) approach to the evolutionary cognition of intelligent behaviour'*
 
 In my research, I want to study how nervous systems "in the wild" (as opposed to in the laboratory) are robust and flexible enough to deal with unexpected situations. My goals are: 
 
