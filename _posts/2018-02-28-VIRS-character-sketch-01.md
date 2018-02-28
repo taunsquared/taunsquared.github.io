@@ -15,7 +15,7 @@ tags:
 
 ### CHARACTER SKETCH - THE ARCHITECT
 
-Good with grand ideas and inspiring groups of people, though very humble about herself and more introverted than she presents. Very generous with friends and colleagues, often cheerful. Optimistic about human nature even while raging against the easy ignorance that modern civilization makes convenient. 
+Good with grand ideas and inspiring large groups of people, though very self-deprecating and more introverted than she presents. Very generous with friends and colleagues and often cheerful, but goes through bouts of cynicism when too many take advantage of her generosity and good nature. Enjoys the quiet and wild beauty of rural living but is drawn to cities and the sensation of being part of a super-organism. 
 
 Mother is an herbalist who studies plants useful for space travel (xeno-hydroponics). Father is a farmer specializing in permaculture. Grew up in a small rural community. 
 
@@ -23,7 +23,7 @@ Name: Asoca, or “So”
 
 ### CHARACTER SKETCH - THE ENGINEER
 
-Meticulous worker who prefers working alone because not enough people meet her standard for competence, but is good at managing large projects which require multiple contributors. Picky about everything: food, her friends, and how she spends her time. Pessimistic about human systems but convinced that the destructive tendencies in human nature are the result of generations of indoctrination by a corporate oligarchy. Believes in the ideal role of education to free humans from oppressive indoctrination and to empower humans to live in a society of true equals. 
+Meticulous worker who prefers working alone because not enough people meet her standards for competence, but loves to coordinate ambitious projects with a small group of trusted collaborators. Picky about everything: food, her friends, and how she spends her time. Pessimistic about human systems but convinced that the destructive tendencies in human nature are the result of generations of indoctrination by a corporate oligarchy. Believes in the ideal role of education to free humans from oppressive systems and to empower humans to live in a society of true equals. 
 
 Mother is a mathematician who worked on the ansible but retired to teach high school. Father is an artist activist who has been protesting the application of the ansible for secret government surveillance and military oppression. Grew up in the affluent part of a large urban area. 
 
