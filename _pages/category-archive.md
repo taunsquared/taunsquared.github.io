@@ -1,11 +1,11 @@
 ---
 layout: archive
-permalink: /scribbles/categories/
+permalink: /categories/
 title: "scribbles"
 author_profile: true
 ---
 
-Bits of this and that. 
+Bits of this and that. Posts are grouped by category below. 
 
 {% include group-by-array collection=site.posts field="categories" %}
 
