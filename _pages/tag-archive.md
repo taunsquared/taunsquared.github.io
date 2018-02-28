@@ -1,11 +1,11 @@
 ---
 layout: archive
-permalink: /scribbles/tags/
+permalink: /tags/
 title: "scribbles"
 author_profile: true
 ---
 
-Bits of this and that. 
+Bits of this and that. Posts are grouped by tags below. 
 
 {% include group-by-array collection=site.posts field="tags" %}
 
