@@ -1,5 +1,5 @@
 ---
-title: "VIRS: World building, concept synopsis, and plot draft"
+title: "VIRS: World building, concept summary, and plot draft"
 excerpt: "They are the Benevolent Dictator and the First VIRS. They are the Architect and the Engineer."
 categories:
   - projects
