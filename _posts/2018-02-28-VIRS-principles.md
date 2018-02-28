@@ -1,6 +1,6 @@
 ---
 title: "VIRS: principles and guidelines"
-excerpt: "Vigilante Intergalactic Roustabout Scholars"
+excerpt: "Vigilante Intergalactic Roustabout Scholars -- or, education piracy"
 categories:
   - projects
 tags:
@@ -13,7 +13,7 @@ tags:
   - education
 ---
 
-## Principles and guidelines for VIRSs
+## Vigilante Intergalactic Roustabout Scholars -- or, education piracy
 
 ### First and foremost, a VIRS is a teacher. 
 
