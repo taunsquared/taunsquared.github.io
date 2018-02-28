@@ -1,6 +1,6 @@
 ---
 title: "VIRS: principles and guidelines"
-excerpt: ""
+excerpt: "Vigilante Intergalactic Roustabout Scholars"
 categories:
   - projects
 tags:
