@@ -13,7 +13,7 @@ tags:
   - education
 ---
 
-**CHARACTER SKETCH - THE ARCHITECT**
+### CHARACTER SKETCH - THE ARCHITECT
 
 Good with grand ideas and inspiring groups of people, though very humble about herself and more introverted than she presents. Very generous with friends and colleagues, often cheerful. Optimistic about human nature even while raging against the easy ignorance that modern civilization makes convenient. 
 
@@ -21,7 +21,7 @@ Mother is an herbalist who studies plants useful for space travel (xeno-hydropon
 
 Name: Asoca, or “So”
 
-**CHARACTER SKETCH - THE ENGINEER**
+### CHARACTER SKETCH - THE ENGINEER
 
 Meticulous worker who prefers working alone because not enough people meet her standard for competence, but is good at managing large projects which require multiple contributors. Picky about everything: food, her friends, and how she spends her time. Pessimistic about human systems but convinced that the destructive tendencies in human nature are the result of generations of indoctrination by a corporate oligarchy. Believes in the ideal role of education to free humans from oppressive indoctrination and to empower humans to live in a society of true equals. 
 
