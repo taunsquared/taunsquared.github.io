@@ -25,4 +25,4 @@ The next video shows an example of the data we have collected from this exhibit:
 
 {% include video id="xp6s1gzVNLc" provider="youtube" %}
 
-The exhibit ran its first round of human psychophysics experiments during the summer of 2017. This initial pilot was so successful that the exhibit is now a permanent display at Sea Life Brighton. We plan to use the interactive station for more human psychophysics experiments, which will be documented both here and on the Every Mind Online website. Stay tuned!
+The exhibit ran its first round of human psychophysics experiments during the summer of 2017. This initial pilot was so popular that the exhibit is now a permanent display at Sea Life Brighton. We plan to use the interactive station for more human psychophysics experiments, which will be documented both here and on the [Surprising Minds exhibit website](http://www.everymind.online/SurprisingMinds/). Stay tuned!
