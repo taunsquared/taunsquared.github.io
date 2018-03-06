@@ -17,7 +17,7 @@ tags:
 
 Good with grand ideas and inspiring large groups of people, though very self-deprecating and more introverted than she presents. Very generous with friends and colleagues and often cheerful, but goes through bouts of cynicism when too many take advantage of her generosity and good nature. Enjoys the quiet and wild beauty of rural living but is drawn to cities and the sensation of being part of a super-organism. 
 
-Mother is an herbalist who studies plants useful for space travel (xeno-hydroponics). Father is a farmer specializing in permaculture. Grew up in a small rural community. 
+Mother is an herbalist who studies plants useful for space travel (exo-hydroponics). Father is a farmer specializing in permaculture. Grew up in a small rural community. 
 
 Name: Asoca, or “So”
 
