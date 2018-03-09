@@ -24,6 +24,9 @@ gallery:
   - url: /open-lab-notebook/surprising-minds-brighton/
     image_path: /assets/images/openLabNotebook/SurprisingMinds_header_small.png
     alt: "Surprising Minds at Sea Life Brighton"
+  - url: /brainplay/2018-02-02-theoretical-puzzle-pieces/
+    image_path: /assets/images/brainPlay/LevelsOfAbstractionInBio.gif
+    alt: "Theoretical Puzzle Pieces"
 ---
 {% include toc title="Open Lab Notebook" %}
 
