@@ -10,6 +10,8 @@ tags:
   - neuroscience
   - science art
   - theory
+header: 
+  teaser: "/assets/images/brainPlay/LevelsOfAbstractionInBio.gif"
 ---
 {% include toc title="Theoretical Puzzle Pieces" %}
 
