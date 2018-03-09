@@ -32,7 +32,7 @@ A skier activates their RPR in order to escape an avalanche:
 {% include video provider="youtube" id="ktuOCZrN2OU?t=9s" %}
 
 A person walking down the street activates an RPR in order to avoid getting hit by a car. Notice how 1) the person never stops walking, and 2) they only go as far into the street as they need to in order to avoid the car, because they know that there is still traffic further out in the street. 
-{% include figure image_path="/assets/images/brainPlay/RapidPsychomotorResponse01.gif" alt="Example of a Rapid Psychomotor Response: A person avoids getting hit by a car while continuing to walk casually down the street." caption="A CCTV catches a person deploying a Rapid Psychomotor Response, triggered by a car unexpectedly driving onto the sidewalk."
+{% include figure image_path="/assets/images/brainPlay/RapidPsychomotorResponse01.gif" alt="Example of a Rapid Psychomotor Response: A person avoids getting hit by a car while continuing to walk casually down the street." caption="A CCTV catches a person deploying a Rapid Psychomotor Response, triggered by a car unexpectedly driving onto the sidewalk." %}
 
 A family is hiking along a cliff, when suddenly one of the kids slips and almost falls off the cliff. The dad walking behind her deploys an RPR to grab his daughter and prevent her fall, all while wearing flip flops and with another child on his shoulders, in a completely unfamiliar and new environment. 
 {% include figure image_path="/assets/images/brainPlay/RapidPsychomotorResponse02.gif" alt="Example of a Rapid Psychomotor Response: A dad saves his daughter from falling off a cliff, while carrying another child on his shoulders and wearing flip flops." caption="Video credit to YouTube account HaasAdventures." %}
