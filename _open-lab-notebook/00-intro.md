@@ -81,7 +81,6 @@ An introduction to the Sainsbury Wellcome Centre for Neural Circuits and Behavio
 
 **["Pilot Data, an Aronauts EP"](http://www.danbeekim.org/brainplay/2017-09-14-Pilot-Data-Aronauts-EP/)**: An original set of science songs performed at the 2017 Live Music Symposium at the Francis Crick Institute.
 {% include video provider="youtube" id="0dSHJEOLxBY" %}
-{% include video provider="youtube" id="Zf1H0AgfXY4" %}
 
 **[Wellcome Collection Friday Late Spectacular: Your Reality is Broken](https://wellcomecollection.org/events/friday-late-spectacular-your-reality-broken)**: A "science busking" gig on Friday, 01 December 2017, where I spoke to the general public about my research while wandering the Wellcome Trust Collection. 
 
