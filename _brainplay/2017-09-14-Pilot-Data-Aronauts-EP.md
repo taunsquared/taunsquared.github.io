@@ -7,6 +7,8 @@ tags:
   - Aronauts
   - live music
   - band abstract
+header: 
+  teaser: "/assets/images/brainPlay/Symposium_photo0.png"
 ---
 
 {% include toc icon="music" title="Pilot Data, by Aronauts" %}
@@ -121,6 +123,17 @@ Dress rehearsal:
 
 Our debut at the Crick Live Music Symposium:  
 {% include video provider="youtube" id="Zf1H0AgfXY4" %}
+
+Photos from the Crick Live Music Symposium: 
+{% include figure image_path="/assets/images/brainPlay/Crick_MusicSymposium_17_small1069.png" alt="Bill and I get ready for Aronaut's set at the Crick Live Music Symposium" caption="Bill, who organized the Crick Live Music Symposium, helps us get ready for our set. Photo credit: Donald Bell" %}
+
+{% include figure image_path="/assets/images/brainPlay/Crick_MusicSymposium_17_small1074.png" alt="Goncalo and I during our set." caption="Photo credit: Donald Bell" %}
+
+{% include figure image_path="/assets/images/brainPlay/Crick_MusicSymposium_17_small1075.png" alt="I explain the dance to the cuttlefish song." caption="I explain the dance to the cuttlefish song. Photo credit: Donald Bell" %}
+
+{% include figure image_path="/assets/images/brainPlay/Crick_MusicSymposium_17_small1076.png" alt="Goncalo demonstrates the dance to the cuttlefish song." caption="Goncalo demonstrates the dance to the cuttlefish song. Photo credit: Donald Bell" %}
+
+{% include figure image_path="/assets/images/brainPlay/Crick_MusicSymposium_17_small1078.png" alt="Having fun with science songs!" caption="Having fun with science songs! Photo credit: Donald Bell" %}
 
 ## Discussion
 
