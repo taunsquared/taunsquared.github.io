@@ -15,7 +15,7 @@ header:
 ---
 {% include toc title="Theoretical Puzzle Pieces" %}
 
-I've been trying to make my own graphics to explain some of the theoretical frameworks I'm developing, with the goal of eventually building a framework of general principles for nervous systems. Below are two "theoretical puzzle pieces" that I've drawn in order to help me explain the organization of my thoughts. 
+I've been trying to make my own graphics to explain some of the theoretical frameworks I'm developing, with the goal of eventually building a framework of general principles for nervous systems. Below are some "theoretical puzzle pieces" that I've drawn in order to help me explain the organization of my thoughts. 
 
 ### Levels of Abstraction in Biology
 
