@@ -74,6 +74,9 @@ An explanation of the research goals and interests of the Intelligent Systems la
 An introduction to the Sainsbury Wellcome Centre for Neural Circuits and Behaviour.    
 {% include video provider="youtube" id="Hw2PpkREBVE" %}
 
+A series of short video documentaries about neuroscientists at the Sainsbury Wellcome Centre, Francis Crick Institute, and King's College. Produced by Jake Fairnie, Edward Bracey, and April Cashin-Garbutt.
+{% include video provider="youtube" id="PLQtAFaaG_zzyJHRQfMmBluHeFU48jg0fN" %}
+
 ## Public Engagement
 
 **[Building Bridges project](https://group.sciencemuseum.org.uk/our-work/learning/projects-and-partnerships/building-bridges/)**: A science outreach project at the London Science Museum where I spoke to groups of visiting primary school children about my research. Spring 2017. 
