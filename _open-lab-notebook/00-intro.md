@@ -68,14 +68,18 @@ In my research, I want to study how nervous systems "in the wild" (as opposed to
 
 ## Videos
 
-An explanation of the research goals and interests of the Intelligent Systems lab using only the top "ten-hundred" words in English. 
+In this video, I draw and narrate an explanation of the research goals and interests of the Intelligent Systems lab using only the top "ten-hundred" words in English. 
 {% include video provider="youtube" id="aDSavyoXqhk" %}
 
-An introduction to the Sainsbury Wellcome Centre for Neural Circuits and Behaviour.    
+I was asked to describe on-camera the research we do at the Sainsbury Wellcome Centre for Neural Circuits and Behaviour in this short video introduction. Filmed and edited by [Barry J Gibb](barryjamesgibb.com).    
 {% include video provider="youtube" id="Hw2PpkREBVE" %}
 
-A series of short video documentaries about neuroscientists at the Sainsbury Wellcome Centre, Francis Crick Institute, and King's College. Produced by Jake Fairnie, Edward Bracey, and April Cashin-Garbutt.
-{% include video provider="youtube" id="PLQtAFaaG_zzyJHRQfMmBluHeFU48jg0fN" %}
+I was interviewed for a series of short video documentaries about neuroscientists at the Sainsbury Wellcome Centre, Francis Crick Institute, and King's College. Produced by Jake Fairnie, Edward Bracey, and April Cashin-Garbutt.
+{% include video provider="youtube" id="FZNUaEq_vxs" %}
+{% include video provider="youtube" id="uP25pdVSkoc" %}
+{% include video provider="youtube" id="SAxlzRYxOBE" %}
+{% include video provider="youtube" id="kmrpB39reOM" %}
+{% include video provider="youtube" id="tdT4T0VaKBc" %}
 
 ## Public Engagement
 
