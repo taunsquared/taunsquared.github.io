@@ -17,7 +17,7 @@ tags:
 
 ### First and foremost, a VIRS is a teacher. 
 
-As teachers, VIRSs do not seek violence even while preparing themselves to face it without fear. A VIRS constantly seeks to share knowledge and experience with other VIRSs, or anyone else who demonstrates a desire and commitment to learning. 
+As teachers, VIRSs do not seek violence even while preparing themselves to face it without fear. A VIRS constantly seeks to share knowledge and experience with other VIRSs, or anyone else who demonstrates a desire for and commitment to learning. 
 
 ### Build your own tools. 
 
