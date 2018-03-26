@@ -77,7 +77,7 @@ To contribute to this project, please visit the [Cuttle Shuttle project page](ht
 
 ## Posters
 
-* [Champalimaud Research 2015 Retreat](/assets/images/DanbeeKim_poster_CCUretreat2015.jpg)
+* [Champalimaud Research 2015 Retreat](/assets/images/openLabNotebook/DanbeeKim_poster_CCUretreat2015.jpg)
 
 * [Champalimaud Research 2016 Retreat](/assets/files/DanbeeKim_CuttleShuttle_2016.pdf)
 
