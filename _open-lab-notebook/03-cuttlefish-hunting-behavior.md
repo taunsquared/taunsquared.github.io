@@ -56,10 +56,15 @@ Videos of the experimental sessions can be found online here:
 Below are some initial plots that show the frequency of different hunting events during each cuttlefish's daily session in the Cuttle Shuttle hunting box: 
 
 {% include figure image_path="/assets/images/openLabNotebook/L1-H2013-01EpS_20160906.png" alt="Hunting events by L1-H2013-01, aka Dora" caption="" %}
+
 {% include figure image_path="/assets/images/openLabNotebook/L1-H2013-02EpS_20160906.png" alt="Hunting events by L1-H2013-02, aka Scar" caption="" %}
+
 {% include figure image_path="/assets/images/openLabNotebook/L1-H2013-03EpS_20160906.png" alt="Hunting events by L1-H2013-03, aka Ender" caption="" %}
+
 {% include figure image_path="/assets/images/openLabNotebook/L7-H2013-01EpS_20160906.png" alt="Hunting events by L7-H2013-01, aka Old Tom" caption="" %}
+
 {% include figure image_path="/assets/images/openLabNotebook/L7-H2013-02EpS_20160906.png" alt="Hunting events by L7-H2013-02, aka Plato" caption="" %}
+
 {% include figure image_path="/assets/images/openLabNotebook/L7-H2013-03EpS_20160906.png" alt="Hunting events by L7-H2013-03, aka Blaise" caption="" %}
 
 ### Video analysis
