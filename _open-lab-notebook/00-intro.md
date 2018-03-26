@@ -81,7 +81,7 @@ I was interviewed for a series of short video documentaries about neuroscientist
 {% include video provider="youtube" id="kmrpB39reOM" %}
 {% include video provider="youtube" id="tdT4T0VaKBc" %}
 
-## Public Engagement
+## Live Performances
 
 **[Building Bridges project](https://group.sciencemuseum.org.uk/our-work/learning/projects-and-partnerships/building-bridges/)**: A science outreach project at the London Science Museum where I spoke to groups of visiting primary school children about my research. Spring 2017. 
 {% include figure image_path="/assets/images/openLabNotebook/20170418_BuildingBridgesLondonScienceMuseum_BackyardBrains.jpg" alt="A Backyard Brains pocket electrophysiology box" caption="In the spring of 2017, I spoke to primary school children about my research, with the help of this pocket electrophysiology box (by [Backyard Brains](https://backyardbrains.com))" %}
