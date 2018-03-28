@@ -33,6 +33,10 @@ In this experiment, cuttlefish must hunt for their food 4 days out of 7; their p
 
 * What are the firing dynamics of cuttlefish tentacles?
 
+## Want to get involved?
+
+To contribute to this project, please visit the [Cuttle Shuttle project page](http://www.everymind.online/CuttleShuttle/) at [Every Mind Online](http://www.everymind.online/).
+
 ## Experimental Protocol
 
 The most current draft of my [experimental protocol](/assets/files/ExperimentalProtocol_CuttleShuttle_20160620.pdf).
@@ -70,10 +74,6 @@ Below are some initial plots that show the frequency of different hunting events
 ### Video analysis
 
 Further analysis work on the Cuttle Shuttle video dataset can be found [here](https://github.com/everymind/CuttleShuttle-Analysis). 
-
-## Want to get involved?
-
-To contribute to this project, please visit the [Cuttle Shuttle project page](http://www.everymind.online/CuttleShuttle/) at [Every Mind Online](http://www.everymind.online/).
 
 ## Posters
 
