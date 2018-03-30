@@ -19,7 +19,7 @@ Good with grand ideas and inspiring large groups of people, though very self-dep
 
 Mother is an herbalist who studies plants useful for space travel (exo-hydroponics). Father is a farmer specializing in permaculture. Grew up in a small rural community. 
 
-Name: Asoca, or “So”
+Name: Asoca, or “Soca”
 
 ### CHARACTER SKETCH - THE ENGINEER
 
