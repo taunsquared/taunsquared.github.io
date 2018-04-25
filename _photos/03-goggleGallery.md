@@ -9,7 +9,7 @@ tags:
 header:
   teaser: "assets/images/goggles/10-10-2012_dinner_01.jpg"
 ---
-In January 2011, I co-directed MIT's Musical Theater Guild production of Jekyll & Hyde. During the production, we built a number of steampunk goggles, and I started to where them everywhere. These goggles have traveled with me to numerous countries and over three continents! Whenever anyone asked to check out my goggles, I asked if I could take a picture of them and post it here. 
+In January 2011, I co-directed MIT's Musical Theater Guild production of Jekyll & Hyde. During the production, we built a number of steampunk goggles, and I started to wear them everywhere. These goggles have traveled with me to numerous countries and over three continents! Whenever anyone asked to check out my goggles, I asked if I could take a picture of them and post it here. 
 
 {% include figure image_path="/assets/images/goggles/roast2012.jpg" alt="goggles, 2012/05/04" caption="Steer Roast; 2012" %}
 
