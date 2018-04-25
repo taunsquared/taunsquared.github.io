@@ -11,6 +11,10 @@ header:
 ---
 In January 2011, I co-directed MIT's Musical Theater Guild production of Jekyll & Hyde. During the production, we built a number of steampunk goggles, and I started to wear them everywhere. These goggles have traveled with me to numerous countries and over three continents! Whenever anyone asked to check out my goggles, I asked if I could take a picture of them and post it here. 
 
+{% include figure image_path="/assets/images/goggles/IMAG0460.jpg" alt="goggles, 2011/02/09" caption="Cambridge, USA; 2011" %}
+
+{% include figure image_path="/assets/images/goggles/IMAG0433.jpg" alt="goggles, 2011/02/09" caption="Cambridge, USA; 2011" %}
+
 {% include figure image_path="/assets/images/goggles/roast2012.jpg" alt="goggles, 2012/05/04" caption="Steer Roast; 2012" %}
 
 {% include figure image_path="/assets/images/goggles/IMAG0990.jpg" alt="goggles, 2012/09/05" caption="Lisboa, Portugal; 2012" %}
@@ -37,8 +41,8 @@ In January 2011, I co-directed MIT's Musical Theater Guild production of Jekyll 
 
 {% include figure image_path="/assets/images/goggles/IMAG2871.jpg" alt="goggles, 2014/01/03" caption="Cambridge, USA; 2014" %}
 
+{% include figure image_path="/assets/images/goggles/20150124_232831_WanakaHolidayParkGoggles.jpg" alt="goggles, 2015/01/24" caption="Wanaka, New Zealand; 2015" %}
+
 {% include figure image_path="/assets/images/goggles/20150121_091141_interislandFerrySelfie.jpg" alt="goggles, 2015/01/21" caption="Cook Strait, New Zealand; 2015" %}
 
 {% include figure image_path="/assets/images/goggles/20150128_165136.jpg" alt="goggles, 2015/01/28" caption="Aoraki, New Zealand; 2015" %}
-
-
