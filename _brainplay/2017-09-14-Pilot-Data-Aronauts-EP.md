@@ -85,7 +85,7 @@ make a tripod and throw! \[stick out pinky fingers, then on "throw!" straighten 
 Did you catch, or miss? \[if catch, dance wildly! if miss, return to stealthy sneaky mode]  
 Your pattern is how I know!
 
-Verses: 
+VERSES: 
 
 W eyes, looking side to side,  
 squish to the front when the shrimp's on the run!  
