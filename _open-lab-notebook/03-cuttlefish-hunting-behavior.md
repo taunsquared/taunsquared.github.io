@@ -55,6 +55,10 @@ Videos of the experimental sessions can be found online here:
 
 ## Analysis
 
+### Hunting Behaviour Ethogram
+
+{% include video provider="youtube" id="CgWJwalk8c8" %}
+
 ### Plots
 
 Below are some initial plots that show the frequency of different hunting events during each cuttlefish's daily session in the Cuttle Shuttle hunting box: 
