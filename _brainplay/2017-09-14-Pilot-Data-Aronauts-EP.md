@@ -68,6 +68,35 @@ but masterminds
 of foolin' your sight.
 \[cover eyes, then reveal eyes on "sight"\]
 
+#### song update: 09 May 2018
+
+INTRO/CHORUS: 
+
+*(spoken) Are you ready to hunt? Ok, then!*
+
+*(intro only) The 4 fingers on each hand are 4 of your cuttlefish arms, and your thumbs are your tentacles. These are like your tongue, but cuttlefish each have 2 tentacles in their mouth, and they use those tentacles to hunt! So!*
+
+When you're ready to hunt,  
+Middle arms go up! \[index fingers are steepled in front of the face]  
+sneak sneak sneak sneak, \[wiggle sneakily]  
+stretch stretch stretch stretch! \[stretch while keeping hands over face]  
+Now prepare the tentacles, \[make "llama hands", then put the llamas' chins together]  
+make a tripod and throw! \[stick out pinky fingers, then on "throw!" straighten your arms while pointing with your thumbs]  
+Did you catch, or miss? \[if catch, dance wildly! if miss, return to stealthy sneaky mode]  
+Your pattern is how I know!
+
+Verses: 
+
+W eyes, looking side to side,  
+squish to the front when the shrimp's on the run!  
+A morpheous tangle, got 8 arms to wrangle!  
+No spine, but mastermind of foolin' your sight.   
+
+Chromatic array in their skin is how they betray  
+when they decide whether to attack or hide!
+But when they have a secret, they know how to keep it,
+cuz light they polarize for colorblind eyes!
+
 ### Jackets in June
 
 Jackets in June just ain't my kinda tune for a plump summer.  
