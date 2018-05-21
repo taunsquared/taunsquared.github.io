@@ -1,7 +1,7 @@
 ---
 title: "Open Lab Notebook"
 permalink: /open-lab-notebook/
-excerpt: "This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title *'How the assumptions we make about our brains affect our society and the ways we treat each other'*."
+excerpt: "This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title 'How the assumptions we make about our brains affect our society and the ways we treat each other'."
 categories:
   - open-lab-notebook
 tags:
