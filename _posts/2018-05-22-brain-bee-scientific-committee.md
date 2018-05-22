@@ -12,7 +12,7 @@ tags:
 
 I was recently asked to join the scientific committee for the British Brain Bee! This means I will be helping create the exams and other activities for next year's Brain Bee competition in the UK. 
 
-To introduce myself on the British Brain Bee website, I was asked to create a short personal history.
+To introduce myself on the [British Brain Bee website](https://brainbee-uk.com/?page_id=2385), I was asked to create a short personal history.
 
 {% include figure image_path="/assets/images/scribbles/Danbee Kim personal timeline.png" alt="Danbee Kim's brief personal timeline" caption="To create this timeline, I used the free online graphic design tool website [Canva](https://www.canva.com/)." %}
 
