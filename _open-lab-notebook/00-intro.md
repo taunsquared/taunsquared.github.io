@@ -56,18 +56,18 @@ In my research group, we study how nervous systems "in the wild" (as opposed to 
 {% include video provider="youtube" id="TVzpkTZ-QwM" %}
 
 
-**"The Cuttle Shuttle: Behavior and Learning in Predatory Sepia officinalis (Cephalopoda)."** Presented at the 2017 CephsInAction & CIAC meeting "Cephalopod Science from Biology to Welfare", Heraklion, Crete.  
+**"The Cuttle Shuttle: Behavior and Learning in Predatory Sepia officinalis (Cephalopoda)"** Presented at the 2017 CephsInAction & CIAC meeting "Cephalopod Science from Biology to Welfare", Heraklion, Crete.  
 {% include video provider="youtube" id="CHrMDdK78Sk" %}
 
 
-**["The Power to explore, test, and realize your scientific fantasies."](https://docs.google.com/presentation/d/1DFBbxP-ZavQUYMEbmpesrK9iEtjAFlNhhzzt3jA7duA/edit?usp=sharing)** Presented at the 2017 Champalimaud Centre for the Unknown Student Retreat in Mafra, Portugal.  
+**["The Power to explore, test, and realize your scientific fantasies"](https://docs.google.com/presentation/d/1DFBbxP-ZavQUYMEbmpesrK9iEtjAFlNhhzzt3jA7duA/edit?usp=sharing)** Presented at the 2017 Champalimaud Centre for the Unknown Student Retreat in Mafra, Portugal.  
 {% include figure image_path="/assets/images/openLabNotebook/CCUStudentRetreat2017_Danbee-Goncalo-talk.jpg" alt="Danbee speaks at the CCU 2017 Student Retreat" caption="Image credit to Gonçalo Guiomar" %}
 
-**["Validating Neuroscience Experimental Paradigms Across Species."](http://bit.ly/2EjwHS0)** Presented at a seminar at the N Center of Sungkyunkwan University on February 12, 2018. 
+**["Validating Neuroscience Experimental Paradigms Across Species"](http://bit.ly/2EjwHS0)** Presented at a seminar at the N Center of Sungkyunkwan University on February 12, 2018. 
 {% include figure image_path="/assets/images/openLabNotebook/20180212_Seminar-NCenter-SKKU.jpeg" alt="Danbee gives a seminar at the N Center of Sungkyunkwan University" caption="Image credit to Jinwon Kim" %}
 
 **["How Cuttlefish Play With Light"](https://docs.google.com/presentation/d/1svSPEyjrzCBNwcwkxoUdiA1Lu476pIDYtxHAgCbnLoE/edit?usp=sharing)** Presented at the UCL International Day of Light celebration on May 15, 2018. 
-{% include figure image_path="/assets/images/openLabNotebook/HowCuttlefishPlayWithLight_InternationalDayOfLight2018.png" alt="Danbee talks about cuttlefish at UCL's 2018 International Day of Light celebration." caption="I talked about how cuttlefish see and actively camouflage themselves in their marine home environment."}
+{% include figure image_path="/assets/images/openLabNotebook/HowCuttlefishPlayWithLight_InternationalDayOfLight2018.png" alt="Danbee talks about cuttlefish at UCL's 2018 International Day of Light celebration." caption="I talked about how cuttlefish see and actively camouflage themselves in their marine home environment." %}
 
 ## Videos
 
