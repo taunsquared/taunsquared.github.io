@@ -1,7 +1,7 @@
 ---
 title: "Open Lab Notebook"
 permalink: /open-lab-notebook/
-excerpt: "This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the title 'A vigilante intergalactic roustabout scholar (VIRS) approach to the evolutionary cognition of intelligent behaviour'"
+excerpt: "This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title 'How the assumptions we make about our brains affect our society and the ways we treat each other'."
 categories:
   - open-lab-notebook
 tags:
@@ -30,7 +30,7 @@ gallery:
 ---
 {% include toc title="Open Lab Notebook" %}
 
-This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title *'How the assumptions we make about our brains affect our society and the way we treat each other'*.
+This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title *'How the assumptions we make about our brains affect our society and the ways we treat each other'*.
 
 In my research group, we study how nervous systems "in the wild" (as opposed to in the laboratory) are robust and flexible enough to deal with unexpected situations. Within this area, I study how we imagine and train for the unexpected. My goals are: 
 
@@ -65,6 +65,9 @@ In my research group, we study how nervous systems "in the wild" (as opposed to 
 
 **["Validating Neuroscience Experimental Paradigms Across Species."](http://bit.ly/2EjwHS0)** Presented at a seminar at the N Center of Sungkyunkwan University on February 12, 2018. 
 {% include figure image_path="/assets/images/openLabNotebook/20180212_Seminar-NCenter-SKKU.jpeg" alt="Danbee gives a seminar at the N Center of Sungkyunkwan University" caption="Image credit to Jinwon Kim" %}
+
+**["How Cuttlefish Play With Light"](https://docs.google.com/presentation/d/1svSPEyjrzCBNwcwkxoUdiA1Lu476pIDYtxHAgCbnLoE/edit?usp=sharing)** Presented at the UCL International Day of Light celebration on May 15, 2018. 
+{% include figure image_path="/assets/images/openLabNotebook/HowCuttlefishPlayWithLight_InternationalDayOfLight2018.png" alt="Danbee talks about cuttlefish at UCL's 2018 International Day of Light celebration." caption="I talked about how cuttlefish see and actively camouflage themselves in their marine home environment."}
 
 ## Videos
 
