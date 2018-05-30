@@ -67,7 +67,7 @@ In my research group, we study how nervous systems "in the wild" (as opposed to 
 {% include figure image_path="/assets/images/openLabNotebook/20180212_Seminar-NCenter-SKKU.jpeg" alt="Danbee gives a seminar at the N Center of Sungkyunkwan University" caption="Image credit to Jinwon Kim" %}
 
 **["How Cuttlefish Play With Light"](https://docs.google.com/presentation/d/1svSPEyjrzCBNwcwkxoUdiA1Lu476pIDYtxHAgCbnLoE/edit?usp=sharing)** Presented at the UCL International Day of Light celebration on May 15, 2018. 
-{% include figure image_path="/assets/images/openLabNotebook/HowCuttlefishPlayWithLight_InternationalDayOfLight2018.png" alt="Danbee talks about cuttlefish at UCL's 2018 International Day of Light celebration." caption="I talked about how cuttlefish see and actively camouflage themselves in their marine home environment."%}
+{% include figure image_path="/assets/images/openLabNotebook/HowCuttlefishPlayWithLight_InternationalDayOfLight2018.png" alt="Danbee talks about cuttlefish at UCL's 2018 International Day of Light celebration." caption="I talked about how cuttlefish see and actively camouflage themselves in their marine home environment." %}
 
 ## Videos
 
