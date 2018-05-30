@@ -94,6 +94,9 @@ I was interviewed for a series of short video documentaries about neuroscientist
 
 **[Wellcome Collection Friday Late Spectacular: Your Reality is Broken](https://wellcomecollection.org/events/friday-late-spectacular-your-reality-broken)**: A "science busking" gig on Friday, 01 December 2017, where I spoke to the general public about my research while wandering the Wellcome Trust Collection. 
 
+**[Soapbox Science, London 2018](http://soapboxscience.org/soapbox-science-2018-london/)**: Another event at which I did some "science busking", this time along the South Bank of the Thames! 
+{% include figure image_path="/assets/images/openLabNotebook/CuttlefishDance_SoapboxScience2018.jpg" alt="Everyone dance along to the cuttlefish dance!" caption="I talked about cuttlefish hunting behaviour with the help of laser-cut models (made with assistance from Lory Calcaterra) and an original song and dance about cuttlefish! Photo credit: Chanuki Seresinhe" %}
+
 ## Projects
 
 Below is documentation of my thesis work, in various stages of polish. More thoughts can be found in the "BrainPlay" section of this website. 
