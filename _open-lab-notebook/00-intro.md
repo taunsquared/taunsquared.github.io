@@ -70,7 +70,7 @@ In my research group, we study how nervous systems "in the wild" (as opposed to 
 {% include figure image_path="/assets/images/openLabNotebook/HowCuttlefishPlayWithLight_InternationalDayOfLight2018.png" alt="Danbee talks about cuttlefish at UCL's 2018 International Day of Light celebration." caption="I talked about how cuttlefish see and actively camouflage themselves in their marine home environment." %}
 
 **[Mind Full of Music: The Neuroscience of Music "In The Wild"](https://docs.google.com/presentation/d/1ir7PZBjY3UbBlFqshWBTpID5BYuOaaRuvDsoJzOwMF0/edit?usp=sharing)** Presented at Orchestrating the Brain, a 2018 FitzFest event hosted by the Sainsbury Wellcome Centre and created in collaboration with Dan Bates, Artistic Director of FitzFest. 
-{% include figure image_path="/assets/images/openLabNotebook/MindFullOfMusic_FitzFest2018.jpg" alt="Danbee talks about the Neuroscience of Music 'in the wild'" caption="What is music? When do you listen to music? Why do you listen to music? For me, music is a language; music is coordination; music is participation; and music is personal." %}
+{% include figure image_path="/assets/images/openLabNotebook/MindFullOfMusic_FitzFest2018.jpg" alt="Danbee talks about the Neuroscience of Music 'in the wild'" caption="What is music? When do you listen to music? Why do you listen to music? For me, music is a language; music is coordination; music is participation; and music is personal. Photo credit: April Cashin-Garbutt." %}
 
 ## Videos
 
