@@ -14,7 +14,7 @@ I'm currently a PhD candidate in the 2013 cohort of the International Neuroscien
 
 My [research](/open-lab-notebook/) combines studies of cuttlefish, the philosophy of science, [Perceptual Control Theory](https://en.wikipedia.org/wiki/Perceptual_control_theory), and the evolution of "the brain" throughout time and in many species. In collaboration with [NeuroGears](http://neurogears.org/about-us/), I build interactive art installations that both allow people to participate in field neuroscience experiments, and communicate science in fun and interesting ways. You can learn more at <a href="http://www.everymind.online">Every Mind Online</a>. <br/>
 
-If you would like to get in touch, please email me at danbee at alum dot mit dot edu.
+If you would like to get in touch, please tweet @taunbot or email me at danbee at alum dot mit dot edu.
 
 [Curriculum Vitae](/assets/files/DanbeeKim_cv_20180124.pdf)
 
