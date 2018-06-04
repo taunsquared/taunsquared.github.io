@@ -12,7 +12,7 @@ I spend a lot of time thinking about permaculture, anarchy, circus, and educatio
 
 I'm currently a PhD candidate in the 2013 cohort of the International Neuroscience Doctoral Programme, headquartered at the Champalimaud Centre for the Unknown in Lisboa, Portugal. I joined the Intelligent Systems lab in Sept 2013 and moved with the lab to the Sainsbury Wellcome Centre for Neural Circuits and Behaviour in London, UK in 2015. <br/>
 
-My [research](/open-lab-notebook/) focuses on cuttlefish, philosophy of science, perceptual control theory, and evolutionary cognition. In collaboration with [NeuroGears](http://neurogears.org/about-us/), I build interactive art installations that allow people to participate in neuroscience experiments "in situ" while also teaching the participants a bit about neuroscience and themselves. You can learn more at <a href="http://www.everymind.online">Every Mind Online</a>. <br/>
+My [research](/open-lab-notebook/) combines studies of cuttlefish, the philosophy of science, [Perceptual Control Theory](https://en.wikipedia.org/wiki/Perceptual_control_theory), and the evolution of "the brain" throughout time and in many species. In collaboration with [NeuroGears](http://neurogears.org/about-us/), I build interactive art installations that both allow people to participate in field neuroscience experiments, and communicate science in fun and interesting ways. You can learn more at <a href="http://www.everymind.online">Every Mind Online</a>. <br/>
 
 If you would like to get in touch, please email me at danbee at alum dot mit dot edu.
 
