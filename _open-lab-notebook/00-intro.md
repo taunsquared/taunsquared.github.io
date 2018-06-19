@@ -50,6 +50,8 @@ In my research group, we study how nervous systems "in the wild" (as opposed to 
 
 ["HIVE Tracker: a tiny, low-cost, and scalable device for sub-millimetric 3D positioning"](https://www.researchgate.net/publication/322842913_HIVE_Tracker_a_tiny_low-cost_and_scalable_device_for_sub-millimetric_3D_positioning) Co-written with [Darío R. Quiñones Colomer](https://www.researchgate.net/profile/Dario_R_Colomer), [Gonçalo Lopes](http://neurogears.org/about-us/), and [Cedric Honnet](http://honnet.eu). Published by [Augmented Human 2018](http://www.sigah.org/AH2018/). DOI: 10.1145/3174910.3174935. 
 
+[Why I refuse to do animal testing in my science career](https://massivesci.com/articles/frankenstein-kim-animal-testing/) Published by [MassiveSci.com](https://massivesci.com/pages/about/) on the occassion of the 200th anniversary of Mary Shelley's first publication of Frankenstein. 
+
 ## Presentations
 
 **"What can we learn about brains by studying the movements of bodies?"** Presented at the opening plenary session of the 2<sup>o</sup> Congresso Nacional de Psicomotricidade in Vila Real, Portugal.  
