@@ -50,7 +50,7 @@ In my research group, we study how nervous systems "in the wild" (as opposed to 
 
 ["HIVE Tracker: a tiny, low-cost, and scalable device for sub-millimetric 3D positioning"](https://www.researchgate.net/publication/322842913_HIVE_Tracker_a_tiny_low-cost_and_scalable_device_for_sub-millimetric_3D_positioning) Co-written with [Darío R. Quiñones Colomer](https://www.researchgate.net/profile/Dario_R_Colomer), [Gonçalo Lopes](http://neurogears.org/about-us/), and [Cedric Honnet](http://honnet.eu). Published by [Augmented Human 2018](http://www.sigah.org/AH2018/). DOI: 10.1145/3174910.3174935. 
 
-[Why I refuse to do animal testing in my science career](https://massivesci.com/articles/frankenstein-kim-animal-testing/) Published by [MassiveSci.com](https://massivesci.com/pages/about/) on the occassion of the 200th anniversary of Mary Shelley's first publication of Frankenstein. 
+["Why I refuse to do animal testing in my science career"](https://massivesci.com/articles/frankenstein-kim-animal-testing/) Published by [MassiveSci.com](https://massivesci.com/pages/about/) on the occassion of the 200th anniversary of Mary Shelley's first publication of Frankenstein. 
 
 ## Presentations
 
@@ -71,7 +71,7 @@ In my research group, we study how nervous systems "in the wild" (as opposed to 
 **["How Cuttlefish Play With Light"](https://docs.google.com/presentation/d/1svSPEyjrzCBNwcwkxoUdiA1Lu476pIDYtxHAgCbnLoE/edit?usp=sharing)** Presented at the UCL International Day of Light celebration on May 15, 2018. 
 {% include figure image_path="/assets/images/openLabNotebook/HowCuttlefishPlayWithLight_InternationalDayOfLight2018.png" alt="Danbee talks about cuttlefish at UCL's 2018 International Day of Light celebration." caption="I talked about how cuttlefish see and actively camouflage themselves in their marine home environment." %}
 
-**[Mind Full of Music: The Neuroscience of Music "In The Wild"](https://docs.google.com/presentation/d/1ir7PZBjY3UbBlFqshWBTpID5BYuOaaRuvDsoJzOwMF0/edit?usp=sharing)** Presented at Orchestrating the Brain, a 2018 FitzFest event hosted by the Sainsbury Wellcome Centre and created in collaboration with Dan Bates, Artistic Director of FitzFest. 
+**[Mind Full of Music: The Neuroscience of Music "In The Wild"](https://docs.google.com/presentation/d/1ir7PZBjY3UbBlFqshWBTpID5BYuOaaRuvDsoJzOwMF0/edit?usp=sharing)** Presented at [Orchestrating the Brain](http://blogs.ucl.ac.uk/sainsbury-wellcome-centre/2018/06/11/orchestrating-the-brain/), a 2018 FitzFest event hosted by the Sainsbury Wellcome Centre and created in collaboration with April Cashin-Garbutt, SWC Communications Manager, and Dan Bates, Artistic Director of FitzFest. 
 {% include figure image_path="/assets/images/openLabNotebook/MindFullOfMusic_FitzFest2018.jpg" alt="Danbee talks about the Neuroscience of Music 'in the wild'" caption="What is music? When do you listen to music? Why do you listen to music? For me, music is a language; music is coordination; music is participation; and music is personal. Photo credit: April Cashin-Garbutt." %}
 
 ## Videos
@@ -88,6 +88,9 @@ I was interviewed for a series of short video documentaries about neuroscientist
 {% include video provider="youtube" id="SAxlzRYxOBE" %}
 {% include video provider="youtube" id="kmrpB39reOM" %}
 {% include video provider="youtube" id="tdT4T0VaKBc" %}
+
+I was interviewed after co-hosting and speaking at [Orchestrating the Brain](http://blogs.ucl.ac.uk/sainsbury-wellcome-centre/2018/06/11/orchestrating-the-brain/), a 2018 FitzFest event hosted by the Sainsbury Wellcome Centre and created in collaboration with April Cashin-Garbutt, SWC Communications Manager, and Dan Bates, Artistic Director of FitzFest. Produced by Jake Fairnie and April Cashin-Garbutt. 
+{% include video provider="youtube" id="njGtLvk8Ess"%}
 
 ## Live Performances
 
