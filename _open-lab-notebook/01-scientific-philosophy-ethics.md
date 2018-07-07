@@ -11,7 +11,7 @@ tags:
 ---
 {% include toc title="Philosophy and Ethics" %}
 
-Below are the philosophies and ethics that shape my research pursuits. They were in large part inspired by the [Green Neuroscience Laboratory](http://greenneuro.org/principles/).  
+Below are the philosophies and ethics that shape my research pursuits. They were in large part inspired by the [Green Neuroscience Laboratory](http://greenneuro.org/principles/) and the [universal ethical code for scientists devised in 2007 by David King](http://webarchive.nationalarchives.gov.uk/20070603172611/http://www.dti.gov.uk/science/science-and-society/public_engagement/code/page28030.html), who was the UK government’s chief scientific adviser at the time.  
 
 Please leave your thoughts in the comments below! I'm always open to discussing and improving my understanding and implementation of these ideas.  
 
