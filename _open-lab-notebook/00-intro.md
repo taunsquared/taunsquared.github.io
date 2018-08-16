@@ -1,7 +1,7 @@
 ---
 title: "Open Lab Notebook"
 permalink: /open-lab-notebook/
-excerpt: "This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title 'How the assumptions we make about our brains affect our society and the ways we treat each other'."
+excerpt: "This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title 'How the assumptions we make about brains affect our interactions and our societies'."
 categories:
   - open-lab-notebook
 tags:
@@ -30,7 +30,7 @@ gallery:
 ---
 {% include toc title="Open Lab Notebook" %}
 
-This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title *'How the assumptions we make about our brains affect our society and the ways we treat each other'*.
+This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title *'How the assumptions we make about brains affect our interactions and our societies'*.
 
 In my research group, we study how nervous systems "in the wild" (as opposed to in the laboratory) are robust and flexible enough to deal with unexpected situations. Within this area, I study how we imagine and train for the unexpected. My goals are: 
 
@@ -41,6 +41,8 @@ In my research group, we study how nervous systems "in the wild" (as opposed to 
 * to develop theories and methodologies for field neuroscience, which would complement laboratory neuroscience by verifying the ethological validity of behaviour studies and of humane research techniques; and
 
 * to connect how we study the brain to the subjective experience of living with one.
+
+I am currently recruiting artists to help me produce a graphic novel, which will become part 1 of my written PhD thesis. If you are interested in collaborating, please [check out my flyer](/open-lab-notebook/call-for-artists-graphic-novel-thesis/) for more details on **PAID** illustrator, concept art, and technical scientific drawing gigs to contribute to my thesis! 
 
 ## Writings
 
