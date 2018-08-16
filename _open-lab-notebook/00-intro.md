@@ -42,7 +42,7 @@ In my research group, we study how nervous systems "in the wild" (as opposed to 
 
 * to connect how we study the brain to the subjective experience of living with one.
 
-I am currently recruiting artists to help me produce a graphic novel, which will become part 1 of my written PhD thesis. If you are interested in collaborating, please [check out my flyer](/open-lab-notebook/call-for-artists-graphic-novel-thesis/) for more details on **PAID** illustrator, concept art, and technical scientific drawing gigs to contribute to my thesis! 
+I am currently recruiting artists to help me produce a graphic novel, which will become part 1 of my written PhD thesis. If you are interested in collaborating, please [check out my flyer](http://www.danbeekim.org/open-lab-notebook/call-for-artists-graphic-novel-thesis/) for more details on **PAID** illustrator, concept art, and technical scientific drawing gigs to contribute to my thesis! 
 
 ## Writings
 
