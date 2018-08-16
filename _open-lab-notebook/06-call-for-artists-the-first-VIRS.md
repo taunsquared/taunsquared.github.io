@@ -1,6 +1,6 @@
 ---
 title: "Call for artists to illustrate my graphic novel thesis!"
-permalink: /open-lab-notebook/call-for-artists-graphic-novel-thesis/
+permalink: /call-for-artists-graphic-novel-thesis/
 excerpt: 
 categories:
   - open-lab-notebook
