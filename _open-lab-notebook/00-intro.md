@@ -44,7 +44,7 @@ In my research group, we study how nervous systems "in the wild" (as opposed to 
 
 ## Want to help me create a graphic novel of my PhD thesis?
 
-I am currently recruiting artists to help me produce a graphic novel, which will become part 1 of my written PhD thesis. If you are interested in collaborating, please [check out my flyer](http://www.danbeekim.org/call-for-artists-graphic-novel-thesis/) for more details on **PAID** illustrator, concept art, and technical scientific drawing gigs to contribute to my thesis! 
+I am currently recruiting artists to help me produce a graphic novel, which will become part of my written PhD thesis. If you are interested in collaborating, please [check out my flyer](http://www.danbeekim.org/call-for-artists-graphic-novel-thesis/) for more details on **PAID** illustrator, concept art, and technical scientific drawing gigs to contribute to my thesis! 
 
 ## Writings
 
