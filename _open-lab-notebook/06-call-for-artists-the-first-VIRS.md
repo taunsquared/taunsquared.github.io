@@ -15,15 +15,17 @@ tags:
 ---
 {% include toc title="So you wanna illustrate a neuroscience PhD?" %}
 
-## Calling all visual artists, comic book illustrators, technical drawers, and scientific illustrators!
+## Calling for artists!
 
 Are you a visual artist interested in illustrating a graphic novel about [my neuroscience PhD thesis](http://www.danbeekim.org/open-lab-notebook/), currently titled *'How the assumptions we make about brains affect our interactions and our societies'*? If so, see below for more details on **PAID** illustrator, concept art, and technical scientific drawing gigs to contribute to my thesis! 
 
 {% include figure image_path="/assets/images/openLabNotebook/CallForArtists_p01.png" alt="Call for Artists, flyer page 01" %}
 
+## Plot teaser
+
 {% include figure image_path="/assets/images/openLabNotebook/CallForArtists_p02.png" alt="Call for Artists, flyer page 02" %}
 
-### Deadlines 
+## Deadlines 
 
 **Initial application to join the project: August 31, 2018**
 
