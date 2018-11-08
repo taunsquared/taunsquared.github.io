@@ -45,7 +45,7 @@ My personal opinion is the special sauce is something that creates a personal co
 
 Does that make any sense? :)"
  
-_Many thanks to Matthew Smith from [Double Negative Visual Effects](https://www.dneg.com/reels/)_
+*Many thanks to Matthew Smith from [Double Negative Visual Effects](http://www.dneg.com/reels/)*
 
 
 A bit more about Matthew: <br/>
