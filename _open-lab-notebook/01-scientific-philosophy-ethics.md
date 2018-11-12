@@ -14,7 +14,7 @@ tags:
 Below are the philosophies and ethics that shape my research pursuits. They were in large part inspired by the [Green Neuroscience Laboratory](http://greenneuro.org/principles/). 
 
 I also recommend the following thoughtful guidelines for scientists: 
-* [The European Code of Conduct for Research Integrity](https://www.allea.org/wp-content/uploads/2017/03/ALLEA-European-Code-of-Conduct-for-Research-Integrity-2017-1.pdf), published in 2017 by [ALLEA](https://www.allea.org)
+* [The European Code of Conduct for Research Integrity](https://www.allea.org/wp-content/uploads/2017/03/ALLEA-European-Code-of-Conduct-for-Research-Integrity-2017-1.pdf), published in 2017 by [ALLEA](https://www.allea.org).
 * The [universal ethical code for scientists devised in 2007 by David King](http://webarchive.nationalarchives.gov.uk/20070603172611/http://www.dti.gov.uk/science/science-and-society/public_engagement/code/page28030.html), who was the UK government’s chief scientific adviser at the time.  
 * [Code of Conduct](https://massivesci.com/consortium/resources/code-of-conduct/) and [Community Engagement Guidelines](https://massivesci.com/consortium/resources/community-engagement-guidelines/) by the [Massive Consortium](https://massivesci.com), a community of STEM researchers dedicated to great science stories and to a more supportive, encouraging, and culturally-aware scientific community. 
 
