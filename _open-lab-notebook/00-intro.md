@@ -48,13 +48,13 @@ I am currently recruiting artists to help me produce a graphic novel, which will
 
 ## Writings
 
-["Does modern neuroscience really help us understand behavior?"](https://massivesci.com/articles/neuroscience-behavior-vs-technology/) Co-written with [Gonçalo Lopes](http://neurogears.org/about-us/). Published by [MassiveSci.com](https://massivesci.com/pages/about/).
+["Does modern neuroscience really help us understand behavior?"](https://massivesci.com/articles/neuroscience-behavior-vs-technology/) Co-written with [Gonçalo Lopes](http://neurogears.org/about-us/). Published by [MassiveSci.com](https://massivesci.com/).
 
-["How theater, startup culture, and business history helped us become better neuroscientists"](https://massivesci.com/articles/neuroscience-can-learn-from-theater/) Co-written with [Gonçalo Lopes](http://neurogears.org/about-us/). Published by [MassiveSci.com](https://massivesci.com/pages/about/).
+["How theater, startup culture, and business history helped us become better neuroscientists"](https://massivesci.com/articles/neuroscience-can-learn-from-theater/) Co-written with [Gonçalo Lopes](http://neurogears.org/about-us/). Published by [MassiveSci.com](https://massivesci.com/).
 
 ["HIVE Tracker: a tiny, low-cost, and scalable device for sub-millimetric 3D positioning"](https://www.researchgate.net/publication/322842913_HIVE_Tracker_a_tiny_low-cost_and_scalable_device_for_sub-millimetric_3D_positioning) Co-written with [Darío R. Quiñones Colomer](https://www.researchgate.net/profile/Dario_R_Colomer), [Gonçalo Lopes](http://neurogears.org/about-us/), and [Cedric Honnet](http://honnet.eu). Published by [Augmented Human 2018](http://www.sigah.org/AH2018/). DOI: 10.1145/3174910.3174935. 
 
-["Why I refuse to do animal testing in my science career"](https://massivesci.com/articles/frankenstein-kim-animal-testing/) Published by [MassiveSci.com](https://massivesci.com/pages/about/) on the occassion of the 200th anniversary of Mary Shelley's first publication of Frankenstein. 
+["Why I refuse to do animal testing in my science career"](https://massivesci.com/articles/frankenstein-kim-animal-testing/) Published by [MassiveSci.com](https://massivesci.com/) on the occassion of the 200th anniversary of Mary Shelley's first publication of Frankenstein. 
 
 ## Presentations
 
