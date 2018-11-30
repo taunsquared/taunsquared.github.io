@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2017.6.1)  30 NOV 2018 16:32
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2017.6.1)  30 NOV 2018 18:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -979,24 +979,6 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 (c:/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 ))
-! Illegal parameter number in definition of \blx@defformat@d.
-<to be read again> 
-                   3
-l.290   \ifblank{#3
-                   }{}{#3\space}#1%
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \blx@defformat@d.
-<to be read again> 
-                   3
-l.290   \ifblank{#3}{}{#3
-                         \space}#1%
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
 (c:/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
@@ -1176,14 +1158,14 @@ Package biblatex Info: Reference segment=0 on input line 5.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(142.26378pt, 429.3521pt, 42.67912pt)
+* h-part:(L,W,R)=(136.5733pt, 435.04257pt, 42.67912pt)
 * v-part:(T,H,B)=(56.9055pt, 666.9326pt, 71.13188pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=429.3521pt
+* \textwidth=435.04257pt
 * \textheight=666.9326pt
-* \oddsidemargin=69.99379pt
-* \evensidemargin=69.99379pt
+* \oddsidemargin=64.30331pt
+* \evensidemargin=64.30331pt
 * \topmargin=-15.36449pt
 * \headheight=0.0pt
 * \headsep=0.0pt
@@ -1234,16 +1216,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--67
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--91
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 70--120
 
  []
@@ -1271,7 +1243,7 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 Here is how much of TeX's memory you used:
  37467 strings out of 493068
  715023 string characters out of 6138949
- 1168598 words of memory out of 5000000
+ 1168600 words of memory out of 5000000
  40984 multiletter control sequences out of 15000+600000
  4232 words of font info for 44 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
