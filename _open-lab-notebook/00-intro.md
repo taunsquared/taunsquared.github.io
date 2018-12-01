@@ -21,6 +21,9 @@ gallery:
   - url: /open-lab-notebook/movement-control-across-timescales/
     image_path: assets/images/openLabNotebook/movementControlAcrossTimescales_pilot1.jpg
     alt: "Movement Control Across Timescales"
+  - url: /open-lab-notebook/every-mind-online/
+	image_path: /assets/images/openLabNotebook/WhoWeAre_EveryMindTeam_cropped.png
+	alt: "Every Mind Online"
   - url: /open-lab-notebook/surprising-minds-brighton/
     image_path: /assets/images/openLabNotebook/SurprisingMinds_header_small.png
     alt: "Surprising Minds at Sea Life Brighton"
@@ -55,6 +58,12 @@ I am currently recruiting artists to help me produce a graphic novel, which will
 ["HIVE Tracker: a tiny, low-cost, and scalable device for sub-millimetric 3D positioning"](https://www.researchgate.net/publication/322842913_HIVE_Tracker_a_tiny_low-cost_and_scalable_device_for_sub-millimetric_3D_positioning) Co-written with [Darío R. Quiñones Colomer](https://www.researchgate.net/profile/Dario_R_Colomer), [Gonçalo Lopes](http://neurogears.org/about-us/), and [Cedric Honnet](http://honnet.eu). Published by [Augmented Human 2018](http://www.sigah.org/AH2018/). DOI: 10.1145/3174910.3174935. 
 
 ["Why I refuse to do animal testing in my science career"](https://massivesci.com/articles/frankenstein-kim-animal-testing/) Published by [MassiveSci.com](https://massivesci.com/) on the occassion of the 200th anniversary of Mary Shelley's first publication of Frankenstein. 
+
+## Teaching
+
+Co-organizer for [**Bridging Neuroscience and Embodiment: The Many Bodies of Embodied Cognition**](https://sites.google.com/a/neuro.fchampalimaud.org/embodied-cognition/course-information). Champalimaud Neuroscience Program, Fall 2013 Advanced Course: October 28 - November 1, 2013.
+
+Teaching Assistant for **Intro to Techniques in Neuroscience**. Champalimaud Neuroscience Program, January 2014.
 
 ## Presentations
 
