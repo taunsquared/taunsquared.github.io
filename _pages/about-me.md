@@ -16,7 +16,7 @@ My [research](/open-lab-notebook/) combines studies of cuttlefish, the philosoph
 
 If you would like to get in touch, please tweet @taunbot or email me at danbee at alum dot mit dot edu.
 
-[Curriculum Vitae](/assets/files/DanbeeKim_cv_20180124.pdf)
+[Curriculum Vitae](/assets/files/DanbeeKim_cv_20181201.pdf)
 
 <figure style="width: 320px" class="align-center">
   <img src="/assets/images/certifications/20190521_NOLS_Certification-01.gif" alt="Wilderness First Responder Certification from NOLS Wilderness Medicine">
