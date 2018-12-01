@@ -22,8 +22,8 @@ gallery:
     image_path: assets/images/openLabNotebook/movementControlAcrossTimescales_pilot1.jpg
     alt: "Movement Control Across Timescales"
   - url: /open-lab-notebook/every-mind-online/
-	image_path: /assets/images/openLabNotebook/WhoWeAre_EveryMindTeam_cropped.png
-	alt: "Every Mind Online"
+    image_path: /assets/images/openLabNotebook/WhoWeAre_EveryMindTeam_cropped.png
+    alt: "Every Mind Online"
   - url: /open-lab-notebook/surprising-minds-brighton/
     image_path: /assets/images/openLabNotebook/SurprisingMinds_header_small.png
     alt: "Surprising Minds at Sea Life Brighton"
