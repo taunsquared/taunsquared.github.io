@@ -64,21 +64,21 @@
 \RequirePackage[math-style=TeX]{unicode-math}
 
 \newfontfamily\bodyfont
-[BoldFont=texgyreheros-bold.otf,
-ItalicFont=texgyreheros-italic.otf,
-BoldItalicFont=texgyreheros-bolditalic.otf]
-{texgyreheros-regular.otf}
-\newfontfamily\thinfont[]{Lato-Light.ttf}
-\newfontfamily\headingfont[]{texgyreheros-bold.otf}
+[BoldFont=JosefinSans-Regular.ttf,
+ItalicFont=JosefinSans-LightItalic.ttf,
+BoldItalicFont=JosefinSans-Italic.ttf]
+{JosefinSans-Light.ttf}
+\newfontfamily\thinfont[]{JosefinSans-Thin.ttf}
+\newfontfamily\headingfont[]{AlegreyaSansSC-Medium.ttf}
 
 \defaultfontfeatures{Mapping=tex-text}
 \setmainfont
 [Mapping=tex-text, Color=textcolor,
-BoldFont=texgyreheros-bold.otf,
-ItalicFont=texgyreheros-italic.otf,
-BoldItalicFont=texgyreheros-bolditalic.otf
+BoldFont=JosefinSans-Regular.ttf,
+ItalicFont=JosefinSans-LightItalic.ttf,
+BoldItalicFont=JosefinSans-Italic.ttf
 ]
-{texgyreheros-regular.otf}
+{JosefinSans-Light.ttf}
 
 \setmathfont{texgyreheros-regular.otf}
 %%%
@@ -97,17 +97,17 @@ BoldItalicFont=texgyreheros-bolditalic.otf
 
 \newcommand{\header}[3]{%
   \begin{tikzpicture}[remember picture,overlay]
-    \node [rectangle, fill=fillheader, anchor=north, minimum width=\paperwidth, minimum height=3.5cm] (box) at (current page.north){};
+    \node [rectangle, fill=fillheader, anchor=north, minimum width=\paperwidth, minimum height=3.4cm] (box) at (current page.north){};
     \node [anchor=center] (name) at (box) {%
       \fontsize{32pt}{62pt}\color{header}%
-      {\bodyfont #1}{\thinfont  #2}
+      {\bodyfont #1}{\thinfont #2}
     };
     \node [anchor=north] at (name.south) {%
       \fontsize{13pt}{22pt}\color{header}%
       \thinfont #3%
     };
   \end{tikzpicture}
-  \vspace{2cm}
+  \vspace{1.7cm}
   \vspace{-2\parskip}
 }
 
@@ -140,11 +140,11 @@ BoldItalicFont=texgyreheros-bolditalic.otf
     \LARGE\headingfont\color{headercolor}%
     \@sectioncolor #1%
   }
-  \par\vspace{\parskip}
+  \par\vspace{.1\parskip}
 }
 
 \renewcommand{\subsection}[2]{
-  \par\vspace{.5\parskip}%
+  \par\vspace{.25\parskip}%
   \Large\headingfont\color{headercolor} #2%
   \par\vspace{.25\parskip}%
 }
@@ -164,14 +164,14 @@ BoldItalicFont=texgyreheros-bolditalic.otf
 }
 \renewcommand{\bfseries}{\headingfont\color{headercolor}}
 \newcommand{\entry}[4]{%
-  #1&\parbox[t]{13cm}{%
+  #1&\parbox[t]{14.2cm}{%
 	\textbf{#2}%
 	\hfill%
 	{\footnotesize\addfontfeature{Color=lightgray} #3}\\%
 	#4\vspace{\parsep}%
   }\\}
 \newcommand{\partentry}[5]{%
-	\parbox[t]{13cm}{#5\vspace{\parsep}%
+	\parbox[t]{14.2cm}{#5\vspace{\parsep}%
   }\\}
 
 
@@ -180,14 +180,14 @@ BoldItalicFont=texgyreheros-bolditalic.otf
 %%%%%%%%%%%%%%
 
 \RequirePackage[absolute,overlay]{textpos}
-\setlength{\TPHorizModule}{1cm}
-\setlength{\TPVertModule}{1.1cm}
+\setlength{\TPHorizModule}{0.9cm}
+\setlength{\TPVertModule}{0.95cm}
 \newenvironment{aside}{%
   \let\oldsection\section
   \renewcommand{\section}[1]{
     \par\vspace{\baselineskip}{\Large\headingfont\color{headercolor} ##1}
   }
-  \begin{textblock}{3.8}(0.5, 3.6)
+  \begin{textblock}{3.8}(0.4, 3.6)
   \begin{flushright}
   \obeycr
 }{%
@@ -311,5 +311,5 @@ BoldItalicFont=texgyreheros-bolditalic.otf
 % Other tweaks %
 %%%%%%%%%%%%%%%%
 
-\RequirePackage[left=4.8cm,top=2cm,right=1.5cm,bottom=2.5cm,nohead,nofoot]{geometry}
+\RequirePackage[left=4.5cm,top=2cm,right=0.9cm,bottom=2.5cm,nohead,nofoot]{geometry}
 \RequirePackage{hyperref}
