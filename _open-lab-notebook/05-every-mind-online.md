@@ -11,7 +11,7 @@ tags:
   - MMOSCs
 ---
 
-In May 2017, I launched [Every Mind Online](www.everymind.online), a collaborative open neuroscience research community dedicated to developing MMOSCs, or Massively Multiplayer Open Science Collaborations.
+In May 2017, I launched [Every Mind Online](https://www.everymind.online), a collaborative open neuroscience research community dedicated to developing MMOSCs, or Massively Multiplayer Open Science Collaborations.
 
 The goal of this community is to get **more brains involved in the study of brains**, a first step towards a new way of doing neuroscience research, which embraces the ["measurement problem"](https://en.wikipedia.org/wiki/Measurement_problem) in neuroscience. In other words, if we believe that one cannot capture the full state of a system while one is within or part of that system, how do we study the organ system that lets us study *anything* and *everything*?
 
