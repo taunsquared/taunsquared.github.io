@@ -35,7 +35,7 @@ Studying reactions to the unexpected under traditional laboratory conditions can
 
 Given these challenges, I knew that I needed something more compelling than the conventional formats for scientific communication - the current tensions and distrust between academic scientists, policy makers, and everyone else makes that clear. And a decade of teaching at a summer enrichment camp for children from a mix of socio-economic backgrounds has made me passionate about making cutting-edge science as accessible as possible to everyone. So I threatened to write a graphic novel of my thesis, and Adam called my (not quite) bluff. 
 
-## Some final thoughts from Carl Sagan:
+## Some final thoughts from Carl Sagan
 
 "Real science is as amenable to exciting and engrossing fiction as fake science, and I think it is important to exploit every opportunity to convey scientific ideas in a civilization based upon science but somehow unable to communicate what science is about.
 
