@@ -21,7 +21,7 @@ As part of my PhD thesis in neuroscience, I am collaborating with 17 artists to 
 
 The story has 7 chapters, 7 scientific diagrams, and 3 dream sequences, and I've divided the illustration work amongst these 17 incredibly smart, skilled, and generous humans not only so that we can finish in time for my thesis deadline, but also as a proof-of-concept for the benefits and impact of massive collaborations between artists and scientists. I've been documenting our collaborative process on [this github repository](https://github.com/taunsquared/graphic-novel-thesis), and will publish a methods section in my thesis that details the lessons learned and insights gained from coordinating such a huge project. All told, this graphic novel will consist of about a third of my final thesis document. 
 
-You can find the [full story script here](https://github.com/taunsquared/graphic-novel-thesis), and the [in-progress illustrated pages here](https://www.dropbox.com/sh/a6zzhwkvqngkuzz/AAAvoN1KMmM6ssf3imcDh-fma?dl=0). 
+You can find the [full story script here](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md), and the [in-progress illustrated pages here](https://www.dropbox.com/sh/a6zzhwkvqngkuzz/AAAvoN1KMmM6ssf3imcDh-fma?dl=0). 
 
 ## Why write a science fiction graphic novel as part of your thesis?
 
