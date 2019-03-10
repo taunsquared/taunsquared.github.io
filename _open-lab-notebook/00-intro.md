@@ -30,6 +30,9 @@ gallery:
   - url: /brainplay/2018-02-02-theoretical-puzzle-pieces/
     image_path: /assets/images/brainPlay/LevelsOfAbstractionInBio.gif
     alt: "Theoretical Puzzle Pieces"
+  - url: /graphic-novel-thesis/
+    image_path: /assets/images/openLabNotebook/TheFirstVIRS_book-title_typeset-test-01.jpg
+    alt: "The First V.I.R.S.: a graphic novel thesis"
 ---
 {% include toc title="Open Lab Notebook" %}
 
