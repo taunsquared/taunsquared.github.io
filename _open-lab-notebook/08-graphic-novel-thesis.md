@@ -12,6 +12,8 @@ tags:
   - science-art collaborations
   - science communication
   - public engagement
+header: 
+  image: /assets/images/openLabNotebook/TheFirstVIRS_book-title_typeset-test-01.jpg
 ---
 {% include toc title="The First V.I.R.S.: A graphic novel thesis" %}
 
