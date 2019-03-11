@@ -13,7 +13,7 @@ tags:
   - science communication
   - public engagement
 header: 
-  image: /assets/images/openLabNotebook/TheFirstVIRS_book-title_typeset-test-01.jpg
+  image: /assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_book-title_typeset-test-01.jpg
 ---
 {% include toc title="The First V.I.R.S.: A graphic novel thesis" %}
 
@@ -36,6 +36,26 @@ How brains face the unknown and the unexpected has been the core motivation behi
 Studying reactions to the unexpected under traditional laboratory conditions can be quite challenging, given that laboratories were originally intended to be settings where one reduces and simplifies phenomena in order to examine them in greater detail and under tightly controlled conditions. This is not necessarily a useful strategy to apply to the study of how we deal with the unexpected. Communicating our findings can be even more challenging, as our insights often ride the boundary between science and philosophy, and our explanations tend to work best when prefaced with lengthy historical or experiential contextualization. 
 
 Given these challenges, I knew that I needed something more compelling than the conventional formats for scientific communication - the current tensions and distrust between academic scientists, policy makers, and everyone else makes that clear. And a decade of teaching at a summer enrichment camp for children from a mix of socio-economic backgrounds has made me passionate about making cutting-edge science as accessible as possible to everyone. So I threatened to write a graphic novel of my thesis, and Adam called my (not quite) bluff. 
+
+## Teaser pages
+
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00_typeset-test-01.jpg" alt="Chapter 1 title page" caption="Chapter 1 title page, "The First V.I.R.S.". Art by Xiao Xiao, Lettering by Danbee Kim." %}
+
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p01_typeset-test-01.jpg" alt="Chapter 1, Page 1" caption="Chapter 1, Page 1, "The First V.I.R.S.". Art by Matteo Farinella, Lettering by Danbee Kim." %}
+
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch2_p07_typeset-test-01.jpg" alt="Chapter 2, Page 7" caption="Chapter 2, Page 7, "The First V.I.R.S.". Art by Miguel Montellano, Lettering by Danbee Kim." %}
+
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch3_p09_typeset-test-01.jpg" alt="Chapter 3, Page 9" caption="Chapter 3, Page 9, "The First V.I.R.S.". Art by Graham Marema, Lettering by Danbee Kim." %}
+
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch3_p14_typeset-test-01.jpg" alt="Scientific Diagram Description #3: Major Neurotransmitters" caption="Scientific Diagram Description #3, "The First V.I.R.S.". Graphic Design and Lettering by Danbee Kim." %}
+
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch3_p15_typeset-test-01.jpg" alt="Scientific Diagram #3: Major Neurotransmitters" caption="Scientific Diagram #3, "The First V.I.R.S.". Art by Gil Costa." %}
+
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch4_p03_typeset-test-01.jpg" alt="Chapter 4, Page 3" caption="Chapter 4, Page 3, "The First V.I.R.S.". Art by Julia Zimmerman, Lettering by Danbee Kim." %}
+
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch5_p00_typeset-test.jpg" alt="Chapter 5 title page" caption="Chapter 5 title page, "The First V.I.R.S.". Art by Dominique Duong, Lettering by Danbee Kim." %}
+
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch7_p00_typeset-test-01.jpg" alt="Chapter 7 title page" caption="Chapter 7 title page, "The First V.I.R.S.". Art by Gideon Gerlt, Lettering by Danbee Kim." %}
 
 ## Some final thoughts from Carl Sagan
 
