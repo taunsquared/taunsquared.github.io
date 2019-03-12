@@ -61,7 +61,8 @@ Given these challenges, I knew that I needed something more compelling than the 
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/ACB-images.png" alt="Anncharlott Berglar" caption="Anncharlott Berglar: Scientific Diagram 4 Illustrator and Colourist" %}
 
-Currently, I work in the field of science communication as a freelance scientific/ medical illustrator and Adobe software coach for scientists. In parallel I am studying a Master’s in Knowledge Visualization at the Zurich University of the Arts. My educational background is in the field of the natural sciences. After my undergraduate research project, which was dedicated to the fermentation of cPMP, a molybdenum cofactor (MoCo) precursor used in purified form as substitution therapy for human MoCo deficiency, a rare inherited disease, in the laboratory of Prof. Schwarz, Institute of Biochemistry, University of Cologne, Germany, my research started to focus on vector-borne diseases. For the Master’s I moved to the University of London, King’s College London, UK and worked on the development of a novel nano-scale micellic drug delivery system for the treatment of CNS-stage Human African Trypanosomiasis by means of mouse brain perfusion and biochemical techniques in the laboratory of Dr. Thomas, Pharmaceutical Sciences Research Division. I then continued my research at the Department of Genomes and Genetics, Bacterial Genome Plasticity Unit (directed by Prof. Didier Mazel), Institut Pasteur, Paris, France for my graduate studies under the direction of Dr. Deshmukh Gopaul. Here, I worked on the characterization of a potential apicoplast-targeted recombinase (Pf-Int) in Plasmodium spp. and was able to show via immunofluorescence localization studies in collaboration with Dr. Artur Scherf’s lab at the same institute that Pf-Int co-localized with the apicoplast.
+My educational background is in the field of the natural sciences and I received my PhD in Biology in 2015 from the Institut Pasteur Paris in France.  
+I now work as a freelance scientific illustrator and Adobe software coach for scientists. In parallel I am studying a Master’s in Knowledge Visualization at the Zurich University of the Arts.
 
 Website: [http://www.acb-images.com/](http://www.acb-images.com/)
 
@@ -79,7 +80,10 @@ Gil Costa is a Biologist, born in Sintra, Portugal. He started his professional 
 
 Website: [https://www.gilcosta.com/](https://www.gilcosta.com/)
 
-**Jennifer Deutscher:** Scientific Diagram 5 Illustrator and Colourist  
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/deutscher-portrait.png" alt="Jennifer Deutscher" caption="Jennifer Deutscher: Scientific Diagram 5 Illustrator and Colourist" %} 
+
+Jennifer (Jenn) Deutscher grew up in Phoenix, Arizona, and spent much of her childhood exploring the American West. These travels exposed her to the wonders of the natural world, which is perhaps why she ignored all sound career advice in order to work as a freelance scientific illustrator. She believes all science can be made accessible, engaging, and visually compelling. Aside from her client work, Jenn also publishes a series of weekly illustrated science facts under her online handle, Alithographica. She holds a degree in biological sciences and illustration from New York University as well as a certificate in botanical art and illustration from the New York Botanical Garden, and now resides in Brooklyn with her ever-growing plant collection.
+
 Website: [http://www.alithographica.com/](http://www.alithographica.com/)
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/Dom Duong bio image.jpg" alt="Dominique Duong" caption="Dominique Duong: Chapter 5 title page artist, Chapter 5 Illustrator and Colourist" %}
