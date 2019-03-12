@@ -147,7 +147,7 @@ Xiao Xiao is a multimedia artist and human computer interaction researcher. Her 
 
 Website: [http://portfolio.xiaosquared.com/](http://portfolio.xiaosquared.com/)
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/JuliaZimmerman.JPG" alt="Julia Zimmerman" caption="Julia Zimmerman: Chapter 4 title page artist, Chapter 4 Illustrator and Colourist, Chapter 6 pages 1-8 Illustrator and Colourist" %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/JuliaZimmerman.png" alt="Julia Zimmerman" caption="Julia Zimmerman: Chapter 4 title page artist, Chapter 4 Illustrator and Colourist, Chapter 6 pages 1-8 Illustrator and Colourist" %}
 Julia Zimmerman is an artist and student living in an old house in Vermont with her partner and two cats. She is happy to be involved with the First VIRS project because it explores how intellectual or creative work is the product of multiple people and organizations, and because it attempts to cross some of the silos we haven’t yet figured out how to avoid creating when we specialize. She is generally interested in thought as a resource that takes place outside the individual level, alongside language - across people, time, and organizations - and loves being involved with a project exploring that lens.
 
 Website: [http://juliazimmermanart.com/](http://juliazimmermanart.com/)
