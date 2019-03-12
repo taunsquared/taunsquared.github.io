@@ -48,10 +48,6 @@ In my research group, we study how nervous systems "in the wild" (as opposed to 
 
 * to connect how we study the brain to the subjective experience of living with one.
 
-## Want to help me create a graphic novel of my PhD thesis?
-
-I am currently recruiting artists to help me produce a graphic novel, which will become part of my written PhD thesis. If you are interested in collaborating, please [check out my flyer](http://www.danbeekim.org/call-for-artists-graphic-novel-thesis/) for more details on **PAID** illustrator, concept art, and technical scientific drawing gigs to contribute to my thesis! 
-
 ## Writings
 
 ["Does modern neuroscience really help us understand behavior?"](https://massivesci.com/articles/neuroscience-behavior-vs-technology/) Co-written with [Gonçalo Lopes](http://neurogears.org/about-us/). Published by [MassiveSci.com](https://massivesci.com/).
