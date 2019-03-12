@@ -100,7 +100,7 @@ Website: [https://matteofarinella.com/](https://matteofarinella.com/)
 **Gideon Gerlt:** Graphic Novel title page artist, Chapter 6 pages 9-12 Illustrator and Colourist, Chapter 7 title page artist  
 Website: [https://www.gideongerlt.com/](https://www.gideongerlt.com/)
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/Melissa-artistbio.tif" alt="Melissa Jedrysiak" caption="Melissa Jedrysiak: Scientific Diagram 7 Illustrator and Colourist" %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/Melissa-artistbio.jpg" alt="Melissa Jedrysiak" caption="Melissa Jedrysiak: Scientific Diagram 7 Illustrator and Colourist" %}
 
 Melissa Jedrysiak is a scientific illustrator of Filipina and Polish descent. She was born and raised in Chicago, and she graduated from DePaul University with a B.S. in Biology. In her spare time, she can be found tending to her urban garden, playing soccer, or sipping a cup of delicious tea.
 
