@@ -118,7 +118,7 @@ I’m currently a PhD candidate in the 2013 cohort of the International Neurosci
 My research combines studies of cuttlefish, the philosophy of science, Perceptual Control Theory, and the evolution of “the brain” throughout time and in many species. In collaboration with NeuroGears, I build interactive art installations that both allow people to participate in field neuroscience experiments, and communicate science in fun and interesting ways. You can learn more at Every Mind Online.  
 I spend a lot of time thinking about permaculture, anarchy, circus, and education. I love being in the wilderness, especially in the mountains and by the sea. I’ve co-written and choreographed an original musical called Hack, Punt, Tool (you can watch the 2017 production on YouTube). I train and play as a musician, capoeirista, and VIRS (vigilante intergalactic roustabout scholar).  
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/EmmaLeavitt.jpeg" alt="Emma Leavitt" caption="Emma Leavitt: Dream Sequences Illustrator and Colourist" %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/EmmaLeavitt.jpeg" alt="Emma 'Solei' Leavitt" caption="Emma 'Solei' Leavitt: Dream Sequences Illustrator and Colourist" %}
 
 Solei is a visual artist, muralist and musician living in Boston, MA. Her work on the “Dreams” chapters of *The First V.I.R.S.* is her first foray into graphic novel illustration. When she’s not painting on walls or writing music, Solei runs an arts nonprofit in Boston called Brain Arts Organization, and is the Gallery Director at a community art gallery called the Dorchester Art Project. More of her work can be seen at [https://www.soleiarts.com/](https://www.soleiarts.com/).
 
@@ -128,7 +128,7 @@ Graham Marema is an American digital artist from the blue mountains of East Tenn
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/MiguelMontellano.JPG" alt="Miguel Soler Montellano" caption="Miguel Soler Montellano: Chapter 2 title page artist, Chapter 2 Illustrator and Colourist" %}
 
-Miguel Soler Montellano, was born in Granada, Spain in 1983. He studied fine arts in Granada, Munich (Germany) and Salvador de Bahia (Brasil). He lives and works in Berlin since 2011, where apart from painting and draw, he develops a experimental music project called Automatenfall. He writes about himself in third person.
+Miguel Soler Montellano, was born in Granada, Spain in 1983. He studied fine arts in Granada, Munich (Germany) and Salvador de Bahia (Brasil). He lives and works in Berlin since 2011, where apart from painting and drawing, he develops a experimental music project called Automatenfall. He writes about himself in third person.
 
 Website: [https://www.instagram.com/0kavango/?hl=en](https://www.instagram.com/0kavango/?hl=en)
 
@@ -152,7 +152,7 @@ Website: [http://www.jessowang.com/](http://www.jessowang.com/)
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/xiao_headshot.jpg" alt="Xiao Xiao" caption="Xiao Xiao: Chapter 1 title page artist" %}
 
-Xiao Xiao is a multimedia artist and human computer interaction researcher. Her doctoral research from the Media Lab has been published at academic conferences around the world, including CHI, TEI, SIGGRAPH, and NIME. As multimedia artist, Xiao has presented at venues such as TEDxBoston and the Aspen Ideas Festival. New art works will be on exhibit at the Historic New Orleans Collection in 2019. Deeply curious about the art of learning across domains, Xiao was co-editor and illustrator for the book Inventive Minds: Marvin Minsky on Education, forthcoming with the MIT Press. In her spare time, Xiao practices yoga, paints, and teaches herself how to play the theremin.
+Xiao Xiao is a multimedia artist and human computer interaction researcher. Her doctoral research from the Media Lab has been published at academic conferences around the world, including CHI, TEI, SIGGRAPH, and NIME. As multimedia artist, Xiao has presented at venues such as TEDxBoston and the Aspen Ideas Festival. New art works will be on exhibit at the Historic New Orleans Collection in 2019. Deeply curious about the art of learning across domains, Xiao was co-editor and illustrator for the book *Inventive Minds: Marvin Minsky on Education*, forthcoming with the MIT Press. In her spare time, Xiao practices yoga, paints, and teaches herself how to play the theremin.
 
 Website: [http://portfolio.xiaosquared.com/](http://portfolio.xiaosquared.com/)
 
