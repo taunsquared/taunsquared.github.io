@@ -39,9 +39,9 @@ Given these challenges, I knew that I needed something more compelling than the 
 
 ## Teaser pages
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00_typeset-test-01.jpg" alt="Chapter 1 title page" caption="Chapter 1 title page, 'The First V.I.R.S.'. Art by Xiao Xiao, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00_web.jpg" alt="Chapter 1 title page" caption="Chapter 1 title page, 'The First V.I.R.S.'. Art by Xiao Xiao, Lettering by Danbee Kim." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p01_typeset-test-01.jpg" alt="Chapter 1, Page 1" caption="Chapter 1, Page 1, 'The First V.I.R.S.'. Art by Matteo Farinella, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p01_web.jpg" alt="Chapter 1, Page 1" caption="Chapter 1, Page 1, 'The First V.I.R.S.'. Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch2_p07_typeset-test-01.jpg" alt="Chapter 2, Page 7" caption="Chapter 2, Page 7, 'The First V.I.R.S.'. Art by Miguel Montellano, Lettering by Danbee Kim." %}
 
