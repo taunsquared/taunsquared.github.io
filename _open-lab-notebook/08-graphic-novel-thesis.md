@@ -13,7 +13,7 @@ tags:
   - science communication
   - public engagement
 header: 
-  image: /assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_book-title_typeset-test-01.jpg
+  image: /assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_book-title_web.jpg
 ---
 {% include toc title="The First V.I.R.S.: A graphic novel thesis" %}
 
