@@ -59,7 +59,7 @@ Given these challenges, I knew that I needed something more compelling than the 
 
 ## Project Credits 
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/ACB-images.png" max-width="100px" alt="Anncharlott Berglar" caption="Anncharlott Berglar: Scientific Diagram 4 Illustrator and Colourist" %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/ACB.png" max-width="100px" alt="Anncharlott Berglar" caption="Anncharlott Berglar: Scientific Diagram 4 Illustrator and Colourist" %}
 My educational background is in the field of the natural sciences and I received my PhD in Biology in 2015 from the Institut Pasteur Paris in France.  
 I now work as a freelance scientific illustrator and Adobe software coach for scientists. In parallel I am studying a Master’s in Knowledge Visualization at the Zurich University of the Arts.
 
