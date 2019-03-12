@@ -31,7 +31,7 @@ gallery:
     image_path: /assets/images/brainPlay/LevelsOfAbstractionInBio.gif
     alt: "Theoretical Puzzle Pieces"
   - url: /graphic-novel-thesis/
-    image_path: /assets/images/openLabNotebook/TheFirstVIRS_book-title_web.jpg
+    image_path: /assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_book-title_web.jpg
     alt: "The First V.I.R.S.: a graphic novel thesis"
 ---
 {% include toc title="Open Lab Notebook" %}
