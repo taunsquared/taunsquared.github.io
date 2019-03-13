@@ -71,7 +71,7 @@ With her passion for medicine, design, and art, she founded EMA & D medical gift
 
 Website: [https://www.emmacheng.com/](https://www.emmacheng.com/)
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/GilCosta.jpg" alt="Gil Costa" caption="Gil Costa: Scientific Diagram 3 Illustrator and Colourist" %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/GilCosta.png" alt="Gil Costa" caption="Gil Costa: Scientific Diagram 3 Illustrator and Colourist" %}
 Gil Costa is a Biologist, born in Sintra, Portugal. He started his professional path as a Designer for Science, for both public outreach and communication among scientific peers, after finishing his Neurosciences PhD. He has worked for scientists around the globe designing quality figures for publishing, covers for high impact scientific journals and multiple graphic material for press, events, reports and exhibitions. In his scientific research he studied the field of decision making and acquired skills in behavioural training, neuronal recording and data analysis. This scientific background helps him convey clarity, accuracy and salience to science communication, with a spark of creativity, just to add a bit of flavor. 
 
 Website: [https://www.gilcosta.com/](https://www.gilcosta.com/)
