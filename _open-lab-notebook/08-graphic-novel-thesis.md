@@ -65,7 +65,7 @@ I now work as a freelance scientific illustrator and Adobe software coach for sc
 
 Website: [http://www.acb-images.com/](http://www.acb-images.com/)
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/KuangTingCheng.jpg" alt="Kuang-Ting (Emma) Cheng" caption="Kuang-Ting (Emma) Cheng: Scientific Diagram 2 Illustrator and Colourist" %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/KuangTingCheng.png" alt="Kuang-Ting (Emma) Cheng" caption="Kuang-Ting (Emma) Cheng: Scientific Diagram 2 Illustrator and Colourist" %}
 Dr. Emma Cheng has received professional training in medicine and design. In medicine, she has clinical and industrial experiences in general medicine, rehabilitation, and cosmetic medicine. In design, she has worked on various projects in visual design and UX design. Her artwork has been included in the 2016 Asia illustration collection. She is also one of the winners in the 2015 Hiii illustration competition.  
 With her passion for medicine, design, and art, she founded EMA & D medical gifts shop, to make medical knowledge more accessible to people. Her aspiration is to combine her skills in medicine and design to make the world a better place. With that ambition, she attended a biomedical innovation program in Stanford university in 2017. She is currently a cosmetic medicine doctor and a medical illustrator.
 
@@ -81,7 +81,7 @@ Jennifer (Jenn) Deutscher grew up in Phoenix, Arizona, and spent much of her chi
 
 Website: [http://www.alithographica.com/](http://www.alithographica.com/)
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/Dom Duong bio image.jpg" alt="Dominique Duong" caption="Dominique Duong: Chapter 5 title page artist, Chapter 5 Illustrator and Colourist" %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/DomDuong.png" alt="Dominique Duong" caption="Dominique Duong: Chapter 5 title page artist, Chapter 5 Illustrator and Colourist" %}
 Dominique Duong is an illustrator and comic artist working in London, UK. She graduated with First Class Honours in Illustration & Visual Communication from the University of Westminster.  
 Her work has been published by Imagine FX, The Covent Gardener, Bone & Ink Press, Trawler, AppBox Media and Lise London, among others.  
 Since her illustration career began, she’s worked on editorial and book illustration, theatre set designs, concept art, story-boarding and comics.  
@@ -89,7 +89,7 @@ She’s fascinated by the macabre, surreal and magical, with mythology, fairy ta
 
 Website: [https://domduong.com/](https://domduong.com/)
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/Matteo2017.JPG" alt="Matteo Farinella" caption="Matteo Farinella: Chapter 1 Illustrator and Colourist" %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/MatteoFarinella.png" alt="Matteo Farinella" caption="Matteo Farinella: Chapter 1 Illustrator and Colourist" %}
 Matteo Farinella received a PhD in neuroscience from University College London in 2013. Since then he has been combining his scientific expertise with a life-long passion for drawing, producing educational comics, illustrations and animations. He is the author of Neurocomic (Nobrow 2013) published with the support of the Wellcome Trust, The Senses (Nobrow 2017) and other science comics. He has worked with universities and educational institutions around the world to make science more clear and accessible.
 
 Website: [https://matteofarinella.com/](https://matteofarinella.com/)
@@ -101,7 +101,7 @@ Website: [https://www.gideongerlt.com/](https://www.gideongerlt.com/)
 
 ---
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/Melissa-artistbio.jpg" alt="Melissa Jedrysiak" caption="Melissa Jedrysiak: Scientific Diagram 7 Illustrator and Colourist" %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/MelissaJedrysiak.png" alt="Melissa Jedrysiak" caption="Melissa Jedrysiak: Scientific Diagram 7 Illustrator and Colourist" %}
 Melissa Jedrysiak is a scientific illustrator of Filipina and Polish descent. She was born and raised in Chicago, and she graduated from DePaul University with a B.S. in Biology. In her spare time, she can be found tending to her urban garden, playing soccer, or sipping a cup of delicious tea.
 
 Website: [https://www.melissajedrysiak.com/](https://www.melissajedrysiak.com/)
@@ -111,7 +111,7 @@ Monica Keszler is a recent chemical engineering graduate from Northeastern Unive
 
 Website: [http://willowescapee.wixsite.com/artportfolio](http://willowescapee.wixsite.com/artportfolio)
 
-{% include figure image_path="/assets/images/DanbeeKim.jpg" alt="Danbee 'Tauntaun' Kim" caption="Danbee 'Tauntaun' Kim: Story and Lettering, Scientific Diagram Descriptions, Scientific Diagram 6 Illustrator and Colourist" %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/DanbeeKim.png" alt="Danbee 'Tauntaun' Kim" caption="Danbee 'Tauntaun' Kim: Story and Lettering, Scientific Diagram Descriptions, Scientific Diagram 6 Illustrator and Colourist" %}
 I’m currently a PhD candidate in the 2013 cohort of the International Neuroscience Doctoral Programme, headquartered at the Champalimaud Centre for the Unknown in Lisboa, Portugal. I joined the Intelligent Systems Lab in Sept 2013 and moved with the lab to the Sainsbury Wellcome Centre for Neural Circuits and Behaviour in London, UK in 2015.  
 My research combines studies of cuttlefish, the philosophy of science, Perceptual Control Theory, and the evolution of “the brain” throughout time and in many species. In collaboration with NeuroGears, I build interactive art installations that both allow people to participate in field neuroscience experiments, and communicate science in fun and interesting ways. You can learn more at www.EveryMind.Online.  
 I spend a lot of time thinking about permaculture, anarchy, circus, and education. I love being in the wilderness, especially in the mountains and by the sea. I’ve co-written and choreographed an original musical called Hack, Punt, Tool (you can watch the 2017 production on YouTube). I train and play as a musician, capoeirista, and VIRS (vigilante intergalactic roustabout scholar).  
@@ -137,7 +137,7 @@ Sara is a biomedical illustrator and animator based out of Toronto. Illuminating
 
 Website: [http://www.saravukson.com/](http://www.saravukson.com/)
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/JessoWang_bio-photo.jpg" alt="Jesso Wang" caption="Jesso Wang: Chapter 7 Illustrator and Colourist" %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/JessoWang.png" alt="Jesso Wang" caption="Jesso Wang: Chapter 7 Illustrator and Colourist" %}
 Jesso is an illustrator, vr developer, and apprentice tattoo artist. Transplant from Illinois to New England, plant mom and bicycler. She loves storytelling in all mediums and making art of science.
 
 Website: [http://www.jessowang.com/](http://www.jessowang.com/)
