@@ -142,7 +142,7 @@ Jesso is an illustrator, vr developer, and apprentice tattoo artist. Transplant 
 
 Website: [http://www.jessowang.com/](http://www.jessowang.com/)
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/xiao_headshot.jpg" alt="Xiao Xiao" caption="Xiao Xiao: Chapter 1 title page artist" %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/XiaoXiao.png" alt="Xiao Xiao" caption="Xiao Xiao: Chapter 1 title page artist" %}
 Xiao Xiao is a multimedia artist and human computer interaction researcher. Her doctoral research from the Media Lab has been published at academic conferences around the world, including CHI, TEI, SIGGRAPH, and NIME. As multimedia artist, Xiao has presented at venues such as TEDxBoston and the Aspen Ideas Festival. New art works will be on exhibit at the Historic New Orleans Collection in 2019. Deeply curious about the art of learning across domains, Xiao was co-editor and illustrator for the book *Inventive Minds: Marvin Minsky on Education*, forthcoming with the MIT Press. In her spare time, Xiao practices yoga, paints, and teaches herself how to play the theremin.
 
 Website: [http://portfolio.xiaosquared.com/](http://portfolio.xiaosquared.com/)
