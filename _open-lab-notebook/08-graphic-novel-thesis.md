@@ -59,7 +59,7 @@ Given these challenges, I knew that I needed something more compelling than the 
 
 ## Project Credits 
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/ACB-images.png" max-width="100px" alt="Anncharlott Berglar" caption="Anncharlott Berglar: Scientific Diagram 4 Illustrator and Colourist" %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/ACB-small.png" max-width="100px" alt="Anncharlott Berglar" caption="Anncharlott Berglar: Scientific Diagram 4 Illustrator and Colourist" %}
 My educational background is in the field of the natural sciences and I received my PhD in Biology in 2015 from the Institut Pasteur Paris in France.  
 I now work as a freelance scientific illustrator and Adobe software coach for scientists. In parallel I am studying a Master’s in Knowledge Visualization at the Zurich University of the Arts.
 
@@ -111,7 +111,7 @@ Monica Keszler is a recent chemical engineering graduate from Northeastern Unive
 
 Website: [http://willowescapee.wixsite.com/artportfolio](http://willowescapee.wixsite.com/artportfolio)
 
-{% include figure image_path="/assets/images/DanbeeKim.jpg" alt="Danbee 'Tauntaun' Kim" caption="Danbee 'Tauntaun' Kim: Story and Lettering, Scientific Diagram 6 Illustrator and Colourist" %}
+{% include figure image_path="/assets/images/DanbeeKim.jpg" alt="Danbee 'Tauntaun' Kim" caption="Danbee 'Tauntaun' Kim: Story and Lettering, Scientific Diagram Descriptions, Scientific Diagram 6 Illustrator and Colourist" %}
 I’m currently a PhD candidate in the 2013 cohort of the International Neuroscience Doctoral Programme, headquartered at the Champalimaud Centre for the Unknown in Lisboa, Portugal. I joined the Intelligent Systems Lab in Sept 2013 and moved with the lab to the Sainsbury Wellcome Centre for Neural Circuits and Behaviour in London, UK in 2015.  
 My research combines studies of cuttlefish, the philosophy of science, Perceptual Control Theory, and the evolution of “the brain” throughout time and in many species. In collaboration with NeuroGears, I build interactive art installations that both allow people to participate in field neuroscience experiments, and communicate science in fun and interesting ways. You can learn more at www.EveryMind.Online.  
 I spend a lot of time thinking about permaculture, anarchy, circus, and education. I love being in the wilderness, especially in the mountains and by the sea. I’ve co-written and choreographed an original musical called Hack, Punt, Tool (you can watch the 2017 production on YouTube). I train and play as a musician, capoeirista, and VIRS (vigilante intergalactic roustabout scholar).  
@@ -147,7 +147,7 @@ Xiao Xiao is a multimedia artist and human computer interaction researcher. Her 
 
 Website: [http://portfolio.xiaosquared.com/](http://portfolio.xiaosquared.com/)
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/JuliaZimmerman.JPG" alt="Julia Zimmerman" caption="Julia Zimmerman: Chapter 4 title page artist, Chapter 4 Illustrator and Colourist, Chapter 6 pages 1-8 Illustrator and Colourist" %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/JuliaZimmerman.png" alt="Julia Zimmerman" caption="Julia Zimmerman: Chapter 4 title page artist, Chapter 4 Illustrator and Colourist, Chapter 6 pages 1-8 Illustrator and Colourist" %}
 Julia Zimmerman is an artist and student living in an old house in Vermont with her partner and two cats. She is happy to be involved with the First VIRS project because it explores how intellectual or creative work is the product of multiple people and organizations, and because it attempts to cross some of the silos we haven’t yet figured out how to avoid creating when we specialize. She is generally interested in thought as a resource that takes place outside the individual level, alongside language - across people, time, and organizations - and loves being involved with a project exploring that lens.
 
 Website: [http://juliazimmermanart.com/](http://juliazimmermanart.com/)
