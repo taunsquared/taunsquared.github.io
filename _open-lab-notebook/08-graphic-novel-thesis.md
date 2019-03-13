@@ -132,7 +132,7 @@ An Aerospace engineer by profession, and an artist at heart, I am a Space geek w
 
 Website: [https://www.behance.net/priancart](https://www.behance.net/priancart)
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/SaraVukson.jpeg" alt="Sara Vukson" caption="Sara Vukson: Scientific Diagram 1 Illustrator and Colourist" %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/SaraVukson.png" alt="Sara Vukson" caption="Sara Vukson: Scientific Diagram 1 Illustrator and Colourist" %}
 Sara is a biomedical illustrator and animator based out of Toronto. Illuminating the beauty in the world of science, as well as making the complex interesting rather than intimidating has been a fascination.
 
 Website: [http://www.saravukson.com/](http://www.saravukson.com/)
