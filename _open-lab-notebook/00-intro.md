@@ -7,7 +7,7 @@ categories:
 tags:
   - research
 header:
-  image: /assets/images/openLabNotebook/OpenLabNotebook_header.png
+  image: /assets/images/openLabNotebook/OpenLabNotebook_header-small.jpg
 gallery:
   - url: /open-lab-notebook/scientific-philosophy-ethics/
     image_path: /assets/images/headshot_2017Greece.jpg
