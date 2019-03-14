@@ -17,6 +17,8 @@ header:
 ---
 {% include toc title="The First V.I.R.S.: A graphic novel thesis" %}
 
+**“In 2067, the Global Water Crisis wiped out much of humanity, forcing survivors of the environmental disaster to either flee underground or escape into orbit. Nearly 50 years later, teenager Asoka Morei lives a life of sheltered privilege in a Green Haven, far from the dark, over-crowded rock chambers of the Underground Cities. Asoka is one of the few humans left on the planet who has the means to go above ground, for they are a child of the Biononymous, a cult of bio-synthetic textile engineers and farmers dedicated to a life free from surveillance by the World Government. But when Asoka’s Green Haven is attacked, they must journey with their mechapet into the Red Zone, to find a mysterious people who might be re-growing the decimated Amazon Rainforest.”**
+
 ## What do you mean, a graphic novel thesis?
 
 As part of my PhD thesis in neuroscience, I am collaborating with 18 artists to create a [hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction) graphic novel, which tells the story of Asoka Morei, a teenager living 100 years in the future. After their home, a Green Haven, is destroyed, they embark on a journey to try to prevent a similar fate from befalling a mysterious group of people re-growing the decimated Amazon forest. 
