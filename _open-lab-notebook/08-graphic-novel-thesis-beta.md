@@ -184,9 +184,9 @@ I immediately shared the project's github repository where I had been writing th
 
 The directors came back to us with their verdict a few days later: 
 
-"In considering the justification you have provided, we have decided that:  
-  1. The funds for scientific illustrations used in your thesis and in any subsequent research publications are supportable (£480 in your recent budget request)
-  2. The graphic novel work and related character and dream sequence development is not research activity and thus is not a valid research expense and cannot be provided via Adam’s budget."
+> "In considering the justification you have provided, we have decided that:  
+>   1. The funds for scientific illustrations used in your thesis and in any subsequent research publications are supportable (£480 in your recent budget request)
+>   2. The graphic novel work and related character and dream sequence development is not research activity and thus is not a valid research expense and cannot be provided via Adam’s budget."
 
 Given how much illustration work was already done (one artist had already completed all illustration and colouring work), and the rapidly approaching submission date for my PhD thesis, I tried to appeal the directors' decision. I asked University College of London, our institute's host university, for a letter of support. Helen Craig, a public engagement advisor whom I met when I was awarded a UCL Train and Engage fellowship last year, kindly wrote the following letter on behalf of the UCL Culture department: 
 
@@ -225,6 +225,7 @@ Adam also made a written statement of his view of the project in the following e
 > Adam"
 
 Unfortunately, even after receiving these statements, the directors have continued to veto Adam's desire to support this project with his lab budget, and have made it clear that group leaders at our institute do not have the autonomy to direct their own funding as they choose. 
+
 Given such a harsh stance by our academic institution, and with the encouragement of many of our colleagues, Adam and I have decided to ask our wider community of collaborators and supporters for help. We will be launching a crowdfunding campaign to raise the money necessary to pay our artist collaborators what they were promised when they first signed onto the project - a reasonable compensation for their time and skills. If you would like to help us meet this goal, please join our mailing list to get updates on the crowdfunding campaign, and THANK YOU SO MUCH, from all of us working on *The First V.I.R.S.*!
 
 
