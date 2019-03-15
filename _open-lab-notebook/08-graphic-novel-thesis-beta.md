@@ -27,7 +27,7 @@ This project was initially approved in May 2018 for funding through the research
 
 Do you also feel passionate about making science and technology more accessible and engaging to non-academics? Want to help us properly compensate these artists for their beautiful work and perseverance? Join our mailing list, and help us get ready for our crowdfunding campaign!
 
-*V.I.R.S. = Vigilante Intergalactic Roustabout Scholar*
+* *V.I.R.S. = Vigilante Intergalactic Roustabout Scholar*
 
 ## Teaser pages
 
