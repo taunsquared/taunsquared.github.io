@@ -27,6 +27,8 @@ This project was initially approved in May 2018 for funding through the research
 
 Do you also feel passionate about making science and technology more accessible and engaging to non-academics? Want to help us properly compensate these artists for their beautiful work and perseverance? **[Join our mailing list](https://mailchi.mp/682159c5e6f4/thefirstvirs), and help us get ready for our crowdfunding campaign!**
 
+<button name="button" onclick="https://mailchi.mp/682159c5e6f4/thefirstvirs">Become a supporter! Join our mailing list!</button>
+
 ## Teaser pages
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00_web.jpg" alt="Chapter 1 title page" caption="Chapter 1 title page, 'The First V.I.R.S.'. Art by Xiao Xiao, Lettering by Danbee Kim." %}
