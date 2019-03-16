@@ -25,7 +25,9 @@ I'm communicating my research through a graphic novel because I want to **make s
 
 This project was initially approved in May 2018 for funding through the research budget of the Intelligent Systems Lab, led by my thesis advisor Adam Kampff. However, the directors of our research institute vetoed Adam’s decision 5 months after the work began, when much of the illustration was already completed. Thankfully, my collaborators are unfazed in their determination to bring this story to life – but they are humans too, and they need to pay rent like everyone else. So we’ve have decided to ask you, our community, to help us pay these amazing illustrators. 
 
-Do you also feel passionate about making science and technology more accessible and engaging to non-academics? Want to help us properly compensate these artists for their beautiful work and perseverance? **[Join our mailing list](http://eepurl.com/gkXmLP), and help us get ready for our crowdfunding campaign!**
+Do you also feel passionate about making science and technology more accessible and engaging to non-academics? Want to help us properly compensate these artists for their beautiful work and perseverance? 
+
+**[JOIN OUR MAILING LIST](http://eepurl.com/gkXmLP) to help us raise the money necessary to pay our artist collaborators what they were promised when they first signed onto the project - a reasonable compensation for their time and skills. You'll also be the first to get updates on the project and our crowdfunding campaign!**
 
 ## Teaser pages
 
@@ -224,7 +226,7 @@ Adam also made a written statement of his view of the project in the following e
 
 Unfortunately, even after receiving these statements, the directors have continued to veto Adam's desire to support this project with his lab budget, and have made it clear that group leaders at our institute do not have the autonomy to direct their own funding as they choose. 
 
-Given such a harsh stance by our academic institution, and with the encouragement of many of our colleagues, Adam and I have decided to ask our wider community of collaborators and supporters for help. We will be launching a crowdfunding campaign to raise the money necessary to pay our artist collaborators what they were promised when they first signed onto the project - a reasonable compensation for their time and skills. If you would like to help us meet this goal, please join our mailing list to get updates on the crowdfunding campaign, and THANK YOU SO MUCH, from all of us working on *The First V.I.R.S.*!
+Given such a harsh stance by our academic institution, and with the encouragement of many of our colleagues, Adam and I have decided to ask our wider community of collaborators and supporters for help. We will be launching a crowdfunding campaign to raise the money necessary to pay our artist collaborators what they were promised when they first signed onto the project - a reasonable compensation for their time and skills. If you would like to help us meet this goal, please [JOIN OUR MAILING LIST](http://eepurl.com/gkXmLP) to get updates on the crowdfunding campaign, and THANK YOU SO MUCH, from all of us working on *The First V.I.R.S.*!
 
 
 ## Project License
