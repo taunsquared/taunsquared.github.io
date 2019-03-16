@@ -27,7 +27,7 @@ This project was initially approved in May 2018 for funding through the research
 
 Do you also feel passionate about making science and technology more accessible and engaging to non-academics? Want to help us properly compensate these artists for their beautiful work and perseverance? 
 
-**[JOIN OUR MAILING LIST](http://eepurl.com/gkXmLP) to help us raise the money necessary to pay our artist collaborators what they were promised when they first signed onto the project - a reasonable compensation for their time and skills. You'll also be the first to get updates on the project and our crowdfunding campaign!**
+**[JOIN OUR MAILING LIST](http://eepurl.com/gkXmLP) to help us raise the money necessary to pay our artist collaborators what they were promised when they first signed onto the project - a reasonable compensation for their time and skills.** You'll also be the first to get updates on the project and our crowdfunding campaign!
 
 {% include video id="DWFmWfLHAlY" provider="youtube" %}
 
