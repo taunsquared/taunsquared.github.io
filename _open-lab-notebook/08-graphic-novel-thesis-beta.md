@@ -19,8 +19,6 @@ header:
 
 ***“In 2067, the Global Water Crisis wiped out much of humanity, forcing survivors to either flee underground or escape into orbit. Nearly 50 years later, teenager Asoka Morei lives a life of sheltered privilege in a Green Haven, far from the dark, over-crowded rock chambers of the Underground Cities. But when Asoka’s Home is attacked, they must journey with their mechapet into the Red Zone, to find a mysterious people who might be re-growing the decimated Amazon Rainforest.”***
 
-{% include video id="DWFmWfLHAlY" provider="youtube" %}
-
 Hi everyone! My name is Danbee Kim, and I’m collaborating with **17 amazing artists** to create ***The First VIRS*** ([Vigilante Intergalactic Roustabout Scholar](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)), a hard science fiction graphic novel thesis that **combines my neuroscience PhD research with a speculation on how the next 100 years might play out,** given our current intellectual, environmental, and socio-political landscape. 
 
 I'm communicating my research through a graphic novel because I want to **make science and technology topics more accessible to young people (and any other science-curious, comic-loving human!).** I've developed the story plot with the help of my labmates, other research colleagues, science fiction writers, and countless friends, who all lent their enormous diversity of expertise to a project that we hope demonstrates **the power of art to help experts across specialities collaborate and share insights.** 
@@ -30,6 +28,8 @@ This project was initially approved in May 2018 for funding through the research
 Do you also feel passionate about making science and technology more accessible and engaging to non-academics? Want to help us properly compensate these artists for their beautiful work and perseverance? 
 
 **[JOIN OUR MAILING LIST](http://eepurl.com/gkXmLP) to help us raise the money necessary to pay our artist collaborators what they were promised when they first signed onto the project - a reasonable compensation for their time and skills. You'll also be the first to get updates on the project and our crowdfunding campaign!**
+
+{% include video id="DWFmWfLHAlY" provider="youtube" %}
 
 ## Teaser pages
 
