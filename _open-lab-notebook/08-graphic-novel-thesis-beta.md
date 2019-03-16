@@ -1,5 +1,5 @@
 ---
-title: "*The First V.I.R.S.*: A graphic novel thesis"
+title: "*The First VIRS*: A graphic novel thesis"
 permalink: /graphic-novel-thesis/beta
 excerpt: 
 categories:
@@ -15,19 +15,17 @@ tags:
 header: 
   image: /assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_book-title_web-header.png
 ---
-{% include toc title="The First V.I.R.S.: A graphic novel thesis" %}
+{% include toc title="The First VIRS: A graphic novel thesis" %}
 
-**“In 2067, the Global Water Crisis wiped out much of humanity, forcing survivors of the environmental disaster to either flee underground or escape into orbit. Nearly 50 years later, teenager Asoka Morei lives a life of sheltered privilege in a Green Haven -- they are one of the few humans left on the planet who has the means to go above ground, to escape from the dark, over-crowded rock chambers of the Underground Cities. But when Asoka’s Green Haven is attacked, they must journey with their mechapet into the Red Zone, to find a mysterious people who might be re-growing the decimated Amazon Rainforest.”**
+**“In 2067, the Global Water Crisis wiped out much of humanity, forcing survivors to either flee underground or escape into orbit. Nearly 50 years later, teenager Asoka Morei lives a life of sheltered privilege in a Green Haven, far from the dark, over-crowded rock chambers of the Underground Cities. But when Asoka’s Home is attacked, they must journey with their mechapet into the Red Zone, to find a mysterious people who might be re-growing the decimated Amazon Rainforest.”**
 
-Hi everyone! My name is Danbee Kim, and I’m collaborating with 17 artists to create *The First V.I.R.S.*, a hard science fiction graphic novel thesis that combines my neuroscience PhD research with a speculation on how the next 100 years might play out, given our current intellectual, environmental, and socio-political landscape. 
+Hi everyone! My name is Danbee Kim, and I’m collaborating with 17 amazing artists to create *The First VIRS* ([Vigilante Intergalactic Roustabout Scholar](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)), a hard science fiction graphic novel thesis that combines my neuroscience PhD research with a speculation on how the next 100 years might play out, given our current intellectual, environmental, and socio-political landscape. 
 
-By using the comic format and science fiction genre to communicate my research, I hope I can help make science and technology topics more accessible to young people (and any other science-curious, comic-loving human!). By collaborating with 17 illustrators coming from an incredible range of backgrounds, including linguistics, medicine, and aerospace engineering, I hope to demonstrate the power of art to help experts across specialities collaborate and share insights. 
+By communicating my research through a graphic novel, I hope to make science and technology topics more accessible to young people (and any other science-curious, comic-loving human!). I've developed the story plot with the help of my labmates, other research colleagues, local science fiction writers, and countless friends, who have lent their enormous diversity of expertise to a project that we hope demonstrates the power of art to help experts across specialities collaborate and share insights. 
 
 This project was initially approved in May 2018 for funding through the research budget of the Intelligent Systems Lab, led by my thesis advisor Adam Kampff. However, the directors of our research institute vetoed Adam’s decision 5 months after the work began, when much of the illustration was already completed. Thankfully, my collaborators are unfazed in their determination to bring this story to life – but they are humans too, and they need to pay rent like everyone else. So we’ve have decided to ask you, our community, to help us pay these amazing illustrators. 
 
-Do you also feel passionate about making science and technology more accessible and engaging to non-academics? Want to help us properly compensate these artists for their beautiful work and perseverance? Join our mailing list, and help us get ready for our crowdfunding campaign!
-
-*note: "V.I.R.S." stands for [Vigilante Intergalactic Roustabout Scholar](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)*
+Do you also feel passionate about making science and technology more accessible and engaging to non-academics? Want to help us properly compensate these artists for their beautiful work and perseverance? **[Join our mailing list](https://mailchi.mp/682159c5e6f4/thefirstvirs), and help us get ready for our crowdfunding campaign!**
 
 ## Teaser pages
 
@@ -41,7 +39,7 @@ Do you also feel passionate about making science and technology more accessible 
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch3_p14_web.jpg" alt="Scientific Diagram Description #3: Major Neurotransmitters" caption="Scientific Diagram Description #3, 'The First V.I.R.S.'. Graphic Design and Lettering by Danbee Kim." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch3_p15_web.jpg" alt="Scientific Diagram #3: Major Neurotransmitters" caption="Scientific Diagram #3, 'The First V.I.R.S.'. Art by Gil Costa." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch3_p15_web.jpg" alt="Scientific Diagram #3: Major Neurotransmitters" caption="Scientific Diagram #3: Major Neurotransmitters, 'The First V.I.R.S.'. Art by Gil Costa." %}
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch4_p03_web.jpg" alt="Chapter 4, Page 3" caption="Chapter 4, Page 3, 'The First V.I.R.S.'. Art by Julia Zimmerman, Lettering by Danbee Kim." %}
 
