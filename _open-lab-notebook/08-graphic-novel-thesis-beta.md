@@ -25,7 +25,7 @@ By communicating my research through a graphic novel, I hope to make science and
 
 This project was initially approved in May 2018 for funding through the research budget of the Intelligent Systems Lab, led by my thesis advisor Adam Kampff. However, the directors of our research institute vetoed Adam’s decision 5 months after the work began, when much of the illustration was already completed. Thankfully, my collaborators are unfazed in their determination to bring this story to life – but they are humans too, and they need to pay rent like everyone else. So we’ve have decided to ask you, our community, to help us pay these amazing illustrators. 
 
-Do you also feel passionate about making science and technology more accessible and engaging to non-academics? Want to help us properly compensate these artists for their beautiful work and perseverance? **[Join our mailing list](https://mailchi.mp/682159c5e6f4/thefirstvirs), and help us get ready for our crowdfunding campaign!**
+Do you also feel passionate about making science and technology more accessible and engaging to non-academics? Want to help us properly compensate these artists for their beautiful work and perseverance? **[Join our mailing list](https://mailchi.mp/beced9f6b7d2/thefirstvirs), and help us get ready for our crowdfunding campaign!**
 
 ## Teaser pages
 
