@@ -27,7 +27,7 @@ This project was initially approved in May 2018 for funding through the research
 
 Do you also feel passionate about making science and technology more accessible and engaging to non-academics? Want to help us properly compensate these artists for their beautiful work and perseverance? **[Join our mailing list](https://mailchi.mp/beced9f6b7d2/thefirstvirs), and help us get ready for our crowdfunding campaign!**
 
-<button type="button" class="btn btn-primary btn-block" onclick="https://mailchi.mp/682159c5e6f4/thefirstvirs">Become a supporter! Join our mailing list!</button> 
+<button name="button" onclick="https://mailchi.mp/682159c5e6f4/thefirstvirs">Become a supporter! Join our mailing list!</button> 
 
 ## Teaser pages
 
