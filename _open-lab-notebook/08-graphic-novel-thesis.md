@@ -1,6 +1,6 @@
 ---
 title: "*The First V.I.R.S.*: A graphic novel thesis"
-permalink: /graphic-novel-thesis/
+permalink: /VIRS
 excerpt: 
 categories:
   - open-lab-notebook
