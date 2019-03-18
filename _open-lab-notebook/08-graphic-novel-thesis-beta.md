@@ -123,7 +123,7 @@ Melissa Jedrysiak is a scientific illustrator of Filipina and Polish descent. Sh
 Website: [https://www.melissajedrysiak.com/](https://www.melissajedrysiak.com/)
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/MonicaKeszler.png" alt="Monica Keszler" caption="Monica Keszler: Chapter 3 title page artist" %}
-Monica Keszler is a recent chemical engineering graduate from Northeastern University and a freelance educational comic artist. She contributes quarterly pedagogical comics to the journal of Chemical Engineering Education and has spent several years collaborating and developing educational comics with students and faculty at Northeastern University. She has also written and illustrated her own children's book, *Kira Kiwi, How Will School Be?*, focusing on the importance of diversity and acceptance. She works full-time in materials engineering research and development and hopes to one day join the pursuit of creating sustainable plastic alternatives.
+Monica Keszler is a recent chemical engineering graduate from Northeastern University and a freelance educational comic artist. She contributes quarterly pedagogical comics to the journal of Chemical Engineering Education and has spent several years collaborating and developing educational comics with students and faculty at Northeastern University. She has also written and illustrated her own children's book, *Kira Kiwi, How Will School Be?*, focusing on the importance of diversity and acceptance. She works full-time in materials engineering research and development, and hopes to one day join the pursuit of creating sustainable plastic alternatives.
 
 Website: [http://willowescapee.wixsite.com/artportfolio](http://willowescapee.wixsite.com/artportfolio)
 
