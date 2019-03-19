@@ -17,7 +17,7 @@ header:
 ---
 {% include toc title="The First VIRS: A graphic novel thesis" %}
 
-***“In 2067, the Global Water Crisis wiped out much of humanity, forcing survivors to either flee underground or escape into orbit. Nearly 50 years later, teenager Asoka Morei lives a life of sheltered privilege in a Green Haven, far from the dark, over-crowded rock chambers of the Underground Cities. But when Asoka’s Home is attacked, they must journey with their mechapet into the Red Zone, to find a mysterious people who might be re-growing the decimated Amazon Rainforest.”***
+***“In 2067, the Global Water Crisis wiped out much of humanity, forcing survivors to either flee underground or escape into orbit. Nearly 50 years later, teenager Asoka Morei lives a life of sheltered privilege in a Green Haven, far from the dark, over-crowded rock chambers of the Underground Cities. But when Asoka’s Home is attacked, they must journey into the Red Zone to find a mysterious people who might be re-growing the decimated Amazon Rainforest.”***
 
 Hi everyone! My name is Danbee Kim, and I’m collaborating with **17 amazing artists** to create ***The First VIRS*** ([Vigilante Intergalactic Roustabout Scholar](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)), a hard science fiction graphic novel that **combines my neuroscience PhD research with a speculation on how the next 100 years might play out,** given our current intellectual, environmental, and socio-political landscape. This novel will be included in my PhD thesis as a demonstration of the theoretical principles I explore with my research, and both my full thesis and the graphic novel will be made freely viewable online and as a downloadable pdf file. 
 
@@ -71,7 +71,7 @@ How brains face the unknown and the unexpected has been the core motivation behi
 
 Studying reactions to the unexpected under traditional laboratory conditions can be quite challenging, given that laboratories were originally intended to be settings where one reduces and simplifies phenomena in order to examine them in greater detail and under tightly controlled conditions. This is not necessarily a useful strategy to apply to the study of how we deal with the unexpected. Communicating our findings can be even more challenging, as our insights often ride the boundary between science and philosophy, and our explanations tend to work best when prefaced with lengthy historical or experiential contextualization. 
 
-Given these challenges, I knew that I needed something more compelling than the conventional formats for scientific communication - the current tensions and distrust between academic scientists, policy makers, and everyone else makes that clear. So I threatened to write a graphic novel of my thesis, and Adam called my (not quite) bluff. 
+Given these challenges, my advisor and I realised that our research needs a more compelling format than the conventional academic article - the current tensions and distrust between academic scientists, policy makers, and everyone else makes that clear. So I threatened to write a graphic novel of my thesis, and Adam called my (not quite) bluff. 
 
 ## Project Credits 
 
