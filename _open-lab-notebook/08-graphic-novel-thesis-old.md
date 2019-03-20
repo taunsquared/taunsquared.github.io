@@ -29,23 +29,23 @@ We also want this graphic novel to **start conversations about science, society,
 
 ## Teaser pages
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00_web.jpg" alt="Chapter 1 title page" caption="Chapter 1 title page, 'The First V.I.R.S.'. Art by Xiao Xiao, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00_web.jpg" alt="Chapter 1 title page" caption="Chapter 1 title page, 'The First VIRS'. Art by Xiao Xiao, Lettering by Danbee Kim." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p01_web.jpg" alt="Chapter 1, Page 1" caption="Chapter 1, Page 1, 'The First V.I.R.S.'. Art by Matteo Farinella, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p01_web.jpg" alt="Chapter 1, Page 1" caption="Chapter 1, Page 1, 'The First VIRS'. Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch2_p07_web.jpg" alt="Chapter 2, Page 7" caption="Chapter 2, Page 7, 'The First V.I.R.S.'. Art by Miguel Montellano, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch2_p07_web.jpg" alt="Chapter 2, Page 7" caption="Chapter 2, Page 7, 'The First VIRS'. Art by Miguel Montellano, Lettering by Danbee Kim." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch3_p09_web.jpg" alt="Chapter 3, Page 9" caption="Chapter 3, Page 9, 'The First V.I.R.S.'. Art by Graham Marema, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch3_p09_web.jpg" alt="Chapter 3, Page 9" caption="Chapter 3, Page 9, 'The First VIRS'. Art by Graham Marema, Lettering by Danbee Kim." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch3_p14_web.jpg" alt="Scientific Diagram Description #3: Major Neurotransmitters" caption="Scientific Diagram Description #3, 'The First V.I.R.S.'. Graphic Design and Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch3_p14_web.jpg" alt="Scientific Diagram Description #3: Major Neurotransmitters" caption="Scientific Diagram Description #3, 'The First VIRS'. Graphic Design and Lettering by Danbee Kim." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch3_p15_web.jpg" alt="Scientific Diagram #3: Major Neurotransmitters" caption="Scientific Diagram #3, 'The First V.I.R.S.'. Art by Gil Costa." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch3_p15_web.jpg" alt="Scientific Diagram #3: Major Neurotransmitters" caption="Scientific Diagram #3, 'The First VIRS'. Art by Gil Costa." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch4_p03_web.jpg" alt="Chapter 4, Page 3" caption="Chapter 4, Page 3, 'The First V.I.R.S.'. Art by Julia Zimmerman, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch4_p03_web.jpg" alt="Chapter 4, Page 3" caption="Chapter 4, Page 3, 'The First VIRS'. Art by Julia Zimmerman, Lettering by Danbee Kim." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch5_p00_web.jpg" alt="Chapter 5 title page" caption="Chapter 5 title page, 'The First V.I.R.S.'. Art by Dominique Duong, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch5_p00_web.jpg" alt="Chapter 5 title page" caption="Chapter 5 title page, 'The First VIRS'. Art by Dominique Duong, Lettering by Danbee Kim." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch7_p00_web.jpg" alt="Chapter 7 title page" caption="Chapter 7 title page, 'The First V.I.R.S.'. Art by Gideon Gerlt, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch7_p00_web.jpg" alt="Chapter 7 title page" caption="Chapter 7 title page, 'The First VIRS'. Art by Gideon Gerlt, Lettering by Danbee Kim." %}
 
 ## What do you mean, a graphic novel thesis?
 
