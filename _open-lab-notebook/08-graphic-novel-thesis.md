@@ -23,9 +23,7 @@ Hi everyone! My name is Danbee Kim, and I’m collaborating with **17 amazing ar
 
 I'm communicating my research through a graphic novel because I want to **make science and technology topics more accessible to EVERYONE, from young people (and any other science-curious, comic-loving human!) to experts in other specialities.** I've developed the story plot with the help of my labmates, other research colleagues, science fiction writers, and countless friends, who all lent their enormous diversity of expertise to a project that we hope demonstrates the power of art to help experts across specialities collaborate and share insights. 
 
-Are you also passionate about making science and technology more accessible and engaging to non-academics? Do you love learning and teaching? Would you be interested in a print copy of the graphic novel, or large poster prints of the scientific diagrams?
-
-**[JOIN OUR MAILING LIST](http://eepurl.com/gkXmLP) to support this project and raise the funds to print the graphic novel!** You'll also get access to exclusive behind-the-scenes artwork, and be the first to hear updates on the project and our crowdfunding campaign!
+We also want this graphic novel to **start conversations**, about science, society, and storytelling, and how our brains make all three possible. If you would like to get involved in these kinds of conversations, if you are passionate about making science and technology more accessible and engaging, or if you would like to help us raise the funds to print *The First VIRS*, [***PLEASE JOIN OUR MAILING LIST!***](http://eepurl.com/gkXmLP) You'll get access to project updates and exclusive behind-the-scenes artwork, and you'll be the first to hear about our **crowdfunding campaign, coming soon!**
 
 {% include video id="DWFmWfLHAlY" provider="youtube" %}
 
