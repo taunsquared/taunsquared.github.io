@@ -23,33 +23,34 @@ Hi everyone! My name is Danbee Kim, and I’m collaborating with **17 amazing ar
 
 I'm communicating my research through a graphic novel because I want to **make science and technology topics more accessible to EVERYONE, from young people (and any other science-curious, comic-loving human!) to experts in other specialities.** I've developed the story plot with the help of my labmates, other research colleagues, science fiction writers, and countless friends, who all lent their enormous diversity of expertise to a project that we hope demonstrates the power of art to help experts across specialities collaborate and share insights. 
 
-This project was initially approved in May 2018 for funding through the research budget of the [Intelligent Systems Lab](http://www.kampff-lab.org/), led by my thesis advisor Dr. Adam Kampff. **However, the directors of our research institute vetoed Dr. Kampff's decision 5 months after the work began, when much of the illustration work was already completed.** Thankfully, my collaborators are unfazed in their determination to bring this story to life – but they are humans too, and they need to pay rent like everyone else. So we’ve have decided to ask you, our community, to help us pay these amazing illustrators. 
+We also want this graphic novel to **start conversations about science, society, and storytelling, and how our brains make all three possible.** If you would like to get involved in these kinds of conversations, if you are passionate about making science and technology more accessible and engaging, or if you would like to help us raise the funds to finish and print the *The First VIRS*, 
 
-Do you also feel passionate about making science and technology more accessible and engaging to non-academics? Want to help us properly compensate these artists for their beautiful work and perseverance? 
+**[PLEASE JOIN OUR MAILING LIST!](http://eepurl.com/gkXmLP)** 
 
-**[JOIN OUR MAILING LIST](http://eepurl.com/gkXmLP) to help us raise the money necessary to pay our artist collaborators the amount that was stipulated by contract when they first signed onto the project - a reasonable and fair compensation for their time and skills.** You'll also be the first to get updates on the project and our crowdfunding campaign, and access to exclusive behind-the-scenes artwork!
+You'll get access to project updates and exclusive behind-the-scenes artwork, and you'll be the first to hear about our **crowdfunding campaign, coming soon!**
+
 
 {% include video id="DWFmWfLHAlY" provider="youtube" %}
 
 ## Teaser pages
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00_web.jpg" alt="Chapter 1 title page" caption="Chapter 1 title page, 'The First V.I.R.S.'. Art by Xiao Xiao, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00_web.jpg" alt="Chapter 1 title page" caption="Chapter 1 title page, 'The First VIRS'. Art by Xiao Xiao, Lettering by Danbee Kim." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p01_web.jpg" alt="Chapter 1, Page 1" caption="Chapter 1, Page 1, 'The First V.I.R.S.'. Art by Matteo Farinella, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p01_web.jpg" alt="Chapter 1, Page 1" caption="Chapter 1, Page 1, 'The First VIRS'. Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch2_p07_web.jpg" alt="Chapter 2, Page 7" caption="Chapter 2, Page 7, 'The First V.I.R.S.'. Art by Miguel Montellano, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch2_p07_web.jpg" alt="Chapter 2, Page 7" caption="Chapter 2, Page 7, 'The First VIRS'. Art by Miguel Montellano, Lettering by Danbee Kim." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch3_p09_web.jpg" alt="Chapter 3, Page 9" caption="Chapter 3, Page 9, 'The First V.I.R.S.'. Art by Graham Marema, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch3_p09_web.jpg" alt="Chapter 3, Page 9" caption="Chapter 3, Page 9, 'The First VIRS'. Art by Graham Marema, Lettering by Danbee Kim." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch3_p14_web.jpg" alt="Scientific Diagram Description #3: Major Neurotransmitters" caption="Scientific Diagram Description #3, 'The First V.I.R.S.'. Graphic Design and Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch3_p14_web.jpg" alt="Scientific Diagram Description #3: Major Neurotransmitters" caption="Scientific Diagram Description #3, 'The First VIRS'. Graphic Design and Lettering by Danbee Kim." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch3_p15_web.jpg" alt="Scientific Diagram #3: Major Neurotransmitters" caption="Scientific Diagram #3: Major Neurotransmitters, 'The First V.I.R.S.'. Art by Gil Costa." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch3_p15_web.jpg" alt="Scientific Diagram #3: Major Neurotransmitters" caption="Scientific Diagram #3, 'The First VIRS'. Art by Gil Costa." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch4_p03_web.jpg" alt="Chapter 4, Page 3" caption="Chapter 4, Page 3, 'The First V.I.R.S.'. Art by Julia Zimmerman, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch4_p03_web.jpg" alt="Chapter 4, Page 3" caption="Chapter 4, Page 3, 'The First VIRS'. Art by Julia Zimmerman, Lettering by Danbee Kim." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch5_p00_web.jpg" alt="Chapter 5 title page" caption="Chapter 5 title page, 'The First V.I.R.S.'. Art by Dominique Duong, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch5_p00_web.jpg" alt="Chapter 5 title page" caption="Chapter 5 title page, 'The First VIRS'. Art by Dominique Duong, Lettering by Danbee Kim." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch7_p00_web.jpg" alt="Chapter 7 title page" caption="Chapter 7 title page, 'The First V.I.R.S.'. Art by Gideon Gerlt, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch7_p00_web.jpg" alt="Chapter 7 title page" caption="Chapter 7 title page, 'The First VIRS'. Art by Gideon Gerlt, Lettering by Danbee Kim." %}
 
 ## What do you mean, a graphic novel thesis?
 
@@ -71,7 +72,9 @@ How brains face the unknown and the unexpected has been the core motivation behi
 
 Studying reactions to the unexpected under traditional laboratory conditions can be quite challenging, given that laboratories were originally intended to be settings where one reduces and simplifies phenomena in order to examine them in greater detail and under tightly controlled conditions. This is not necessarily a useful strategy to apply to the study of how we deal with the unexpected. Communicating our findings can be even more challenging, as our insights often ride the boundary between science and philosophy, and our explanations tend to work best when prefaced with lengthy historical or experiential contextualization. 
 
-Given these challenges, my advisor and I realised that our research needs a more compelling format than the conventional academic article - the current tensions and distrust between academic scientists, policy makers, and everyone else makes that clear. So I threatened to write a graphic novel of my thesis, and Adam called my (not quite) bluff. 
+Given these challenges, my advisor and I realised that our research needs a more compelling format than the conventional academic article - the current tensions and distrust between academic scientists, policy makers, and everyone else makes that clear. Turns out, we weren't alone in our way of thinking! [Other PhD candidates have taken creative approaches to their thesis or dissertation to make their research more accessible](https://helenkara.com/2016/07/13/getting-creative-with-your-thesis-or-dissertation/), and there is a growing interest in [using and understanding the potential of graphic novels, comics, and other forms of visual narrative "to engage audiences who are currently underserved by other channels of science communication."](https://www.researchgate.net/publication/322664468_The_potential_of_comics_in_science_communication)
+
+So I threatened to write a graphic novel of my thesis, and Adam called my (not quite) bluff. 
 
 ## Project Credits 
 
@@ -113,6 +116,11 @@ Website: [https://matteofarinella.com/](https://matteofarinella.com/)
 ---
 
 **Gideon Gerlt:** Graphic Novel title page artist, Chapter 6 pages 9-12 Illustrator and Colourist, Chapter 7 title page artist  
+
+Early on, Gideon Gerlt's creativity was strongly influenced by the vibrant natural environment of rural Alaska. Exploring the wilderness in the shadow of Denali mountain with so little human contact, instilled in him a curiosity about the unseen world that existed in such great abundance and yet felt elusive. This sense of mystery has worked alongside a pursuit to explore individual and societal concepts of self and other, covering a broad range of topics from interpersonal relationships, to concepts of consciousness and artificial intelligence, and an exploration of the microbial world.
+
+Gideon's recent works explore the intersection between art, science, and technology. Splicing geometric shapes and architectural design with structures found in nature, these works reflect on correlations between micro and macroscopic worlds. Inspired by a fascination with biological systems and processes Gideon has created site-specific, interactive, multimedia installations that have emulated organic complexity through iterative patterns. These works have suggestively represented bacteria, protozoa, neurons, mirror cells, and DNA.
+
 Website: [https://www.gideongerlt.com/](https://www.gideongerlt.com/)
 
 ---
@@ -123,14 +131,14 @@ Melissa Jedrysiak is a scientific illustrator of Filipina and Polish descent. Sh
 Website: [https://www.melissajedrysiak.com/](https://www.melissajedrysiak.com/)
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/MonicaKeszler.png" alt="Monica Keszler" caption="Monica Keszler: Chapter 3 title page artist" %}
-Monica Keszler is a recent chemical engineering graduate from Northeastern University and a freelance educational comic artist. She contributes quarterly pedagogical comics to the journal of Chemical Engineering Education and has spent several years collaborating and developing educational comics with students and faculty at Northeastern University. She has also written and illustrated her own children's book, *Kira Kiwi, How Will School Be?*, focusing on the importance of diversity and acceptance. She works full-time in materials engineering research and development, and hopes to one day join the pursuit of creating sustainable plastic alternatives.
+Monica Keszler is a recent chemical engineering graduate from Northeastern University and a freelance educational comic artist. She contributes quarterly pedagogical comics to the journal of Chemical Engineering Education and has spent several years collaborating and developing educational comics with students and faculty at Northeastern University. She has also written and illustrated her own children's book, *Kira Kiwi, How Will School Be?*, focusing on the importance of diversity and acceptance. She works full-time in materials engineering research and development and hopes to one day join the pursuit of creating sustainable plastic alternatives.
 
 Website: [http://willowescapee.wixsite.com/artportfolio](http://willowescapee.wixsite.com/artportfolio)
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/DanbeeKim.png" alt="Danbee 'Tauntaun' Kim" caption="Danbee 'Tauntaun' Kim: Story and Lettering, Scientific Diagram Descriptions, Scientific Diagram 6 Illustrator and Colourist" %}
 I’m currently a PhD candidate in the 2013 cohort of the International Neuroscience Doctoral Programme, headquartered at the Champalimaud Centre for the Unknown in Lisboa, Portugal. I joined the Intelligent Systems Lab in Sept 2013 and moved with the lab to the Sainsbury Wellcome Centre for Neural Circuits and Behaviour in London, UK in 2015.  
 My research combines studies of cuttlefish, the philosophy of science, Perceptual Control Theory, and the evolution of “the brain” throughout time and in many species. In collaboration with NeuroGears, I build interactive art installations that both allow people to participate in field neuroscience experiments, and communicate science in fun and interesting ways. You can learn more at www.EveryMind.Online.  
-I spend a lot of time thinking about education, permaculture, circus, and humane living. I love being in the wilderness, especially in the mountains and by the sea. I’ve co-written and choreographed an original musical called Hack, Punt, Tool (you can watch the 2017 production on YouTube). I train and play as a musician, capoeirista, and VIRS (vigilante intergalactic roustabout scholar).  
+I spend a lot of time thinking about permaculture, anarchy, circus, and education. I love being in the wilderness, especially in the mountains and by the sea. I’ve co-written and choreographed an original musical called Hack, Punt, Tool (you can watch the 2017 production on YouTube). I train and play as a musician, capoeirista, and VIRS (vigilante intergalactic roustabout scholar).  
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/EmmaLeavitt.jpeg" alt="Emma 'Solei' Leavitt" caption="Emma 'Solei' Leavitt: Dream Sequences Illustrator and Colourist" %}
 Solei is a visual artist, muralist and musician living in Boston, MA. Her work on the “Dreams” chapters of *The First VIRS* is her first foray into graphic novel illustration. When she’s not painting on walls or writing music, Solei runs an arts nonprofit in Boston called Brain Arts Organization, and is the Gallery Director at a community art gallery called the Dorchester Art Project. More of her work can be seen at [https://www.soleiarts.com/](https://www.soleiarts.com/).
