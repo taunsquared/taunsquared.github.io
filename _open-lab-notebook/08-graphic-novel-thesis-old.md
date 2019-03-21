@@ -114,6 +114,11 @@ Website: [https://matteofarinella.com/](https://matteofarinella.com/)
 ---
 
 **Gideon Gerlt:** Graphic Novel title page artist, Chapter 6 pages 9-12 Illustrator and Colourist, Chapter 7 title page artist  
+
+Early on, Gideon Gerlt's creativity was strongly influenced by the vibrant natural environment of rural Alaska. Exploring the wilderness in the shadow of Denali mountain with so little human contact, instilled in him a curiosity about the unseen world that existed in such great abundance and yet felt elusive. This sense of mystery has worked alongside a pursuit to explore individual and societal concepts of self and other, covering a broad range of topics from interpersonal relationships, to concepts of consciousness and artificial intelligence, and an exploration of the microbial world.
+
+Gideon's recent works explore the intersection between art, science, and technology. Splicing geometric shapes and architectural design with structures found in nature, these works reflect on correlations between micro and macroscopic worlds. Inspired by a fascination with biological systems and processes Gideon has created site-specific, interactive, multimedia installations that have emulated organic complexity through iterative patterns. These works have suggestively represented bacteria, protozoa, neurons, mirror cells, and DNA.
+
 Website: [https://www.gideongerlt.com/](https://www.gideongerlt.com/)
 
 ---
