@@ -18,7 +18,7 @@ Authors: Danbee Kim<sup>1,2</sup>, Goncalo C Lopes<sup>3</sup>, Xiao Xiao<sup>4<
 
 ## Abstract
 
-Aronauts (Portuguese), or "Aeronauts" in English, are a band of V.I.R.S.'s (Vigilante Intergalactic Roustabout Scholars) who use interactive performance art to teach science. As practitioners of science, art, and engineering, members of the Aronauts bring to their lyrics lessons and insights learned from their interdisciplinary work, weaving them into a funky, improv-based musical arrangement. In their first EP, Pilot Data, the Aronauts share facts and speculations about global warming, cuttlefish, the human mind, and our relationship with robots. In the spirit of open science, they have made a [demo of the Pilot Data EP](https://www.dropbox.com/sh/7wb0ge6ibt6cz3b/AAAT2ONGmpVMVA_ARqgO5GUNa?dl=0) available for free download. Due to the improvisational and interactive nature of the songs, the demos represent merely the fundamentals of each song and not the full nature of either the performer or audience experience. 
+Aronauts (Portuguese), or "Aeronauts" in English, are a band of V.I.R.S.'s (Vigilante Intergalactic Roustabout Scholars) who use interactive performance art to teach science. As practitioners of science, art, and engineering, members of the Aronauts bring to their lyrics lessons and insights learned from their interdisciplinary work, weaving them into a funky, improv-based musical arrangement. In their first EP, Pilot Data, the Aronauts share facts and speculations about global warming, cuttlefish, the human mind, and our relationship with robots. In the spirit of open science, they have made a [demo of the Pilot Data EP](https://soundcloud.com/taunsquared/sets/pilot-data-an-aronauts-ep) available for free download. Due to the improvisational and interactive nature of the songs, the demos represent merely the fundamentals of each song and not the full nature of either the performer or audience experience. 
 
 ## Introduction 
 
@@ -38,7 +38,7 @@ Danbee -- singing and playing bass simultaneously
 Xiao -- playing theremin, improvising solos to new songs with only a week to practice as a full band  
 Goncalo -- playing djembe and shaker  
 
-The set will be highly improvisational yet based on the skeletal structure recorded in [these rehearsals](https://www.dropbox.com/sh/nbccpx24soqlv53/AABhVeZI8fDLKASI8K0wEkvqa?dl=0). Because some of the songs are also interactive, we've posted lyrics and \[dance suggestions in brackets\] here: 
+The set will be highly improvisational yet based on the skeletal structure recorded in [these rehearsals](https://soundcloud.com/taunsquared/sets/pilot-data-an-aronauts-ep). Because some of the songs are also interactive, we've posted lyrics and \[dance suggestions in brackets\] here: 
 
 ### Mind Shape
 
