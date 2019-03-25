@@ -1,7 +1,7 @@
 ---
 title: "Open Lab Notebook"
 permalink: /open-lab-notebook/
-excerpt: "This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title 'Validating Neuroscience experimental paradigms across species and environments: how the assumptions we make about brains affect the way we face the unknown'."
+excerpt: "This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title 'Exploring new methods for field-based neuroscience: how massively engaging experiments can benefit both the research community and greater society'."
 categories:
   - open-lab-notebook
 tags:
@@ -36,7 +36,7 @@ gallery:
 ---
 {% include toc title="Open Lab Notebook" %}
 
-This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title *'Validating Neuroscience experimental paradigms across species and environments: how the assumptions we make about brains affect the way we face the unknown'*.
+This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title *'Exploring new methods for field-based neuroscience: how massively engaging experiments can benefit both the research community and greater society'*.
 
 In my research group, we study how nervous systems "in the wild" (as opposed to in the laboratory) are robust and flexible enough to deal with unexpected situations. Within this area, I study how we imagine and train for the unexpected. My goals are: 
 
