@@ -104,7 +104,7 @@ I was interviewed for a series of short video documentaries about neuroscientist
 {% include video provider="youtube" id="kmrpB39reOM" %}
 {% include video provider="youtube" id="tdT4T0VaKBc" %}
 
-I was interviewed after co-hosting and speaking at [Orchestrating the Brain](http://blogs.ucl.ac.uk/sainsbury-wellcome-centre/2018/06/11/orchestrating-the-brain/), a 2018 FitzFest event hosted by the Sainsbury Wellcome Centre and created in collaboration with April Cashin-Garbutt, SWC Communications Manager, and Dan Bates, Artistic Director of FitzFest. Produced by Jake Fairnie and April Cashin-Garbutt. 
+I was interviewed after co-hosting and speaking at [Orchestrating the Brain](https://www.sainsburywellcome.org/web/public-engagement/orchestrating-brain), a 2018 FitzFest event hosted by the Sainsbury Wellcome Centre and created in collaboration with April Cashin-Garbutt, SWC Communications Manager, and Dan Bates, Artistic Director of FitzFest. Produced by Jake Fairnie and April Cashin-Garbutt. 
 {% include video provider="youtube" id="njGtLvk8Ess"%}
 
 ## Live Performances
