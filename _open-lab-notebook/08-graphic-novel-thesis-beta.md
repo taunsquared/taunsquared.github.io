@@ -230,11 +230,11 @@ Dr. Kampff also made a written statement of his view of the project in the follo
 
 > Adam"
 
-Unfortunately, even after receiving these statements, the directors have continued to veto Dr. Kampff's desire to support this project with his lab budget, and have made it clear that group leaders at our institute do not have the autonomy to direct their own funding as they choose. 
+Unfortunately, after receiving these letters of support, the directors have provided no response.
 
 Thanks to the staunch support of the institute's communications manager, the institute's Public Engagement Fund was able to grant us an award that could cover part of the contractualized payments; however, we are still 7,140 GBP short of the amount necessary to pay the artists in full. 
 
-Given the decision made by our academic institution's directors, and with the encouragement of many of our colleagues, Adam and I have decided to ask our wider community of collaborators and supporters for help. We will be launching a crowdfunding campaign to raise the money necessary to pay our artist collaborators the amount that was stipulated by contract when they first signed onto the project - a reasonable and fair compensation for their time and skills. 
+Given the decision made by our host institution's directors, and with the encouragement of our colleagues, friends, and family, Adam and I have decided to ask our wider community of collaborators and supporters for help. We hope that through this crowdfunding campaign, we can raise the money necessary to pay our artist collaborators the full amount that was stipulated by contract when they first signed onto the project - a reasonable and fair compensation for their time and skills.
 
 If you would like to help us meet this goal, **please [JOIN OUR MAILING LIST](http://eepurl.com/gkXmLP)** to get updates on the crowdfunding campaign, and THANK YOU SO MUCH, from all of us working on *The First VIRS*!
 
