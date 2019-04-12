@@ -53,3 +53,5 @@ Outside of VFX, I have an interest in understanding the world around us, and how
 My hero is Leonardo da Vinci.  I have some interest in Buddhism. <br/>
 My ultimate aim is to build some solid framework that can help people understand more accurately the world around them.  I intend to get there by using the principles of observation of the natural world, reasoning, and testing, that Leonardo used.
 {: style="color:gray; font-size: 80%;"}
+
+To learn more about the Dear Neuroscience Event Series, please visit [www.everymind.online/DearNeuroscience](http://www.everymind.online/DearNeuroscience/).
