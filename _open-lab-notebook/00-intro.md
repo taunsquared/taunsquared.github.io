@@ -31,7 +31,7 @@ gallery:
     image_path: /assets/images/brainPlay/LevelsOfAbstractionInBio.gif
     alt: "Theoretical Puzzle Pieces"
   - url: /graphic-novel-thesis/
-    image_path: /assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_book-title_web.jpg
+    image_path: /assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_book-flyer-web.jpg
     alt: "The First V.I.R.S.: a graphic novel thesis"
 ---
 {% include toc title="Open Lab Notebook" %}
@@ -90,6 +90,8 @@ Teaching Assistant for **Intro to Techniques in Neuroscience**. Champalimaud Neu
 
 **[Goals of Neuroscience as a Field](https://docs.google.com/presentation/d/1ESsGggZTps0zyadZxpp0RifYJJqi6ZWkWVMdY_46a6g/edit?usp=sharing)** Co-presented with Joana Soldado Magraner and Francesca Greenstreet at the SWC AlternaTea Hour on Oct 26, 2018. 
 {% include figure image_path="/assets/images/openLabNotebook/SWC-Alternatea_GoalsOfNeurosciencAsAField.png" alt="Goals of Neuroscience as a Field, a discussion with the SWC community" caption="At the SWC AlternaTea Hour event on Oct 26, 2018, the SWC community discussed the utility of shared goals as a field, and came up with some questions that we would like to see our field make a unified effort to answer. Joana Soldado Magraner, Francesca Greenstreet, and I contextualized our discussion with the presentation linked above; see the final slide for the questions we came up with that evening!" %}
+
+**[What is Behaviour?](https://slides.com/neuronautas/what-is-behaviour#/)** Presented at Session 2 of Neuronautas, a neuroscience enrichment program for Portuguese high-schoolers, funded by [Academias Gulbenkian Conhecimento](https://gulbenkian.pt/academias/). 
 
 ## Videos
 
