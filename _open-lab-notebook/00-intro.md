@@ -60,6 +60,8 @@ In my research group, we study how nervous systems "in the wild" (as opposed to 
 
 ## Teaching
 
+Teacher for the [Appalachian Institute for Creative Learning](https://www.appalachianinstitute.org/): since January 2010. 
+
 Co-organizer for [**Bridging Neuroscience and Embodiment: The Many Bodies of Embodied Cognition**](https://sites.google.com/a/neuro.fchampalimaud.org/embodied-cognition/course-information). Champalimaud Neuroscience Program, Fall 2013 Advanced Course: October 28 - November 1, 2013.
 
 Teaching Assistant for **Intro to Techniques in Neuroscience**. Champalimaud Neuroscience Program, January 2014.
