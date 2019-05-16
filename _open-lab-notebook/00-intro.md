@@ -44,7 +44,7 @@ In my research group, we study how nervous systems "in the wild" (as opposed to 
 
 * to engage with historical context and in questioning the status quo, both in and out of science; 
 
-* to develop theories and methodologies for field neuroscience, which would complement laboratory neuroscience by verifying the ethological validity of behaviour studies and of humane research techniques; and
+* to develop theories and methodologies for field neuroscience, which would complement laboratory neuroscience by a) verifying the ethological validity of behaviour studies and of humane research techniques, and b) increasing the diversity and quantity of neural systems accessible to empirical neuroscientific study; and
 
 * to connect how we study the brain to the subjective experience of living with one.
 
