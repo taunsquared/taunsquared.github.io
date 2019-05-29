@@ -42,8 +42,7 @@ format.
 
 We also want this graphic novel to **start conversations about what we define as "scientific activity", and how to build 
 humane support structures to nurture such activity.** If you would like to get involved in these kinds of conversations, 
-if you are passionate about making science and technology more accessible and engaging, and/or **if you would like to 
-help us raise the funds to finish and print the *The First VIRS*,** 
+if you are passionate about making science and technology more accessible and engaging, and/or **if you would like to pre-order your printed copy of *The First VIRS*,** 
 
 **[PLEASE JOIN OUR MAILING LIST!](http://eepurl.com/gkXmLP)** 
 
@@ -194,28 +193,34 @@ UCL Culture department:
 > "I have worked with Danbee supporting her projects, and I’m writing to express my own and UCL Culture’s support for 
 public engagement projects such as her graphic novel thesis. I understand that this is a complex situation, but I hope I 
 can set the policy context for the importance of public engagement within research.  
- > We see work like this as essential to achieving UCL’s core mission of transforming how knowledge is created and 
+>   
+> We see work like this as essential to achieving UCL’s core mission of transforming how knowledge is created and 
 shared– and in enhancing the university’s impact on society.  
+>   
 > The new UCL Research Strategy for 2019 also highlights the importance of this area, with one of the three aims of the 
 strategy being crossing boundaries to increase engagement between disciplines, communities and activities. Our own Public 
 Engagement Strategy, accessible at [this link](
 https://www.ucl.ac.uk/culture/sites/culture/files/ucl_public_engagement_strategy_2017.pdf), goes into more detail of our 
 support for engagement as a team, and is strategy is supported by the principle theme of UCL 2034 - making UCL an 
 accessible and publically engaged university.  
+>   
 > Wellcome themselves are keen supporters of public engagement, and have previously funded graphic novel and comic book 
 projects through their own Public Engagement funds. Just last week they published a [blog post](
 https://wellcome.ac.uk/news/weve-funded-projects-impact-and-legacy-latest-public-engagement-fund-awards) on their desire 
 for a diverse and innovative public engagement practice. The Gatsby charitable foundation also believe that promoting 
 public engagement with contemporary science plays an important part in ensuring that today’s scientific research has a 
 healthy future.  
+>   
 > I know that the decision is in your hands, but I hope that this can inform your thinking around justification for the 
 expenses. I’m happy to discuss anything in more detail.  
+>   
 > Many thanks for reading, and all my best  
 > Helen"
 
 Dr. Kampff also made a written statement of his view of the project in the following email: 
 
 > "Hi All,  
+>   
 > I feel I should clarify my view. This project, as with all of the projects in my lab, have mixed both research and 
 engagement components. For example, the lab (Danbee and Goncalo) developed a public science exhibit (now permanent) at 
 the Brighton Sea Life centre, that was both a psycho-physics research experiment and an explanatory demonstration of how 
@@ -224,44 +229,45 @@ gathering validation data for advanced CMOS electrodes, and have invested extens
 the broader scientific and non-scientific community (e.g. there was event at SWC dedicated to exploring these datasets 
 with professional musicians, as well as number of VR projects in collaboration with groups at Central St. Martins and the 
 Bartlett).  
+>   
 > As you know, and as I discussed with [name redacted] on Friday, I have clearly understood my mandate as a group leader 
 at the [institute name redacted] to pursue both neuroscience research and to explore new ways to do neuroscience 
 research. With this understanding, I felt justified to pursuing these projects, many of which make up the bulk of 
-Danbee's thesis.  
+Danbee's thesis. 
+>    
 > My personal view is that neuroscience has a unique, and largely untapped, potential relative to other domains of 
 science. Unlike particle physics, for example, a lay person's knowledge about the brain, its role in one's own behaviour 
 and the behaviour of others, is significant, as it is necessary for navigating the complexity of human society. Most of 
 the research/engagement projects that my lab has pursued have focused on finding novel ways to "tap" this 
 potential...both to aid neuroscience research, and to improve society.  
+>   
 > Both Danbee and I have been intrigued by the power of "a good story", and its impact on collective understanding in 
 society, since the beginning of her PhD project. (...from why are (human) brains capable of such coordination? ...to what 
 aspects of a story are most effective?). Given my (and Danbee's) interest in engaging the broad base of "lay expertise" 
 in neuroscience research, it thus felt obvious to pursue this via an actual "story" that we could publish in a variety of 
 formats and with a professional quality sufficient to attract a large audience (hence the need to recruit people who can 
 actually draw).  
+>   
 > I hope this helps explain where I was coming from, and my goals for this project and Danbee's thesis. Thank you for 
 highlighting the public engagement funding scheme; we are working on the application right now (but we would appreciate 
 some clarification on the deadline for this current round of funding).  
+>   
 > I still feel that this project, like the others in my lab, represents a mix of research and engagement, and that it 
 should be possible to support this with lab funds, although I recognize that this may not be the view of our funders. 
 Towards clarifying their goals, Danbee had already contacted Helen Craig from UCL Culture, cc'ed, to offer the UCL 
 perspective, and she has very kindly provided the attached letter. I would be very happy to contact both Wellcome and 
 Gatsby to explain my views on this (and the other projects in my lab), if you think this could help justify the use of 
 lab budget given the funders' goals.  
+>   
 > Please let me know how to proceed, and thanks for your time,  
 > Adam"
 
-After receiving these letters of support, the directors have provided no official written response.
+After receiving these letters of support on February 5, 2019, the directors provided no official written response to Dr. Kampff's email for more than 3 months.
 
 Thanks to the staunch support of the institute's communications manager, the institute's Public Engagement Fund was able 
-to grant us an award that could cover part of the contractualized payments; however, we are still 7,140 GBP short of the 
-amount necessary to pay the artists in full. 
+to grant us an award on February 22, 2019, that could cover part of the contractualized payments; however, we are still 7,140 GBP short of the amount necessary to pay the artists in full. 
 
-Given the decision made by our host institution's directors, and with the encouragement of our colleagues, friends, and 
-family, Adam and I have decided to ask our wider community of collaborators and supporters for help. We hope that through 
-this crowdfunding campaign, we can raise the money necessary to pay our artist collaborators the full amount that was 
-stipulated by contract when they first signed onto the project - a reasonable and fair compensation for their time and 
-skills.
+Given the decision made by our host institution's directors, and with the encouragement of our colleagues, friends, and family, Dr. Kampff and I decided to ask our wider community of collaborators and supporters for help. **We will launch a crowdfunding campaign to raise the money necessary to pay our artist collaborators** the full amount that was stipulated by contract when they first signed onto the project - a reasonable and fair compensation for their time and skills.
 
 If you would like to help us meet this goal, **please [JOIN OUR MAILING LIST](http://eepurl.com/gkXmLP)** to get updates 
 on the crowdfunding campaign, and THANK YOU SO MUCH, from all of us working on *The First VIRS*!
