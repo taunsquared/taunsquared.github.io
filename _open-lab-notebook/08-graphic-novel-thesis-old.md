@@ -15,6 +15,8 @@ tags:
 header: 
   image: /assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_book-title_web-header.jpg
 ---
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us20.list-manage.com","uuid":"575340d522e02703476399fa1","lid":"0336a1d547","uniqueMethods":true}) })</script>
+
 {% include toc title="The First VIRS: A graphic novel thesis" %}
 
 ***“In 2067, the Global Water Crisis wiped out much of humanity, forcing survivors to either flee underground or escape 
