@@ -476,8 +476,7 @@ receive a message tomorrow from an extraterrestrial civilization. They have alre
 it is not an exaggeration to say that, if we survive, science fiction will have made a vital contribution to the 
 continuation and benign evolution of our civilization." 
 
--- [*Growing Up with Science Fiction*](https://www.nytimes.com/1978/05/28/archives/growing-up-with.html), by Carl Sagan, 
-1978. 
+-- [*Growing Up with Science Fiction*](https://www.nytimes.com/1978/05/28/archives/growing-up-with.html), by Carl Sagan, 1978. 
 
 ## Project License
 
