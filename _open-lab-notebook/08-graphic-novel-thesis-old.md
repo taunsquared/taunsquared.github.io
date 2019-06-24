@@ -266,7 +266,7 @@ lab budget given the funders' goals.
 
 After receiving these letters of support on February 5, 2019, the directors provided no official written response to Dr. Kampff's email for more than 3 months.
 
-Thanks to the staunch support of Helen Craig and our institute's communications manager, the institute's Public Engagement Fund was able to grant us a generous award on February 22, 2019, which could cover part of the contractualized payments; however, we are still 7,140 GBP short of the amount necessary to pay the artists in full. 
+Thanks to the staunch support of Helen Craig and our institute's communications manager, the institute's Public Engagement Fund was able to grant us a generous award on February 22, 2019, which could cover part of the contractualized payments; however, we are still 5,960 GBP short of the amount necessary to pay the artists in full. 
 
 Given the decision made by our host institution's directors, and with the encouragement of our colleagues, friends, and family, Dr. Kampff and I decided to ask our wider community of collaborators and supporters for help. **We will launch a crowdfunding campaign to raise the money necessary to pay our artist collaborators** the full amount that was stipulated by contract when they first signed onto the project - a reasonable and fair compensation for their time and skills.
 
