@@ -80,7 +80,7 @@ Home-brewed beer enthusiast
 Lab Manager  
 PhD thesis: "Human [transcriptomic](https://en.wikipedia.org/wiki/Transcriptome) responses to daily movement practice"
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS_ch1_p01_web-01.jpg" 
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p01_web-01.jpg" 
 alt="Chapter 1, page 1" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
 **"April 7, 2066: Mae Jemison Memorial Arboretum"**
