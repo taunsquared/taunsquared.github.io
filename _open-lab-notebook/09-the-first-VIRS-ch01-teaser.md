@@ -41,7 +41,7 @@ title page" caption="Art by Xiao Xiao, Lettering by Danbee Kim." %}
 alt="Chapter 1 Cast" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
 **Majhee Suh**:  
-[Organometallic Chemist](https://en.wikipedia.org/wiki/Organometallic_chemistry)  
+[Organometallic Chemist](https://en.wikipedia.org/wiki/Organometallic_chemistry){:target="_blank"}  
 PhD thesis: "Cultivating [Electrophoretic](https://en.wikipedia.org/wiki/Electrophoresis) [Mycelium](https://en.wikipedia.org/wiki/Mycelium) [Yeast](https://en.wikipedia.org/wiki/Yeast) to fabricate living organic semiconductors"
 
 **Iúna Morei**:  
@@ -126,7 +126,7 @@ We see Majhee walk past a large research facility, metal and glass architecture 
 
 The front of the research facility is teeming with protesters, who chant "Não sirva aos tiranos em órbita!" and "Educar crianças humanas, não máquinas corporativas!"
 
-*translation: "Don't serve the tyrants in orbit!", "Educate human children, not corporate machines!"
+*translation: "Don't serve the tyrants in orbit!", "Educate human children, not corporate machines!"*
 
 **"...fifth day of violent demonstrations at the Laboratório Nacional de Biociências e Saúde Pública protesting the public research institution's collaboration with Space Consortium..."**
 
