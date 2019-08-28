@@ -103,7 +103,7 @@ In a viewing port of the Arboretum, we see a huge mass of gathered Orbiter home 
 
 **"...and many people, on this historic day, were starving..."**
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS_ch1_p02_web-01.jpg" 
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p02_web-01.jpg" 
 alt="Chapter 1, page 2" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
 **"São Paulo, Brazil"**
@@ -134,7 +134,7 @@ Majhee sneaks into an alleyway to enter the research facility via a back door.
 
 **"...last week the space exploration conglomerate announced the first ever patent on a device made with synaptic thread technology, commonly known as SynTh..."**
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS_ch1_p03_web-01.jpg" 
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p03_web-01.jpg" 
 alt="Chapter 1, page 3" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
 Inside the research institute, we see a receptionist sitting behind a sealed glass window. Next to him is a decontamination chamber that all must pass thru in order to enter the research facility. 
@@ -163,7 +163,7 @@ Majhee removes her boots and steps into the decontamination chamber.
 
 Majhee: **"Yeah, well...everyone's hungry...can't think when you're hungry."**
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS_ch1_p04_web-01.jpg" 
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p04_web-01.jpg" 
 alt="Chapter 1, page 4" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
 A floating digital page reads the following:
@@ -189,7 +189,7 @@ Majhee: **"If by 'address this situation with Space Co', you mean 'end the explo
 
 Marcia: **"Majhee, I have no time for your political agenda today. I need you to focus on the science, not be a social justice warrior!"**
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS_ch1_p05_web-01.jpg" 
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p05_web-01.jpg" 
 alt="Chapter 1, page 5" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
 Majhee angrily turns off the giant bacteria of light with an impatient gesture as she turns to Marcia, furious.
@@ -220,7 +220,7 @@ Felix: **"Hi, sorry to interrupt...can we get Majhee please? Lab meeting was sup
 
 Majhee: **"No no, my bad, we're wrapping up now. Marcia, I'll give you a call later."**
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS_ch1_p06_web-01.jpg" 
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p06_web-01.jpg" 
 alt="Chapter 1, page 6" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
 Majhee, Felix, and other members of Majhee's research group sit or stand in a cluster at one end of their lab benches in an upper floor of the research institute. The wall nearest to them is a floor-to-ceiling window, showing the dusty sky-line of São Paulo. The sun sits in a reddish hazy sky, just past the midday zenith. 
@@ -249,7 +249,7 @@ Beatriz: **"Hey, family comes first, and that's ok."**
 
 Felix: **"But Kai's hands--"**
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS_ch1_p07_web-01.jpg" 
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p07_web-01.jpg" 
 alt="Chapter 1, page 7" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
 Kai, arms folded, looking down at her lap with hard eyes.
@@ -282,7 +282,7 @@ Bruno: **"You talk like we just need to crunch some numbers! We still have *no i
 
 Felix: **"We have some idea! We know at least 22 ways that *don't* work!"**
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS_ch1_p08_web-01.jpg" 
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p08_web-01.jpg" 
 alt="Chapter 1, page 8" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
 Majhee: **"Kai, Vec, Bea? What do you think?"**
@@ -305,7 +305,7 @@ We see now the protesters outside, their desperate, hungry faces. They hold sign
 
 Majhee: **"And if anyone else needs to leave...I promise to get you and your family safely out of São Paulo and off Space Co's radar."**
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS_ch1_p09_web-01.jpg" 
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p09_web-01.jpg" 
 alt="Chapter 1, page 9" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
 **"6 months later: Massachusetts, USA"**
@@ -322,7 +322,7 @@ Iúna smiles and yells as she waves towards her office door, just next to the en
 
 Iúna: **"HELLO! SHALL WE STEP INTO MY OFFICE?"**
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS_ch1_p10_web-01.jpg" 
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p10_web-01.jpg" 
 alt="Chapter 1, page 10" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
 Woman leading the UN delegation: **"Hi, I'm Amelie Kauffman, and with me are Javier Fuentes-Conte and Esteban Maranon."**
@@ -345,7 +345,7 @@ Iúna: **"Just doing what we can. What's happening in Boston?"**
 
 Under this dialogue is a view of Iúna's desk. We see sneak peek's of the new splicing and voltage-treatment protocols visualized with light, a floating sphere controlled by a thick piece of SynTh canvas, stretched on a semi-circular frame that, when Iúna stands inside of it, places the canvas at about hip height, easy to reach while standing. 
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS_ch1_p11_web-01.jpg" 
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p11_web-01.jpg" 
 alt="Chapter 1, page 11" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
 Dr. Kauffmann: **"They're preparing themselves for a huge wave of refugees."**
@@ -368,7 +368,7 @@ Dr. Kauffmann: **"Of course. We'll see ourselves out."**
 
 Under this dialogue we see close-up views of the baby strapped to Iúna's front. The child is a little less than one year old. The strapping is an intricately folded piece of SynTh cloth that can amplify the baby's heartrate, breathing, and digestive sounds. 
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS_ch1_p12_web-01.jpg" 
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p12_web-01.jpg" 
 alt="Chapter 1, page 12" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
 Iúna: **"*[Tahoe](https://en.wikipedia.org/wiki/Tahoe_National_Forest), have you been able to contact [Joshua Tree](https://en.wikipedia.org/wiki/Joshua_Tree_National_Park)?*"**
@@ -405,7 +405,7 @@ Tahoe: **"*...Sorry Mama Bird, I don't follow. Why should I care about biofilm?*
 
 Iúna: **"*Remember the mechapet idea?* It's possible now!!"**
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS_ch1_p13_web-01.jpg" 
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p13_web-01.jpg" 
 alt="Chapter 1, page 13" caption="Art and Lettering by Danbee Kim." %}
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2095-007..."**
@@ -427,7 +427,7 @@ The soma of [**multipolar neurons**](https://en.wikipedia.org/wiki/Multipolar_ne
 -- Anaxonic --  
 [**Anaxonic neurons**](https://en.wikipedia.org/wiki/Anaxonic_neuron) have many processes extending out from their somas, but no axon can be differentiated from the dendrites purely based on structure. These neurons act as ["non-spiking" neurons](https://en.wikipedia.org/wiki/Non-spiking_neuron), which use [graded potentials](https://en.wikipedia.org/wiki/Graded_potential) (as opposed to "spiking neurons", which use [action potentials](https://en.wikipedia.org/wiki/Action_potential)) to effect the fidelity, strength, and lifetime of a neuronal signal. Anaxonic neurons can influence the electrical excitability of spiking neurons, and [almost all central nervous system neurons born in adulthood seem to be anaxonic](https://cdn.elifesciences.org/articles/32373/elife-32373-v2.pdf#page=23); however, these neurons are still very poorly understood. Anaxonic neurons have been found in the brain and [special sense organs](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ar.22732) of vertebrates, and in the [central nervous system of invertebrates](https://www.jstage.jst.go.jp/article/aohc1988/52/Supplement/52_Supplement_139/_pdf).
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS_ch1_p14_web-01.jpg" 
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p14_web-01.jpg" 
 alt="Chapter 1, page 14" caption="Art and Lettering by Danbee Kim." %}
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2095-007..."**
