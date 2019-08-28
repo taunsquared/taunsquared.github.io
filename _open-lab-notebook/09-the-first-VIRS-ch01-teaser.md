@@ -1,5 +1,5 @@
 ---
-title: "*The First VIRS*, chapter 01 teaser"
+title: "*The First VIRS*: Chapter 01 teaser, with annotated companion script"
 permalink: /VIRS/ch01-teaser
 excerpt: 
 categories:
@@ -12,10 +12,7 @@ tags:
   - science-art collaborations
   - science communication
   - public engagement
-header: 
-  image: /assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_book-title_web-header.jpg
 ---
-# The First VIRS: Chapter 01 teaser, with annotated companion script
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_book-title_web-01.jpg" alt="Cover, 'The First VIRS'" caption="Art by Gideon Gerlt, Lettering by Danbee Kim." %}
 
