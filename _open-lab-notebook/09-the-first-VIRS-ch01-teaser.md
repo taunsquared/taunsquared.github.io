@@ -332,7 +332,7 @@ Woman leading the UN delegation: **"Hi, I'm Amelie Kauffman, and with me are Jav
 
 Iúna: **"I'm Iúna*. Thanks for bringing the new protocols from São Paulo."**
 
-* *pronounced "Aye-**oo**-nah"*
+*pronounced "Aye-**oo**-nah"*
 
 Dr. Kauffmann: **"You know, you'd get these updates a lot faster if you'd just get a body mod..."**
 
@@ -342,7 +342,7 @@ Iúna: **"Dr. Kauffmann, I must admit that I'm adamantly opposed to body mods an
 
 Dr. Kauffmann: **"It's alright, we were in Boston this morning anway...besides, I wanted to thank you in person. No one beats your [MERV* ratings](https://en.wikipedia.org/wiki/Minimum_efficiency_reporting_value){:target="_blank"}...I've got your organzas in every window of my house."**
 
-* *MERV= Minimum efficiency reporting value*
+*MERV= Minimum efficiency reporting value*
 
 Iúna: **"Just doing what we can. What's happening in Boston?"**
 
