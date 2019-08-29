@@ -17,10 +17,10 @@ header:
 ---
 {% include toc title="The First VIRS: A graphic novel thesis" %}
 
-***“In 2067, the Global Water Crisis wiped out much of humanity, forcing survivors to either flee underground or escape 
-into orbit. Nearly 50 years later, teenager Asoka Morei lives a life of sheltered privilege in a Green Haven, far from 
-the dark, over-crowded rock chambers of the Underground Cities. But when Asoka’s Home is attacked, they must journey into 
-the Red Zone to find a mysterious people who might be re-growing the decimated Amazon Rainforest.”***
+***“In 2067, the Global Water Crisis wiped out much of humanity, forcing survivors to flee underground or escape 
+into orbit. 50 years later, teenager Asoka Morei lives in sheltered privilege at a Green Haven, far from 
+the dark and over-crowded Underground Cities. But when Asoka’s Haven is attacked, they must journey into 
+the Red Zone to find a mysterious people who may be re-growing the decimated Amazon Rainforest.”***
 
 Hi everyone! My name is Danbee Kim, and I’m collaborating with **17 amazing artists** to create ***The First VIRS*** 
 ([Vigilante Intergalactic Roustabout Scholar](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)), a hard 
