@@ -29,7 +29,10 @@ tags:
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch00-5_p01_web-01.jpg" alt="The Story, Part 1" %}
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00_web-01.jpg" alt="Chapter 1 
-title page" caption="Art by Xiao Xiao, Lettering by Danbee Kim." %}
+title page" caption="Art by Xiao Xiao, Lettering by Danbee Kim.  
+this is a test. 
+
+this is another test." %}
 
 **"Loading Universal Record..."**
 
