@@ -13,6 +13,7 @@ tags:
   - science communication
   - public engagement
 ---
+To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_book-title_web-01.jpg" alt="Cover, 'The First VIRS'" caption="Art by Gideon Gerlt, Lettering by Danbee Kim." %}
 
