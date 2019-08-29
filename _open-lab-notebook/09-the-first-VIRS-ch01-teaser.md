@@ -33,16 +33,16 @@ title page" caption="Art by Xiao Xiao, Lettering by Danbee Kim." %}
 
 **"Loading Universal Record..."**
 
-**"Finished loading...'The Space Consortium Fights World Hunger'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
+**"Finished loading...'The Space Consortium Fights World Hunger'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels){:target="_blank"}."**
 
-**"In 2054, Space Consortium presented the United Nations with a proposal to collaborate with planetside farms and biodiversity sanctuaries (predecessors to the modern-day Green Havens) in order to conduct research into plants useful for space travel and permaculture in low gravity. In return for funding and logistical support from the UN, Space Consortium offered to use this research to help fight the global food shortage with food grown in space, and pledged half of the carrying capacity of its recently completed space elevator project, the Space Ferries, to guarantee reliable transport of resources back and forth between orbiting farms and planetside. Thus, Space Consortium played a major role in improving the quality of life on Earth before [The Global Water Crisis](https://www.bbc.co.uk/news/uk-47620228)..."**
+**"In 2054, Space Consortium presented the United Nations with a proposal to collaborate with planetside farms and biodiversity sanctuaries (predecessors to the modern-day Green Havens) in order to conduct research into plants useful for space travel and permaculture in low gravity. In return for funding and logistical support from the UN, Space Consortium offered to use this research to help fight the global food shortage with food grown in space, and pledged half of the carrying capacity of its recently completed space elevator project, the Space Ferries, to guarantee reliable transport of resources back and forth between orbiting farms and planetside. Thus, Space Consortium played a major role in improving the quality of life on Earth before [The Global Water Crisis](https://www.bbc.co.uk/news/uk-47620228){:target="_blank"}..."**
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00-01_web-01.jpg" 
 alt="Chapter 1 Cast" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
 **Majhee Suh**:  
 [Organometallic Chemist](https://en.wikipedia.org/wiki/Organometallic_chemistry){:target="_blank"}  
-PhD thesis: "Cultivating [Electrophoretic](https://en.wikipedia.org/wiki/Electrophoresis) [Mycelium](https://en.wikipedia.org/wiki/Mycelium) [Yeast](https://en.wikipedia.org/wiki/Yeast) to fabricate living organic semiconductors"
+PhD thesis: "Cultivating [Electrophoretic](https://en.wikipedia.org/wiki/Electrophoresis){:target="_blank"} [Mycelium](https://en.wikipedia.org/wiki/Mycelium){:target="_blank"} [Yeast](https://en.wikipedia.org/wiki/Yeast){:target="_blank"} to fabricate living organic semiconductors"
 
 **Iúna Morei**:  
 CEO of Morei Textiles  
@@ -50,14 +50,14 @@ Codename "Mama Bird"
 
 **Kai Oliveira**:  
 Bio-materials Scientist  
-PhD thesis: "Methods for genetically modifying bacterial colonies to build [Bio-Silicate](https://en.wikipedia.org/wiki/Silicate) interfaces"  
+PhD thesis: "Methods for genetically modifying bacterial colonies to build [Bio-Silicate](https://en.wikipedia.org/wiki/Silicate){:target="_blank"} interfaces"  
 
 **Vec Barbosa**:  
 Animal technician, Veterinarian, and SCUBA diving instructor  
 
 **Beatriz Cavalcanti**:  
 Marine Ecologist  
-PhD thesis: "Ecophysiological responses to [ocean acidification](https://en.wikipedia.org/wiki/Ocean_acidification) in coastal ecosystems"  
+PhD thesis: "Ecophysiological responses to [ocean acidification](https://en.wikipedia.org/wiki/Ocean_acidification){:target="_blank"} in coastal ecosystems"  
 
 **Nova Jatobá**:  
 Research Assistant  
@@ -69,7 +69,7 @@ President and Director of Laboratório Nacional de Biociências e Saúde Públic
 **Iara Gracie**:  
 Research Assistant  
 B.Sc. in Animal Husbandry  
-Red/White belt in [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)  
+Red/White belt in [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu){:target="_blank"}  
 
 **Felix Grael**:  
 Research Technician  
@@ -78,7 +78,7 @@ Home-brewed beer enthusiast
 
 **Breno Leite**:  
 Lab Manager  
-PhD thesis: "Human [transcriptomic](https://en.wikipedia.org/wiki/Transcriptome) responses to daily movement practice"
+PhD thesis: "Human [transcriptomic](https://en.wikipedia.org/wiki/Transcriptome){:target="_blank"} responses to daily movement practice"
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p01_web-01.jpg" 
 alt="Chapter 1, page 1" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
@@ -112,13 +112,13 @@ We see Majhee walking briskly through the crowded streets of São Paulo. Everyon
 
 A lot of the news is about the new space arboretum, but most of the individual bubbles are focused on news about planetside climate disasters: 
 
-**"...[the Colorado River has *dried up completely*](https://www.smithsonianmag.com/science-nature/the-colorado-river-runs-dry-61427169/) and many are migrating east to escape the *severe drought*..."**
+**"...[the Colorado River has *dried up completely*](https://www.smithsonianmag.com/science-nature/the-colorado-river-runs-dry-61427169/){:target="_blank"} and many are migrating east to escape the *severe drought*..."**
 
-**"...aggressive *water-borne disease* has placed [most of northeast India under *quarantine*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1151007/)"**
+**"...aggressive *water-borne disease* has placed [most of northeast India under *quarantine*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1151007/){:target="_blank"}"**
 
-**"...[*total evaporation* of the River Niger](https://www.vanguardngr.com/2016/05/river-niger-drying-fg-raises-alarm/) has led to *massive lootings* at yet another hydropower station..."**
+**"...[*total evaporation* of the River Niger](https://www.vanguardngr.com/2016/05/river-niger-drying-fg-raises-alarm/){:target="_blank"} has led to *massive lootings* at yet another hydropower station..."**
 
-**"...[*hundred times* more likely to be diagnosed](http://www.who.int/uv/faq/skincancer/en/index1.html) with illnesses caused by *sun radiation* than even just ten years ago..."**
+**"...[*hundred times* more likely to be diagnosed](http://www.who.int/uv/faq/skincancer/en/index1.html){:target="_blank"} with illnesses caused by *sun radiation* than even just ten years ago..."**
 
 We see Majhee walk past a large research facility, metal and glass architecture dully gleaming in the smoggy light, labeled "Laboratório Nacional de Biociências e Saúde Pública". 
 
@@ -139,7 +139,9 @@ alt="Chapter 1, page 3" caption="Art by Matteo Farinella, Lettering by Danbee Ki
 
 Inside the research institute, we see a receptionist sitting behind a sealed glass window. Next to him is a decontamination chamber that all must pass thru in order to enter the research facility. 
 
-**"...Space Consortium's actions have been publicly condemned by many researchers affiliated with the LNBSP(Laboratório Nacional de Biociências e Saúde Pública), including Dr. Majhee Suh, who was the first to cultivate stable thread-worms capable of spinning SynTh..."**
+**"...Space Consortium's actions have been publicly condemned by many researchers affiliated with the LNBSP, including Dr. Majhee Suh, who was the first to cultivate stable thread-worms capable of spinning SynTh..."**
+
+*LNBSP = Laboratório Nacional de Biociências e Saúde Pública*
 
 Majhee: **"Mornin', Paulo!"**
 
@@ -171,7 +173,7 @@ A floating digital page reads the following:
 **"Open SynTh Exchange"**  
 **" 'Applying Tesla’s Theory of Wireless Energy Transmission to SynTh textiles' "**  
 **"Asked 2.5 years ago Active 7 months ago Viewed 40k times"**  
-**"Just finished reading [Nikola Tesla: On His Work With Alternating Currents and Their Application to Wireless Telegraphy, Telephony and Transmission of Power](http://www.tfcbooks.com/tesla/nt_on_ac.htm#TOC), and I'm fascinated with the parallels I see between Tesla's experiments with wireless energy transmission and the 'synchronized SynTh textiles' effect. I'm keen to systematically replicate Tesla's apparatuses in SynTh circuitry and would love to discuss further with anyone interested in collaborating."**
+**"Just finished reading [Nikola Tesla: On His Work With Alternating Currents and Their Application to Wireless Telegraphy, Telephony and Transmission of Power](http://www.tfcbooks.com/tesla/nt_on_ac.htm#TOC){:target="_blank"}, and I'm fascinated with the parallels I see between Tesla's experiments with wireless energy transmission and the 'synchronized SynTh textiles' effect. I'm keen to systematically replicate Tesla's apparatuses in SynTh circuitry and would love to discuss further with anyone interested in collaborating."**
 **"Keywords: Tesla, synchronicity, textile interactions, replication work"**
 **"Posted 11 Aug 2063 at 13:42 by QueenBee42"**
 
@@ -225,11 +227,11 @@ alt="Chapter 1, page 6" caption="Art by Matteo Farinella, Lettering by Danbee Ki
 
 Majhee, Felix, and other members of Majhee's research group sit or stand in a cluster at one end of their lab benches in an upper floor of the research institute. The wall nearest to them is a floor-to-ceiling window, showing the dusty sky-line of São Paulo. The sun sits in a reddish hazy sky, just past the midday zenith. 
 
-The circle of researchers: **Felix Grael**, a pale but handsome man in his late 20s, raised in Rio de Janeiro by Swedish immigrants who have since returned to Europe, his face lined with fear and sadness, head in hands as his elbows rest on his knees; **Kai Oliveira**, a much older woman of Japanese-Portuguese descent, grey-haired and hook-nosed, stern-faced and sitting stiffly in her chair; **Beatriz Cavalcanti**, a tall woman in her 30s, a Brazilian of Italian descent, mouth set in a grim line even as her hands squeeze Felix's shoulders in a motherly, comforting gesture; **Breno Leite**, a dark, thin man in his early 30s, born and raised in the streets of São Paulo by his young Brazilian single mother, who worked every day of her life before falling ill in order to send her son to university; **Nova Jatobá**, a young graduate student in her mid-20s, descended from indiginous Brazilians from deeper inland, her plump face lined with exhaustion; **Iara Gracie**, another young grad student in her mid-20s, who was born into an [old Brazilian martial arts family](https://en.wikipedia.org/wiki/Gracie_family) but chose the life of a scientist instead; **Vec Barbosa**, a portly Brazilian man of West African descent in his 40s, hands resignedly folded over a substantial beer belly, face troubled and sad behind a rather bushy yet neatly-trimmed beard.
+The circle of researchers: **Felix Grael**, a pale but handsome man in his late 20s, raised in Rio de Janeiro by Swedish immigrants who have since returned to Europe, his face lined with fear and sadness, head in hands as his elbows rest on his knees; **Kai Oliveira**, a much older woman of Japanese-Portuguese descent, grey-haired and hook-nosed, stern-faced and sitting stiffly in her chair; **Beatriz Cavalcanti**, a tall woman in her 30s, a Brazilian of Italian descent, mouth set in a grim line even as her hands squeeze Felix's shoulders in a motherly, comforting gesture; **Breno Leite**, a dark, thin man in his early 30s, born and raised in the streets of São Paulo by his young Brazilian single mother, who worked every day of her life before falling ill in order to send her son to university; **Nova Jatobá**, a young graduate student in her mid-20s, descended from indiginous Brazilians from deeper inland, her plump face lined with exhaustion; **Iara Gracie**, another young grad student in her mid-20s, who was born into an [old Brazilian martial arts family](https://en.wikipedia.org/wiki/Gracie_family){:target="_blank"} but chose the life of a scientist instead; **Vec Barbosa**, a portly Brazilian man of West African descent in his 40s, hands resignedly folded over a substantial beer belly, face troubled and sad behind a rather bushy yet neatly-trimmed beard.
 
 Beatriz: **"So...it's back?"**
 
-Felix, defeated: **"Yes...they think it was the [liver transplant](https://skincancer.ucsf.edu/transplant-patients)...my father had one last year..."**
+Felix, defeated: **"Yes...they think it was the [liver transplant](https://skincancer.ucsf.edu/transplant-patients){:target="_blank"}...my father had one last year..."**
 
 Beatriz, gently: **"Do you want to go home? The lab can cover your flight..."**
 
@@ -262,7 +264,7 @@ Kai hands Majhee a letter covered in legal jargon.
 
 Kai: **"It was in our mail pile this morning..."**
 
-Majhee: **"This is from Space Co? '...Due to the challenges arising from our pursuit of exclusive patents on derivatives of a previous collaboration, we write to inform you of a forthcoming publication embargo on all research concerning SynTh-spliced [photon-harvesting biofilms](https://cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08).' What??"**
+Majhee: **"This is from Space Co? '...Due to the challenges arising from our pursuit of exclusive patents on derivatives of a previous collaboration, we write to inform you of a forthcoming publication embargo on all research concerning SynTh-spliced [photon-harvesting biofilms](https://cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08){:target="_blank"}.' What??"**
 
 Nova, looking shocked: **"Are they announcing another patent already??"**
 
@@ -291,7 +293,7 @@ Kai: **"I say we start straight away! Felix and I will review the latest thread-
 
 Felix looks dazed already. 
 
-Vec: **"I'll set up a [scrambled](https://en.wikipedia.org/wiki/Scrambler) line to Sweden."**
+Vec: **"I'll set up a [scrambled](https://en.wikipedia.org/wiki/Scrambler){:target="_blank"} line to Sweden."**
 
 Beatriz: **"I'll get Felix his flight."**
 
@@ -337,7 +339,7 @@ Iúna gives the delegation from the World Health Organization a kind smile.
 
 Iúna: **"Dr. Kauffmann, I must admit that I'm adamantly opposed to body mods and SynTh implants...I'm extremely grateful that you've taken the time to travel all this way from DC."**
 
-Dr. Kauffmann: **"It's alright, we were in Boston this morning anway...besides, I wanted to thank you in person. No one beats your [MERV* ratings](https://en.wikipedia.org/wiki/Minimum_efficiency_reporting_value)...I've got your organzas in every window of my house."**
+Dr. Kauffmann: **"It's alright, we were in Boston this morning anway...besides, I wanted to thank you in person. No one beats your [MERV* ratings](https://en.wikipedia.org/wiki/Minimum_efficiency_reporting_value){:target="_blank"}...I've got your organzas in every window of my house."**
 
 * *MERV= Minimum efficiency reporting value*
 
@@ -360,7 +362,7 @@ Dr. Kauffmann: **"Haven't had a chance to count yet. Thousands are homeless..."*
 
 Iúna: **"How does a *police raid* start a *state-wide fire*??"**
 
-Dr. Kauffmann: **"Apparently the targets panicked and tried to destroy the evidence...and the suburbs are just *filled* with [plastic furniture, which are basically *solid* petroleum](https://youtu.be/aDNPhq5ggoE), and it all just hit a flash point...I'm sorry...do you know anyone over there?"**
+Dr. Kauffmann: **"Apparently the targets panicked and tried to destroy the evidence...and the suburbs are just *filled* with [plastic furniture, which are basically *solid* petroleum](https://youtu.be/aDNPhq5ggoE){:target="_blank"}, and it all just hit a flash point...I'm sorry...do you know anyone over there?"**
 
 Iúna: **"Yes, I...I'm sorry, I need to make a call..."**
 
@@ -371,15 +373,15 @@ Under this dialogue we see close-up views of the baby strapped to Iúna's front.
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p12_web-01.jpg" 
 alt="Chapter 1, page 12" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-Iúna: **"*[Tahoe](https://en.wikipedia.org/wiki/Tahoe_National_Forest), have you been able to contact [Joshua Tree](https://en.wikipedia.org/wiki/Joshua_Tree_National_Park)?*"**
+Iúna: **"*[Tahoe](https://en.wikipedia.org/wiki/Tahoe_National_Forest){:target="_blank"}, have you been able to contact [Joshua Tree](https://en.wikipedia.org/wiki/Joshua_Tree_National_Park){:target="_blank"}?*"**
 
 Iúna's Biononymous contact at Green Haven Tahoe: **"*Negative, Mama Bird.*"**
 
 Iúna: **"*How is Tahoe?*"**
 
-Tahoe: **"*Fire hasn't gotten further than [Fresno](https://en.wikipedia.org/wiki/Fresno,_California), but we're getting ready to offer sanctuary.*"**
+Tahoe: **"*Fire hasn't gotten further than [Fresno](https://en.wikipedia.org/wiki/Fresno,_California){:target="_blank"}, but we're getting ready to offer sanctuary.*"**
 
-Iúna: **"*...was it...[Portzy](https://en.wikipedia.org/wiki/Portiuncula)?*"**
+Iúna: **"*...was it...[Portzy](https://en.wikipedia.org/wiki/Portiuncula){:target="_blank"}?*"**
 
 Tahoe: **"*...no one else had a body mod, Mama Bird...*"**
 
@@ -408,55 +410,55 @@ Iúna: **"*Remember the mechapet idea?* It's possible now!!"**
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p13_web-01.jpg" 
 alt="Chapter 1, page 13" caption="Art and Lettering by Danbee Kim." %}
 
-**"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2095-007..."**
+**"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape){:target="_blank"} at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)){:target="_blank"} Archeological Site 2095-007..."**
 
 ### Neuron Classification by Structure
 
 -- Unipolar --  
-[**Unipolar neurons**](https://en.wikipedia.org/wiki/Unipolar_neuron) have only one "neuronal process" (extension, branch, appendage) extending out of their cell body. Many primary sensory neurons, which are the first step in translating chemicals, light, or vibrations from the outside world into neural signals, are unipolar cells. In addition, [unipolar brush cells](https://en.wikipedia.org/wiki/Unipolar_brush_cell) have been found in the cerebellar cortex and cochlear nucleus (part of the brainstem).
+[**Unipolar neurons**](https://en.wikipedia.org/wiki/Unipolar_neuron){:target="_blank"} have only one "neuronal process" (extension, branch, appendage) extending out of their cell body. Many primary sensory neurons, which are the first step in translating chemicals, light, or vibrations from the outside world into neural signals, are unipolar cells. In addition, [unipolar brush cells](https://en.wikipedia.org/wiki/Unipolar_brush_cell){:target="_blank"} have been found in the cerebellar cortex and cochlear nucleus (part of the brainstem).
 
 -- Bipolar --  
-[**Bipolar neurons**](https://en.wikipedia.org/wiki/Bipolar_neuron) have two long processes that extend from the soma (cell body). One process carries info away from the soma (called ["axon"](https://en.wikipedia.org/wiki/Axon)), and the other carries info towards the soma (called ["dendrite"](https://en.wikipedia.org/wiki/Dendrite)). Many non-primary sensory neurons,which filter or amplify signals from primary sensory neurons, are bipolar neurons. Bipolar neurons are found in the [retina](https://en.wikipedia.org/wiki/Retina), [olfactory epithelium](https://en.wikipedia.org/wiki/Olfactory_epithelium), [vestibular nerve](https://en.wikipedia.org/wiki/Vestibular_nerve), and [spinal ganglia](https://en.wikipedia.org/wiki/Dorsal_root_ganglion).
+[**Bipolar neurons**](https://en.wikipedia.org/wiki/Bipolar_neuron){:target="_blank"} have two long processes that extend from the soma (cell body). One process carries info away from the soma (called ["axon"](https://en.wikipedia.org/wiki/Axon){:target="_blank"}), and the other carries info towards the soma (called ["dendrite"](https://en.wikipedia.org/wiki/Dendrite){:target="_blank"}). Many non-primary sensory neurons,which filter or amplify signals from primary sensory neurons, are bipolar neurons. Bipolar neurons are found in the [retina](https://en.wikipedia.org/wiki/Retina){:target="_blank"}, [olfactory epithelium](https://en.wikipedia.org/wiki/Olfactory_epithelium){:target="_blank"}, [vestibular nerve](https://en.wikipedia.org/wiki/Vestibular_nerve){:target="_blank"}, and [spinal ganglia](https://en.wikipedia.org/wiki/Dorsal_root_ganglion){:target="_blank"}.
 
 -- Pseudounipolar --  
-Pseudounipolar neurons are a type of sensory neuron in the peripheral nervous system, whose somas are located within the [dorsal root ganglia](https://en.wikipedia.org/wiki/Dorsal_root_ganglion) of the spinal cord. These neurons have a single, long axon that splits into two branches: a "peripheral branch" which goes to the skin, joints, and muscles; and a "central branch" which goes to the spinal cord. Pseudounipolar neurons develop from bipolar neurons.
+Pseudounipolar neurons are a type of sensory neuron in the peripheral nervous system, whose somas are located within the [dorsal root ganglia](https://en.wikipedia.org/wiki/Dorsal_root_ganglion){:target="_blank"} of the spinal cord. These neurons have a single, long axon that splits into two branches: a "peripheral branch" which goes to the skin, joints, and muscles; and a "central branch" which goes to the spinal cord. Pseudounipolar neurons develop from bipolar neurons.
 
 -- Multipolar --  
-The soma of [**multipolar neurons**](https://en.wikipedia.org/wiki/Multipolar_neuron) is surrounded by many small, branching dendrites, and one long axon. Multipolar neurons function as [motor neurons](https://en.wikipedia.org/wiki/Motor_neuron) and [interneurons](https://en.wikipedia.org/wiki/Interneuron), and they are found mostly in the [cortex of the brain](https://en.wikipedia.org/wiki/Cerebral_cortex), [spinal cord](https://en.wikipedia.org/wiki/Spinal_cord), and [autonomic ganglia](https://en.wikipedia.org/wiki/Autonomic_ganglion).
+The soma of [**multipolar neurons**](https://en.wikipedia.org/wiki/Multipolar_neuron){:target="_blank"} is surrounded by many small, branching dendrites, and one long axon. Multipolar neurons function as [motor neurons](https://en.wikipedia.org/wiki/Motor_neuron){:target="_blank"} and [interneurons](https://en.wikipedia.org/wiki/Interneuron){:target="_blank"}, and they are found mostly in the [cortex of the brain](https://en.wikipedia.org/wiki/Cerebral_cortex){:target="_blank"}, [spinal cord](https://en.wikipedia.org/wiki/Spinal_cord){:target="_blank"}, and [autonomic ganglia](https://en.wikipedia.org/wiki/Autonomic_ganglion){:target="_blank"}.
 
 -- Anaxonic --  
-[**Anaxonic neurons**](https://en.wikipedia.org/wiki/Anaxonic_neuron) have many processes extending out from their somas, but no axon can be differentiated from the dendrites purely based on structure. These neurons act as ["non-spiking" neurons](https://en.wikipedia.org/wiki/Non-spiking_neuron), which use [graded potentials](https://en.wikipedia.org/wiki/Graded_potential) (as opposed to "spiking neurons", which use [action potentials](https://en.wikipedia.org/wiki/Action_potential)) to effect the fidelity, strength, and lifetime of a neuronal signal. Anaxonic neurons can influence the electrical excitability of spiking neurons, and [almost all central nervous system neurons born in adulthood seem to be anaxonic](https://cdn.elifesciences.org/articles/32373/elife-32373-v2.pdf#page=23); however, these neurons are still very poorly understood. Anaxonic neurons have been found in the brain and [special sense organs](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ar.22732) of vertebrates, and in the [central nervous system of invertebrates](https://www.jstage.jst.go.jp/article/aohc1988/52/Supplement/52_Supplement_139/_pdf).
+[**Anaxonic neurons**](https://en.wikipedia.org/wiki/Anaxonic_neuron){:target="_blank"} have many processes extending out from their somas, but no axon can be differentiated from the dendrites purely based on structure. These neurons act as ["non-spiking" neurons](https://en.wikipedia.org/wiki/Non-spiking_neuron){:target="_blank"}, which use [graded potentials](https://en.wikipedia.org/wiki/Graded_potential){:target="_blank"} (as opposed to "spiking neurons", which use [action potentials](https://en.wikipedia.org/wiki/Action_potential){:target="_blank"}) to effect the fidelity, strength, and lifetime of a neuronal signal. Anaxonic neurons can influence the electrical excitability of spiking neurons, and [almost all central nervous system neurons born in adulthood seem to be anaxonic](https://cdn.elifesciences.org/articles/32373/elife-32373-v2.pdf#page=23){:target="_blank"}; however, these neurons are still very poorly understood. Anaxonic neurons have been found in the brain and [special sense organs](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ar.22732){:target="_blank"} of vertebrates, and in the [central nervous system of invertebrates](https://www.jstage.jst.go.jp/article/aohc1988/52/Supplement/52_Supplement_139/_pdf){:target="_blank"}.
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p14_web-01.jpg" 
 alt="Chapter 1, page 14" caption="Art and Lettering by Danbee Kim." %}
 
-**"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2095-007..."**
+**"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape){:target="_blank"} at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)){:target="_blank"} Archeological Site 2095-007..."**
 
 ### Major Glial Cell Types
 
-A.k.a. ["neuroglia" or "glial cells"](https://en.wikipedia.org/wiki/Glia), these non-neuronal cells of the nervous system have **four main functions**: 
+A.k.a. ["neuroglia" or "glial cells"](https://en.wikipedia.org/wiki/Glia){:target="_blank"}, these non-neuronal cells of the nervous system have **four main functions**: 
 * surround neurons and hold them in place
 * supply nutrients and oxygen to neurons 
 * electrically insulate neurons from each other
 * destroy germs and remove dead neurons
 
--- [Macroglia](https://en.wikipedia.org/wiki/Glia#Macroglia) of the [Peripheral Nervous System (PNS)](https://en.wikipedia.org/wiki/Peripheral_nervous_system) --
+-- [Macroglia](https://en.wikipedia.org/wiki/Glia#Macroglia){:target="_blank"} of the [Peripheral Nervous System (PNS)](https://en.wikipedia.org/wiki/Peripheral_nervous_system){:target="_blank"} --
 
-[**Schwann cells**](https://en.wikipedia.org/wiki/Schwann_cell) provide [myelin sheaths](https://en.wikipedia.org/wiki/Myelin) (which make action potentials go faster and farther) to neurons in the PNS, eat germs, and clear cellular debris to help PNS neurons regrow. 
+[**Schwann cells**](https://en.wikipedia.org/wiki/Schwann_cell){:target="_blank"} provide [myelin sheaths](https://en.wikipedia.org/wiki/Myelin){:target="_blank"} (which make action potentials go faster and farther) to neurons in the PNS, eat germs, and clear cellular debris to help PNS neurons regrow. 
 
-[**Satellite cells**](https://en.wikipedia.org/wiki/Satellite_glial_cell) surround neurons in [sensory](https://en.wikipedia.org/wiki/Dorsal_root_ganglion), [sympathetic](https://en.wikipedia.org/wiki/Sympathetic_ganglion), and [parasympathetic ganglia](https://en.wikipedia.org/wiki/Parasympathetic_ganglion); are interconnected by [gap junctions](https://en.wikipedia.org/wiki/Gap_junction); and are highly sensitive to [inflammation](https://en.wikipedia.org/wiki/Inflammation) and pain. 
+[**Satellite cells**](https://en.wikipedia.org/wiki/Satellite_glial_cell){:target="_blank"} surround neurons in [sensory](https://en.wikipedia.org/wiki/Dorsal_root_ganglion){:target="_blank"}, [sympathetic](https://en.wikipedia.org/wiki/Sympathetic_ganglion){:target="_blank"}, and [parasympathetic ganglia](https://en.wikipedia.org/wiki/Parasympathetic_ganglion){:target="_blank"}; are interconnected by [gap junctions](https://en.wikipedia.org/wiki/Gap_junction){:target="_blank"}; and are highly sensitive to [inflammation](https://en.wikipedia.org/wiki/Inflammation){:target="_blank"} and pain. 
 
--- Macroglia of the [Central Nervous System (CNS)](https://en.wikipedia.org/wiki/Central_nervous_system) -- 
+-- Macroglia of the [Central Nervous System (CNS)](https://en.wikipedia.org/wiki/Central_nervous_system){:target="_blank"} -- 
 
-[**Oligodendrocytes**](https://en.wikipedia.org/wiki/Oligodendrocyte) coat the axons of neurons in the CNS with their cell membranes to form myelin sheaths; a single oligodendrocyte can serve up to 50 axons. 
+[**Oligodendrocytes**](https://en.wikipedia.org/wiki/Oligodendrocyte){:target="_blank"} coat the axons of neurons in the CNS with their cell membranes to form myelin sheaths; a single oligodendrocyte can serve up to 50 axons. 
 
-[**Astrocytes**](https://en.wikipedia.org/wiki/Astrocyte) (or astroglia) are the most abundant macroglia in the CNS. They remove excess potassium ions (K+) from around neurons; link neurons to a blood supply while helping form the blood-brain barrier; recycle neurotransmitters released during synaptic transmission; and signal to each other using [glutamate](https://en.wikipedia.org/wiki/Glutamate_(neurotransmitter)), [GABA](https://en.wikipedia.org/wiki/Gamma-Aminobutyric_acid), and [adenosine tri-phosphate (ATP, a molecule used for energy by all living cells)](https://en.wikipedia.org/wiki/Adenosine_triphosphate). 
+[**Astrocytes**](https://en.wikipedia.org/wiki/Astrocyte){:target="_blank"} (or astroglia) are the most abundant macroglia in the CNS. They remove excess potassium ions (K+) from around neurons; link neurons to a blood supply while helping form the blood-brain barrier; recycle neurotransmitters released during synaptic transmission; and signal to each other using [glutamate](https://en.wikipedia.org/wiki/Glutamate_(neurotransmitter)){:target="_blank"}, [GABA](https://en.wikipedia.org/wiki/Gamma-Aminobutyric_acid){:target="_blank"}, and [adenosine tri-phosphate (ATP, a molecule used for energy by all living cells)](https://en.wikipedia.org/wiki/Adenosine_triphosphate){:target="_blank"}. 
 
-[**Ependymal cells**](https://en.wikipedia.org/wiki/Ependyma) (or ependymocytes) line the spinal cord and the [ventricular system](https://en.wikipedia.org/wiki/Ventricular_system) of the brain to create the [ependyma](https://en.wikipedia.org/wiki/Ependyma), a part of the [blood-CSF barrier](https://en.wikipedia.org/wiki/Choroid_plexus#Blood%E2%80%93cerebrospinal_fluid_barrier). They are involved in creating, secreting, and circulating [cerebro-spinal fluid (CSF)](https://en.wikipedia.org/wiki/Cerebrospinal_fluid). 
+[**Ependymal cells**](https://en.wikipedia.org/wiki/Ependyma){:target="_blank"} (or ependymocytes) line the spinal cord and the [ventricular system](https://en.wikipedia.org/wiki/Ventricular_system){:target="_blank"} of the brain to create the [ependyma](https://en.wikipedia.org/wiki/Ependyma){:target="_blank"}, a part of the [blood-CSF barrier](https://en.wikipedia.org/wiki/Choroid_plexus#Blood%E2%80%93cerebrospinal_fluid_barrier){:target="_blank"}. They are involved in creating, secreting, and circulating [cerebro-spinal fluid (CSF)](https://en.wikipedia.org/wiki/Cerebrospinal_fluid){:target="_blank"}. 
 
 -- Microglia -- 
 
-[**Microglia**](https://en.wikipedia.org/wiki/Microglia) are much smaller than macroglia and can change shape in order to move around the entire nervous system. They multiply when the brain is damaged, and constantly sample their environment in order to direct [immune system](https://en.wikipedia.org/wiki/Immune_system) responses to damage or danger in the nervous system. 
+[**Microglia**](https://en.wikipedia.org/wiki/Microglia){:target="_blank"} are much smaller than macroglia and can change shape in order to move around the entire nervous system. They multiply when the brain is damaged, and constantly sample their environment in order to direct [immune system](https://en.wikipedia.org/wiki/Immune_system){:target="_blank"} responses to damage or danger in the nervous system. 
 
 
 
