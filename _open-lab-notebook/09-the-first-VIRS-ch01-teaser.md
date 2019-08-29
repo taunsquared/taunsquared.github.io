@@ -215,7 +215,7 @@ Marcia: **"I know, but...look, can we just go for a walk?"**
 
 Majhee: **"I can't, I'm already late. See, Felix is coming to fetch his delinquent P.I.*"**
 
-* *P.I. = Principle Investigator*
+*P.I. = Principle Investigator*
 
 Felix, a scientist in Majhee's lab, appears at the doorway.
 
