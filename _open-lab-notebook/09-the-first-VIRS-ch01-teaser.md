@@ -32,7 +32,7 @@ To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/V
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00_web-01.jpg" alt="Chapter 1 
 title page" caption="Art by Xiao Xiao, Lettering by Danbee Kim.  
   
-**"Loading Universal Record..."**." %}
+**'Loading Universal Record...'**." %}
 
 **"Loading Universal Record..."**
 
