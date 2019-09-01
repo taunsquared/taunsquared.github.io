@@ -15,6 +15,8 @@ tags:
 ---
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 
+# Chapter 1, book cover and project credits
+
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_book-title_web-01.jpg" alt="Cover, 'The First VIRS'" caption="Art by Gideon Gerlt, Lettering by Danbee Kim." %}
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch00_p00_web-01.jpg" alt="Credits, 'The First VIRS'" %}
