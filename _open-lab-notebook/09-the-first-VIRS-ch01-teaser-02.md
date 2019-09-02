@@ -13,13 +13,52 @@ tags:
   - science communication
   - public engagement
 ---
-## Prologue
+## Chapter 1 cast
 
-[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/03){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn}
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/03){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch00_p00-00_web-01.jpg" alt="Prologue" %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00-01_web-01.jpg" 
+alt="Chapter 1 Cast" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch00_p00-01_web-01.jpg" alt="'The Beginning'" %}
+**Majhee Suh**:  
+[Organometallic Chemist](https://en.wikipedia.org/wiki/Organometallic_chemistry)  
+PhD thesis: "Cultivating [Electrophoretic](https://en.wikipedia.org/wiki/Electrophoresis) [Mycelium](https://en.wikipedia.org/wiki/Mycelium) [Yeast](https://en.wikipedia.org/wiki/Yeast) to fabricate living organic semiconductors"
+
+**Iúna Morei**:  
+CEO of Morei Textiles  
+Codename "Mama Bird"  
+
+**Kai Oliveira**:  
+Bio-materials Scientist  
+PhD thesis: "Methods for genetically modifying bacterial colonies to build [Bio-Silicate](https://en.wikipedia.org/wiki/Silicate) interfaces"  
+
+**Vec Barbosa**:  
+Animal technician, Veterinarian, and SCUBA diving instructor  
+
+**Beatriz Cavalcanti**:  
+Laboratory Manager  
+PhD thesis: "Ecophysiological responses to [ocean acidification](https://en.wikipedia.org/wiki/Ocean_acidification) in coastal ecosystems"  
+
+**Nova Jatobá**:  
+Research Assistant  
+B.Sc. in Nutrition and Information Management  
+
+**Marcia Netto**:  
+President and Director of Laboratório Nacional de Biociências e Saúde Pública  
+
+**Iara Gracie**:  
+Research Assistant  
+B.Sc. in Animal Husbandry  
+Red/White belt in [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)  
+
+**Felix Grael**:  
+Research Technician  
+B.Sc. in Biophysics  
+Home-brewed beer enthusiast  
+
+**Breno Leite**:  
+Physiologist and Geneticist  
+PhD thesis: "Human [transcriptomic](https://en.wikipedia.org/wiki/Transcriptome) responses to daily movement practice"
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 

@@ -13,18 +13,40 @@ tags:
   - science communication
   - public engagement
 ---
-## Chapter 1 title page
+## Page 2
 
-[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/03){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/05){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn}
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/03){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/05){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00_web-01.jpg" alt="Chapter 1 
-title page" caption="Art by Xiao Xiao, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p02_web-01.jpg" 
+alt="Chapter 1, page 2" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-**"Loading Universal Record..."**
+**"São Paulo, Brazil"**
 
-**"Finished loading...'The Space Consortium Fights World Hunger'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels){:target="_blank"}."**
+We see Majhee walking briskly through the crowded streets of São Paulo. Everyone is wearing what looks like light-weight full-body hazmat suits, flickering a bit as the synaptic thread, or SynTh in the material absorbs dangerous radiation in the air. All hoods are up, breathing masks and googles are on. The air is hazy with smog, the sky a smeared grey-blue, and the mid-morning sun pale. As Majhee passes shops and cafes, the daily news appears in hologram-like projections that occupy the ceilings or hover at standing-head-height. Other humans have tiny projections coming from subdermally implanted chips in their wrists, palms, ears, or foreheads; these projections surround their wrists, palms, ears, or face with a sphere of light, called their "bubble", which either sonify or visualise entertainment, memories, mental models, dreams, news, and scholarly publications. 
 
-**"In 2054, Space Consortium presented the United Nations with a proposal to collaborate with planetside farms and biodiversity sanctuaries (predecessors to the modern-day Green Havens) in order to conduct research into plants useful for space travel and permaculture in low gravity. In return for funding and logistical support from the UN, Space Consortium offered to use this research to help fight the global food shortage with food grown in space, and pledged half of the carrying capacity of its recently completed space elevator project, the Space Ferries, to guarantee reliable transport of resources back and forth between orbiting farms and planetside. Thus, Space Consortium played a major role in improving the quality of life on Earth before [The Global Water Crisis](https://www.bbc.co.uk/news/uk-47620228){:target="_blank"}..."**
+A lot of the news is about the new space arboretum, but most of the individual bubbles are focused on news about planetside climate disasters: 
+
+**"...[the Colorado River has *dried up completely*](https://www.smithsonianmag.com/science-nature/the-colorado-river-runs-dry-61427169/){:target="_blank"} and many are migrating east to escape the *severe drought*..."**
+
+**"...aggressive *water-borne disease* has placed [most of northeast India under *quarantine*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1151007/){:target="_blank"}"**
+
+**"...[*total evaporation* of the River Niger](https://www.vanguardngr.com/2016/05/river-niger-drying-fg-raises-alarm/){:target="_blank"} has led to *massive lootings* at yet another hydropower station..."**
+
+**"...[*hundred times* more likely to be diagnosed](http://www.who.int/uv/faq/skincancer/en/index1.html){:target="_blank"} with illnesses caused by *sun radiation* than even just ten years ago..."**
+
+We see Majhee walk past a large research facility, metal and glass architecture dully gleaming in the smoggy light, labeled "Laboratório Nacional de Biociências e Saúde Pública". 
+
+*translation: National Laboratory for Biosciences and Public Health*
+
+The front of the research facility is teeming with protesters, who chant "Não sirva aos tiranos em órbita!" and "Educar crianças humanas, não máquinas corporativas!"
+
+*translation: "Don't serve the tyrants in orbit!", "Educate human children, not corporate machines!"*
+
+**"...fifth day of violent demonstrations at the Laboratório Nacional de Biociências e Saúde Pública protesting the public research institution's collaboration with Space Consortium..."**
+
+Majhee sneaks into an alleyway to enter the research facility via a back door. 
+
+**"...last week the space exploration conglomerate announced the first ever patent on a device made with synaptic thread technology, commonly known as SynTh..."**
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 

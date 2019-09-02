@@ -13,35 +13,40 @@ tags:
   - science communication
   - public engagement
 ---
-## Page 4
+## Page 7
 
-[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/08){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/10){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn}
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/08){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/10){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p04_web-01.jpg" 
-alt="Chapter 1, page 4" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p07_web-01.jpg" 
+alt="Chapter 1, page 7" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-A floating digital page reads the following:
+Kai looks down at her lap with hard eyes.
 
-**"Open SynTh Exchange"**  
-**" 'Applying Tesla’s Theory of Wireless Energy Transmission to SynTh textiles' "**  
-**"Asked 2.5 years ago Active 7 months ago Viewed 40k times"**  
-**"Just finished reading [Nikola Tesla: On His Work With Alternating Currents and Their Application to Wireless Telegraphy, Telephony and Transmission of Power](http://www.tfcbooks.com/tesla/nt_on_ac.htm#TOC), and I'm fascinated with the parallels I see between Tesla's experiments with wireless energy transmission and the 'synchronized SynTh textiles' effect. I'm keen to systematically replicate Tesla's apparatuses in SynTh circuitry and would love to discuss further with anyone interested in collaborating."**
-**"Keywords: Tesla, synchronicity, textile interactions, replication work"**
-**"Posted 11 Aug 2063 at 13:42 by QueenBee42"**
+Kai: **"I'll manage long enough for you to set up a splicing station in Sweden...but you'll have to make it quick..."**
 
-Majhee stands in her office, seemingly floating in the center of a giant transparent bacteria made of light. The light model of the bacteria is exquisitely detailed, and a section of the nucleoid is blown up for closer inspection. Majhee's fingers are raised in a well-practiced yet complicated gesture. Her face is darkened with barely contained rage. 
+Kai hands Majhee a letter covered in legal jargon. 
 
-Off panel: **"...and you shouldn't even *be* here right now, not after that hit to the head last night! Majhee, could you at least *look* at me when I'm talking to you??"**
+Kai: **"*This* was in our mail pile this morning..."**
 
-We see Marcia Netto, Director of the Laboratório Nacional de Biociências e Saúde Pública, in Majhee's doorway, looking exasperated. Majhee sullenly turns from her digital bubble. 
+Majhee: **"From Space Co? '...challenges arising from our pursuit of exclusive patents ... we write to inform you of a forthcoming publication embargo on research concerning SynTh-spliced [photon-harvesting biofilms](https://cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08)...*IN 6 WEEKS*'??"**
 
-Marcia: **"My *point* is... our sponsors are just trying to make the best of our situation right now. I agree, Space Co has changed a *lot* in the last 12 years...but ending the collaboration now will *cripple* every lab in the building, including yours. At the end of the day, we *need* to stay on good terms with Space Co."**
+Nova: **"I'm *convinced* they're lurking in the OSE forums."**
 
-Majhee: **"More than those protestors outside *need* clean air and affordable food?"**
+*OSE = Open SynTh Exchange*
 
-Marcia loses her patience. 
+Kai: **"Well, outrunning Space Co to *every* application of SynTh was never a long-term sustainable plan..."**
 
-Marcia: **"Majhee, we are *just* a research institute. How are we supposed to police the largest international corporation on *and* off the planet??"**
+Nova: **"So what do we do?"**
+
+Majhee, angrily: **"No more low-hanging fruit. We sprint to finish the biofilm paper...then I say we put everything we've got towards developing the SynTh-hybrid skin idea!"**
+
+Nova: **"Yes. The past sprints were training...now, we run the marathon!"**
+
+Iara: **"You talk like we just need to crunch some numbers! We still have *no idea* how to spin the SynTh into a structure that can emerge into a superorganism..."**
+
+Felix: **"And the *ethical implications*..."**
+
+Breno: **"That hasn't stopped the *22 failed experiments* already published on the OSE..."**
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 

@@ -13,40 +13,34 @@ tags:
   - science communication
   - public engagement
 ---
-## Page 2
+## Page 5
 
-[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/06){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/08){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn}
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/06){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/08){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p02_web-01.jpg" 
-alt="Chapter 1, page 2" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p05_web-01.jpg" 
+alt="Chapter 1, page 5" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-**"São Paulo, Brazil"**
+Majhee angrily turns off the giant bacteria of light with an impatient gesture as she turns to Marcia, furious.
 
-We see Majhee walking briskly through the crowded streets of São Paulo. Everyone is wearing what looks like light-weight full-body hazmat suits, flickering a bit as the synaptic thread, or SynTh in the material absorbs dangerous radiation in the air. All hoods are up, breathing masks and googles are on. The air is hazy with smog, the sky a smeared grey-blue, and the mid-morning sun pale. As Majhee passes shops and cafes, the daily news appears in hologram-like projections that occupy the ceilings or hover at standing-head-height. Other humans have tiny projections coming from subdermally implanted chips in their wrists, palms, ears, or foreheads; these projections surround their wrists, palms, ears, or face with a sphere of light, called their "bubble", which either sonify or visualise entertainment, memories, mental models, dreams, news, and scholarly publications. 
+Majhee: **"We work at the *biggest* research center in Brazil, and have *way* more privilege than most folks on the street, so if *we* can't stand up to unethical behaviour, who can??"**
 
-A lot of the news is about the new space arboretum, but most of the individual bubbles are focused on news about planetside climate disasters: 
+Marcia: **"Majhee, if Space Co can't work with us, they'll just go to some other institute. We don't *actually* have any leverage."**
 
-**"...[the Colorado River has *dried up completely*](https://www.smithsonianmag.com/science-nature/the-colorado-river-runs-dry-61427169/){:target="_blank"} and many are migrating east to escape the *severe drought*..."**
+Majhee looks away miserably. 
 
-**"...aggressive *water-borne disease* has placed [most of northeast India under *quarantine*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1151007/){:target="_blank"}"**
+Majhee: **"Well...if the sponsors want me out, *fine*. I'm not taking back *anything* I've said against Space Co."**
 
-**"...[*total evaporation* of the River Niger](https://www.vanguardngr.com/2016/05/river-niger-drying-fg-raises-alarm/){:target="_blank"} has led to *massive lootings* at yet another hydropower station..."**
+Marcia: **"To be honest, they can't seem to decide whether to hate you or love you. You're the youngest scientist in the world with *two* UN grants..."**
 
-**"...[*hundred times* more likely to be diagnosed](http://www.who.int/uv/faq/skincancer/en/index1.html){:target="_blank"} with illnesses caused by *sun radiation* than even just ten years ago..."**
+Majhee, dryly: **"Are you saying I have redeeming qualities in the eyes of our prestige- and money-hungry overlords?"**
 
-We see Majhee walk past a large research facility, metal and glass architecture dully gleaming in the smoggy light, labeled "Laboratório Nacional de Biociências e Saúde Pública". 
+Marcia, hissing: **"Majhee! The walls...ears--!"**
 
-*translation: National Laboratory for Biosciences and Public Health*
+Felix, a scientist in Majhee's lab, appears at the doorway.
 
-The front of the research facility is teeming with protesters, who chant "Não sirva aos tiranos em órbita!" and "Educar crianças humanas, não máquinas corporativas!"
+Felix: **"Hi, sorry to interrupt...can we get Majhee please? Lab meeting was supposed to start an hour ago..."**
 
-*translation: "Don't serve the tyrants in orbit!", "Educate human children, not corporate machines!"*
-
-**"...fifth day of violent demonstrations at the Laboratório Nacional de Biociências e Saúde Pública protesting the public research institution's collaboration with Space Consortium..."**
-
-Majhee sneaks into an alleyway to enter the research facility via a back door. 
-
-**"...last week the space exploration conglomerate announced the first ever patent on a device made with synaptic thread technology, commonly known as SynTh..."**
+Majhee: **"I know, I'm sorry, I'm coming. Marcia, I'll give you a call later."**
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 

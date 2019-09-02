@@ -13,26 +13,40 @@ tags:
   - science communication
   - public engagement
 ---
-## Page 11
+## Page 14
 
-[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/15){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/17){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn}
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/15){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p11_web-01.jpg" 
-alt="Chapter 1, page 11" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p14_web-01.jpg" 
+alt="Chapter 1, page 14" caption="Art and Lettering by Danbee Kim." %}
 
-Dr. Kauffmann: **"They're prepping for a huge wave of refugees."**
+**"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape){:target="_blank"} at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)){:target="_blank"} Archeological Site 2095-007..."**
 
-Iúna: **"Really? From where?"** 
+### Major Glial Cell Types
 
-Dr. Kauffmann: **"This morning, Los Angelos. A police raid turned into a fire that's spread halfway up the coast of California. It's so big it's blowing over the mountains into Arizona..."**
+A.k.a. ["neuroglia" or "glial cells"](https://en.wikipedia.org/wiki/Glia){:target="_blank"}, these non-neuronal cells of the nervous system have **four main functions**: 
+* surround neurons and hold them in place
+* supply nutrients and oxygen to neurons 
+* electrically insulate neurons from each other
+* destroy germs and remove dead neurons
 
-Dr. Kauffmann: **"Apparently the targets panicked and tried to destroy the evidence...and the suburbs are just *filled* with [plastic furniture, which are basically *solid* petroleum](https://youtu.be/aDNPhq5ggoE), and it all just hit a flash point...I'm sorry...do you know anyone over there?"**
+-- [Macroglia](https://en.wikipedia.org/wiki/Glia#Macroglia){:target="_blank"} of the [Peripheral Nervous System (PNS)](https://en.wikipedia.org/wiki/Peripheral_nervous_system){:target="_blank"} --
 
-Iúna: **"Yes, I...I'm sorry, I need to make a call..."**
+[**Schwann cells**](https://en.wikipedia.org/wiki/Schwann_cell){:target="_blank"} provide [myelin sheaths](https://en.wikipedia.org/wiki/Myelin){:target="_blank"} (which make action potentials go faster and farther) to neurons in the PNS, eat germs, and clear cellular debris to help PNS neurons regrow. 
 
-Dr. Kauffmann: **"Of course. We'll see ourselves out."**
+[**Satellite cells**](https://en.wikipedia.org/wiki/Satellite_glial_cell){:target="_blank"} surround neurons in [sensory](https://en.wikipedia.org/wiki/Dorsal_root_ganglion){:target="_blank"}, [sympathetic](https://en.wikipedia.org/wiki/Sympathetic_ganglion){:target="_blank"}, and [parasympathetic ganglia](https://en.wikipedia.org/wiki/Parasympathetic_ganglion){:target="_blank"}; are interconnected by [gap junctions](https://en.wikipedia.org/wiki/Gap_junction){:target="_blank"}; and are highly sensitive to [inflammation](https://en.wikipedia.org/wiki/Inflammation){:target="_blank"} and pain. 
 
-Under this dialogue we see close-up views of the baby strapped to Iúna's front. The child is a little less than one year old. The strapping is an intricately folded piece of SynTh cloth that can amplify the baby's heartrate, breathing, and digestive sounds. 
+-- Macroglia of the [Central Nervous System (CNS)](https://en.wikipedia.org/wiki/Central_nervous_system){:target="_blank"} -- 
+
+[**Oligodendrocytes**](https://en.wikipedia.org/wiki/Oligodendrocyte){:target="_blank"} coat the axons of neurons in the CNS with their cell membranes to form myelin sheaths; a single oligodendrocyte can serve up to 50 axons. 
+
+[**Astrocytes**](https://en.wikipedia.org/wiki/Astrocyte){:target="_blank"} (or astroglia) are the most abundant macroglia in the CNS. They remove excess potassium ions (K+) from around neurons; link neurons to a blood supply while helping form the blood-brain barrier; recycle neurotransmitters released during synaptic transmission; and signal to each other using [glutamate](https://en.wikipedia.org/wiki/Glutamate_(neurotransmitter)){:target="_blank"}, [GABA](https://en.wikipedia.org/wiki/Gamma-Aminobutyric_acid){:target="_blank"}, and [adenosine tri-phosphate (ATP, a molecule used for energy by all living cells)](https://en.wikipedia.org/wiki/Adenosine_triphosphate){:target="_blank"}. 
+
+[**Ependymal cells**](https://en.wikipedia.org/wiki/Ependyma){:target="_blank"} (or ependymocytes) line the spinal cord and the [ventricular system](https://en.wikipedia.org/wiki/Ventricular_system){:target="_blank"} of the brain to create the [ependyma](https://en.wikipedia.org/wiki/Ependyma){:target="_blank"}, a part of the [blood-CSF barrier](https://en.wikipedia.org/wiki/Choroid_plexus#Blood%E2%80%93cerebrospinal_fluid_barrier){:target="_blank"}. They are involved in creating, secreting, and circulating [cerebro-spinal fluid (CSF)](https://en.wikipedia.org/wiki/Cerebrospinal_fluid){:target="_blank"}. 
+
+-- Microglia -- 
+
+[**Microglia**](https://en.wikipedia.org/wiki/Microglia){:target="_blank"} are much smaller than macroglia and can change shape in order to move around the entire nervous system. They multiply when the brain is damaged, and constantly sample their environment in order to direct [immune system](https://en.wikipedia.org/wiki/Immune_system){:target="_blank"} responses to damage or danger in the nervous system. 
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 

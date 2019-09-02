@@ -13,52 +13,40 @@ tags:
   - science communication
   - public engagement
 ---
-## Chapter 1 cast
+## Page 3
 
-[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/04){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/06){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn}
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/04){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/06){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00-01_web-01.jpg" 
-alt="Chapter 1 Cast" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p03_web-01.jpg" 
+alt="Chapter 1, page 3" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-**Majhee Suh**:  
-[Organometallic Chemist](https://en.wikipedia.org/wiki/Organometallic_chemistry)  
-PhD thesis: "Cultivating [Electrophoretic](https://en.wikipedia.org/wiki/Electrophoresis) [Mycelium](https://en.wikipedia.org/wiki/Mycelium) [Yeast](https://en.wikipedia.org/wiki/Yeast) to fabricate living organic semiconductors"
+Inside the research institute, we see a receptionist sitting behind a sealed glass window. Next to him is a decontamination chamber that all must pass thru in order to enter the research facility. 
 
-**Iúna Morei**:  
-CEO of Morei Textiles  
-Codename "Mama Bird"  
+**"...Space Co's actions have been publicly condemned by many researchers affiliated with the LNBSP, including Dr. Majhee Suh, who was the first to cultivate stable thread-worms capable of spinning SynTh..."**
 
-**Kai Oliveira**:  
-Bio-materials Scientist  
-PhD thesis: "Methods for genetically modifying bacterial colonies to build [Bio-Silicate](https://en.wikipedia.org/wiki/Silicate) interfaces"  
+*LNBSP = Laboratório Nacional de Biociências e Saúde Pública*
 
-**Vec Barbosa**:  
-Animal technician, Veterinarian, and SCUBA diving instructor  
+Majhee: **"Mornin', Paulo!"**
 
-**Beatriz Cavalcanti**:  
-Laboratory Manager  
-PhD thesis: "Ecophysiological responses to [ocean acidification](https://en.wikipedia.org/wiki/Ocean_acidification) in coastal ecosystems"  
+Paulo: **"Majhee! How's your head??"**
 
-**Nova Jatobá**:  
-Research Assistant  
-B.Sc. in Nutrition and Information Management  
+Majhee takes off her hood and googles - she is pretty and youthful for her 37 years, if it weren't for the many lines of worry and grim determination on her face. She shakes out her hair, cropped short in a bowl pixie cut. Clearly having many troubling thoughts, she begins taking off her SynTh hazmat suit.  
 
-**Marcia Netto**:  
-President and Director of Laboratório Nacional de Biociências e Saúde Pública  
+Majhee: **"Not great, but I'll live..."**
 
-**Iara Gracie**:  
-Research Assistant  
-B.Sc. in Animal Husbandry  
-Red/White belt in [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)  
+Paulo: **"Did you go to the hospital?"**
 
-**Felix Grael**:  
-Research Technician  
-B.Sc. in Biophysics  
-Home-brewed beer enthusiast  
+Majhee: **"No, I can't afford it right now."**
 
-**Breno Leite**:  
-Physiologist and Geneticist  
-PhD thesis: "Human [transcriptomic](https://en.wikipedia.org/wiki/Transcriptome) responses to daily movement practice"
+Paulo: **"Doesn't the LNBSP give you health insurance?"**
+
+Majhee: **"Yes, but I'm not covered for injuries that occur 'off the work site'...and technically, I was outside the front gates when the oxygen tank hit me."**
+
+Paulo: **"You're joking...what kinda messed up thinkin' is that??"**
+
+Majhee removes her boots and steps into the decontamination chamber.
+
+Majhee: **"Yeah, well...everyone's hungry...can't think when you're hungry."**
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 

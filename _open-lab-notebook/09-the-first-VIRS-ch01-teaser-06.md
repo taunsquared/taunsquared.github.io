@@ -13,32 +13,35 @@ tags:
   - science communication
   - public engagement
 ---
-## Page 1
+## Page 4
 
-[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/05){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/07){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn}
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/05){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/07){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p01_web-01.jpg" 
-alt="Chapter 1, page 1" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p04_web-01.jpg" 
+alt="Chapter 1, page 4" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-**"April 7, 2066: Mae Jemison Memorial Arboretum"**
+A floating digital page reads the following:
 
-**"Orbiter population: 8,063"**
+**"Open SynTh Exchange"**  
+**" 'Applying Tesla’s Theory of Wireless Energy Transmission to SynTh textiles' "**  
+**"Asked 2.5 years ago Active 7 months ago Viewed 40k times"**  
+**"Just finished reading [Nikola Tesla: On His Work With Alternating Currents and Their Application to Wireless Telegraphy, Telephony and Transmission of Power](http://www.tfcbooks.com/tesla/nt_on_ac.htm#TOC), and I'm fascinated with the parallels I see between Tesla's experiments with wireless energy transmission and the 'synchronized SynTh textiles' effect. I'm keen to systematically replicate Tesla's apparatuses in SynTh circuitry and would love to discuss further with anyone interested in collaborating."**
+**"Keywords: Tesla, synchronicity, textile interactions, replication work"**
+**"Posted 11 Aug 2063 at 13:42 by QueenBee42"**
 
-**"It was a day of hope and wonder."** 
+Majhee stands in her office, seemingly floating in the center of a giant transparent bacteria made of light. The light model of the bacteria is exquisitely detailed, and a section of the nucleoid is blown up for closer inspection. Majhee's fingers are raised in a well-practiced yet complicated gesture. Her face is darkened with barely contained rage. 
 
-**"The Space Consortium had just completed their third space farm, and the news feeds were drowning in videos of the glamorous ribbon-cutting event..."**
+Off panel: **"...and you shouldn't even *be* here right now, not after that hit to the head last night! Majhee, could you at least *look* at me when I'm talking to you??"**
 
-We see beautiful, important people draped in gorgeously fashionable and unspeakably expensive formal attire, made with synapic thread fabric programmed to fluidly change colours in response to the lights, the music, and their wearers' moods.
+We see Marcia Netto, Director of the Laboratório Nacional de Biociências e Saúde Pública, in Majhee's doorway, looking exasperated. Majhee sullenly turns from her digital bubble. 
 
-**"...of the Orbiter home pods that synchronised their velocities with the new arboretum..."**
+Marcia: **"My *point* is... our sponsors are just trying to make the best of our situation right now. I agree, Space Co has changed a *lot* in the last 12 years...but ending the collaboration now will *cripple* every lab in the building, including yours. At the end of the day, we *need* to stay on good terms with Space Co."**
 
-In a viewing port of the Arboretum, we see a huge mass of gathered Orbiter home pods, floating in synchronised orbit next to the Arboretum.
+Majhee: **"More than those protestors outside *need* clean air and affordable food?"**
 
-**"...of delicate, mouth-watering hors d'oeuvres made from succulent crops grown at the two older space farms, in carefully filtered water and pristine soil..."**
+Marcia loses her patience. 
 
-**"...for the world was becoming too dirty, too extreme in its weather, to support industrial planetside farming..."**
-
-**"...and many people, on this historic day, were starving..."**
+Marcia: **"Majhee, we are *just* a research institute. How are we supposed to police the largest international corporation on *and* off the planet??"**
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 

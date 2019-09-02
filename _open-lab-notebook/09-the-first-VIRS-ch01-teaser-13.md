@@ -13,34 +13,26 @@ tags:
   - science communication
   - public engagement
 ---
-## Page 8
+## Page 11
 
-[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/12){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/14){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn}
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/12){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/14){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p08_web-01.jpg" 
-alt="Chapter 1, page 8" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p11_web-01.jpg" 
+alt="Chapter 1, page 11" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-Majhee: **"Kai, Vec, Bea? What do you think?"**
+Dr. Kauffmann: **"They're prepping for a huge wave of refugees."**
 
-Kai: **"I say we start straight away! Felix and I will review the latest thread-worm recipe together-- tonight!"**
+Iúna: **"Really? From where?"** 
 
-Felix looks dazed already. 
+Dr. Kauffmann: **"This morning, Los Angelos. A police raid turned into a fire that's spread halfway up the coast of California. It's so big it's blowing over the mountains into Arizona..."**
 
-Vec: **"I'll help Nova update the OSE's [garlic protocols](https://en.wikipedia.org/wiki/Garlic_routing)"**
+Dr. Kauffmann: **"Apparently the targets panicked and tried to destroy the evidence...and the suburbs are just *filled* with [plastic furniture, which are basically *solid* petroleum](https://youtu.be/aDNPhq5ggoE), and it all just hit a flash point...I'm sorry...do you know anyone over there?"**
 
-Beatriz: **"I'll get Felix his flight."**
+Iúna: **"Yes, I...I'm sorry, I need to make a call..."**
 
-Iara: **"Breno and I will finish the [unit tests](https://en.wikipedia.org/wiki/Unit_testing)."**
+Dr. Kauffmann: **"Of course. We'll see ourselves out."**
 
-Majhee quirks an eyebrow.
-
-Majhee: **"You're all amazing. Thank you for massively improving my terrible week."**
-
-We see now the protesters outside, their desperate, hungry faces. They hold signs and wave flags with slogans like "Não sirva aos tiranos em órbita!", "Educar crianças humanas, não máquinas corporativas!", and "Alimentar humanos não foguetes!" 
-
-*translation: "Do not serve tyrants in orbit!", "Educate human children, not coporate machines!", "Feed humans not rockets!"*
-
-Majhee: **"Now, 22 failures...that's quite a lot of information..."**
+Under this dialogue we see close-up views of the baby strapped to Iúna's front. The child is a little less than one year old. The strapping is an intricately folded piece of SynTh cloth that can amplify the baby's heartrate, breathing, and digestive sounds. 
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 

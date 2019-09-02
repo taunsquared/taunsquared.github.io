@@ -13,40 +13,28 @@ tags:
   - science communication
   - public engagement
 ---
-## Page 7
+## Page 10
 
-[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/11){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/13){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn}
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/11){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/13){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p07_web-01.jpg" 
-alt="Chapter 1, page 7" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p10_web-01.jpg" 
+alt="Chapter 1, page 10" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-Kai looks down at her lap with hard eyes.
+Iúna: **"Thanks for bringing the new protocols from São Paulo."**
 
-Kai: **"I'll manage long enough for you to set up a splicing station in Sweden...but you'll have to make it quick..."**
+Dr. Kauffmann: **"You know, you'd get these updates a lot faster if you'd just get a body mod..."**
 
-Kai hands Majhee a letter covered in legal jargon. 
+Iúna gives the delegation from the World Health Organization a kind smile. 
 
-Kai: **"*This* was in our mail pile this morning..."**
+Iúna: **"Dr. Kauffmann, I must admit that I'm adamantly opposed to body mods and SynTh implants...but I *am* very grateful that you've taken the time to travel all this way from DC."**
 
-Majhee: **"From Space Co? '...challenges arising from our pursuit of exclusive patents ... we write to inform you of a forthcoming publication embargo on research concerning SynTh-spliced [photon-harvesting biofilms](https://cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08)...*IN 6 WEEKS*'??"**
+Dr. Kauffmann: **"It's alright, we were in Boston this morning anyway... besides, I wanted to thank you in person. No one beats your [MERV* ratings](https://en.wikipedia.org/wiki/Minimum_efficiency_reporting_value)... I've got your organzas in every window of my house."**
 
-Nova: **"I'm *convinced* they're lurking in the OSE forums."**
+*MERV= Minimum efficiency reporting value*
 
-*OSE = Open SynTh Exchange*
+Iúna: **"Just doing what we can. What's happening in Boston?"**
 
-Kai: **"Well, outrunning Space Co to *every* application of SynTh was never a long-term sustainable plan..."**
-
-Nova: **"So what do we do?"**
-
-Majhee, angrily: **"No more low-hanging fruit. We sprint to finish the biofilm paper...then I say we put everything we've got towards developing the SynTh-hybrid skin idea!"**
-
-Nova: **"Yes. The past sprints were training...now, we run the marathon!"**
-
-Iara: **"You talk like we just need to crunch some numbers! We still have *no idea* how to spin the SynTh into a structure that can emerge into a superorganism..."**
-
-Felix: **"And the *ethical implications*..."**
-
-Breno: **"That hasn't stopped the *22 failed experiments* already published on the OSE..."**
+Under this dialogue is a view of Iúna's desk. We see sneak peek's of the new splicing and voltage-treatment protocols visualized with light, a floating sphere controlled by a thick piece of SynTh canvas, stretched on a semi-circular frame that, when Iúna stands inside of it, places the canvas at about hip height, easy to reach while standing. 
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 

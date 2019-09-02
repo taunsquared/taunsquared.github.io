@@ -13,28 +13,31 @@ tags:
   - science communication
   - public engagement
 ---
-## Page 10
+## Page 13
 
-[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/14){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn}
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/14){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p10_web-01.jpg" 
-alt="Chapter 1, page 10" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p13_web-01.jpg" 
+alt="Chapter 1, page 13" caption="Art and Lettering by Danbee Kim." %}
 
-Iúna: **"Thanks for bringing the new protocols from São Paulo."**
+**"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape){:target="_blank"} at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)){:target="_blank"} Archeological Site 2095-007..."**
 
-Dr. Kauffmann: **"You know, you'd get these updates a lot faster if you'd just get a body mod..."**
+### Neuron Classification by Structure
 
-Iúna gives the delegation from the World Health Organization a kind smile. 
+-- Unipolar --  
+[**Unipolar neurons**](https://en.wikipedia.org/wiki/Unipolar_neuron){:target="_blank"} have only one "neuronal process" (extension, branch, appendage) extending out of their cell body. Many primary sensory neurons, which are the first step in translating chemicals, light, or vibrations from the outside world into neural signals, are unipolar cells. In addition, [unipolar brush cells](https://en.wikipedia.org/wiki/Unipolar_brush_cell){:target="_blank"} have been found in the cerebellar cortex and cochlear nucleus (part of the brainstem).
 
-Iúna: **"Dr. Kauffmann, I must admit that I'm adamantly opposed to body mods and SynTh implants...but I *am* very grateful that you've taken the time to travel all this way from DC."**
+-- Bipolar --  
+[**Bipolar neurons**](https://en.wikipedia.org/wiki/Bipolar_neuron){:target="_blank"} have two long processes that extend from the soma (cell body). One process carries info away from the soma (called ["axon"](https://en.wikipedia.org/wiki/Axon){:target="_blank"}), and the other carries info towards the soma (called ["dendrite"](https://en.wikipedia.org/wiki/Dendrite){:target="_blank"}). Many non-primary sensory neurons,which filter or amplify signals from primary sensory neurons, are bipolar neurons. Bipolar neurons are found in the [retina](https://en.wikipedia.org/wiki/Retina){:target="_blank"}, [olfactory epithelium](https://en.wikipedia.org/wiki/Olfactory_epithelium){:target="_blank"}, [vestibular nerve](https://en.wikipedia.org/wiki/Vestibular_nerve){:target="_blank"}, and [spinal ganglia](https://en.wikipedia.org/wiki/Dorsal_root_ganglion){:target="_blank"}.
 
-Dr. Kauffmann: **"It's alright, we were in Boston this morning anyway... besides, I wanted to thank you in person. No one beats your [MERV* ratings](https://en.wikipedia.org/wiki/Minimum_efficiency_reporting_value)... I've got your organzas in every window of my house."**
+-- Pseudounipolar --  
+Pseudounipolar neurons are a type of sensory neuron in the peripheral nervous system, whose somas are located within the [dorsal root ganglia](https://en.wikipedia.org/wiki/Dorsal_root_ganglion){:target="_blank"} of the spinal cord. These neurons have a single, long axon that splits into two branches: a "peripheral branch" which goes to the skin, joints, and muscles; and a "central branch" which goes to the spinal cord. Pseudounipolar neurons develop from bipolar neurons.
 
-*MERV= Minimum efficiency reporting value*
+-- Multipolar --  
+The soma of [**multipolar neurons**](https://en.wikipedia.org/wiki/Multipolar_neuron){:target="_blank"} is surrounded by many small, branching dendrites, and one long axon. Multipolar neurons function as [motor neurons](https://en.wikipedia.org/wiki/Motor_neuron){:target="_blank"} and [interneurons](https://en.wikipedia.org/wiki/Interneuron){:target="_blank"}, and they are found mostly in the [cortex of the brain](https://en.wikipedia.org/wiki/Cerebral_cortex){:target="_blank"}, [spinal cord](https://en.wikipedia.org/wiki/Spinal_cord){:target="_blank"}, and [autonomic ganglia](https://en.wikipedia.org/wiki/Autonomic_ganglion){:target="_blank"}.
 
-Iúna: **"Just doing what we can. What's happening in Boston?"**
-
-Under this dialogue is a view of Iúna's desk. We see sneak peek's of the new splicing and voltage-treatment protocols visualized with light, a floating sphere controlled by a thick piece of SynTh canvas, stretched on a semi-circular frame that, when Iúna stands inside of it, places the canvas at about hip height, easy to reach while standing. 
+-- Anaxonic --  
+[**Anaxonic neurons**](https://en.wikipedia.org/wiki/Anaxonic_neuron){:target="_blank"} have many processes extending out from their somas, but no axon can be differentiated from the dendrites purely based on structure. These neurons act as ["non-spiking" neurons](https://en.wikipedia.org/wiki/Non-spiking_neuron){:target="_blank"}, which use [graded potentials](https://en.wikipedia.org/wiki/Graded_potential){:target="_blank"} (as opposed to "spiking neurons", which use [action potentials](https://en.wikipedia.org/wiki/Action_potential){:target="_blank"}) to effect the fidelity, strength, and lifetime of a neuronal signal. Anaxonic neurons can influence the electrical excitability of spiking neurons, and [almost all central nervous system neurons born in adulthood seem to be anaxonic](https://cdn.elifesciences.org/articles/32373/elife-32373-v2.pdf#page=23){:target="_blank"}; however, these neurons are still very poorly understood. Anaxonic neurons have been found in the brain and [special sense organs](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ar.22732){:target="_blank"} of vertebrates, and in the [central nervous system of invertebrates](https://www.jstage.jst.go.jp/article/aohc1988/52/Supplement/52_Supplement_139/_pdf){:target="_blank"}.
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 

@@ -13,40 +13,38 @@ tags:
   - science communication
   - public engagement
 ---
-## Page 3
+## Page 6
 
-[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/07){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/09){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn}
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/07){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/09){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p03_web-01.jpg" 
-alt="Chapter 1, page 3" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p06_web-01.jpg" 
+alt="Chapter 1, page 6" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-Inside the research institute, we see a receptionist sitting behind a sealed glass window. Next to him is a decontamination chamber that all must pass thru in order to enter the research facility. 
+Majhee, Felix, and other members of Majhee's research group sit or stand in a cluster at one end of their lab benches in an upper floor of the research institute. The wall nearest to them is a floor-to-ceiling window, showing the dusty sky-line of São Paulo. The sun sits in a reddish hazy sky, just past the midday zenith. 
 
-**"...Space Co's actions have been publicly condemned by many researchers affiliated with the LNBSP, including Dr. Majhee Suh, who was the first to cultivate stable thread-worms capable of spinning SynTh..."**
+The circle of researchers: **Felix Grael**, a pale but handsome man in his late 20s, raised in Rio de Janeiro by Swedish immigrants who have since returned to Europe, his face lined with fear and sadness, head in hands as his elbows rest on his knees; **Kai Oliveira**, a much older woman of Japanese-Portuguese descent, grey-haired and hook-nosed, stern-faced and sitting stiffly in her chair; **Beatriz Cavalcanti**, a tall woman in her 30s, a Brazilian of Italian descent, mouth set in a grim line even as her hands squeeze Felix's shoulders in a motherly, comforting gesture; **Breno Leite**, a dark, thin man in his early 30s, born and raised in the streets of São Paulo by his young Brazilian single mother, who worked every day of her life before falling ill in order to send her son to university; **Nova Jatobá**, a young graduate student in her mid-20s, descended from indiginous Brazilians from deeper inland, her plump face lined with exhaustion; **Iara Gracie**, another young grad student in her mid-20s, who was born into an [old Brazilian martial arts family](https://en.wikipedia.org/wiki/Gracie_family) but chose the life of a scientist instead; **Vec Barbosa**, a portly Brazilian man of West African descent in his 40s, hands resignedly folded over a substantial beer belly, face troubled and sad behind a rather bushy yet neatly-trimmed beard.
 
-*LNBSP = Laboratório Nacional de Biociências e Saúde Pública*
+Beatriz: **"So...it's back?"**
 
-Majhee: **"Mornin', Paulo!"**
+Felix, defeated: **"Yes...they think it was the [liver transplant](https://skincancer.ucsf.edu/transplant-patients)..."**
 
-Paulo: **"Majhee! How's your head??"**
+Beatriz, gently: **"Do you want to go home? The lab can cover your flight..."**
 
-Majhee takes off her hood and googles - she is pretty and youthful for her 37 years, if it weren't for the many lines of worry and grim determination on her face. She shakes out her hair, cropped short in a bowl pixie cut. Clearly having many troubling thoughts, she begins taking off her SynTh hazmat suit.  
+Felix: **"Are you sure?"**
 
-Majhee: **"Not great, but I'll live..."**
+Vec: **"Of course!"**
 
-Paulo: **"Did you go to the hospital?"**
+Majhee, to Felix: **"And let us know if your father's doctors want access to our tissue database."**
 
-Majhee: **"No, I can't afford it right now."**
+Felix: **"Thanks...I know my mom will really appreciate having me at home..."**
 
-Paulo: **"Doesn't the LNBSP give you health insurance?"**
+Suddenly Felix screws up his face with anger and frustration. 
 
-Majhee: **"Yes, but I'm not covered for injuries that occur 'off the work site'...and technically, I was outside the front gates when the oxygen tank hit me."**
+Felix: **"But...we're so close--"**
 
-Paulo: **"You're joking...what kinda messed up thinkin' is that??"**
+Beatriz: **"Hey, family comes first, and that's ok."**
 
-Majhee removes her boots and steps into the decontamination chamber.
-
-Majhee: **"Yeah, well...everyone's hungry...can't think when you're hungry."**
+Felix: **"But Kai's hands--"**
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 

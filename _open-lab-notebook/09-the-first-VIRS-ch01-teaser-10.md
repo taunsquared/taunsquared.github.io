@@ -13,34 +13,34 @@ tags:
   - science communication
   - public engagement
 ---
-## Page 5
+## Page 8
 
-[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/09){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/11){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn}
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/09){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/11){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p05_web-01.jpg" 
-alt="Chapter 1, page 5" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p08_web-01.jpg" 
+alt="Chapter 1, page 8" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-Majhee angrily turns off the giant bacteria of light with an impatient gesture as she turns to Marcia, furious.
+Majhee: **"Kai, Vec, Bea? What do you think?"**
 
-Majhee: **"We work at the *biggest* research center in Brazil, and have *way* more privilege than most folks on the street, so if *we* can't stand up to unethical behaviour, who can??"**
+Kai: **"I say we start straight away! Felix and I will review the latest thread-worm recipe together-- tonight!"**
 
-Marcia: **"Majhee, if Space Co can't work with us, they'll just go to some other institute. We don't *actually* have any leverage."**
+Felix looks dazed already. 
 
-Majhee looks away miserably. 
+Vec: **"I'll help Nova update the OSE's [garlic protocols](https://en.wikipedia.org/wiki/Garlic_routing)"**
 
-Majhee: **"Well...if the sponsors want me out, *fine*. I'm not taking back *anything* I've said against Space Co."**
+Beatriz: **"I'll get Felix his flight."**
 
-Marcia: **"To be honest, they can't seem to decide whether to hate you or love you. You're the youngest scientist in the world with *two* UN grants..."**
+Iara: **"Breno and I will finish the [unit tests](https://en.wikipedia.org/wiki/Unit_testing)."**
 
-Majhee, dryly: **"Are you saying I have redeeming qualities in the eyes of our prestige- and money-hungry overlords?"**
+Majhee quirks an eyebrow.
 
-Marcia, hissing: **"Majhee! The walls...ears--!"**
+Majhee: **"You're all amazing. Thank you for massively improving my terrible week."**
 
-Felix, a scientist in Majhee's lab, appears at the doorway.
+We see now the protesters outside, their desperate, hungry faces. They hold signs and wave flags with slogans like "Não sirva aos tiranos em órbita!", "Educar crianças humanas, não máquinas corporativas!", and "Alimentar humanos não foguetes!" 
 
-Felix: **"Hi, sorry to interrupt...can we get Majhee please? Lab meeting was supposed to start an hour ago..."**
+*translation: "Do not serve tyrants in orbit!", "Educate human children, not coporate machines!", "Feed humans not rockets!"*
 
-Majhee: **"I know, I'm sorry, I'm coming. Marcia, I'll give you a call later."**
+Majhee: **"Now, 22 failures...that's quite a lot of information..."**
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 
