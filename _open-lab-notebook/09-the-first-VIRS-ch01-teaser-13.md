@@ -26,7 +26,7 @@ Dr. Kauffmann: **"They're prepping for a huge wave of refugees."**
 
 Iúna: **"Really? From where?"** 
 
-Dr. Kauffmann: **"This morning, Los Angelos. A police raid turned into a fire that's spread halfway up the coast of California. It's so big it's blowing over the mountains into Arizona..."**
+Dr. Kauffmann: **"Los Angelos. A police raid last night turned into a fire that's spread halfway up the coast of California. It's so big it's blowing over the mountains into Arizona..."**
 
 Dr. Kauffmann: **"Apparently the targets panicked and tried to destroy the evidence...and the suburbs are just *filled* with [plastic furniture, which are basically *solid* petroleum](https://youtu.be/aDNPhq5ggoE), and it all just hit a flash point...I'm sorry...do you know anyone over there?"**
 
