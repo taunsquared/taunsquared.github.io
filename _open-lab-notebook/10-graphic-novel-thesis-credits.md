@@ -27,17 +27,13 @@ the Red Zone to find a mysterious people who may be re-growing the decimated Ama
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/DanbeeKim.png" alt="Danbee 'Tauntaun' Kim" 
 caption="Danbee 'Tauntaun' Kim: Story and Lettering, Scientific Diagram Descriptions, Scientific Diagram 6 Illustrator 
 and Colourist" %}
-I’m currently a PhD candidate in the 2013 cohort of the International Neuroscience Doctoral Programme, headquartered at 
-the Champalimaud Centre for the Unknown in Lisboa, Portugal. I joined the Intelligent Systems Lab in Sept 2013 and moved 
-with the lab to the Sainsbury Wellcome Centre for Neural Circuits and Behaviour in London, UK in 2015.  
 My research combines studies of cuttlefish, the philosophy of science, Perceptual Control Theory, and the evolution of 
-“the brain” throughout time and in many species. In collaboration with NeuroGears, I build interactive art installations 
+“the brain” throughout time and in many species. In collaboration with [NeuroGears](https://neurogears.org/), I build interactive art installations 
 that both allow people to participate in field neuroscience experiments, and communicate science in fun and interesting 
-ways. You can learn more at www.EveryMind.Online.  
+ways. You can learn more at [www.EveryMind.Online](http://www.everymind.online/).  
 I spend a lot of time thinking about permaculture, anarchy, circus, and education. I love being in the wilderness, 
-especially in the mountains and by the sea. I’ve co-written and choreographed an original musical called Hack, Punt, Tool 
-(you can watch the 2017 production on YouTube). I train and play as a musician, capoeirista, and VIRS (vigilante 
-intergalactic roustabout scholar).  
+especially in the mountains and by the sea. I’ve co-written and choreographed an original musical called [Hack, Punt, Tool](https://youtu.be/IPpqXyo4jhM). I train and play as a musician, capoeirista, and [VIRS (vigilante 
+intergalactic roustabout scholar)](/projects/2018/02/28/VIRS-principles/).  
 
 ## Chapter Illustrators and Colorists
 
