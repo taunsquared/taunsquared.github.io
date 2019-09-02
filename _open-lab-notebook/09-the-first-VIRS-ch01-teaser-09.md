@@ -13,9 +13,9 @@ tags:
   - science communication
   - public engagement
 ---
-# Page 4
+## Page 4
 
-[First](/VIRS/ch01-teaser/01) [Prev](/VIRS/ch01-teaser/08) [Next](/VIRS/ch01-teaser/10) [Last](/VIRS/ch01-teaser/19)
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/08){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/10){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn}
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p04_web-01.jpg" 
 alt="Chapter 1, page 4" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}

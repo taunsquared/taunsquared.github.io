@@ -15,7 +15,7 @@ tags:
 ---
 ## Prologue
 
-[First](/VIRS/ch01-teaser/01) [Prev](/VIRS/ch01-teaser/01) [Next](/VIRS/ch01-teaser/03) [Last](/VIRS/ch01-teaser/19)
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/03){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn}
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch00_p00-00_web-01.jpg" alt="Prologue" %}
 

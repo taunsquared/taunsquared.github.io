@@ -15,7 +15,7 @@ tags:
 ---
 ## Chapter 1 title page
 
-[First](/VIRS/ch01-teaser/01) [Prev](/VIRS/ch01-teaser/03) [Next](/VIRS/ch01-teaser/05) [Last](/VIRS/ch01-teaser/19)
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/03){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/05){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn}
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00_web-01.jpg" alt="Chapter 1 
 title page" caption="Art by Xiao Xiao, Lettering by Danbee Kim." %}

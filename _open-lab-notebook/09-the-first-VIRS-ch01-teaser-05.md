@@ -15,7 +15,7 @@ tags:
 ---
 ## Chapter 1 cast
 
-[First](/VIRS/ch01-teaser/01) [Prev](/VIRS/ch01-teaser/04) [Next](/VIRS/ch01-teaser/06) [Last](/VIRS/ch01-teaser/19)
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/04){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/06){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn}
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00-01_web-01.jpg" 
 alt="Chapter 1 Cast" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
