@@ -56,10 +56,10 @@ You'll get access to project updates and exclusive behind-the-scenes artwork, an
 
 Read the [Chapter 1 teaser here](/VIRS/ch01-teaser/01)!
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00_teaser.jpg" alt="Chapter 1 
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00_teaser-01.jpg" alt="Chapter 1 
 title page" caption="Chapter 1 title page, 'The First VIRS'. Art by Xiao Xiao, Lettering by Danbee Kim." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p01_teaser.jpg" alt="Chapter 1, 
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p01_teaser-01.jpg" alt="Chapter 1, 
 Page 1" caption="Chapter 1, Page 1, 'The First VIRS'. Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
 ## What do you mean, a graphic novel thesis?
