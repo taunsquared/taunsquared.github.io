@@ -15,7 +15,7 @@ tags:
 ---
 ## Book cover and project credits
 
-{% include button.html url="http://www.danbeekim.org/VIRS/ch01-teaser/19" %}
+{% include button.html button_name="Last Page" url="http://www.danbeekim.org/VIRS/ch01-teaser/19" %}
 
 [First page](/VIRS/ch01-teaser/01)   Prev page   [Next page](/VIRS/ch01-teaser/02)   [Last page](/VIRS/ch01-teaser/19)
 
