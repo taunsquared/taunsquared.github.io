@@ -15,6 +15,8 @@ tags:
 ---
 ## Book cover and project credits
 
+<button name="First" onclick="http://www.danbeekim.org/VIRS/ch01-teaser/01">First</button>
+
 [First page](/VIRS/ch01-teaser/01)   Prev page   [Next page](/VIRS/ch01-teaser/02)   [Last page](/VIRS/ch01-teaser/19)
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_book-title_web-01.jpg" alt="Cover, 'The First VIRS'" caption="Art by Gideon Gerlt, Lettering by Danbee Kim." %}
