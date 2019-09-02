@@ -46,7 +46,7 @@ Iúna: **"*Yes. Portzy was right - once schools require head mods for every stud
 
 Tahoe: **"*But...doesn't that feel too much like a* cult??"**
 
-Iúna: **"*That's why I intially voted against it. But Tahoe, do you know what that group in Brazil published last month?*"**
+Iúna: **"*That's why I intially voted against it. But Tahoe, do you know what that group in Brazil published last week??*"**
 
 Tahoe: **"*What?*"**
 
