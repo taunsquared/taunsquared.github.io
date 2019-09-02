@@ -15,10 +15,12 @@ tags:
 ---
 ## Page 12
 
-[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/13){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/15){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
-
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p12_web-01.jpg" 
 alt="Chapter 1, page 12" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
+
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/13){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/15){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
+
+## Annotations
 
 Iúna: **"*[Tahoe](https://en.wikipedia.org/wiki/Tahoe_National_Forest), have you been able to contact [Joshua Tree](https://en.wikipedia.org/wiki/Joshua_Tree_National_Park)?*"**
 

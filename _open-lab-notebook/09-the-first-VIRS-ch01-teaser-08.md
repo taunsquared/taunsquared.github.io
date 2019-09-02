@@ -15,10 +15,12 @@ tags:
 ---
 ## Page 6
 
-[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/07){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/09){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
-
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p06_web-01.jpg" 
 alt="Chapter 1, page 6" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
+
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/07){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/09){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
+
+## Annotations
 
 Majhee, Felix, and other members of Majhee's research group sit or stand in a cluster at one end of their lab benches in an upper floor of the research institute. The wall nearest to them is a floor-to-ceiling window, showing the dusty sky-line of São Paulo. The sun sits in a reddish hazy sky, just past the midday zenith. 
 

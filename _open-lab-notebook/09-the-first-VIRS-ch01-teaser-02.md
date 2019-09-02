@@ -15,10 +15,12 @@ tags:
 ---
 ## Chapter 1 cast
 
-[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/03){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
-
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00-01_web-01.jpg" 
 alt="Chapter 1 Cast" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
+
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/03){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
+
+## Annotations
 
 **Majhee Suh**:  
 [Organometallic Chemist](https://en.wikipedia.org/wiki/Organometallic_chemistry)  

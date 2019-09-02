@@ -15,10 +15,12 @@ tags:
 ---
 ## Page 3
 
-[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/04){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/06){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
-
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p03_web-01.jpg" 
 alt="Chapter 1, page 3" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
+
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/04){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/06){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
+
+## Annotations
 
 Inside the research institute, we see a receptionist sitting behind a sealed glass window. Next to him is a decontamination chamber that all must pass thru in order to enter the research facility. 
 

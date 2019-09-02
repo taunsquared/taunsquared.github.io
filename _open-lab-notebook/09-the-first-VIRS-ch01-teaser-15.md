@@ -15,10 +15,12 @@ tags:
 ---
 ## Page 13
 
-[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/14){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
-
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p13_web-01.jpg" 
 alt="Chapter 1, page 13" caption="Art and Lettering by Danbee Kim." %}
+
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/14){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/16){: .btn}
+
+## Annotations
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape){:target="_blank"} at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)){:target="_blank"} Archeological Site 2095-007..."**
 
