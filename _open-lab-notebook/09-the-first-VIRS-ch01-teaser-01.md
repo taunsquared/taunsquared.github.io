@@ -15,7 +15,7 @@ tags:
 ---
 ## Book cover and project credits
 
-<button name="First" onclick="http://www.danbeekim.org/VIRS/ch01-teaser/01">First</button>
+<button name="First" onclick="http://www.danbeekim.org/VIRS/ch01-teaser/01">First</button>  <button name="Last" onclick="http://www.danbeekim.org/VIRS/ch01-teaser/19">Last</button>
 
 [First page](/VIRS/ch01-teaser/01)   Prev page   [Next page](/VIRS/ch01-teaser/02)   [Last page](/VIRS/ch01-teaser/19)
 
