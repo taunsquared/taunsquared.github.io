@@ -30,7 +30,7 @@ Kai hands Majhee a letter covered in legal jargon.
 
 Kai: **"*This* was in our mail pile this morning..."**
 
-Majhee: **"From Space Co? '...challenges arising from our pursuit of exclusive patents ... we write to inform you of a forthcoming publication embargo on research concerning SynTh-spliced [photon-harvesting biofilms](https://cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08)...*IN 6 WEEKS*'??"**
+Majhee: **"From Space Co? '...challenges arising from our pursuit of exclusive patents ... we write to inform you of a forthcoming publication embargo on research concerning SynTh-spliced [photon-harvesting biofilms](https://cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08){:target="_blank"}...*IN 6 WEEKS*'??"**
 
 Nova: **"I'm *convinced* they're lurking in the OSE forums."**
 

@@ -27,7 +27,7 @@ A floating digital page reads the following:
 **"Open SynTh Exchange"**  
 **" 'Applying Tesla’s Theory of Wireless Energy Transmission to SynTh textiles' "**  
 **"Asked 2.5 years ago Active 7 months ago Viewed 40k times"**  
-**"Just finished reading [Nikola Tesla: On His Work With Alternating Currents and Their Application to Wireless Telegraphy, Telephony and Transmission of Power](http://www.tfcbooks.com/tesla/nt_on_ac.htm#TOC), and I'm fascinated with the parallels I see between Tesla's experiments with wireless energy transmission and the 'synchronized SynTh textiles' effect. I'm keen to systematically replicate Tesla's apparatuses in SynTh circuitry and would love to discuss further with anyone interested in collaborating."**
+**"Just finished reading [Nikola Tesla: On His Work With Alternating Currents and Their Application to Wireless Telegraphy, Telephony and Transmission of Power](http://www.tfcbooks.com/tesla/nt_on_ac.htm#TOC){:target="_blank"}, and I'm fascinated with the parallels I see between Tesla's experiments with wireless energy transmission and the 'synchronized SynTh textiles' effect. I'm keen to systematically replicate Tesla's apparatuses in SynTh circuitry and would love to discuss further with anyone interested in collaborating."**
 **"Keywords: Tesla, synchronicity, textile interactions, replication work"**
 **"Posted 11 Aug 2063 at 13:42 by QueenBee42"**
 

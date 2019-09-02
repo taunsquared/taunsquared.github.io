@@ -26,7 +26,7 @@ alt="Chapter 1, page 9" caption="Art by Matteo Farinella, Lettering by Danbee Ki
 
 We see rolling countryside, vibrant with autumn colors, behind a low row of concrete warehouses, labeled "Morei Textiles". 
 
-Off-panel, secretary: **"Hey [Iúna*](https://en.wikipedia.org/wiki/Capoeira_toques#I%C3%BAna), the folks from the World Health Organization are here."**
+Off-panel, secretary: **"Hey [Iúna*](https://en.wikipedia.org/wiki/Capoeira_toques#I%C3%BAna){:target="_blank"}, the folks from the World Health Organization are here."**
 
 *pronounced "Aye-**oo**-nah"*
 

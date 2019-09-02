@@ -28,11 +28,11 @@ Kai: **"I say we start straight away! Felix and I will review the latest thread-
 
 Felix looks dazed already. 
 
-Vec: **"I'll help Nova update the OSE's [garlic protocols](https://en.wikipedia.org/wiki/Garlic_routing)"**
+Vec: **"I'll help Nova update the OSE's [garlic protocols](https://en.wikipedia.org/wiki/Garlic_routing){:target="_blank"}"**
 
 Beatriz: **"I'll get Felix his flight."**
 
-Iara: **"Breno and I will finish the [unit tests](https://en.wikipedia.org/wiki/Unit_testing)."**
+Iara: **"Breno and I will finish the [unit tests](https://en.wikipedia.org/wiki/Unit_testing){:target="_blank"}."**
 
 Majhee quirks an eyebrow.
 

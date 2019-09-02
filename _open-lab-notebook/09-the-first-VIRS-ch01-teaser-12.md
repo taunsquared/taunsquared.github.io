@@ -30,7 +30,7 @@ Iúna gives the delegation from the World Health Organization a kind smile.
 
 Iúna: **"Dr. Kauffmann, I must admit that I'm adamantly opposed to body mods and SynTh implants...but I *am* very grateful that you've taken the time to travel all this way from DC."**
 
-Dr. Kauffmann: **"It's alright, we were in Boston this morning anyway... besides, I wanted to thank you in person. No one beats your [MERV* ratings](https://en.wikipedia.org/wiki/Minimum_efficiency_reporting_value)... I've got your organzas in every window of my house."**
+Dr. Kauffmann: **"It's alright, we were in Boston this morning anyway... besides, I wanted to thank you in person. No one beats your [MERV* ratings](https://en.wikipedia.org/wiki/Minimum_efficiency_reporting_value){:target="_blank"}... I've got your organzas in every window of my house."**
 
 *MERV= Minimum efficiency reporting value*
 

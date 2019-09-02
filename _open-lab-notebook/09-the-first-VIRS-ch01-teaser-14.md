@@ -22,15 +22,15 @@ alt="Chapter 1, page 12" caption="Art by Matteo Farinella, Lettering by Danbee K
 
 ## Annotations
 
-Iúna: **"*[Tahoe](https://en.wikipedia.org/wiki/Tahoe_National_Forest), have you been able to contact [Joshua Tree](https://en.wikipedia.org/wiki/Joshua_Tree_National_Park)?*"**
+Iúna: **"*[Tahoe](https://en.wikipedia.org/wiki/Tahoe_National_Forest){:target="_blank"}, have you been able to contact [Joshua Tree](https://en.wikipedia.org/wiki/Joshua_Tree_National_Park){:target="_blank"}?*"**
 
 Iúna's Biononymous contact at Green Haven Tahoe: **"*Negative, Mama Bird.*"**
 
 Iúna: **"*How is Tahoe?*"**
 
-Tahoe: **"*Fire hasn't gotten further than [Fresno](https://en.wikipedia.org/wiki/Fresno,_California), but we're getting ready to offer sanctuary.*"**
+Tahoe: **"*Fire hasn't gotten further than [Fresno](https://en.wikipedia.org/wiki/Fresno,_California){:target="_blank"}, but we're getting ready to offer sanctuary.*"**
 
-Iúna: **"*...was it...[Portzy](https://en.wikipedia.org/wiki/Portiuncula)?*"**
+Iúna: **"*...was it...[Portzy](https://en.wikipedia.org/wiki/Portiuncula){:target="_blank"}?*"**
 
 Tahoe: **"*...no one else had a body mod, Mama Bird...*"**
 
