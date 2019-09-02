@@ -1,6 +1,6 @@
 ---
 title: "*The First VIRS*: Chapter 01 teaser, with annotated companion script"
-permalink: /VIRS/ch01-teaser/01
+permalink: /VIRS/ch01-teaser/13
 excerpt: 
 categories:
   - open-lab-notebook
@@ -13,13 +13,34 @@ tags:
   - science communication
   - public engagement
 ---
-# Book cover and project credits
+# Page 8
 
-[First](/VIRS/ch01-teaser/01) Prev [Next](/VIRS/ch01-teaser/02) [Last](/VIRS/ch01-teaser/19)
+[First](/VIRS/ch01-teaser/01) [Prev](/VIRS/ch01-teaser/12) [Next](/VIRS/ch01-teaser/14) [Last](/VIRS/ch01-teaser/19)
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_book-title_web-01.jpg" alt="Cover, 'The First VIRS'" caption="Art by Gideon Gerlt, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p08_web-01.jpg" 
+alt="Chapter 1, page 8" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch00_p00_web-01.jpg" alt="Credits, 'The First VIRS'" %}
+Majhee: **"Kai, Vec, Bea? What do you think?"**
+
+Kai: **"I say we start straight away! Felix and I will review the latest thread-worm recipe together-- tonight!"**
+
+Felix looks dazed already. 
+
+Vec: **"I'll help Nova update the OSE's [garlic protocols](https://en.wikipedia.org/wiki/Garlic_routing)"**
+
+Beatriz: **"I'll get Felix his flight."**
+
+Iara: **"Breno and I will finish the [unit tests](https://en.wikipedia.org/wiki/Unit_testing)."**
+
+Majhee quirks an eyebrow.
+
+Majhee: **"You're all amazing. Thank you for massively improving my terrible week."**
+
+We see now the protesters outside, their desperate, hungry faces. They hold signs and wave flags with slogans like "Não sirva aos tiranos em órbita!", "Educar crianças humanas, não máquinas corporativas!", and "Alimentar humanos não foguetes!" 
+
+*translation: "Do not serve tyrants in orbit!", "Educate human children, not coporate machines!", "Feed humans not rockets!"*
+
+Majhee: **"Now, 22 failures...that's quite a lot of information..."**
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 

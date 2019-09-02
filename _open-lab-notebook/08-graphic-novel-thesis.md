@@ -54,7 +54,7 @@ You'll get access to project updates and exclusive behind-the-scenes artwork, an
 
 ## Teaser pages
 
-Read the [Chapter 1 teaser here](/VIRS/ch01-teaser)!
+Read the [Chapter 1 teaser here](/VIRS/ch01-teaser/01)!
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00_web.jpg" alt="Chapter 1 
 title page" caption="Chapter 1 title page, 'The First VIRS'. Art by Xiao Xiao, Lettering by Danbee Kim." %}

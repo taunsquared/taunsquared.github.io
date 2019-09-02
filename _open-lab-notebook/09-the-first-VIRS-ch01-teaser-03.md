@@ -1,6 +1,6 @@
 ---
 title: "*The First VIRS*: Chapter 01 teaser, with annotated companion script"
-permalink: /VIRS/ch01-teaser/01
+permalink: /VIRS/ch01-teaser/03
 excerpt: 
 categories:
   - open-lab-notebook
@@ -13,13 +13,13 @@ tags:
   - science communication
   - public engagement
 ---
-# Book cover and project credits
+# Dream 1
 
-[First](/VIRS/ch01-teaser/01) Prev [Next](/VIRS/ch01-teaser/02) [Last](/VIRS/ch01-teaser/19)
+[First](/VIRS/ch01-teaser/01) [Prev](/VIRS/ch01-teaser/02) [Next](/VIRS/ch01-teaser/04) [Last](/VIRS/ch01-teaser/19)
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_book-title_web-01.jpg" alt="Cover, 'The First VIRS'" caption="Art by Gideon Gerlt, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch00_p02_web-01.jpg" alt="Dream 1" %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch00_p00_web-01.jpg" alt="Credits, 'The First VIRS'" %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch00_p03_web-01.jpg" alt="Dream 1: Nostalgia" caption="Art by Emma Leavitt, Lettering by Danbee Kim." %}
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 
