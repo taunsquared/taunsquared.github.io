@@ -120,13 +120,6 @@ the pursuit of creating sustainable plastic alternatives.
 
 Website: [http://willowescapee.wixsite.com/artportfolio](http://willowescapee.wixsite.com/artportfolio)
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/SaraVukson.png" alt="Sara Vukson" caption="Sara 
-Vukson: Scientific Diagram 1 Illustrator and Colourist" %}
-Sara is a biomedical illustrator and animator based out of Toronto. Illuminating the beauty in the world of science, as 
-well as making the complex interesting rather than intimidating has been a fascination.
-
-Website: [http://www.saravukson.com/](http://www.saravukson.com/)
-
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/JessoWang.png" alt="Jesso Wang" caption="Jesso 
 Wang: Chapter 7 Illustrator and Colourist" %}
 Jesso is an illustrator, vr developer, and apprentice tattoo artist. Transplant from Illinois to New England, plant mom 
@@ -212,6 +205,13 @@ graduated from DePaul University with a B.S. in Biology. In her spare time, she 
 playing soccer, or sipping a cup of delicious tea.
 
 Website: [https://www.melissajedrysiak.com/](https://www.melissajedrysiak.com/)
+
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/SaraVukson.png" alt="Sara Vukson" caption="Sara 
+Vukson: Scientific Diagram 1 Illustrator and Colourist" %}
+Sara is a biomedical illustrator and animator based out of Toronto. Illuminating the beauty in the world of science, as 
+well as making the complex interesting rather than intimidating has been a fascination.
+
+Website: [http://www.saravukson.com/](http://www.saravukson.com/)
 
 ## Project License
 
