@@ -28,7 +28,7 @@ I'm communicating my research through a graphic novel because I want to **make s
 
 I hope this graphic novel **starts conversations about what we define as "scientific activity", and how to build humane support structures to nurture such activity.** If you would like to get involved in these kinds of conversations, if you are passionate about making science and technology more accessible and engaging, and/or **if you would like to pre-order your printed copy of *The First VIRS*,** 
 
-**[PLEASE JOIN OUR MAILING LIST!](http://eepurl.com/gkXmLP){:target="_blank"}** 
+[**PLEASE JOIN OUR MAILING LIST!**](http://eepurl.com/gkXmLP){: .btn}
 
 You'll get access to project updates and exclusive behind-the-scenes artwork, and you'll be the first to hear about our **crowdfunding campaign, coming soon!**
 
