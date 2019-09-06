@@ -32,7 +32,7 @@ I hope this graphic novel **starts conversations about what we define as "scient
 
 You'll get access to project updates and exclusive behind-the-scenes artwork, and you'll be the first to hear about our **crowdfunding campaign, coming soon!**
 
-{% include video id="DWFmWfLHAlY" provider="youtube" %}
+{% include video id="e2bA9qoPqVQ" provider="youtube" %}
 
 ## Teaser pages
 
