@@ -23,44 +23,37 @@ alt="Chapter 1 Cast" caption="Art by Matteo Farinella, Lettering by Danbee Kim."
 ## Annotations
 
 **Majhee Suh**:  
-[Organometallic Chemist](https://en.wikipedia.org/wiki/Organometallic_chemistry){:target="_blank"}  
-PhD thesis: "Cultivating [Electrophoretic](https://en.wikipedia.org/wiki/Electrophoresis){:target="_blank"} [Mycelium](https://en.wikipedia.org/wiki/Mycelium){:target="_blank"} [Yeast](https://en.wikipedia.org/wiki/Yeast){:target="_blank"} to fabricate living organic semiconductors"
+[Organometallic Chemist](https://en.wikipedia.org/wiki/Organometallic_chemistry)  
+PhD thesis: "Cultivating [Electrophoretic](https://en.wikipedia.org/wiki/Electrophoresis) [Mycelium](https://en.wikipedia.org/wiki/Mycelium) [Yeast](https://en.wikipedia.org/wiki/Yeast) to fabricate living organic semiconductors"
 
 **Iúna Morei**:  
-CEO of Morei Textiles  
-Codename "Mama Bird"  
+CEO of Morei Textiles, Codename "Mama Bird"  
 
 **Kai Oliveira**:  
-Bio-materials Scientist  
-PhD thesis: "Methods for genetically modifying bacterial colonies to build [Bio-Silicate](https://en.wikipedia.org/wiki/Silicate){:target="_blank"} interfaces"  
+Bio-materials Scientist, ramen connoisseur, and operatic metal enthusiast
 
 **Vec Barbosa**:  
 Animal technician, Veterinarian, and SCUBA diving instructor  
 
 **Beatriz Cavalcanti**:  
-Laboratory Manager  
-PhD thesis: "Ecophysiological responses to [ocean acidification](https://en.wikipedia.org/wiki/Ocean_acidification){:target="_blank"} in coastal ecosystems"  
+Laboratory Manager, Marine Ecologist, and avid seabird watcher
 
 **Nova Jatobá**:  
-Research Assistant  
-B.Sc. in Nutrition and Information Management  
+Research Assistant, B.Sc. in Nutrition, and cryptocurrency hobbyist
 
 **Marcia Netto**:  
 President and Director of Laboratório Nacional de Biociências e Saúde Pública  
 
 **Iara Gracie**:  
-Research Assistant  
-B.Sc. in Animal Husbandry  
-Red/White belt in [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu){:target="_blank"}  
+Research Assistant, B.Sc. in Animal Husbandry, and red/white belt in [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)  
 
 **Felix Grael**:  
-Research Technician  
-B.Sc. in Biophysics  
-Home-brewed beer enthusiast  
+Research Technician, B.Sc. in Biophysics, and home-brewed beer enthusiast  
 
 **Breno Leite**:  
-Physiologist and Geneticist  
-PhD thesis: "Human [transcriptomic](https://en.wikipedia.org/wiki/Transcriptome){:target="_blank"} responses to daily movement practice"
+Developmental Physiologist, Geneticist, and capoeirista
+
+### Learn More
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 

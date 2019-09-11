@@ -56,6 +56,8 @@ Tahoe: **"*...Sorry Mama Bird, I don't follow. Why should I care about biofilm?*
 
 Iúna: **"*Remember the mechapet idea?* It's possible now!!"**
 
+### Learn More
+
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 
 ## Project License

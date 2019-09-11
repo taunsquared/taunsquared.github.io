@@ -41,6 +41,8 @@ The soma of [**multipolar neurons**](https://en.wikipedia.org/wiki/Multipolar_ne
 -- Anaxonic --  
 [**Anaxonic neurons**](https://en.wikipedia.org/wiki/Anaxonic_neuron){:target="_blank"} have many processes extending out from their somas, but no axon can be differentiated from the dendrites purely based on structure. These neurons act as ["non-spiking" neurons](https://en.wikipedia.org/wiki/Non-spiking_neuron){:target="_blank"}, which use [graded potentials](https://en.wikipedia.org/wiki/Graded_potential){:target="_blank"} (as opposed to "spiking neurons", which use [action potentials](https://en.wikipedia.org/wiki/Action_potential){:target="_blank"}) to effect the fidelity, strength, and lifetime of a neuronal signal. Anaxonic neurons can influence the electrical excitability of spiking neurons, and [almost all central nervous system neurons born in adulthood seem to be anaxonic](https://cdn.elifesciences.org/articles/32373/elife-32373-v2.pdf#page=23){:target="_blank"}; however, these neurons are still very poorly understood. Anaxonic neurons have been found in the brain and [special sense organs](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ar.22732){:target="_blank"} of vertebrates, and in the [central nervous system of invertebrates](https://www.jstage.jst.go.jp/article/aohc1988/52/Supplement/52_Supplement_139/_pdf){:target="_blank"}.
 
+### Learn More
+
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 
 ## Project License

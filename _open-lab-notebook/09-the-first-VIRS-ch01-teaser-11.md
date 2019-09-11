@@ -32,11 +32,13 @@ Off-panel, secretary: **"Hey [Iúna*](https://en.wikipedia.org/wiki/Capoeira_toq
 
 Off-panel, Iúna: **"Thanks, I'll be with them in a minute."**
 
-We see the inside of a warehouse, where long rows of industrial looms weave SynTh textiles. Their combined activity generates a gently deafening **"WHIRRRRR"**. Iúna Morei, a tall shapely American woman of Portuguese descent in her early 30s, lustrous wavy brown hair pulled up into a bun, an infant with thick black hair strapped to her front, walks briskly and confidently away from a door labeled "Quiet Room" towards a group of humans waiting near the main entrance of the warehouse. 
+We see the inside of a warehouse, where long rows of industrial looms weave SynTh textiles. Their combined activity generates a gently deafening **"WHIRRRRR"**. Iúna Morei, a tall shapely American woman of Portuguese descent in her early 30s, lustrous wavy brown hair pulled up into a ponytail, an infant with thick black hair strapped to her front, walks briskly and confidently towards a group of humans waiting near the main entrance of the warehouse. 
 
-Iúna smiles and yells as she waves towards her office door, just next to the entrance to the warehouse and labeled "Iúna Morei, CEO of Morei Textiles".
+Iúna smiles and yells as she waves towards her office door, just next to the entrance to the warehouse and labeled "Iúna Morei, CEO".
 
 Iúna: **"HELLO! SHALL WE STEP INTO MY OFFICE?"**
+
+### Learn More
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 

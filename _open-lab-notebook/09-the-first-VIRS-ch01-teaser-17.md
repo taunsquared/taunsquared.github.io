@@ -30,6 +30,10 @@ alt="Chapter 2 title page" caption="Art by Miguel Soler Montellano, Lettering by
 
 **"The exact nature of this flexibility is described by the SynTh's 'grade', determined by the characteristics of the [septum](https://en.wikipedia.org/wiki/Septum){:target="_blank"} separating its hyphae cells. In 'higher' grades of SynTh, the septum are composed of very small [hexagons](https://www.quora.com/Geometry-Why-do-we-see-hexagons-in-nature-so-often){:target="_blank"} and have a greater density of pores, increasing the flow rate of [organelles](https://en.wikipedia.org/wiki/Organelle){:target="_blank"}, nutrients, and ions throughout the hyphae. These grades of 'flexible SynTh' or 'flexi-SynTh' can be reconfigured almost indefinitely; however, they require frequent feedings to maintain. In cheaper grades of SynTh, called 'static Synth', the septum are composed of larger hexagons and have fewer pores, which limits static SynTh's [reconfigurability](https://en.wikipedia.org/wiki/Reconfigurability){:target="_blank"} but also reduces its sand consumption..."**
 
+### Learn More
+
+To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
+
 ## Project License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" 

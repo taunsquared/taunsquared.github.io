@@ -24,25 +24,25 @@ alt="Chapter 1, page 8" caption="Art by Matteo Farinella, Lettering by Danbee Ki
 
 Majhee: **"Kai, Vec, Bea? What do you think?"**
 
-Kai: **"I say we start straight away! Felix and I will review the latest thread-worm recipe together-- tonight!"**
+Kai: **"Let's punch these corporate windbags in the teeth! I'll go start the kettle...gonna need *lots* of tea and ramen for this..."**
 
-Felix looks dazed already. 
-
-Vec: **"I'll help Nova update the OSE's [garlic protocols](https://en.wikipedia.org/wiki/Garlic_routing){:target="_blank"}"**
+Vec: **"I'll help Nova kick Space Co out of the OSE forums."**
 
 Beatriz: **"I'll get Felix his flight."**
 
-Iara: **"Breno and I will finish the [unit tests](https://en.wikipedia.org/wiki/Unit_testing){:target="_blank"}."**
+Iara: **"Breno and I can start reading the failed experiments. Majhee, wanna join us?"**
 
 Majhee quirks an eyebrow.
 
-Majhee: **"You're all amazing. Thank you for massively improving my terrible week."**
+Majhee: **"Sound great, Iara. Everyone...you're all *amazing*. Thank you for *massively* improving my terrible week."**
 
 We see now the protesters outside, their desperate, hungry faces. They hold signs and wave flags with slogans like "Não sirva aos tiranos em órbita!", "Educar crianças humanas, não máquinas corporativas!", and "Alimentar humanos não foguetes!" 
 
 *translation: "Do not serve tyrants in orbit!", "Educate human children, not coporate machines!", "Feed humans not rockets!"*
 
 Majhee: **"Now, 22 failures...that's quite a lot of information..."**
+
+### Learn More
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 

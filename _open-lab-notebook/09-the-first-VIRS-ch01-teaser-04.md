@@ -28,13 +28,13 @@ We see Majhee walking briskly through the crowded streets of São Paulo. Everyon
 
 A lot of the news is about the new space arboretum, but most of the individual bubbles are focused on news about planetside climate disasters: 
 
-**"...[the Colorado River has *dried up completely*](https://www.smithsonianmag.com/science-nature/the-colorado-river-runs-dry-61427169/){:target="_blank"} and many are migrating east to escape the *severe drought*..."**
+**"...[the Colorado River has *dried up completely*](https://www.smithsonianmag.com/science-nature/the-colorado-river-runs-dry-61427169/) and many are migrating east to escape the *severe drought*..."**
 
-**"...aggressive *water-borne disease* has placed [most of northeast India under *quarantine*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1151007/){:target="_blank"}"**
+**"...aggressive *water-borne disease* has placed [most of northeast India under *quarantine*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1151007/)..."**
 
-**"...[*total evaporation* of the River Niger](https://www.vanguardngr.com/2016/05/river-niger-drying-fg-raises-alarm/){:target="_blank"} has led to *massive lootings* at yet another hydropower station..."**
+**"...[*total evaporation* of the River Niger](https://www.vanguardngr.com/2016/05/river-niger-drying-fg-raises-alarm/) has led to *massive lootings* at yet another hydropower station..."**
 
-**"...[*hundred times* more likely to be diagnosed](http://www.who.int/uv/faq/skincancer/en/index1.html){:target="_blank"} with illnesses caused by *sun radiation* than even just ten years ago..."**
+**"...[*hundred times* more likely to be diagnosed](http://www.who.int/uv/faq/skincancer/en/index1.html) with illnesses caused by *sun radiation* than even just ten years ago..."**
 
 We see Majhee walk past a large research facility, metal and glass architecture dully gleaming in the smoggy light, labeled "Laboratório Nacional de Biociências e Saúde Pública". 
 
@@ -42,13 +42,13 @@ We see Majhee walk past a large research facility, metal and glass architecture 
 
 The front of the research facility is teeming with protesters, who chant "Não sirva aos tiranos em órbita!" and "Educar crianças humanas, não máquinas corporativas!"
 
-*translation: "Don't serve the tyrants in orbit!", "Educate human children, not corporate machines!"*
-
-**"...fifth day of violent demonstrations at the Laboratório Nacional de Biociências e Saúde Pública protesting the public research institution's collaboration with Space Consortium..."**
+**"...fifth day of *violent* demonstrations at the Laboratório Nacional de Biociências e Saúde Pública protesting the public research institution's *collaboration* with Space Consortium..."**
 
 Majhee sneaks into an alleyway to enter the research facility via a back door. 
 
-**"...last week the space exploration conglomerate announced the first ever patent on a device made with synaptic thread technology, commonly known as SynTh..."**
+**"...who recently announced the first ever *patent* on a device made with the *traditionally open source* synaptic thread technology, commonly known as SynTh..."**
+
+### Learn More
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 

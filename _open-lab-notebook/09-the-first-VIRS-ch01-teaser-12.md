@@ -26,17 +26,17 @@ Iúna: **"Thanks for bringing the new protocols from São Paulo."**
 
 Dr. Kauffmann: **"You know, you'd get these updates a lot faster if you'd just get a body mod..."**
 
-Iúna gives the delegation from the World Health Organization a kind smile. 
-
 Iúna: **"Dr. Kauffmann, I must admit that I'm adamantly opposed to body mods and SynTh implants...but I *am* very grateful that you've taken the time to travel all this way from DC."**
 
-Dr. Kauffmann: **"It's alright, we were in Boston this morning anyway... besides, I wanted to thank you in person. No one beats your [MERV* ratings](https://en.wikipedia.org/wiki/Minimum_efficiency_reporting_value){:target="_blank"}... I've got your organzas in every window of my house."**
+Dr. Kauffmann: **"It's alright, we were in Boston this morning anyway... besides, I wanted to thank you in person. No one beats your [MERV* ratings](https://en.wikipedia.org/wiki/Minimum_efficiency_reporting_value)... I've got your organzas in every window of my house."**
 
 *MERV= Minimum efficiency reporting value*
 
 Iúna: **"Just doing what we can. What's happening in Boston?"**
 
 Under this dialogue is a view of Iúna's desk. We see sneak peek's of the new splicing and voltage-treatment protocols visualized with light, a floating sphere controlled by a thick piece of SynTh canvas, stretched on a semi-circular frame that, when Iúna stands inside of it, places the canvas at about hip height, easy to reach while standing. 
+
+### Learn More
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 

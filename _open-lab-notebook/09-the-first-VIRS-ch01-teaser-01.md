@@ -24,9 +24,11 @@ title page" caption="Art by Xiao Xiao, Lettering by Danbee Kim." %}
 
 **"Loading Universal Record..."**
 
-**"Finished loading...'The Space Consortium Fights World Hunger'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels){:target="_blank"}."**
+**"Finished loading...'The Space Consortium Fights World Hunger'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
-**"In 2054, Space Consortium presented the United Nations with a proposal to collaborate with planetside farms and biodiversity sanctuaries (predecessors to the modern-day Green Havens) in order to conduct research into plants useful for space travel and permaculture in low gravity. In return for funding and logistical support from the UN, Space Consortium offered to use this research to help fight the global food shortage with food grown in space, and pledged half of the carrying capacity of its recently completed space elevator project, the Space Ferries, to guarantee reliable transport of resources back and forth between orbiting farms and planetside. Thus, Space Consortium played a major role in improving the quality of life on Earth before [The Global Water Crisis](https://www.bbc.co.uk/news/uk-47620228){:target="_blank"}..."**
+**"In 2054, Space Consortium began collaborating with planetside farms to advance research on space-tolerance in plants and insects. Space Consortium offered to use this research to help fight Earth's food shortage, and pledged half of the carrying capacity of its recently completed space elevator project, the Space Ferries, to guarantee reliable transport of resources between Earth and orbiting farms. Thus, Space Consortium played a major role in improving the quality of life on Earth before [The Global Water Crisis](https://www.bbc.co.uk/news/uk-47620228)..."**
+
+### Learn More
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 

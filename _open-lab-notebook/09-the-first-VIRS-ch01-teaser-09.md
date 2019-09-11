@@ -24,13 +24,13 @@ alt="Chapter 1, page 7" caption="Art by Matteo Farinella, Lettering by Danbee Ki
 
 Kai looks down at her lap with hard eyes.
 
-Kai: **"I'll manage long enough for you to set up a splicing station in Sweden...but you'll have to make it quick..."**
+Kai: **"I'll manage long enough for you to set up a splicing station in Sweden...but we'll need you to be quick..."**
 
 Kai hands Majhee a letter covered in legal jargon. 
 
 Kai: **"*This* was in our mail pile this morning..."**
 
-Majhee: **"From Space Co? '...challenges arising from our pursuit of exclusive patents ... we write to inform you of a forthcoming publication embargo on research concerning SynTh-spliced [photon-harvesting biofilms](https://cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08){:target="_blank"}...*IN 6 WEEKS*'??"**
+Majhee: **"From Space Co? '...challenges arising from our pursuit of exclusive patents ... we write to inform you of a forthcoming publication embargo on research concerning SynTh-spliced [photon-harvesting biofilms](https://cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08)...*IN 6 WEEKS*'??"**
 
 Nova: **"I'm *convinced* they're lurking in the OSE forums."**
 
@@ -42,13 +42,15 @@ Nova: **"So what do we do?"**
 
 Majhee, angrily: **"No more low-hanging fruit. We sprint to finish the biofilm paper...then I say we put everything we've got towards developing the SynTh-hybrid skin idea!"**
 
-Nova: **"Yes. The past sprints were training...now, we run the marathon!"**
+Nova: **"*Yes!!* Self-cleaning and self-mending fabric, here we come!"**
 
-Iara: **"You talk like we just need to crunch some numbers! We still have *no idea* how to spin the SynTh into a structure that can emerge into a superorganism..."**
+Iara: **"But Nova, so far we've only ever managed fabric that changes color and texture...and Breno's confirmed that Space Co's patent on SynTh batteries *cuts us out*. We need a different source of fuel."**
 
-Felix: **"And the *ethical implications*..."**
+Felix: **"Bastards! They would've taken *at least* another 5 years without us or the OSE!"**
 
-Breno: **"That hasn't stopped the *22 failed experiments* already published on the OSE..."**
+Breno: **"Lucky for us, *22 failed experiments* trying other sources of fuel are already up on the OSE..."**
+
+### Learn More
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
 
