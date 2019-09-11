@@ -22,7 +22,7 @@ into orbit. 50 years later, teenager Asoka Morei lives in sheltered privilege at
 the dark and over-crowded Underground Cities. But when Asoka’s Haven is attacked, they must journey into 
 the Red Zone to find a mysterious people who may be re-growing the decimated Amazon Rainforest.”***
 
-Hi everyone! My name is Danbee Kim, and I’m collaborating with [**17 amazing artists**](/VIRS/credits){:target="_blank"} to create ***The First VIRS*** ([Vigilante Intergalactic Roustabout Scholar](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/){:target="_blank"}), a hard science fiction graphic novel that **combines my neuroscience PhD research with a speculation on how the next 100 years might play out**. By including this story in my PhD thesis, I can present my research in both the traditional expository format (background, methods, results, discussion) and [the visual narrative format, which is becoming an increasingly popular tool for science communication and education](https://www.researchgate.net/publication/322664468_The_potential_of_comics_in_science_communication){:target="_blank"}. 
+Hi everyone! My name is Danbee Kim, and I’m collaborating with [**17 amazing artists**](/VIRS/credits){:target="_blank"} to create ***The First VIRS*** ([Vigilante Intergalactic Roustabout Scholar](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/){:target="_blank"}), a hard science fiction graphic novel that **combines cutting-edge neuroscience research with a speculation on how the next 100 years might play out**. By including this story in my PhD thesis, I can present my research in both the traditional expository format (background, methods, results, discussion) and [the visual narrative format, which is becoming an increasingly popular tool for science communication and education](https://www.researchgate.net/publication/322664468_The_potential_of_comics_in_science_communication){:target="_blank"}. 
 
 I'm communicating my research through a graphic novel because I want to **make science and technology topics more accessible to EVERYONE, from young people (and any other science-curious, comic-loving human!) to experts in other specialities.** I've developed the story plot with the help of my labmates, other research colleagues, science fiction writers, and countless friends, who all lent their enormous diversity of expertise to a project that we hope demonstrates the power of art to help experts across specialities collaborate and share insights. Once published, both the graphic novel and my full thesis will be made freely viewable online. 
 
@@ -43,6 +43,9 @@ title page" caption="Chapter 1 title page, 'The First VIRS'. Art by Xiao Xiao, L
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p01_teaser-01.jpg" alt="Chapter 1, 
 Page 1" caption="Chapter 1, Page 1, 'The First VIRS'. Art by Matteo Farinella, Lettering by Danbee Kim." %}
+
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p13_teaser-01.jpg" alt="Chapter 1, 
+Page 13" caption="Chapter 1, Page 13, 'The First VIRS'. Art and Lettering by Danbee Kim." %}
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch2_p00_teaser-01.jpg" alt="Chapter 2 title page" caption="Chapter 2 title page, 'The First VIRS'. Art by Miguel Soler Montellano, Lettering by Danbee Kim." %}
 
