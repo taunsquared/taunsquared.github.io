@@ -36,7 +36,7 @@ Nova: **"I'm *convinced* they're lurking in the OSE forums."**
 
 *OSE = Open SynTh Exchange*
 
-Kai: **"Well, outrunning Space Co to *every* application of SynTh was never a long-term sustainable plan..."**
+Kai: **"Well, outrunning Space Co to *every* application of SynTh was never a long-term sustainable plan, Nova..."**
 
 Nova: **"So what do we do?"**
 
