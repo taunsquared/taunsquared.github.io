@@ -115,6 +115,9 @@ I was interviewed for a series of short video documentaries about neuroscientist
 I was interviewed after co-hosting and speaking at [Orchestrating the Brain](https://www.sainsburywellcome.org/web/public-engagement/orchestrating-brain), a 2018 FitzFest event hosted by the Sainsbury Wellcome Centre and created in collaboration with April Cashin-Garbutt, SWC Communications Manager, and Dan Bates, Artistic Director of FitzFest. Produced by Jake Fairnie and April Cashin-Garbutt. 
 {% include video provider="youtube" id="njGtLvk8Ess"%}
 
+On 24 May, 2019, I hosted a [Dear Neuroscience event focused on Touch and Proprioception](http://www.everymind.online/DearNeuroscience/), working with local performers, crafters, and clinicians to connect neuroscience research to our daily lives. The event was funded by a [UCL Train and Engage Fellowship](https://www.ucl.ac.uk/culture/projects/train-and-engage), and this mini-video documentary was filmed and produced by Jake Fairnie. 
+{% include video provider="youtube" id="z4WGR1wmAlk" %}
+
 ## Live Performances
 
 **[Building Bridges project](https://group.sciencemuseum.org.uk/our-work/learning/projects-and-partnerships/building-bridges/)**: A science outreach project at the London Science Museum where I spoke to groups of visiting primary school children about my research. Spring 2017. 
