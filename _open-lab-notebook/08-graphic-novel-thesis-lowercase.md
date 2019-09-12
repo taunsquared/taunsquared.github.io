@@ -38,7 +38,7 @@ You'll get access to project updates and exclusive behind-the-scenes artwork, an
 
 Read the [Chapter 1 teaser here](/VIRS/ch01-teaser/01){:target="_blank"}!
 
-Listen to the [demo EP album of songs from *The First VIRS*](https://soundcloud.com/taunsquared/sets/pilot-data-an-aronauts-ep){:target="_blank"}!
+Listen to the [demo EP album of songs from *The First VIRS*, called "Pilot Data"](https://soundcloud.com/taunsquared/sets/pilot-data-an-aronauts-ep){:target="_blank"}! You can also learn more about the creation of these songs, read full lyrics, and watch videos of live performances by visiting [my blog post about the EP album](http://www.danbeekim.org/brainplay/2017-09-14-Pilot-Data-Aronauts-EP/){:target="_blank"}.
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00_teaser-01.jpg" alt="Chapter 1 
 title page" caption="Chapter 1 title page, 'The First VIRS'. Art by Xiao Xiao, Lettering by Danbee Kim." %}
