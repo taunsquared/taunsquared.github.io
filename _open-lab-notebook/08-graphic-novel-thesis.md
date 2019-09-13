@@ -22,23 +22,21 @@ into orbit. 50 years later, teenager Asoka Morei lives in sheltered privilege at
 the dark and over-crowded Underground Cities. But when Asoka’s Haven is attacked, they must journey into 
 the Red Zone to find a mysterious people who may be re-growing the decimated Amazon Rainforest.”***
 
-Hi everyone! My name is Danbee Kim, and I’m collaborating with [**17 amazing artists**](/VIRS/credits){:target="_blank"} to create ***The First VIRS*** ([Vigilante Intergalactic Roustabout Scholar](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/){:target="_blank"}), a hard science fiction graphic novel that **combines cutting-edge neuroscience research with a speculation on how the next 100 years might play out**. By including this story in my PhD thesis, I can present my research in both the traditional expository format (background, methods, results, discussion) and [the visual narrative format, which is becoming an increasingly popular tool for science communication and education](https://www.researchgate.net/publication/322664468_The_potential_of_comics_in_science_communication){:target="_blank"}. 
-
-I'm communicating my research through a graphic novel because I want to **make science and technology topics more accessible to EVERYONE, from young people (and any other science-curious, comic-loving human!) to experts in other specialities.** I've developed the story plot with the help of my labmates, other research colleagues, science fiction writers, and countless friends, who all lent their enormous diversity of expertise to a project that we hope demonstrates the power of art to help experts across specialities collaborate and share insights. Once published, both the graphic novel and my full thesis will be made freely viewable online. 
-
-I hope this graphic novel **starts conversations about what we define as "scientific activity", and how to build humane support structures to nurture such activity.** If you would like to get involved in these kinds of conversations, if you are passionate about making science and technology more accessible and engaging, and/or **if you would like to pre-order your printed copy of *The First VIRS*,** 
-
-[**PLEASE JOIN OUR MAILING LIST!**](http://eepurl.com/gkXmLP){: .btn}
-
-You'll get access to project updates and exclusive behind-the-scenes artwork, and you'll be the first to hear about our **crowdfunding campaign, coming soon!**
-
-{% include video id="e2bA9qoPqVQ" provider="youtube" %}
-
-## Teaser pages and story album
+Hi everyone! My name is Danbee Kim, and I’m a teacher and neuroscientist collaborating with [**17 amazing artists**](/VIRS/credits){:target="_blank"} to create ***The First VIRS*** ([Vigilante Intergalactic Roustabout Scholar](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/){:target="_blank"}), a graphic novel that **combines cutting-edge neuroscience research with a speculation on how the next 100 years might play out**. By including this story in my PhD thesis, I can present my research in both the traditional expository format (background, methods, results, discussion) and [the visual narrative format, which is becoming an increasingly popular tool for science communication and education](https://www.researchgate.net/publication/322664468_The_potential_of_comics_in_science_communication){:target="_blank"}. 
 
 Read the [Chapter 1 teaser here](/VIRS/ch01-teaser/01){:target="_blank"}!
 
-Listen to the [demo EP album of songs from *The First VIRS*, called "Pilot Data"](https://soundcloud.com/taunsquared/sets/pilot-data-an-aronauts-ep){:target="_blank"}! You can also learn more about the creation of these songs, read full lyrics, and watch videos of live performances by visiting [my blog post about the EP album](http://www.danbeekim.org/brainplay/2017-09-14-Pilot-Data-Aronauts-EP/){:target="_blank"}.
+I'm communicating my research through a graphic novel because I want to **make science and technology topics more accessible to EVERYONE, from young people (and any other science-curious, comic-loving human!) to experts in other specialities.** I've developed the story plot with the help of my labmates, other research colleagues, science fiction writers, and countless friends, who all lent their enormous diversity of expertise to a project that we hope demonstrates the power of art to help experts across specialities collaborate and share insights, and to help everyone experience immersion on those insights. Once published, both the graphic novel and my full thesis will be made freely viewable online. 
+
+I hope stories like mine can **start conversations about what we define as "scientific activity", and how to build humane support structures to nurture such activity.** If you would like to support this project, please [visit our project page on Kickstarter](https://www.kickstarter.com/projects/taunsquared/a-sci-fi-graphic-novel-based-on-real-neuroscience?ref=3c3rct&token=3701c955){:target="_blank"}! 
+
+[**Check out our crowdfunding campaign: "A sci-fi graphic novel based on real neuroscience"**](https://www.kickstarter.com/projects/taunsquared/a-sci-fi-graphic-novel-based-on-real-neuroscience?ref=3c3rct&token=3701c955){: .btn}
+
+You'll get access to project updates, early access high-quality downloads, and exclusive behind-the-scenes artwork!
+
+{% include video id="IuEBOJE9te4" provider="youtube" %}
+
+## Teaser pages and story album
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00_teaser-01.jpg" alt="Chapter 1 
 title page" caption="Chapter 1 title page, 'The First VIRS'. Art by Xiao Xiao, Lettering by Danbee Kim." %}
@@ -51,20 +49,21 @@ Page 13" caption="Chapter 1, Page 13, 'The First VIRS'. Art and Lettering by Dan
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch2_p00_teaser-01.jpg" alt="Chapter 2 title page" caption="Chapter 2 title page, 'The First VIRS'. Art by Miguel Soler Montellano, Lettering by Danbee Kim." %}
 
+Listen to the [demo EP album of songs from *The First VIRS*, called "Pilot Data"](https://soundcloud.com/taunsquared/sets/pilot-data-an-aronauts-ep){:target="_blank"}! You can also learn more about the creation of these songs, read full lyrics, and watch videos of live performances by visiting [my blog post about the EP album](http://www.danbeekim.org/brainplay/2017-09-14-Pilot-Data-Aronauts-EP/){:target="_blank"}.
+
 ## What do you mean, a graphic novel thesis?
 
-As part of my PhD thesis in neuroscience, [17 artists](http://www.danbeekim.org/VIRS/credits){:target="_blank"} and I are creating a [hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction){:target="_blank"} graphic novel which imagines how some of today's cutting-edge science and technology might become deeply embedded into daily life. By presenting this world through the eyes of an average teenager of the future, we hope our story can help more people connect and engage with scientific research. 
+As part of my PhD thesis in neuroscience, [17 artists](http://www.danbeekim.org/VIRS/credits){:target="_blank"} and I are creating a [hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction){:target="_blank"} graphic novel which imagines how some of today's cutting-edge science and technology might become deeply embedded into daily life of the future. By presenting this world through the eyes of an average teenager, we hope our story can help more people connect and engage with the *long-term goals* of scientific research. 
 
 The story has 7 chapters, 7 scientific diagrams, and 3 dream sequences, and I've divided the illustration work amongst [my 17 collaborators](http://www.danbeekim.org/VIRS/credits){:target="_blank"} so that we can finish in time for my thesis deadline. This project also makes a great case study for the benefits and impact of massive collaborations between artists and scientists. I've been documenting our collaborative process on [this github repository](https://github.com/taunsquared/graphic-novel-thesis){:target="_blank"}, and will publish a methods section in my thesis that details the lessons learned and insights gained from coordinating such a huge project. 
 
-You can find the [full story script here](
-https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md){:target="_blank"}, and the [in-progress illustrated pages here](https://www.dropbox.com/sh/a6zzhwkvqngkuzz/AAAvoN1KMmM6ssf3imcDh-fma?dl=0){:target="_blank"}. 
+You can find the [full story script here](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md){:target="_blank"}, and some of the [in-progress illustrated pages here](https://www.dropbox.com/sh/a6zzhwkvqngkuzz/AAAvoN1KMmM6ssf3imcDh-fma?dl=0){:target="_blank"}. 
 
 ## Why write a science fiction graphic novel as part of your thesis?
 
 Humans have engaged in storytelling since the beginning of our history as a species, and every culture around the world has at its core a rich collection of stories. To this day, we create and share stories in countless formats. 
 
-Stories help us remember and pass on complex information, gain perspective on difficult situations, and expand our capacity for empathy. [The nearly universal success of stories as effective tools for good communication, powerful connection, and deep insight lead many to suspect a deeply fundamental connection between storytelling and the evolution and development of human brains](https://github.com/taunsquared/graphic-novel-thesis/tree/master/Papers/NeuroscienceOfStorytelling){:target="_blank"}. Humans are very social beings, and stories demonstrate enormous power when it comes to coordinating human ideas and actions. 
+Stories help us remember and pass on complex information, gain perspective on difficult situations, and expand our capacity for empathy. [The wide-spread success of stories as effective tools for good communication, powerful connection, and deep insight lead many to suspect a fundamental connection between storytelling and the evolution and development of human brains](https://github.com/taunsquared/graphic-novel-thesis/tree/master/Papers/NeuroscienceOfStorytelling){:target="_blank"}. Humans are very social beings, and stories demonstrate enormous power when it comes to coordinating human ideas and actions. 
 
 For instance, [the Golden Age of Science Fiction](https://en.wikipedia.org/wiki/Golden_Age_of_Science_Fiction){:target="_blank"} (1930s to 1960s) has had an enormous influence on current research programmes and engineering goals. Many adults who currently work on space exploration, robotics, or brain-computer interfaces grew up in a culture fascinated by the fictional stories of authors like Issac Asimov and Arthur C. Clark. The science fiction genre thus expands the toolkit of storytelling to include simulations of incredible futures, as a way to grapple with the knowledge that there are things we don't even know we don't know, and to imagine how we might face it. 
 
@@ -72,7 +71,7 @@ How brains face the unknown and the unexpected has been the core motivation behi
 
 Studying reactions to the unexpected under traditional laboratory conditions can be quite challenging, given that laboratories were originally intended to be settings where one reduces and simplifies phenomena in order to examine them in greater detail and under tightly controlled conditions. This is not necessarily a useful strategy to apply to the study of how we deal with the unexpected. Communicating our findings can be even more challenging, as our insights often ride the boundary between science and philosophy, and our explanations tend to work best when prefaced with lengthy historical or experiential contextualization. 
 
-Given these challenges, my advisor and I realised that our research needs a more compelling format than the conventional academic article - the current tensions and distrust between academic scientists, policy makers, and folks on the street makes that clear. Turns out, we weren't alone in our way of thinking! [Other PhD candidates have taken creative approaches to their thesis or dissertation to make their research more accessible](https://helenkara.com/2016/07/13/getting-creative-with-your-thesis-or-dissertation/){:target="_blank"}, and there is a growing interest in [using and understanding the potential of graphic novels, comics, and other forms of visual narrative "to engage audiences who are currently underserved by other channels of science communication."](https://www.researchgate.net/publication/322664468_The_potential_of_comics_in_science_communication){:target="_blank"}
+Given these challenges, my advisor and I realised that our research needs to be communicated with a more compelling format than the conventional academic article - the current tensions and distrust between academic scientists, policy makers, and folks on the street makes that clear. Turns out, we weren't alone in our way of thinking! [Other PhD candidates have taken creative approaches to their thesis or dissertation to make their research more accessible](https://helenkara.com/2016/07/13/getting-creative-with-your-thesis-or-dissertation/){:target="_blank"}, and there is a growing interest in [using and understanding the potential of graphic novels, comics, and other forms of visual narrative "to engage audiences who are currently underserved by other channels of science communication."](https://www.researchgate.net/publication/322664468_The_potential_of_comics_in_science_communication){:target="_blank"}
 
 So I threatened to write a graphic novel of my thesis, and Dr. Kampff called my (not quite) bluff. 
 
