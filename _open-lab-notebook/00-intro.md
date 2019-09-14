@@ -36,7 +36,7 @@ gallery:
 ---
 {% include toc title="Open Lab Notebook" %}
 
-This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title *'On the aims and methods of Field Neuroscience: how to increase the diversity and quantity of subjects in behavioural neuroscience studies'*.
+This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title *'On the aims and methods of Field Neuroscience: increasing the diversity and quantity of subjects in behavioural neuroscience studies'*.
 
 In my research group, we study how nervous systems "in the wild" (as opposed to in the laboratory) are robust and flexible enough to deal with unexpected situations. Within this area, I study how we imagine and train for the unexpected. My goals are: 
 
