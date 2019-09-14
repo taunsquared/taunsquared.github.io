@@ -15,10 +15,10 @@ tags:
 ---
 ## Page 14
 
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/15){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/17){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/17){: .btn}
+
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p14_web-01.jpg" 
 alt="Chapter 1, page 14" caption="Art and Lettering by Danbee Kim." %}
-
-[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/15){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/17){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/17){: .btn}
 
 ## Annotations
 
