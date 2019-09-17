@@ -109,4 +109,4 @@ is licensed under a <a rel="license" href="http://creativecommons.org/licenses/b
 Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="
 http://purl.org/dc/terms/" href="http://www.danbeekim.org/projects/2018/02/28/VIRS-concept/" rel="dct:source">
 http://www.danbeekim.org/projects/2018/02/28/VIRS-concept/</a>.<br />Permissions beyond the scope of this license may be 
-available at <a xmlns:cc="http://creativecommons.org/ns#" href="danbeekim.org" rel="cc:morePermissions">danbeekim.org</a>.
+available at <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.danbeekim.org" rel="cc:morePermissions">danbeekim.org</a>.
