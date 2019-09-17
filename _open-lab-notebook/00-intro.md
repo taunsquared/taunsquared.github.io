@@ -66,6 +66,10 @@ Co-organizer for [**Bridging Neuroscience and Embodiment: The Many Bodies of Emb
 
 Teaching Assistant for **Intro to Techniques in Neuroscience**. Champalimaud Neuroscience Program, January 2014.
 
+Teacher for **Neuronautas**, a field neuroscience summer camp for Portuguese youth and one of the [Academias Gulbenkian do Conhecimento](https://gulbenkian.pt/academias/projects/fundacao-champalimaud/).
+
+{% include video provider="youtube" id="FRCwWx-dlZE" %}
+
 ## Presentations
 
 **"What can we learn about brains by studying the movements of bodies?"** Presented at the opening plenary session of the 2<sup>o</sup> Congresso Nacional de Psicomotricidade in Vila Real, Portugal.  
