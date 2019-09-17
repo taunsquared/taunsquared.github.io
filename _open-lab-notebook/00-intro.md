@@ -66,7 +66,7 @@ Co-organizer for [**Bridging Neuroscience and Embodiment: The Many Bodies of Emb
 
 Teaching Assistant for **Intro to Techniques in Neuroscience**. Champalimaud Neuroscience Program, January 2014.
 
-Teacher for **Neuronautas**, a field neuroscience summer camp for Portuguese youth and one of the [Academias Gulbenkian do Conhecimento](https://gulbenkian.pt/academias/projects/fundacao-champalimaud/).
+Teacher for **Neuronautas**, a field neuroscience summer camp for Portuguese youth. Funded by the [Academias Gulbenkian do Conhecimento](https://gulbenkian.pt/academias/projects/fundacao-champalimaud/), 2019 - 2021. 
 
 {% include video provider="youtube" id="FRCwWx-dlZE" %}
 
