@@ -24,7 +24,7 @@ into orbit. 50 years later, teenager Asoka Morei lives in sheltered privilege at
 the dark and over-crowded Underground Cities. But when Asoka’s Haven is attacked, they must journey into 
 the Red Zone to find a mysterious people who may be re-growing the decimated Amazon Rainforest." caption="From Ch.4 of The First VIRS. Art by Julia Zimmerman, Lettering by Danbee Kim" %}
 
-Hi everyone! My name is Danbee Kim, and I’m a teacher and neuroscientist collaborating with [**17 amazing artists**](/VIRS/credits){:target="_blank"} to create ***The First VIRS*** ([Vigilante Intergalactic Roustabout Scholar](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/){:target="_blank"}), a graphic novel that **combines cutting-edge neuroscience research with a speculation on how the next 100 years might play out**. 
+Hi everyone! My name is Danbee Kim, and I’m a teacher and neuroscientist collaborating with [**17 amazing artists**](/VIRS/credits){:target="_blank"} to create ***The First VIRS*** ([Vigilante Intergalactic Roustabout Scholar](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/){:target="_blank"}), a graphic novel that combines cutting-edge topics in science and technology into a near-future hard science fiction story about two teenagers who live on a post-climate-apocalypse Earth 100 years from now.
 
 **Read the [Chapter 1 teaser here](/VIRS/ch01-teaser/01){:target="_blank"}!**
 
