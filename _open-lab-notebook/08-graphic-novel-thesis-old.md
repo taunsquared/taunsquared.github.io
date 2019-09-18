@@ -24,15 +24,15 @@ into orbit. 50 years later, teenager Asoka Morei lives in sheltered privilege at
 the dark and over-crowded Underground Cities. But when Asoka’s Haven is attacked, they must journey into 
 the Red Zone to find a mysterious people who may be re-growing the decimated Amazon Rainforest." caption="From Ch.4 of The First VIRS. Art by Julia Zimmerman, Lettering by Danbee Kim" %}
 
-Hi everyone! My name is Danbee Kim, and I’m a teacher and neuroscientist collaborating with [**17 amazing artists**](/VIRS/credits){:target="_blank"} to create ***The First VIRS*** ([Vigilante Intergalactic Roustabout Scholar](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/){:target="_blank"}), a graphic novel that **combines cutting-edge neuroscience research with a speculation on how the next 100 years might play out**. By including this story in my PhD thesis, I can present my research in both the traditional expository format (background, methods, results, discussion) and [the visual narrative format, which is becoming an increasingly popular tool for science communication and education](https://www.researchgate.net/publication/322664468_The_potential_of_comics_in_science_communication){:target="_blank"}. 
+Hi everyone! My name is Danbee Kim, and I’m a teacher and neuroscientist collaborating with [**17 amazing artists**](/VIRS/credits){:target="_blank"} to create ***The First VIRS*** ([Vigilante Intergalactic Roustabout Scholar](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/){:target="_blank"}), a graphic novel that **combines cutting-edge neuroscience research with a speculation on how the next 100 years might play out**. 
 
 **Read the [Chapter 1 teaser here](/VIRS/ch01-teaser/01){:target="_blank"}!**
 
-I'm communicating my research through a graphic novel because I want to **make science and technology topics more accessible to EVERYONE, from young people (and any other science-curious, comic-loving human!) to experts in other specialities.** I've developed the story plot with the help of my labmates, other research colleagues, science fiction writers, and countless friends, who all lent their enormous diversity of expertise to a project that we hope demonstrates the power of art to help experts across specialities collaborate and share insights, and to help everyone experience immersion on those insights. Once published, both the graphic novel and my full thesis will be made freely viewable online. 
+I started this collaboration because I want to tell stories that **make science and technology topics more accessible to EVERYONE, from young people (and any other science-curious, comic-loving human!) to experts in other specialities.** I hope stories like mine can start conversations about what we define as "scientific activity", and how to build humane support structures to nurture such activity. 
 
-I hope stories like mine can **start conversations about what we define as "scientific activity", and how to build humane support structures to nurture such activity.** If you would like to support this project, please [visit our project page on Kickstarter](https://www.kickstarter.com/projects/taunsquared/a-sci-fi-graphic-novel-based-on-real-neuroscience?ref=3c3rct&token=3701c955){:target="_blank"}! 
+## Support our crowdfunding campaign!
 
-You'll get access to project updates, early access high-quality downloads, and exclusive behind-the-scenes artwork!
+If you would like to support this project, please **[visit our project page on Kickstarter](https://www.kickstarter.com/projects/taunsquared/a-sci-fi-graphic-novel-based-on-real-neuroscience?ref=3c3rct&token=3701c955){:target="_blank"}!** You'll get access to project updates, early access high-quality downloads, and exclusive behind-the-scenes artwork!
 
 {% include video id="IuEBOJE9te4" provider="youtube" %}
 
@@ -53,23 +53,39 @@ Listen to the [demo EP album of songs from *The First VIRS*, called "Pilot Data"
 
 ## What do you mean, a graphic novel thesis?
 
-As part of my PhD thesis in neuroscience, [17 artists](http://www.danbeekim.org/VIRS/credits){:target="_blank"} and I are creating a [hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction){:target="_blank"} graphic novel which imagines how some of today's cutting-edge science and technology might become deeply embedded into daily life of the future. By presenting this world through the eyes of an average teenager, we hope our story can help more people connect and engage with the *long-term goals* of scientific research. 
+***The First VIRS*** is a graphic novel about teenagers Asoka Morei and Minka Traoré, who live in a potential post-climate-apocalypse future 100 years from now. By presenting this world through the eyes of an average teenager, we hope our story can help more people connect and engage with the **long-term goals of scientific research**. 
 
-The story has 7 chapters, 7 scientific diagrams, and 3 dream sequences, and I've divided the illustration work amongst [my 17 collaborators](http://www.danbeekim.org/VIRS/credits){:target="_blank"} so that we can finish in time for my thesis deadline. This project also makes a great case study for the benefits and impact of massive collaborations between artists and scientists. I've been documenting our collaborative process on [this github repository](https://github.com/taunsquared/graphic-novel-thesis){:target="_blank"}, and will publish a methods section in my thesis that details the lessons learned and insights gained from coordinating such a huge project. 
+The story has 7 chapters, 7 scientific diagrams, and 3 dream sequences. I've divided the illustration work amongst [my 17 collaborators](http://www.danbeekim.org/VIRS/credits){:target="_blank"}, who joined this project from various locations in the US, UK, France, Germany, Portugal, and Taiwan. To coordinate our efforts, I first wrote a full story script describing the imagery I wanted for each page and the visual characteristics I wanted for each character. Based on these descriptions, the artists then created the illustrations, with several stages of feedback and iteration mediated by a shared Dropbox folder. I'm now editing and typesetting the text and dialogue which appear on top of the illustrations. 
+
+This project makes an excellent case study for the benefits and impact of massive collaborations between artists and scientists. I've been documenting our collaborative process on [this github repository](https://github.com/taunsquared/graphic-novel-thesis){:target="_blank"}, and will publish a methods section in my thesis that details the lessons learned and insights gained from coordinating such a huge project. 
 
 You can find the [full story script here](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md){:target="_blank"}, and some of the [in-progress illustrated pages here](https://www.dropbox.com/sh/a6zzhwkvqngkuzz/AAAvoN1KMmM6ssf3imcDh-fma?dl=0){:target="_blank"}. 
 
 ## Why write a science fiction graphic novel as part of your thesis?
 
+"Real science is as amenable to exciting and engrossing fiction as fake science, and **I think it is important to exploit every opportunity to convey scientific ideas in a civilization based upon science but somehow unable to communicate what science is about...**I think it is not an exaggeration to say that, if we survive, science fiction will have made a vital contribution to the continuation and benign evolution of our civilization." 
+
+-- [*Growing Up with Science Fiction*](https://www.nytimes.com/1978/05/28/archives/growing-up-with.html){:target="_blank"}, by Carl Sagan, 1978. 
+
+### Our cognitive love affair with stories
+
 Humans have engaged in storytelling since the beginning of our history as a species, and every culture around the world has at its core a rich collection of stories. To this day, we create and share stories in countless formats. 
 
 Stories help us remember and pass on complex information, gain perspective on difficult situations, and expand our capacity for empathy. [The wide-spread success of stories as effective tools for good communication, powerful connection, and deep insight lead many to suspect a fundamental connection between storytelling and the evolution and development of human brains](https://github.com/taunsquared/graphic-novel-thesis/tree/master/Papers/NeuroscienceOfStorytelling){:target="_blank"}. Humans are very social beings, and stories demonstrate enormous power when it comes to coordinating human ideas and actions. 
 
+### Speculative Fiction's affect on reality
+
 For instance, [the Golden Age of Science Fiction](https://en.wikipedia.org/wiki/Golden_Age_of_Science_Fiction){:target="_blank"} (1930s to 1960s) has had an enormous influence on current research programmes and engineering goals. Many adults who currently work on space exploration, robotics, or brain-computer interfaces grew up in a culture fascinated by the fictional stories of authors like Issac Asimov and Arthur C. Clark. The science fiction genre thus expands the toolkit of storytelling to include simulations of incredible futures, as a way to grapple with the knowledge that there are things we don't even know we don't know, and to imagine how we might face it. 
+
+### The neuroscience of speculation and "just dealing with it"
 
 How brains face the unknown and the unexpected has been the core motivation behind my PhD research and the research vision of my advisor, Dr. Adam Kampff. For the last 7 years, I've had the privilege of working with him and the amazing humans of the [Intelligent Systems Lab](https://www.kampff-lab.org/){:target="_blank"}. Together we have developed a diverse range of tools and strategies to study how brains build expectations about how things "should" work (often called our "model of the world"), and how brains adapt when new information or experiences break our expectations. 
 
+### Bringing neuroscience "into the wild"
+
 Studying reactions to the unexpected under traditional laboratory conditions can be quite challenging, given that laboratories were originally intended to be settings where one reduces and simplifies phenomena in order to examine them in greater detail and under tightly controlled conditions. This is not necessarily a useful strategy to apply to the study of how we deal with the unexpected. Communicating our findings can be even more challenging, as our insights often ride the boundary between science and philosophy, and our explanations tend to work best when prefaced with lengthy historical or experiential contextualization. 
+
+### Scientifically engaging other brains "in the wild" through stories
 
 Given these challenges, my advisor and I realised that our research needs to be communicated with a more compelling format than the conventional academic article - the current tensions and distrust between academic scientists, policy makers, and folks on the street makes that clear. Turns out, we weren't alone in our way of thinking! [Other PhD candidates have taken creative approaches to their thesis or dissertation to make their research more accessible](https://helenkara.com/2016/07/13/getting-creative-with-your-thesis-or-dissertation/){:target="_blank"}, and there is a growing interest in [using and understanding the potential of graphic novels, comics, and other forms of visual narrative "to engage audiences who are currently underserved by other channels of science communication."](https://www.researchgate.net/publication/322664468_The_potential_of_comics_in_science_communication){:target="_blank"}
 
@@ -82,22 +98,6 @@ It's a long story, and you can [read more about it here](/VIRS/funding){:target=
 ## Project Credits 
 
 [Meet the artists and illustrators of *The First VIRS*!](/VIRS/credits){:target="_blank"}
-
-## Some final thoughts from Carl Sagan
-
-"Real science is as amenable to exciting and engrossing fiction as fake science, and I think it is important to exploit 
-every opportunity to convey scientific ideas in a civilization based upon science but somehow unable to communicate what 
-science is about.  
-...  
-In all the history of the world there has never before been a period in which so many significant changes have occurred 
-in so short a span of time. Accommodation to change, the thoughtful pursuit of alternative futures, is the key to the 
-survival of civilization and perhaps of humanity. Ours is also the time of the first generation that has grown up with 
-science fiction. I know many young people who would, of course, be interested, but in no way astounded, were we to 
-receive a message tomorrow from an extraterrestrial civilization. They have already accommodated to that future. I think 
-it is not an exaggeration to say that, if we survive, science fiction will have made a vital contribution to the 
-continuation and benign evolution of our civilization." 
-
--- [*Growing Up with Science Fiction*](https://www.nytimes.com/1978/05/28/archives/growing-up-with.html){:target="_blank"}, by Carl Sagan, 1978. 
 
 ## Project License
 
