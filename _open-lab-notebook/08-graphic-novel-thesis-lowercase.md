@@ -17,20 +17,20 @@ header:
 ---
 {% include toc title="The First VIRS: A graphic novel thesis" %}
 
-***“In 2067, the Global Water Crisis wiped out much of humanity, forcing survivors to flee underground or escape 
+[**WE ARE CROWDFUNDING! Visit our Kickstarter page to learn more!**](https://www.kickstarter.com/projects/taunsquared/a-sci-fi-graphic-novel-based-on-real-neuroscience?ref=3c3rct&token=3701c955){: .btn}
+
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_Kickstarter_plotSynopsis-01.jpg" alt="Plot synopsis: In 2067, the Global Water Crisis wiped out much of humanity, forcing survivors to flee underground or escape 
 into orbit. 50 years later, teenager Asoka Morei lives in sheltered privilege at a Green Haven, far from 
 the dark and over-crowded Underground Cities. But when Asoka’s Haven is attacked, they must journey into 
-the Red Zone to find a mysterious people who may be re-growing the decimated Amazon Rainforest.”***
+the Red Zone to find a mysterious people who may be re-growing the decimated Amazon Rainforest." caption="From Ch.4 of The First VIRS. Art by Julia Zimmerman, Lettering by Danbee Kim %}
 
 Hi everyone! My name is Danbee Kim, and I’m a teacher and neuroscientist collaborating with [**17 amazing artists**](/VIRS/credits){:target="_blank"} to create ***The First VIRS*** ([Vigilante Intergalactic Roustabout Scholar](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/){:target="_blank"}), a graphic novel that **combines cutting-edge neuroscience research with a speculation on how the next 100 years might play out**. By including this story in my PhD thesis, I can present my research in both the traditional expository format (background, methods, results, discussion) and [the visual narrative format, which is becoming an increasingly popular tool for science communication and education](https://www.researchgate.net/publication/322664468_The_potential_of_comics_in_science_communication){:target="_blank"}. 
 
-Read the [Chapter 1 teaser here](/VIRS/ch01-teaser/01){:target="_blank"}!
+**Read the [Chapter 1 teaser here](/VIRS/ch01-teaser/01){:target="_blank"}!**
 
 I'm communicating my research through a graphic novel because I want to **make science and technology topics more accessible to EVERYONE, from young people (and any other science-curious, comic-loving human!) to experts in other specialities.** I've developed the story plot with the help of my labmates, other research colleagues, science fiction writers, and countless friends, who all lent their enormous diversity of expertise to a project that we hope demonstrates the power of art to help experts across specialities collaborate and share insights, and to help everyone experience immersion on those insights. Once published, both the graphic novel and my full thesis will be made freely viewable online. 
 
 I hope stories like mine can **start conversations about what we define as "scientific activity", and how to build humane support structures to nurture such activity.** If you would like to support this project, please [visit our project page on Kickstarter](https://www.kickstarter.com/projects/taunsquared/a-sci-fi-graphic-novel-based-on-real-neuroscience?ref=3c3rct&token=3701c955){:target="_blank"}! 
-
-[**Check out our crowdfunding campaign: "A sci-fi graphic novel based on real neuroscience"**](https://www.kickstarter.com/projects/taunsquared/a-sci-fi-graphic-novel-based-on-real-neuroscience?ref=3c3rct&token=3701c955){: .btn}
 
 You'll get access to project updates, early access high-quality downloads, and exclusive behind-the-scenes artwork!
 
