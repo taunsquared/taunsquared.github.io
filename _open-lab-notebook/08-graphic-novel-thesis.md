@@ -17,7 +17,7 @@ header:
 ---
 {% include toc title="The First VIRS: A graphic novel thesis" %}
 
-[**WE ARE CROWDFUNDING! Visit our Kickstarter page to learn more!**](https://www.kickstarter.com/projects/taunsquared/a-sci-fi-graphic-novel-based-on-real-neuroscience?ref=3c3rct&token=3701c955){: .btn}
+[**WE ARE CROWDFUNDING! Click here to learn more!**](https://www.kickstarter.com/projects/taunsquared/a-sci-fi-graphic-novel-based-on-real-neuroscience?ref=3c3rct&token=3701c955){: .btn}
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_Kickstarter_plotSynopsis-01.jpg" alt="Plot synopsis: In 2067, the Global Water Crisis wiped out much of humanity, forcing survivors to flee underground or escape 
 into orbit. 50 years later, teenager Asoka Morei lives in sheltered privilege at a Green Haven, far from 
