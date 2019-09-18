@@ -68,7 +68,7 @@ Thanks to the staunch support of Helen Craig and our institute's Communications 
 
 Given the decision made by our host institution's directors, and with the encouragement of our colleagues, friends, and family, Dr. Kampff and I decided to ask our wider community of collaborators and supporters for help. **We will launch a crowdfunding campaign to raise the money necessary to pay our artist collaborators** the full amount that was stipulated by contract when they first signed onto the project - a reasonable and fair compensation for their time and skills.
 
-If you would like to help us meet this goal, **please [JOIN OUR MAILING LIST](http://eepurl.com/gkXmLP){:target="_blank"}** to get updates on the crowdfunding campaign, and THANK YOU SO MUCH, from all of us working on [*The First VIRS*](/VIRS)!
+If you would like to help us meet this goal, **please [JOIN OUR CROWDFUNDING CAMPAIGN](https://www.kickstarter.com/projects/taunsquared/a-sci-fi-graphic-novel-based-on-real-neuroscience?ref=3c3rct&token=3701c955){:target="_blank"}**! And THANK YOU SO MUCH, from all of us working on [*The First VIRS*](/VIRS)!
 
 ## Project Credits 
 
