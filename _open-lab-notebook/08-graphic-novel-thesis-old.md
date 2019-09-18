@@ -22,7 +22,7 @@ header:
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_Kickstarter_plotSynopsis-01.jpg" alt="Plot synopsis: In 2067, the Global Water Crisis wiped out much of humanity, forcing survivors to flee underground or escape 
 into orbit. 50 years later, teenager Asoka Morei lives in sheltered privilege at a Green Haven, far from 
 the dark and over-crowded Underground Cities. But when Asoka’s Haven is attacked, they must journey into 
-the Red Zone to find a mysterious people who may be re-growing the decimated Amazon Rainforest." caption="From Ch.4 of The First VIRS. Art by Julia Zimmerman, Lettering by Danbee Kim %}
+the Red Zone to find a mysterious people who may be re-growing the decimated Amazon Rainforest." caption="From Ch.4 of The First VIRS. Art by Julia Zimmerman, Lettering by Danbee Kim" %}
 
 Hi everyone! My name is Danbee Kim, and I’m a teacher and neuroscientist collaborating with [**17 amazing artists**](/VIRS/credits){:target="_blank"} to create ***The First VIRS*** ([Vigilante Intergalactic Roustabout Scholar](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/){:target="_blank"}), a graphic novel that **combines cutting-edge neuroscience research with a speculation on how the next 100 years might play out**. By including this story in my PhD thesis, I can present my research in both the traditional expository format (background, methods, results, discussion) and [the visual narrative format, which is becoming an increasingly popular tool for science communication and education](https://www.researchgate.net/publication/322664468_The_potential_of_comics_in_science_communication){:target="_blank"}. 
 
