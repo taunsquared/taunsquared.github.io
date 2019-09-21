@@ -17,7 +17,7 @@ header:
 ---
 {% include toc title="The First VIRS: A graphic novel thesis" %}
 
-[**WE ARE CROWDFUNDING! Click here to learn more!**](https://www.kickstarter.com/projects/taunsquared/a-sci-fi-graphic-novel-based-on-real-neuroscience?ref=3c3rct&token=3701c955){: .btn}
+[***WE ARE CROWDFUNDING! Click here to learn more!***](https://www.kickstarter.com/projects/taunsquared/a-sci-fi-graphic-novel-based-on-real-neuroscience?ref=3c3rct&token=3701c955){: .btn}
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_Kickstarter_plotSynopsis-01.jpg" alt="Plot synopsis: In 2067, the Global Water Crisis wiped out much of humanity, forcing survivors to flee underground or escape 
 into orbit. 50 years later, teenager Asoka Morei lives in sheltered privilege at a Green Haven, far from 
@@ -31,6 +31,8 @@ Hi everyone! My name is Danbee Kim, and I’m a teacher and neuroscientist colla
 I started this collaboration because I want to tell stories that **make science and technology topics more accessible to EVERYONE, from young people (and any other science-curious, comic-loving human!) to experts in other specialities.** I hope stories like mine can start conversations about what we define as "scientific activity", and how to build humane support structures to nurture such activity. 
 
 ## Support our crowdfunding campaign!
+
+[***DOWNLOAD AND SHARE OUR FLYER!***](/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_flyer01-01.jpg){: .btn}
 
 If you would like to support this project, please **[visit our project page on Kickstarter](https://www.kickstarter.com/projects/taunsquared/a-sci-fi-graphic-novel-based-on-real-neuroscience?ref=3c3rct&token=3701c955){:target="_blank"}!** You'll get access to project updates, early access high-quality downloads, and exclusive behind-the-scenes artwork!
 

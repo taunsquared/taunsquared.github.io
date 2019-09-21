@@ -32,6 +32,8 @@ I started this collaboration because I want to tell stories that **make science 
 
 ## Support our crowdfunding campaign!
 
+[***DOWNLOAD AND SHARE OUR FLYER!***](/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_flyer01-01.jpg){: .btn}
+
 If you would like to support this project, please **[visit our project page on Kickstarter](https://www.kickstarter.com/projects/taunsquared/a-sci-fi-graphic-novel-based-on-real-neuroscience?ref=3c3rct&token=3701c955){:target="_blank"}!** You'll get access to project updates, early access high-quality downloads, and exclusive behind-the-scenes artwork!
 
 {% include video id="IuEBOJE9te4" provider="youtube" %}
