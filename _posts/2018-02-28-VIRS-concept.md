@@ -1,6 +1,6 @@
 ---
 title: "VIRS: World building and concept summary"
-excerpt: "They are the Benevolent Dictator and the First VIRS. They are the Architect and the Engineer."
+excerpt: "They are the Benevolent Farmer and the First VIRS. They are the Architect and the Engineer."
 categories:
   - projects
 tags:
@@ -13,7 +13,7 @@ tags:
   - education
 ---
 
-*"They are the Benevolent Dictator and the First VIRS. They are the Architect and the Engineer."*
+*"They are the Benevolent Farmer and the First VIRS. They are the Architect and the Engineer."*
 
 V.I.R.S., pronounced "verse", stands for Vigilante Intergalactic Roustabout Scholar. Roaming bands of VIRSs travel in ships powered by heartsongs, about a generation and a half after the Passing of the Architect, who brought humanity through a Golden Space Age and extended the human empire across many galaxies. The Architect built many public libraries and universities in order to spread knowledge and learning throughout the empire, but when she Passed, these libraries and universities began to sequester knowledge and control information through propoganda. So the bands of VIRSs raid and pillage libraries and universities, then put on circus shows about what they've learned. 
 
