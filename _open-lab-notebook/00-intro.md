@@ -36,7 +36,7 @@ gallery:
 ---
 {% include toc title="Open Lab Notebook" %}
 
-This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title *'On the aims and methods of Field Neuroscience: how to increase the diversity and quantity of subjects in behavioural neuroscience studies'*.
+This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title *'On the aims and methods of Field Neuroscience: increasing the diversity and quantity of subjects in behavioural neuroscience studies'*.
 
 In my research group, we study how nervous systems "in the wild" (as opposed to in the laboratory) are robust and flexible enough to deal with unexpected situations. Within this area, I study how we imagine and train for the unexpected. My goals are: 
 
@@ -65,6 +65,10 @@ Teacher for the [Appalachian Institute for Creative Learning](https://www.appala
 Co-organizer for [**Bridging Neuroscience and Embodiment: The Many Bodies of Embodied Cognition**](https://sites.google.com/a/neuro.fchampalimaud.org/embodied-cognition/course-information). Champalimaud Neuroscience Program, Fall 2013 Advanced Course: October 28 - November 1, 2013.
 
 Teaching Assistant for **Intro to Techniques in Neuroscience**. Champalimaud Neuroscience Program, January 2014.
+
+Teacher for **Neuronautas**, a field neuroscience summer camp for Portuguese youth. Funded by the [Academias Gulbenkian do Conhecimento](https://gulbenkian.pt/academias/projects/fundacao-champalimaud/), 2019 - 2021. 
+
+{% include video provider="youtube" id="FRCwWx-dlZE" %}
 
 ## Presentations
 
@@ -114,6 +118,9 @@ I was interviewed for a series of short video documentaries about neuroscientist
 
 I was interviewed after co-hosting and speaking at [Orchestrating the Brain](https://www.sainsburywellcome.org/web/public-engagement/orchestrating-brain), a 2018 FitzFest event hosted by the Sainsbury Wellcome Centre and created in collaboration with April Cashin-Garbutt, SWC Communications Manager, and Dan Bates, Artistic Director of FitzFest. Produced by Jake Fairnie and April Cashin-Garbutt. 
 {% include video provider="youtube" id="njGtLvk8Ess"%}
+
+On 24 May, 2019, I hosted a [Dear Neuroscience event focused on Touch and Proprioception](http://www.everymind.online/DearNeuroscience/), working with local performers, crafters, and clinicians to connect neuroscience research to our daily lives. The event was funded by a [UCL Train and Engage Fellowship](https://www.ucl.ac.uk/culture/projects/train-and-engage), and this mini-video documentary was filmed and produced by Jake Fairnie. 
+{% include video provider="youtube" id="z4WGR1wmAlk" %}
 
 ## Live Performances
 
