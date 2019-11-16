@@ -16,7 +16,7 @@ My [research](/open-lab-notebook/) combines studies of cuttlefish, the philosoph
 
 I believe art has an important role in organising and building knowledge, as a tool for helping experts across specialities collaborate and share insights. I got hooked on the neuroscience of storytelling while co-writing and choreographing an original musical called <a href="https://hackpunttool.com/">Hack, Punt, Tool</a> (you can watch the <a href="https://youtu.be/IPpqXyo4jhM">2017 production on YouTube</a>). As part of my PhD, I wrote a science fiction graphic novel based on real neuroscience called [*The First VIRS*](/VIRS). I've also written and performed a set of ["science songs" about neuroscience](/brainplay/2017-09-14-Pilot-Data-Aronauts-EP/). My dream future is to train and play as a musician, capoeirista, and [VIRS (vigilante intergalactic roustabout scholar)](/projects/2018/02/28/VIRS-principles/). <br/>
 
-If you would like to get in touch, please tweet @taunbot or email me at danbee at alum dot mit dot edu.
+If you would like to get in touch, please tweet @taunbot or email me at danbee at danbeekim dot org.
 
 [Curriculum Vitae](/assets/files/DanbeeKim_cv_20181201.pdf)
 
