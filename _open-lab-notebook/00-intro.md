@@ -40,13 +40,15 @@ This page is my primary documentation of my thought processes related to my PhD 
 
 In my research group, we study how nervous systems "in the wild" (as opposed to in the laboratory) are robust and flexible enough to deal with unexpected situations. Within this area, I study how we imagine and train for the unexpected. My goals are: 
 
-* to build a culture of collaboration, trust, and rigorous play in neuroscience; 
+* to connect how we study the brain to the subjective experience of living with one;
 
-* to engage with historical context and in questioning the status quo, both in and out of science; 
+* to improve existing strategies for teasing apart general principles which govern all nervous systems, from specialized adaptations dependent on evolutionary and developmental histories, in order to better guide our generalizations of empirical results beyond the specific individuals or populations studied;
 
-* to develop theories and methodologies for field neuroscience, which would complement laboratory neuroscience by a) verifying the ethological validity of behaviour studies and of humane research techniques, and b) increasing the diversity and quantity of neural systems accessible to empirical neuroscientific study; and
+* to develop theories and methodologies for field neuroscience, which would complement laboratory neuroscience by a) verifying the ethological validity of behaviour studies and of humane research techniques, and b) increasing the diversity and quantity of neural systems accessible to empirical neuroscientific study;
 
-* to connect how we study the brain to the subjective experience of living with one.
+* to nurture a culture of collaboration, trust, and rigorous play in research; and
+
+* to engage with historical context and in questioning the status quo, both in and out of science.
 
 ## Writings
 
