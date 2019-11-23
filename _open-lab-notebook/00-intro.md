@@ -46,7 +46,7 @@ In my research group, we study how nervous systems "in the wild" (as opposed to 
 
 * to develop theories and methodologies for field neuroscience, which could complement laboratory neuroscience by a) checking the ethological validity of behaviour studies and of humane research techniques, and b) increasing the diversity and quantity of neural systems accessible to empirical neuroscientific study;
 
-* to broaden my familiarity with the nervous systems of a wide variety of animal species, especially non-rodent and non-mammal species, in order to better guide our generalizations of empirical results beyond the specific individuals or populations studied;
+* to broaden my familiarity with the anatomy, physiology, behaviour, and ecological niche of a wide variety of animal species, especially non-rodent and non-mammal species, in order to better guide generalizations and translations of empirical results beyond the specific individuals or populations studied;
 
 * to nurture a culture of collaboration, trust, and rigorous imagination in research; and
 
