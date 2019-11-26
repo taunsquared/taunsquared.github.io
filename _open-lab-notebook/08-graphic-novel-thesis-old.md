@@ -28,13 +28,13 @@ Hi everyone! My name is Danbee Kim, and I’m a teacher and neuroscientist colla
 
 I started this collaboration because I want to tell stories that **make science and technology topics more accessible to EVERYONE, from young people (and any other science-curious, comic-loving human!) to experts in other specialities.** I hope stories like mine can start conversations about what we define as "scientific activity", and how to build humane support structures to nurture such activity. 
 
-## Update: Our crowdfunding campaign was a success!!
+# Update: Our crowdfunding campaign was a success!!
 
 With the help of 155 backers, [**we raised $11,125 through our crowdfunding campaign!!**](https://www.kickstarter.com/projects/taunsquared/a-sci-fi-graphic-novel-based-on-real-neuroscience) THANK YOU to everyone who supported this project and made it possible to pay our artists IN FULL!!
 
 {% include video id="IuEBOJE9te4" provider="youtube" %}
 
-## Teaser pages and story album
+# Teaser pages and story album
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00_teaser-01.jpg" alt="Chapter 1 
 title page" caption="Chapter 1 title page, 'The First VIRS'. Art by Xiao Xiao, Lettering by Danbee Kim." %}
@@ -52,7 +52,7 @@ When the crowdfunding campaign for *The First VIRS* reached $10K, I made this vi
 
 Listen to more songs from *The First VIRS*, which were originally released as [a demo EP album called "Pilot Data"](https://soundcloud.com/taunsquared/sets/pilot-data-an-aronauts-ep){:target="_blank"}! You can also learn more about the creation of these songs, read full lyrics, and watch videos of live performances by visiting [my blog post about the EP album](http://www.danbeekim.org/brainplay/2017-09-14-Pilot-Data-Aronauts-EP/){:target="_blank"}.
 
-## What do you mean, a graphic novel thesis?
+# What do you mean, a graphic novel thesis?
 
 ***The First VIRS*** is a graphic novel about teenagers Asoka Morei and Minka Traoré, who live in a potential post-climate-apocalypse future 100 years from now. By presenting this world through the eyes of an average teenager, we hope our story can help more people connect and engage with the **long-term goals of scientific research**. 
 
@@ -62,7 +62,7 @@ This project makes an excellent case study for the benefits and impact of massiv
 
 You can find the [full story script here](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md){:target="_blank"}, and some of the [in-progress illustrated pages here](https://www.dropbox.com/sh/a6zzhwkvqngkuzz/AAAvoN1KMmM6ssf3imcDh-fma?dl=0){:target="_blank"}. 
 
-## Why write a science fiction graphic novel as part of your thesis?
+# Why write a science fiction graphic novel as part of your thesis?
 
 "Real science is as amenable to exciting and engrossing fiction as fake science, and **I think it is important to exploit every opportunity to convey scientific ideas in a civilization based upon science but somehow unable to communicate what science is about...**I think it is not an exaggeration to say that, if we survive, science fiction will have made a vital contribution to the continuation and benign evolution of our civilization." 
 
@@ -92,15 +92,15 @@ Given these challenges, my advisor and I realised that our research needs to be 
 
 So I threatened to write a graphic novel of my thesis, and Dr. Kampff called my (not quite) bluff. 
 
-## But wait...what happened to your funding??
+# But wait...what happened to your funding??
 
 It's a long story, and you can [read more about it here](/VIRS/funding){:target="_blank"}. 
 
-## Project Credits 
+# Project Credits 
 
 [Meet the artists and illustrators of *The First VIRS*!](/VIRS/credits){:target="_blank"}
 
-## Project License
+# Project License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" 
 style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="
