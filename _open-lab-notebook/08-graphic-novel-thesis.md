@@ -30,7 +30,7 @@ I started this collaboration because I want to tell stories that **make science 
 
 # Update: Our crowdfunding campaign was a success!!
 
-With the help of 155 backers, [**we raised $11,125 through our crowdfunding campaign!!**](https://www.kickstarter.com/projects/taunsquared/a-sci-fi-graphic-novel-based-on-real-neuroscience) THANK YOU to everyone who supported this project and made it possible to pay our artists IN FULL!!
+With the help of 155 backers, [**we raised $11,125 through our crowdfunding campaign!!**](https://www.kickstarter.com/projects/taunsquared/a-sci-fi-graphic-novel-based-on-real-neuroscience){:target="_blank"} THANK YOU to everyone who supported this project and made it possible to pay our artists IN FULL!!
 
 {% include video id="IuEBOJE9te4" provider="youtube" %}
 
