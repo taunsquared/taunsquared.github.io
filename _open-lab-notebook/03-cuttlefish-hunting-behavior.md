@@ -59,6 +59,9 @@ Videos of the experimental sessions can be found online here:
 
 ## Analysis
 
+This video summarizes the main result of this experiment:
+{% include video id="aLFmZGZHS_4" provider="youtube" %}
+
 ### Hunting Behaviour Ethogram
 
 {% include video provider="youtube" id="CgWJwalk8c8" %}
