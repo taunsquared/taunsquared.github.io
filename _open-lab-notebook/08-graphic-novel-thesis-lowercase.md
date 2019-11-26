@@ -28,9 +28,9 @@ Hi everyone! My name is Danbee Kim, and I’m a teacher and neuroscientist colla
 
 I started this collaboration because I want to tell stories that **make science and technology topics more accessible to EVERYONE, from young people (and any other science-curious, comic-loving human!) to experts in other specialities.** I hope stories like mine can start conversations about what we define as "scientific activity", and how to build humane support structures to nurture such activity. 
 
-# Update: Our crowdfunding campaign was a rousing success!!
+# Update: Our crowdfunding campaign was a success!!
 
-With the help of 155 backers, **we raised $11,125 through our crowdfunding campaign!!** THANK YOU to everyone who supported this project and made it possible to pay our artists IN FULL!!
+With the help of 155 backers, [**we raised $11,125 through our crowdfunding campaign!!**](https://www.kickstarter.com/projects/taunsquared/a-sci-fi-graphic-novel-based-on-real-neuroscience) THANK YOU to everyone who supported this project and made it possible to pay our artists IN FULL!!
 
 {% include video id="IuEBOJE9te4" provider="youtube" %}
 
@@ -47,7 +47,10 @@ Page 13" caption="Chapter 1, Page 13, 'The First VIRS'. Art and Lettering by Dan
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch2_p00_teaser-01.jpg" alt="Chapter 2 title page" caption="Chapter 2 title page, 'The First VIRS'. Art by Miguel Soler Montellano, Lettering by Danbee Kim." %}
 
-Listen to the [demo EP album of songs from *The First VIRS*, called "Pilot Data"](https://soundcloud.com/taunsquared/sets/pilot-data-an-aronauts-ep){:target="_blank"}! You can also learn more about the creation of these songs, read full lyrics, and watch videos of live performances by visiting [my blog post about the EP album](http://www.danbeekim.org/brainplay/2017-09-14-Pilot-Data-Aronauts-EP/){:target="_blank"}.
+{% include video id="AGp2_tAM5wg" provider="youtube" %}
+When the crowdfunding campaign for *The First VIRS* reached $10K, I made this video of one of the songs from the story album to celebrate! 
+
+Listen to more songs from *The First VIRS*, which were originally released as [a demo EP album called "Pilot Data"](https://soundcloud.com/taunsquared/sets/pilot-data-an-aronauts-ep){:target="_blank"}! You can also learn more about the creation of these songs, read full lyrics, and watch videos of live performances by visiting [my blog post about the EP album](http://www.danbeekim.org/brainplay/2017-09-14-Pilot-Data-Aronauts-EP/){:target="_blank"}.
 
 ## What do you mean, a graphic novel thesis?
 
