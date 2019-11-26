@@ -59,10 +59,6 @@ Videos of the experimental sessions can be found online here:
 
 ## Analysis
 
-This video summarizes the main result of this experiment:
-
-{% include video provider="youtube" id="aLFmZGZHS_4" %}
-
 ### Hunting Behaviour Ethogram
 
 {% include video provider="youtube" id="CgWJwalk8c8" %}
@@ -104,6 +100,8 @@ Further analysis work on the Cuttle Shuttle video dataset can be found [here](ht
 * [Champalimaud Research 2016 Retreat](/assets/files/DanbeeKim_CuttleShuttle_2016.pdf)
 
 ## Presentations and Videos
+
+{% include video provider="youtube" id="aLFmZGZHS_4" %}
 
 {% include video provider="youtube" id="CHrMDdK78Sk" %}
 
