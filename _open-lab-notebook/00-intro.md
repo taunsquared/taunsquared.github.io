@@ -132,7 +132,7 @@ On 24 May, 2019, I hosted a [Dear Neuroscience event focused on Touch and Propri
 ## Live Performances
 
 **[Building Bridges project](https://group.sciencemuseum.org.uk/our-work/learning/projects-and-partnerships/building-bridges/){:target="_blank"}**: A science outreach project at the London Science Museum where I spoke to groups of visiting primary school children about my research. Spring 2017. 
-{% include figure image_path="/assets/images/openLabNotebook/20170418_BuildingBridgesLondonScienceMuseum_BackyardBrains.jpg" alt="A Backyard Brains pocket electrophysiology box" caption="In the spring of 2017, I spoke to primary school children about my research, with the help of this pocket electrophysiology box (by [Backyard Brains](https://backyardbrains.com){:target="_blank"})" %}
+{% include figure image_path="/assets/images/openLabNotebook/20170418_BuildingBridgesLondonScienceMuseum_BackyardBrains.jpg" alt="A Backyard Brains pocket electrophysiology box" caption="In the spring of 2017, I spoke to primary school children about my research, with the help of this pocket electrophysiology box (by [Backyard Brains](https://backyardbrains.com))" %}
 
 **["Pilot Data, an Aronauts EP"](http://www.danbeekim.org/brainplay/2017-09-14-Pilot-Data-Aronauts-EP/){:target="_blank"}**: An original set of science songs performed at the 2017 Live Music Symposium at the Francis Crick Institute.
 {% include video provider="youtube" id="0dSHJEOLxBY" %}
