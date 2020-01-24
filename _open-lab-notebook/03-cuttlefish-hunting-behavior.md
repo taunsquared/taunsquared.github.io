@@ -91,6 +91,10 @@ Below are some initial plots that show the frequency of different hunting events
 
 ### Video analysis
 
+Video summary of this project: 
+
+{% include video provider="youtube" id="aLFmZGZHS_4" %}
+
 Further analysis work on the Cuttle Shuttle video dataset can be found [here](https://github.com/everymind/CuttleShuttle-Analysis). 
 
 ## Posters
@@ -100,8 +104,6 @@ Further analysis work on the Cuttle Shuttle video dataset can be found [here](ht
 * [Champalimaud Research 2016 Retreat](/assets/files/DanbeeKim_CuttleShuttle_2016.pdf)
 
 ## Presentations and Videos
-
-{% include video provider="youtube" id="aLFmZGZHS_4" %}
 
 {% include video provider="youtube" id="CHrMDdK78Sk" %}
 
