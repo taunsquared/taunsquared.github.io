@@ -8,9 +8,7 @@ tags:
   - W.P.
 ---
 
-## Poems for my best friend's wedding
-
-"Won't you celebrate with me"  
+## "Won't you celebrate with me"  
 By Lucille Clifton
 
 won't you celebrate with me  
@@ -28,7 +26,7 @@ with me that everyday
 something has tried to kill me  
 and has failed.  
 
-“Remember, woman”  
+## “Remember, woman”  
 By Reese Leyva
 
 Remember, Woman, you were born  
