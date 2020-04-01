@@ -25,7 +25,8 @@ Many thanks to Kendra Buresch, Stephen Senft, Alex Schnell, Andrew Carvey, Arthu
 
 ## Introduction 
 
-### Abstract:  
+### Abstract
+
 The active camouflage of coleoid cephalopods (cuttlefish, octopuses, and squids) presents an opportunity to non-invasively study whole organism behaviour and single-unit neural activity simultaneously, a possibility which is reviving the attention of neuroscience researchers in the 21st century [4, 8]. A rich body of literature, reaching back before the 1900s, describes the remarkable diversity of cuttlefish body patterns in great qualitative detail. However, to date there are no unambiguous mathematical definitions of these body patterns [3, 9]. In particular, there are very few quantitative characterisations of body pattern changes of cuttlefish outside the context of camouflage and background matching. This paper presents a low-cost and open-source method for reliably evoking “acute” (as opposed to “stable”, as defined by [2]), event-locked, and ethologically relevant changes to body pattern in captive Sepia officinalis, and offers a first step toward mathematically characterising these rapidly transient body patterns, in the hopes of accelerating the re-diversification of model species used in the study of how nervous systems control behaviour [6, 10]. In light of recent advances in highly accessible computer vision tools and techniques for tracking non-captive behaviour of a large diversity of species [1, 5, 7], the methodology presented here has great promise for use not only in the lab but also in the wild. 
 
 **References:**  
@@ -40,7 +41,7 @@ The active camouflage of coleoid cephalopods (cuttlefish, octopuses, and squids)
 **[9]** M. Stevens and S. Merilaita. Defining disruptive coloration and distinguishing its functions. Philosophical Transactions of The Royal Society, 2008.  
 **[10]** M. M. Yartsev. The emperor’s new wardrobe: Rebalancing diversity of animal models in neuroscience research. Science, 2017.  
 
-### Video Summary: 
+### Video Summary
 
 {% include video provider="youtube" id="aLFmZGZHS_4" %}
 
