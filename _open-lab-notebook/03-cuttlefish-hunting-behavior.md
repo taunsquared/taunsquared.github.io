@@ -25,22 +25,26 @@ Many thanks to Kendra Buresch, Stephen Senft, Alex Schnell, Andrew Carvey, Arthu
 
 ## Introduction 
 
-Abstract:  
+### Abstract:  
 The active camouflage of coleoid cephalopods (cuttlefish, octopuses, and squids) presents an opportunity to non-invasively study whole organism behaviour and single-unit neural activity simultaneously, a possibility which is reviving the attention of neuroscience researchers in the 21st century [4, 8]. A rich body of literature, reaching back before the 1900s, describes the remarkable diversity of cuttlefish body patterns in great qualitative detail. However, to date there are no unambiguous mathematical definitions of these body patterns [3, 9]. In particular, there are very few quantitative characterisations of body pattern changes of cuttlefish outside the context of camouflage and background matching. This paper presents a low-cost and open-source method for reliably evoking “acute” (as opposed to “stable”, as defined by [2]), event-locked, and ethologically relevant changes to body pattern in captive Sepia officinalis, and offers a first step toward mathematically characterising these rapidly transient body patterns, in the hopes of accelerating the re-diversification of model species used in the study of how nervous systems control behaviour [6, 10]. In light of recent advances in highly accessible computer vision tools and techniques for tracking non-captive behaviour of a large diversity of species [1, 5, 7], the methodology presented here has great promise for use not only in the lab but also in the wild. 
 
-References:  
-[1] J. M. Graving, D. Chae, H. Naik, L. Li, B. Koger, B. R. Costelloe, and I. D.Couzin.  Deepposekit, a software toolkit for fast and robust animal poseestimation using deep learning.eLife, 8:e47994, 2019.  
-[2] R. T. Hanlon and J. B. Messenger. Adaptive coloration in young cuttlefish (sepia officinalis l.): the morphology and development of body patterns and their relation to behaviour. Philosophical Transactions of the Royal Society of London. B, Biological Sciences, 1988.  
-[3] E. J. Kelman, D. Osorio, and R. J. Baddeley. A review of cuttlefish camouflage and object recognition and evidence for depth perception. Journal of Experimental Biology, 2008.  
-[4] A. Laan, T. Gutnick, M. J. Kuba, and G. Laurent. Behavioral analysis of cuttlefish traveling waves and its implications for neural control. Current Biology, 2014.  
-[5] G. Lopes, N. Bonacchi, J. Fraz˜ao, J. P. Neto, B. V. Atallah, S. Soares, L. Moreira, S. Matias, P. M. Itskov, P. A. Correia, R. E. Medina, L. Calcaterra, E. Dreosti, J. J. Paton, and A. R. Kampff. Bonsai: an event-based framework for processing and controlling data streams. Frontiers in neuroinformatics, 2015.  
-[6] P. R. Manger, J. Cort, N. Ebrahim, A. Goodman, J. Henning, M. Karolia, S.-L. Rodrigues, and G. ˇStrkalj. Is 21st century neuroscience too focussed on the rat/mouse model of brain function and dysfunction? Frontiers in Neuroanatomy, 2008.  
-[7] T. Nath, A. Mathis, A. C. Chen, A. Patel, M. Bethge, and M. W. Mathis. Using deeplabcut for 3d markerless pose estimation across species and behaviors. Nature Protocols, 2019.  
-[8] S. Reiter, P. H¨ulsdunk, T. Woo, M. A. Lauterbach, J. S. Eberle, L. A. Akay, A. Longo, J. Meier-Credo, F. Kretschmer, J. D. Langer, M. Kaschube, and G. Laurent. Elucidating the control and development of skin patterning in cuttlefish. Nature, 2018.  
-[9] M. Stevens and S. Merilaita. Defining disruptive coloration and distinguishing its functions. Philosophical Transactions of The Royal Society, 2008.  
-[10] M. M. Yartsev. The emperor’s new wardrobe: Rebalancing diversity of animal models in neuroscience research. Science, 2017.  
+**References:**  
+**[1]** J. M. Graving, D. Chae, H. Naik, L. Li, B. Koger, B. R. Costelloe, and I. D.Couzin.  Deepposekit, a software toolkit for fast and robust animal poseestimation using deep learning.eLife, 8:e47994, 2019.  
+**[2]** R. T. Hanlon and J. B. Messenger. Adaptive coloration in young cuttlefish (sepia officinalis l.): the morphology and development of body patterns and their relation to behaviour. Philosophical Transactions of the Royal Society of London. B, Biological Sciences, 1988.  
+**[3]** E. J. Kelman, D. Osorio, and R. J. Baddeley. A review of cuttlefish camouflage and object recognition and evidence for depth perception. Journal of Experimental Biology, 2008.  
+**[4]** A. Laan, T. Gutnick, M. J. Kuba, and G. Laurent. Behavioral analysis of cuttlefish traveling waves and its implications for neural control. Current Biology, 2014.  
+**[5]** G. Lopes, N. Bonacchi, J. Fraz˜ao, J. P. Neto, B. V. Atallah, S. Soares, L. Moreira, S. Matias, P. M. Itskov, P. A. Correia, R. E. Medina, L. Calcaterra, E. Dreosti, J. J. Paton, and A. R. Kampff. Bonsai: an event-based framework for processing and controlling data streams. Frontiers in neuroinformatics, 2015.  
+**[6]** P. R. Manger, J. Cort, N. Ebrahim, A. Goodman, J. Henning, M. Karolia, S.-L. Rodrigues, and G. ˇStrkalj. Is 21st century neuroscience too focussed on the rat/mouse model of brain function and dysfunction? Frontiers in Neuroanatomy, 2008.  
+**[7]** T. Nath, A. Mathis, A. C. Chen, A. Patel, M. Bethge, and M. W. Mathis. Using deeplabcut for 3d markerless pose estimation across species and behaviors. Nature Protocols, 2019.  
+**[8]** S. Reiter, P. H¨ulsdunk, T. Woo, M. A. Lauterbach, J. S. Eberle, L. A. Akay, A. Longo, J. Meier-Credo, F. Kretschmer, J. D. Langer, M. Kaschube, and G. Laurent. Elucidating the control and development of skin patterning in cuttlefish. Nature, 2018.  
+**[9]** M. Stevens and S. Merilaita. Defining disruptive coloration and distinguishing its functions. Philosophical Transactions of The Royal Society, 2008.  
+**[10]** M. M. Yartsev. The emperor’s new wardrobe: Rebalancing diversity of animal models in neuroscience research. Science, 2017.  
 
-{% include video provider="youtube" id="TGo0AM7calI" %}
+### Video Summary: 
+
+{% include video provider="youtube" id="aLFmZGZHS_4" %}
+
+### Research questions
 
 In this experiment, cuttlefish must hunt for their food 4 days out of 7; their prey is a piece of shrimp at the end of an arduino-controlled skewer. We wanted to ask the following questions:
 
@@ -114,11 +118,7 @@ Below are the latest drafts of the figures included in the academic paper I've w
 
 ### Video analysis
 
-Video summary of this project: 
-
-{% include video provider="youtube" id="aLFmZGZHS_4" %}
-
-Further analysis work on the Cuttle Shuttle video dataset can be found [here](https://github.com/everymind/CuttleShuttle-Analysis). 
+Further information about analysis work on the Cuttle Shuttle video dataset can be found [here](https://github.com/everymind/CuttleShuttle-Analysis). 
 
 ## Posters
 
@@ -127,6 +127,8 @@ Further analysis work on the Cuttle Shuttle video dataset can be found [here](ht
 * [Champalimaud Research 2016 Retreat](/assets/files/DanbeeKim_CuttleShuttle_2016.pdf)
 
 ## Presentations and Videos
+
+{% include video provider="youtube" id="TGo0AM7calI" %}
 
 {% include video provider="youtube" id="CHrMDdK78Sk" %}
 
