@@ -1,6 +1,6 @@
 ---
 title: "*The First VIRS*: A graphic novel thesis"
-permalink: /graphic-novel-thesis
+permalink: /VIRS
 excerpt: 
 categories:
   - open-lab-notebook
@@ -22,7 +22,7 @@ into orbit. 50 years later, teenager Asoka Morei lives in sheltered privilege at
 the dark and over-crowded Underground Cities. But when Asoka’s Haven is attacked, they must journey into 
 the Red Zone to find a mysterious people who may be re-growing the decimated Amazon Rainforest." caption="From Ch.4 of The First VIRS. Art by Julia Zimmerman, Lettering by Danbee Kim" %}
 
-Hi everyone! My name is Danbee Kim, and I’m a teacher and neuroscientist collaborating with [**17 amazing artists**](/VIRS/credits){:target="_blank"} to create ***The First VIRS*** ([Vigilante Intergalactic Roustabout Scholar](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)), a graphic novel that combines cutting-edge topics in science and technology into a near-future hard science fiction story about two teens on a post-climate-apocalypse Earth who wield the ancient craft of neuroscience against an oppressive World Government. 
+Hi everyone! My name is Danbee Kim, and I’m a teacher and neuroscientist collaborating with [**17 amazing artists**](/VIRS/credits){:target="_blank"} to create ***The First VIRS*** ([Vigilante Intergalactic Roustabout Scholar](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/){:target="_blank"}), a graphic novel that combines cutting-edge topics in science and technology into a near-future hard science fiction story about two teens on a post-climate-apocalypse Earth who wield the ancient craft of neuroscience against an oppressive World Government. 
 
 **Read the [Chapter 1 teaser here](/VIRS/ch01-teaser/01){:target="_blank"}!**
 
@@ -60,7 +60,7 @@ The story has 7 chapters, 7 scientific diagrams, and 3 dream sequences. I've div
 
 This project makes an excellent case study for the benefits and impact of massive collaborations between artists and scientists. I've been documenting our collaborative process on [this github repository](https://github.com/taunsquared/graphic-novel-thesis){:target="_blank"}, and will publish a methods section in my thesis that details the lessons learned and insights gained from coordinating such a huge project. 
 
-You can find the [full story script here](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md){:target="_blank"}, and some of the [in-progress illustrated pages here](https://www.dropbox.com/sh/a6zzhwkvqngkuzz/AAAvoN1KMmM6ssf3imcDh-fma?dl=0){:target="_blank"}. 
+You can find the [full story script here](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md){:target="_blank"}, complete with annotations and references. 
 
 # Why write a science fiction graphic novel as part of your thesis?
 

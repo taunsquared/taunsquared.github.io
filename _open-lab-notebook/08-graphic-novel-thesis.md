@@ -60,7 +60,7 @@ The story has 7 chapters, 7 scientific diagrams, and 3 dream sequences. I've div
 
 This project makes an excellent case study for the benefits and impact of massive collaborations between artists and scientists. I've been documenting our collaborative process on [this github repository](https://github.com/taunsquared/graphic-novel-thesis){:target="_blank"}, and will publish a methods section in my thesis that details the lessons learned and insights gained from coordinating such a huge project. 
 
-You can find the [full story script here](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md){:target="_blank"}, and some of the [in-progress illustrated pages here](https://www.dropbox.com/sh/a6zzhwkvqngkuzz/AAAvoN1KMmM6ssf3imcDh-fma?dl=0){:target="_blank"}. 
+You can find the [full story script here](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md){:target="_blank"}, complete with annotations and references. 
 
 # Why write a science fiction graphic novel as part of your thesis?
 
