@@ -208,6 +208,10 @@ well as making the complex interesting rather than intimidating has been a fasci
 
 Website: [http://www.saravukson.com/](http://www.saravukson.com/)
 
+## Kickstarter Backers
+
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/online_supporters_list-01.jpg" alt="Kickstarter Backers list" caption="Thank you to all of the lovely humans who supported The First VIRS on Kickstarter!" %}
+
 ## Project License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" 
