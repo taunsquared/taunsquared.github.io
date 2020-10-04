@@ -20,24 +20,6 @@ tags:
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p09_web-01.jpg" 
 alt="Chapter 1, page 9" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-## Annotations
-
-**"2 months later: Massachusetts, USA"**
-
-We see rolling countryside, vibrant with autumn colors, behind a low row of concrete warehouses, labeled "Morei Textiles". 
-
-Off-panel, secretary: **"Hey [Iúna*](https://en.wikipedia.org/wiki/Capoeira_toques#I%C3%BAna){:target="_blank"}, the folks from the World Health Organization are here."**
-
-*pronounced "Aye-**oo**-nah"*
-
-Off-panel, Iúna: **"Thanks, I'll be with them in a minute."**
-
-We see the inside of a warehouse, where long rows of industrial looms weave SynTh textiles. Their combined activity generates a gently deafening **"WHIRRRRR"**. Iúna Morei, a tall shapely American woman of Portuguese descent in her early 30s, lustrous wavy brown hair pulled up into a ponytail, an infant with thick black hair strapped to her front, walks briskly and confidently towards a group of humans waiting near the main entrance of the warehouse. 
-
-Iúna smiles and yells as she waves towards her office door, just next to the entrance to the warehouse and labeled "Iúna Morei, CEO".
-
-Iúna: **"HELLO! SHALL WE STEP INTO MY OFFICE?"**
-
 ### Learn More
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}

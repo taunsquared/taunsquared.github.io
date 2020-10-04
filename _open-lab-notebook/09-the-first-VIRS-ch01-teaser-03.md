@@ -20,28 +20,6 @@ tags:
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p01_web-01.jpg" 
 alt="Chapter 1, page 1" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-## Annotations
-
-**"April 7, 2066: Mae Jemison Memorial Arboretum"**
-
-**"Orbiter population: 8,063"**
-
-**"It was a day of hope and wonder."** 
-
-**"Space Consortium had just completed their third space farm, and the news feeds were drowning in videos of the glamorous ribbon-cutting event..."**
-
-We see beautiful, important people draped in gorgeously fashionable and unspeakably expensive formal attire, made with synapic thread fabric programmed to fluidly change colours in response to the lights, the music, and their wearers' moods.
-
-**"...of the Orbiter home pods that synchronised their velocities with the new arboretum..."**
-
-In the viewing port of the Arboretum, we see a huge mass of gathered Orbiter home pods, floating in synchronised orbit next to the Arboretum.
-
-**"...and of the tiny, mouth-watering hors d'oeuvres made from succulent crops grown at the two older space farms, in carefully filtered water and pristine soil..."**
-
-**"...for the world was becoming too dirty, too extreme in its weather, to support industrial planetside farming..."**
-
-**"...and many people, on this historic day, were starving..."**
-
 ### Learn More
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}

@@ -20,14 +20,6 @@ tags:
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00_web-01.jpg" alt="Chapter 1 
 title page" caption="Art by Xiao Xiao, Lettering by Danbee Kim." %}
 
-## Annotations
-
-**"Loading Universal Record..."**
-
-**"Finished loading...'The Space Consortium Fights World Hunger'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
-
-**"In 2054, Space Consortium began collaborating with planetside farms to advance research on space-tolerance in plants and insects. Space Consortium offered to use this research to help fight Earth's food shortage, and pledged half of the carrying capacity of its recently completed space elevator project, the Space Ferries, to guarantee reliable transport of resources between Earth and orbiting farms. Thus, Space Consortium played a major role in improving the quality of life on Earth before [The Global Water Crisis](https://www.bbc.co.uk/news/uk-47620228)..."**
-
 ### Learn More
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}

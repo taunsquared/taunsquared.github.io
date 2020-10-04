@@ -20,22 +20,6 @@ tags:
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p11_web-01.jpg" 
 alt="Chapter 1, page 11" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-## Annotations
-
-Dr. Kauffmann: **"They're prepping for a huge wave of refugees."**
-
-Iúna: **"Really? From where?"** 
-
-Dr. Kauffmann: **"Los Angeles. A police raid last night turned into a fire that's spread halfway up the coast of California. It's so big it's blowing over the mountains into Arizona..."**
-
-Dr. Kauffmann: **"Apparently the targets panicked and tried to destroy the evidence...and the suburbs are just *filled* with [plastic furniture, which are basically *solid* petroleum](https://youtu.be/aDNPhq5ggoE), and it all just hit a flash point...I'm sorry...do you know anyone over there?"**
-
-Iúna: **"Yes, I...I'm sorry, I need to make a call..."**
-
-Dr. Kauffmann: **"Of course. We'll see ourselves out."**
-
-Under this dialogue we see close-up views of the baby strapped to Iúna's front. The child is a little less than one year old. The strapping is an intricately folded piece of SynTh cloth that can amplify the baby's heartrate, breathing, and digestive sounds. 
-
 ### Learn More
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}

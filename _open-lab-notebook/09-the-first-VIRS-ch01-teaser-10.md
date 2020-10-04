@@ -20,28 +20,6 @@ tags:
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p08_web-01.jpg" 
 alt="Chapter 1, page 8" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-## Annotations
-
-Majhee: **"Kai, Vec, Bea? What do you think?"**
-
-Kai: **"Let's punch these corporate windbags in the teeth! I'll go start the kettle...gonna need *lots* of tea and ramen for this..."**
-
-Vec: **"I'll help Nova kick Space Co out of the OSE forums."**
-
-Beatriz: **"I'll get Felix his flight."**
-
-Iara: **"Breno and I can start reading the failed experiments. Majhee, wanna join us?"**
-
-Majhee quirks an eyebrow.
-
-Majhee: **"Sound great, Iara. Everyone...you're all *amazing*. Thank you for *massively* improving my terrible week."**
-
-We see now the protesters outside, their desperate, hungry faces. They hold signs and wave flags with slogans like "Não sirva aos tiranos em órbita!", "Educar crianças humanas, não máquinas corporativas!", and "Alimentar humanos não foguetes!" 
-
-*translation: "Do not serve tyrants in orbit!", "Educate human children, not coporate machines!", "Feed humans not rockets!"*
-
-Majhee: **"Now, 22 failures...that's quite a lot of information..."**
-
 ### Learn More
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}

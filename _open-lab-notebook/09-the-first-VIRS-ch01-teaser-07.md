@@ -20,26 +20,6 @@ tags:
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p05_web-01.jpg" 
 alt="Chapter 1, page 5" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-## Annotations
-
-Majhee: **"Marcia, we work at the *biggest* research center in Brazil. If *we* can't stand up to unethical behaviour, who can??"**
-
-Marcia: **"Majhee, if Space Co can't work with us, they'll just go to some other institute. We don't *actually* have any leverage."**
-
-Majhee looks away miserably. 
-
-Majhee: **"Well...if the sponsors want me out, *fine*. I'm not taking back *anything* I've said against Space Co."**
-
-Marcia: **"To be honest, they can't seem to decide whether to hate you or love you. You're the youngest scientist in the world with *two* U.N. grants..."**
-
-Majhee, dryly: **"Are you saying I have redeeming qualities in the eyes of our prestige- and money-hungry overlords?"**
-
-Felix, a scientist in Majhee's lab, appears at the doorway.
-
-Felix: **"Hi, sorry to interrupt...can we get Majhee please? Lab meeting was supposed to start an hour ago."**
-
-Majhee: **"I know, I'm sorry, I'm coming. Marcia, I'll give you a call later."**
-
 ### Learn More
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}

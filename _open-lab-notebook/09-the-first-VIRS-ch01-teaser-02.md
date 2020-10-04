@@ -20,39 +20,6 @@ tags:
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00-01_web-01.jpg" 
 alt="Chapter 1 Cast" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-## Annotations
-
-**Majhee Suh**:  
-[Organometallic Chemist](https://en.wikipedia.org/wiki/Organometallic_chemistry)  
-PhD thesis: "Cultivating [Electrophoretic](https://en.wikipedia.org/wiki/Electrophoresis) [Mycelium](https://en.wikipedia.org/wiki/Mycelium) [Yeast](https://en.wikipedia.org/wiki/Yeast) to fabricate living organic semiconductors"
-
-**Iúna Morei**:  
-CEO of Morei Textiles, Codename "Mama Bird"  
-
-**Kai Oliveira**:  
-Bio-materials Scientist, ramen connoisseur, and operatic metal enthusiast
-
-**Vec Barbosa**:  
-Animal technician, Veterinarian, and SCUBA diving instructor  
-
-**Beatriz Cavalcanti**:  
-Laboratory Manager, Marine Ecologist, and avid seabird watcher
-
-**Nova Jatobá**:  
-Research Assistant, B.Sc. in Nutrition, and cryptocurrency hobbyist
-
-**Marcia Netto**:  
-President and Director of Laboratório Nacional de Biociências e Saúde Pública  
-
-**Iara Gracie**:  
-Research Assistant, B.Sc. in Animal Husbandry, and red/white belt in [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)  
-
-**Felix Grael**:  
-Research Technician, B.Sc. in Biophysics, and home-brewed beer enthusiast  
-
-**Breno Leite**:  
-Developmental Physiologist, Geneticist, and capoeirista
-
 ### Learn More
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}

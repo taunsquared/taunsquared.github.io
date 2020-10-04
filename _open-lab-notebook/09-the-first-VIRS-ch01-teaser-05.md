@@ -20,40 +20,6 @@ tags:
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p03_web-01.jpg" 
 alt="Chapter 1, page 3" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-## Annotations
-
-Inside the research institute, we see a receptionist sitting behind a sealed glass window. Next to him is a decontamination chamber that all must pass thru in order to enter the research facility. 
-
-**"...Space Consortium's actions have been publicly condemned by many researchers affiliated with the LNBSP..."**
-
-*LNBSP = Laboratório Nacional de Biociências e Saúde Pública*
-
-**"...including Dr. Majhee Suh, who was the first to cultivate stable thread-worms capable of spinning SynTh..."**
-
-Majhee: **"Mornin', Paulo!"**
-
-Paulo: **"Majhee! How's your head?"**
-
-Majhee takes off her hood and googles - she is pretty and youthful for her 37 years, if it weren't for the many lines of worry and grim determination on her face. She shakes out her hair, cropped short in a bowl pixie cut. Clearly having many troubling thoughts, she begins taking off her SynTh hazmat suit.  
-
-Majhee: **"Not great, but I'll live..."**
-
-Paulo: **"Did you go to the hospital?"**
-
-Majhee: **"No, it would have taken all night to see a doctor..."**
-
-Paulo: **"Doesn't the LNBSP give you private health care?"**
-
-Majhee: **"Yes, but I'm not covered for injuries that occur off the work site...and technically, I was outside the front gates when the oxygen tank hit me."**
-
-Paulo: **"*Seriously??* The SAMU should've just reported it as a worksite injury!"**
-
-*SAMU = Serviço de Atendimento Móvel de Urgência (Mobile Emergency Attendance Service)*
-
-Majhee removes her boots and steps into the decontamination chamber.
-
-Majhee: **"Well...everyone's hungry...can't think when you're hungry."**
-
 ### Learn More
 
 To learn more about this graphic novel, please visit [www.danbeekim.org/VIRS](/VIRS){:target="_blank"}
