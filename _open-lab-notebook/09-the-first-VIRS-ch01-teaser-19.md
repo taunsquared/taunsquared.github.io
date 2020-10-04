@@ -1,6 +1,6 @@
 ---
 title: "*The First VIRS*: Chapter 01 teaser, with annotated companion script"
-permalink: /VIRS/ch01-teaser/18
+permalink: /VIRS/ch01-teaser/19
 excerpt: 
 categories:
   - open-lab-notebook
