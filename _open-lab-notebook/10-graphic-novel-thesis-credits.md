@@ -201,13 +201,6 @@ playing soccer, or sipping a cup of delicious tea.
 
 Website: [https://www.melissajedrysiak.com/](https://www.melissajedrysiak.com/)
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/SaraVukson.png" alt="Sara Vukson" caption="Sara 
-Vukson: Scientific Diagram 1 Illustrator and Colourist" %}
-Sara is a biomedical illustrator and animator based out of Toronto. Illuminating the beauty in the world of science, as 
-well as making the complex interesting rather than intimidating has been a fascination.
-
-Website: [http://www.saravukson.com/](http://www.saravukson.com/)
-
 ## Kickstarter Backers
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/online_supporters_list-01.jpg" alt="Kickstarter Backers list" caption="Thank you to all of the lovely humans who supported The First VIRS on Kickstarter!" %}
