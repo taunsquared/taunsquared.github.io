@@ -18,7 +18,7 @@ tags:
 [First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/17){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn}
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p16_web-01.jpg" 
-alt="Chapter 1, page 16" caption="Art and Lettering by Danbee Kim." %}
+alt="Chapter 1, page 16" caption="" %}
 
 ### Learn More
 
