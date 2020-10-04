@@ -15,7 +15,7 @@ tags:
 ---
 ## Page 5
 
-[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/06){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/08){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/17){: .btn}
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/06){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/08){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn}
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p05_web-01.jpg" 
 alt="Chapter 1, page 5" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}

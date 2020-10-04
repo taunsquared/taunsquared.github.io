@@ -1,6 +1,6 @@
 ---
 title: "*The First VIRS*: Chapter 01 teaser, with annotated companion script"
-permalink: /VIRS/ch01-teaser/09
+permalink: /VIRS/ch01-teaser/18
 excerpt: 
 categories:
   - open-lab-notebook
@@ -13,12 +13,12 @@ tags:
   - science communication
   - public engagement
 ---
-## Page 7
+## Chapter 2, title page
 
-[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/08){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/10){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn}
+[First page](http://www.danbeekim.org/VIRS/ch01-teaser/01){: .btn} [Prev page](http://www.danbeekim.org/VIRS/ch01-teaser/18){: .btn} [Next page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn} [Last page](http://www.danbeekim.org/VIRS/ch01-teaser/19){: .btn}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p07_web-01.jpg" 
-alt="Chapter 1, page 7" caption="Art by Matteo Farinella, Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch2_p00_web-01.jpg" 
+alt="Chapter 2 title page" caption="Art by Miguel Soler Montellano, Lettering by Danbee Kim" %}
 
 ### Learn More
 
