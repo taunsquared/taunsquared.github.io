@@ -42,8 +42,8 @@ title page" caption="Chapter 1 title page, 'The First VIRS'. Art by Xiao Xiao, L
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p01_teaser-01.jpg" alt="Chapter 1, 
 Page 1" caption="Chapter 1, Page 1, 'The First VIRS'. Art by Matteo Farinella, Lettering by Danbee Kim." %}
 
-{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p13_teaser-01.jpg" alt="Chapter 1, 
-Page 13" caption="Chapter 1, Page 13, 'The First VIRS'. Art and Lettering by Danbee Kim." %}
+{% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p14_teaser-01.jpg" alt="Chapter 1, 
+Page 13" caption="Chapter 1, Page 14, 'The First VIRS'. Art and Lettering by Danbee Kim." %}
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch2_p00_teaser-01.jpg" alt="Chapter 2 title page" caption="Chapter 2 title page, 'The First VIRS'. Art by Miguel Soler Montellano, Lettering by Danbee Kim." %}
 
