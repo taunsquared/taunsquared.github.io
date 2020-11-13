@@ -18,7 +18,7 @@ I believe art has an important role in organising and building knowledge, as a t
 
 If you would like to get in touch, please tweet @taunbot or email me at danbee at danbeekim dot org.
 
-[Curriculum Vitae](/assets/files/DanbeeKim_cv_20181201.pdf)
+[Curriculum Vitae](/assets/files/DanbeeKim_WebsiteCV_20201113.pdf)
 
 <figure style="width: 320px" class="align-center">
   <img src="/assets/images/certifications/20190521_NOLS_Certification-01.gif" alt="Wilderness First Responder Certification from NOLS Wilderness Medicine">
