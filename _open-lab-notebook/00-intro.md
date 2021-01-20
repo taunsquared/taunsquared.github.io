@@ -54,7 +54,7 @@ The Intelligent Systems Lab studied how nervous systems "in the wild" (as oppose
 
 ## Writings
 
-[``Neuroscience Does Design: What the Brain's Architecture Can Teach Architects''](https://sci-hub.do/https://onlinelibrary.wiley.com/doi/abs/10.1002/ad.2637){:target="_blank"}. Co-written wyth Adam R. Kampff. Published by *Architectural Design*, 2020. DOI: 10.1002/ad.2637.
+[``Neuroscience Does Design: What the Brain's Architecture Can Teach Architects''](https://sci-hub.do/https://onlinelibrary.wiley.com/doi/abs/10.1002/ad.2637){:target="_blank"}. Co-written with Adam R. Kampff. Published by *Architectural Design*, 2020. DOI: 10.1002/ad.2637.
 
 ["Why I refuse to do animal testing in my science career"](https://massivesci.com/articles/frankenstein-kim-animal-testing/){:target="_blank"} Published by [MassiveSci.com](https://massivesci.com/){:target="_blank"}, 2018, for the 200th anniversary of Mary Shelley's first publication of Frankenstein. 
 
