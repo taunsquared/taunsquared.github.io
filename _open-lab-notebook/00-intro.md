@@ -36,17 +36,17 @@ gallery:
 ---
 {% include toc title="Open Lab Notebook" %}
 
-This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title *'On the aims and methods of Field Neuroscience: non-invasive techniques for studying nervous systems in natural settings'*.
+Welcome to my Open Lab Notebook! This space holds all of the ideas and thought processes that went into my doctoral research with the [Intelligent Systems Lab](https://www.kampff-lab.org/), led by Dr. Adam R. Kampff. You can [**read the full-text of my doctoral thesis here**](https://www.dropbox.com/s/iqyfmj1rmcn083z/DanbeeKim_INDP2013_PhDThesis.pdf?dl=0). 
 
-In my research group, we study how nervous systems "in the wild" (as opposed to in the laboratory) are robust and flexible enough to deal with unexpected situations. Within this area, I study how we imagine and train for the unexpected. My goals are: 
+The Intelligent Systems Lab studied how nervous systems "in the wild" (as opposed to in the laboratory) are robust and flexible enough to deal with unexpected situations. Within this context, I developed a framework for precisely observing nervous systems in increasingly natural environments and contexts. I worked with the following goals in mind: 
 
 * to connect how we study the brain to the subjective experience of living with one;
 
 * to explore frameworks and narratives for nervous system function beyond the stimulus-response-machine metaphor and open-loop causal model of behavioural organization; 
 
-* to develop theories and methodologies for field neuroscience, which could complement laboratory neuroscience by a) checking the ethological validity of behaviour studies and of humane research techniques, and b) increasing the diversity and quantity of neural systems accessible to empirical neuroscientific study;
+* to complement and support laboratory neuroscience by a) checking the ethological validity of behaviour studies and of humane research techniques, and b) increasing the diversity and quantity of neural systems accessible to empirical neuroscientific study;
 
-* to contribute comparative research studying a wide variety of nervous systems, especially in non-rodent and non-mammal species, in order to better guide generalizations and translations of empirical results beyond the specific individuals or populations that participate in any one experiment;
+* to contribute comparative research studying nervous systems in non-rodent and non-human species, in order to better guide generalizations and translations of empirical results beyond the specific individuals or populations that participate in any one experiment;
 
 * to nurture a culture of collaboration, trust, and rigorous imagination in research; and
 
@@ -54,59 +54,73 @@ In my research group, we study how nervous systems "in the wild" (as opposed to 
 
 ## Writings
 
-["Does modern neuroscience really help us understand behavior?"](https://massivesci.com/articles/neuroscience-behavior-vs-technology/){:target="_blank"} Co-written with [Gonçalo Lopes](http://neurogears.org/about-us/){:target="_blank"}. Published by [MassiveSci.com](https://massivesci.com/){:target="_blank"}.
+[``Neuroscience Does Design: What the Brain's Architecture Can Teach Architects''](https://sci-hub.do/https://onlinelibrary.wiley.com/doi/abs/10.1002/ad.2637){:target="_blank"}. Co-written wyth Adam R. Kampff. Published by *Architectural Design*, 2020. DOI: 10.1002/ad.2637.
 
-["How theater, startup culture, and business history helped us become better neuroscientists"](https://massivesci.com/articles/neuroscience-can-learn-from-theater/){:target="_blank"} Co-written with [Gonçalo Lopes](http://neurogears.org/about-us/){:target="_blank"}. Published by [MassiveSci.com](https://massivesci.com/){:target="_blank"}.
+["Why I refuse to do animal testing in my science career"](https://massivesci.com/articles/frankenstein-kim-animal-testing/){:target="_blank"} Published by [MassiveSci.com](https://massivesci.com/){:target="_blank"}, 2018, for the 200th anniversary of Mary Shelley's first publication of Frankenstein. 
 
 ["HIVE Tracker: a tiny, low-cost, and scalable device for sub-millimetric 3D positioning"](https://www.researchgate.net/publication/322842913_HIVE_Tracker_a_tiny_low-cost_and_scalable_device_for_sub-millimetric_3D_positioning){:target="_blank"} Co-written with [Darío R. Quiñones Colomer](https://www.researchgate.net/profile/Dario_R_Colomer){:target="_blank"}, [Gonçalo Lopes](http://neurogears.org/about-us/){:target="_blank"}, and [Cedric Honnet](http://honnet.eu){:target="_blank"}. Published by [Augmented Human 2018](http://www.sigah.org/AH2018/){:target="_blank"}. DOI: 10.1145/3174910.3174935. 
 
-["Why I refuse to do animal testing in my science career"](https://massivesci.com/articles/frankenstein-kim-animal-testing/){:target="_blank"} Published by [MassiveSci.com](https://massivesci.com/){:target="_blank"} on the occassion of the 200th anniversary of Mary Shelley's first publication of Frankenstein. 
+["How theater, startup culture, and business history helped us become better neuroscientists"](https://massivesci.com/articles/neuroscience-can-learn-from-theater/){:target="_blank"}. Co-written with [Gonçalo Lopes](http://neurogears.org/about-us/){:target="_blank"}. Published by [MassiveSci.com](https://massivesci.com/){:target="_blank"}, 2017.
+
+["Does modern neuroscience really help us understand behavior?"](https://massivesci.com/articles/neuroscience-behavior-vs-technology/){:target="_blank"} Co-written with [Gonçalo Lopes](http://neurogears.org/about-us/){:target="_blank"}. Published by [MassiveSci.com](https://massivesci.com/){:target="_blank"}, 2017.
 
 ## Teaching
 
-Teacher for the [Appalachian Institute for Creative Learning](https://www.appalachianinstitute.org/){:target="_blank"}: since January 2010. 
+Teacher for **Neuronautas**, a field neuroscience summer camp for Portuguese youth. Funded by the [Academias Gulbenkian do Conhecimento](https://gulbenkian.pt/academias/projects/fundacao-champalimaud/){:target="_blank"}, 2019 - 2022. 
 
-Co-organizer for [**Bridging Neuroscience and Embodiment: The Many Bodies of Embodied Cognition**](https://sites.google.com/a/neuro.fchampalimaud.org/embodied-cognition/course-information){:target="_blank"}. Champalimaud Neuroscience Program, Fall 2013 Advanced Course: October 28 - November 1, 2013.
+Teacher for the [Appalachian Institute for Creative Learning](https://www.appalachianinstitute.org/){:target="_blank"}: since January 2010. 
 
 Teaching Assistant for **Intro to Techniques in Neuroscience**. Champalimaud Neuroscience Program, January 2014.
 
-Teacher for **Neuronautas**, a field neuroscience summer camp for Portuguese youth. Funded by the [Academias Gulbenkian do Conhecimento](https://gulbenkian.pt/academias/projects/fundacao-champalimaud/){:target="_blank"}, 2019 - 2021. 
+Co-organizer for [**Bridging Neuroscience and Embodiment: The Many Bodies of Embodied Cognition**](https://sites.google.com/a/neuro.fchampalimaud.org/embodied-cognition/course-information){:target="_blank"}. Champalimaud Neuroscience Program, Fall 2013 Advanced Course: October 28 - November 1, 2013.
 
 {% include video provider="youtube" id="FRCwWx-dlZE" %}
 
 ## Presentations
 
-**"What can we learn about brains by studying the movements of bodies?"** Presented at the opening plenary session of the 2<sup>o</sup> Congresso Nacional de Psicomotricidade in Vila Real, Portugal.  
-{% include video provider="youtube" id="TVzpkTZ-QwM" %}
+**[On the aims and methods of Field Neuroscience: Non-invasive techniques for studying nervous systems in natural settings](https://docs.google.com/presentation/d/184_spLhAzEuFW3G79weE-o3lOA5RenSzLY8ELlIL7bU/edit?usp=sharing)**. Doctoral defense presented on December 17, 2020. 
+{% include figure image_path="/assets/images/openLabNotebook/OnTheAimsAndMethodsOfFieldNeuroscience.jpg" alt="Doctoral defense presented on December 17, 2020." caption="On the aims and methods of Field Neuroscience: Non-invasive techniques for studying nervous systems in natural settings. This is the presentation I gave for my doctoral defense; speaker notes contain my verbal script." %}
+
+
+**[On the aims and methods of Field Neuroscience: increasing the diversity and quantity of subjects in behavioural neuroscience studies](https://docs.google.com/presentation/d/1bYJvFJFWCveU8X5bpfP1R_6Mn8DSBRbBx2ymkheZh1M/edit?usp=sharing){:target="_blank"}** Progress report presented to my thesis committee members and INDP program director on June 11, 2019. 
+{% include figure image_path="/assets/images/openLabNotebook/20190611_ThesisCommitteeMeeting.png" alt="Progress report presented to my thesis committee members and INDP program director on June 11, 2019." caption="On the aims and methods of Field Neuroscience: increasing the diversity and quantity of subjects in behavioural neuroscience studies. This presentation presents the current status of neuroscience projects that will be included in my final thesis write-up." %}
+
+
+**[What is Behaviour?](https://slides.com/neuronautas/what-is-behaviour#/){:target="_blank"}** Presented at Session 2 of Neuronautas, a neuroscience enrichment program for Portuguese high-schoolers, funded by [Academias Gulbenkian Conhecimento](https://gulbenkian.pt/academias/){:target="_blank"}. 
+{% include figure image_path="/assets/images/openLabNotebook/Neuronautas_WhatIsBehaviour.png" alt="What is Behaviour? (Neuronautas)" caption="Why do we care about behaviour? What is 'behaviour'? How do we test behaviour? This is a loaded word for neuroscience!" %}
+
+
+**[An Introduction to Field Neuroscience](https://docs.google.com/presentation/d/1p3aZfunS6h001AriSXR9vI0jY7ydyPd0RJ0-2cQbTkc/edit?usp=sharing){:target="_blank"}** Presented at Session 1 of Neuronautas, a neuroscience enrichment program for Portuguese high-schoolers, funded by the [Academias Gulbenkian Conhecimento](https://gulbenkian.pt/academias/){:target="_blank"}. 
+{% include figure image_path="/assets/images/openLabNotebook/Neuronautas_AnIntroductionToFieldNeuroscience.png" alt="An Introduction to Field Neuroscience (Neuronautas)" caption="What is modern neuroscience? What are some of the core philosophical and methodological challenges with which modern neuroscientists must grapple? How can Field Neuroscience help us face those challenges?" %}
+
+
+**[Goals of Neuroscience as a Field](https://docs.google.com/presentation/d/1ESsGggZTps0zyadZxpp0RifYJJqi6ZWkWVMdY_46a6g/edit?usp=sharing){:target="_blank"}** Co-presented with Joana Soldado Magraner and Francesca Greenstreet at the SWC AlternaTea Hour on Oct 26, 2018. 
+{% include figure image_path="/assets/images/openLabNotebook/SWC-Alternatea_GoalsOfNeurosciencAsAField.png" alt="Goals of Neuroscience as a Field, a discussion with the SWC community" caption="At the SWC AlternaTea Hour event on Oct 26, 2018, the SWC community discussed the utility of shared goals as a field, and came up with some questions that we would like to see our field make a unified effort to answer. Joana Soldado Magraner, Francesca Greenstreet, and I contextualized our discussion with the presentation linked above; see the final slide for the questions we came up with that evening!" %}
+
+
+**[Mind Full of Music: The Neuroscience of Music "In The Wild"](https://docs.google.com/presentation/d/1ir7PZBjY3UbBlFqshWBTpID5BYuOaaRuvDsoJzOwMF0/edit?usp=sharing){:target="_blank"}** Presented at [Orchestrating the Brain](http://blogs.ucl.ac.uk/sainsbury-wellcome-centre/2018/06/11/orchestrating-the-brain/){:target="_blank"}, a 2018 FitzFest event hosted by the Sainsbury Wellcome Centre and created in collaboration with April Cashin-Garbutt, SWC Communications Manager, and Dan Bates, Artistic Director of FitzFest. 
+{% include figure image_path="/assets/images/openLabNotebook/MindFullOfMusic_FitzFest2018.jpg" alt="Danbee talks about the Neuroscience of Music 'in the wild'" caption="What is music? When do you listen to music? Why do you listen to music? For me, music is a language; music is coordination; music is participation; and music is personal. Photo credit: April Cashin-Garbutt." %}
+
+
+**["How Cuttlefish Play With Light"](https://docs.google.com/presentation/d/1svSPEyjrzCBNwcwkxoUdiA1Lu476pIDYtxHAgCbnLoE/edit?usp=sharing){:target="_blank"}** Presented at the UCL International Day of Light celebration on May 15, 2018. 
+{% include figure image_path="/assets/images/openLabNotebook/HowCuttlefishPlayWithLight_InternationalDayOfLight2018.png" alt="Danbee talks about cuttlefish at UCL's 2018 International Day of Light celebration." caption="I talked about how cuttlefish see and actively camouflage themselves in their marine home environment." %}
+
+
+**["Validating Neuroscience Experimental Paradigms Across Species"](http://bit.ly/2EjwHS0){:target="_blank"}** Presented at a seminar at the N Center of Sungkyunkwan University on February 12, 2018. 
+{% include figure image_path="/assets/images/openLabNotebook/20180212_Seminar-NCenter-SKKU.jpeg" alt="Danbee gives a seminar at the N Center of Sungkyunkwan University" caption="Image credit to Jinwon Kim" %}
+
+
+**["The Power to explore, test, and realize your scientific fantasies"](https://docs.google.com/presentation/d/1DFBbxP-ZavQUYMEbmpesrK9iEtjAFlNhhzzt3jA7duA/edit?usp=sharing){:target="_blank"}** Presented at the 2017 Champalimaud Centre for the Unknown Student Retreat in Mafra, Portugal.  
+{% include figure image_path="/assets/images/openLabNotebook/CCUStudentRetreat2017_Danbee-Goncalo-talk.jpg" alt="Danbee speaks at the CCU 2017 Student Retreat" caption="Image credit to Gonçalo Guiomar" %}
 
 
 **"The Cuttle Shuttle: Behavior and Learning in Predatory Sepia officinalis (Cephalopoda)"** Presented at the 2017 CephsInAction & CIAC meeting "Cephalopod Science from Biology to Welfare", Heraklion, Crete.  
 {% include video provider="youtube" id="CHrMDdK78Sk" %}
 
 
-**["The Power to explore, test, and realize your scientific fantasies"](https://docs.google.com/presentation/d/1DFBbxP-ZavQUYMEbmpesrK9iEtjAFlNhhzzt3jA7duA/edit?usp=sharing){:target="_blank"}** Presented at the 2017 Champalimaud Centre for the Unknown Student Retreat in Mafra, Portugal.  
-{% include figure image_path="/assets/images/openLabNotebook/CCUStudentRetreat2017_Danbee-Goncalo-talk.jpg" alt="Danbee speaks at the CCU 2017 Student Retreat" caption="Image credit to Gonçalo Guiomar" %}
+**"What can we learn about brains by studying the movements of bodies?"** Presented at the opening plenary session of the 2<sup>o</sup> Congresso Nacional de Psicomotricidade in Vila Real, Portugal, 2016. 
+{% include video provider="youtube" id="TVzpkTZ-QwM" %}
 
-**["Validating Neuroscience Experimental Paradigms Across Species"](http://bit.ly/2EjwHS0){:target="_blank"}** Presented at a seminar at the N Center of Sungkyunkwan University on February 12, 2018. 
-{% include figure image_path="/assets/images/openLabNotebook/20180212_Seminar-NCenter-SKKU.jpeg" alt="Danbee gives a seminar at the N Center of Sungkyunkwan University" caption="Image credit to Jinwon Kim" %}
-
-**["How Cuttlefish Play With Light"](https://docs.google.com/presentation/d/1svSPEyjrzCBNwcwkxoUdiA1Lu476pIDYtxHAgCbnLoE/edit?usp=sharing){:target="_blank"}** Presented at the UCL International Day of Light celebration on May 15, 2018. 
-{% include figure image_path="/assets/images/openLabNotebook/HowCuttlefishPlayWithLight_InternationalDayOfLight2018.png" alt="Danbee talks about cuttlefish at UCL's 2018 International Day of Light celebration." caption="I talked about how cuttlefish see and actively camouflage themselves in their marine home environment." %}
-
-**[Mind Full of Music: The Neuroscience of Music "In The Wild"](https://docs.google.com/presentation/d/1ir7PZBjY3UbBlFqshWBTpID5BYuOaaRuvDsoJzOwMF0/edit?usp=sharing){:target="_blank"}** Presented at [Orchestrating the Brain](http://blogs.ucl.ac.uk/sainsbury-wellcome-centre/2018/06/11/orchestrating-the-brain/){:target="_blank"}, a 2018 FitzFest event hosted by the Sainsbury Wellcome Centre and created in collaboration with April Cashin-Garbutt, SWC Communications Manager, and Dan Bates, Artistic Director of FitzFest. 
-{% include figure image_path="/assets/images/openLabNotebook/MindFullOfMusic_FitzFest2018.jpg" alt="Danbee talks about the Neuroscience of Music 'in the wild'" caption="What is music? When do you listen to music? Why do you listen to music? For me, music is a language; music is coordination; music is participation; and music is personal. Photo credit: April Cashin-Garbutt." %}
-
-**[Goals of Neuroscience as a Field](https://docs.google.com/presentation/d/1ESsGggZTps0zyadZxpp0RifYJJqi6ZWkWVMdY_46a6g/edit?usp=sharing){:target="_blank"}** Co-presented with Joana Soldado Magraner and Francesca Greenstreet at the SWC AlternaTea Hour on Oct 26, 2018. 
-{% include figure image_path="/assets/images/openLabNotebook/SWC-Alternatea_GoalsOfNeurosciencAsAField.png" alt="Goals of Neuroscience as a Field, a discussion with the SWC community" caption="At the SWC AlternaTea Hour event on Oct 26, 2018, the SWC community discussed the utility of shared goals as a field, and came up with some questions that we would like to see our field make a unified effort to answer. Joana Soldado Magraner, Francesca Greenstreet, and I contextualized our discussion with the presentation linked above; see the final slide for the questions we came up with that evening!" %}
-
-**[An Introduction to Field Neuroscience](https://docs.google.com/presentation/d/1p3aZfunS6h001AriSXR9vI0jY7ydyPd0RJ0-2cQbTkc/edit?usp=sharing){:target="_blank"}** Presented at Session 1 of Neuronautas, a neuroscience enrichment program for Portuguese high-schoolers, funded by the [Academias Gulbenkian Conhecimento](https://gulbenkian.pt/academias/){:target="_blank"}. 
-{% include figure image_path="/assets/images/openLabNotebook/Neuronautas_AnIntroductionToFieldNeuroscience.png" alt="An Introduction to Field Neuroscience (Neuronautas)" caption="What is modern neuroscience? What are some of the core philosophical and methodological challenges with which modern neuroscientists must grapple? How can Field Neuroscience help us face those challenges?" %}
-
-**[What is Behaviour?](https://slides.com/neuronautas/what-is-behaviour#/){:target="_blank"}** Presented at Session 2 of Neuronautas, a neuroscience enrichment program for Portuguese high-schoolers, funded by [Academias Gulbenkian Conhecimento](https://gulbenkian.pt/academias/){:target="_blank"}. 
-{% include figure image_path="/assets/images/openLabNotebook/Neuronautas_WhatIsBehaviour.png" alt="What is Behaviour? (Neuronautas)" caption="Why do we care about behaviour? What is 'behaviour'? How do we test behaviour? This is a loaded word for neuroscience!" %}
-
-**[On the aims and methods of Field Neuroscience: increasing the diversity and quantity of subjects in behavioural neuroscience studies](https://docs.google.com/presentation/d/1bYJvFJFWCveU8X5bpfP1R_6Mn8DSBRbBx2ymkheZh1M/edit?usp=sharing){:target="_blank"}** Progress report presented to my thesis committee members and INDP program director on June 11, 2019. 
-{% include figure image_path="/assets/images/openLabNotebook/20190611_ThesisCommitteeMeeting.png" alt="Progress report presented to my thesis committee members and INDP program director on June 11, 2019." caption="On the aims and methods of Field Neuroscience: increasing the diversity and quantity of subjects in behavioural neuroscience studies. This presentation presents the current status of neuroscience projects that will be included in my final thesis write-up." %}
 
 ## Videos
 
