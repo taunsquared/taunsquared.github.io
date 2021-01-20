@@ -1,6 +1,6 @@
 ---
 title: "*The First VIRS*: A graphic novel thesis"
-permalink: /VIRS
+permalink: /virs
 excerpt: 
 categories:
   - open-lab-notebook
@@ -80,7 +80,7 @@ For instance, [the Golden Age of Science Fiction](https://en.wikipedia.org/wiki/
 
 ### The neuroscience of speculation and "just dealing with it"
 
-How brains face the unknown and the unexpected has been the core motivation behind my PhD research and the research vision of my advisor, Dr. Adam Kampff. For the last 7 years, I've had the privilege of working with him and the amazing humans of the [Intelligent Systems Lab](https://www.kampff-lab.org/){:target="_blank"}. Together we have developed a diverse range of tools and strategies to study how brains build expectations about how things "should" work (often called our "model of the world"), and how brains adapt when new information or experiences break our expectations. 
+How brains face the unknown and the unexpected has been the core motivation behind my PhD research and the research vision of my advisor, Dr. Adam Kampff. For the last 7 years, I've had the privilege of working with him and the amazing people of the [Intelligent Systems Lab](https://www.kampff-lab.org/){:target="_blank"}. Together we have developed a diverse range of tools and strategies to study how brains build expectations about how things "should" work (often called our "model of the world"), and how brains adapt when new information or experiences break our expectations. 
 
 ### Bringing neuroscience "into the wild"
 
