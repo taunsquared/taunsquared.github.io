@@ -123,11 +123,8 @@ Co-organizer for [**Bridging Neuroscience and Embodiment: The Many Bodies of Emb
 
 ## Videos
 
-In this video, I draw and narrate an explanation of the research goals and interests of the Intelligent Systems lab using only the top "ten-hundred" words in English. 
-{% include video provider="youtube" id="aDSavyoXqhk" %}
-
-I was asked to describe on-camera the research we do at the Sainsbury Wellcome Centre for Neural Circuits and Behaviour in this short video introduction. Filmed and edited by [Barry J Gibb](barryjamesgibb.com){:target="_blank"}.    
-{% include video provider="youtube" id="Hw2PpkREBVE" %}
+I was interviewed after co-hosting and speaking at [Orchestrating the Brain](https://www.sainsburywellcome.org/web/public-engagement/orchestrating-brain){:target="_blank"}, a 2018 FitzFest event hosted by the Sainsbury Wellcome Centre and created in collaboration with April Cashin-Garbutt, SWC Communications Manager, and Dan Bates, Artistic Director of FitzFest. Produced by Jake Fairnie and April Cashin-Garbutt. 
+{% include video provider="youtube" id="njGtLvk8Ess"%}
 
 I was interviewed for a series of short video documentaries about neuroscientists at the Sainsbury Wellcome Centre, Francis Crick Institute, and King's College. Produced by Jake Fairnie, Edward Bracey, and April Cashin-Garbutt.
 {% include video provider="youtube" id="FZNUaEq_vxs" %}
@@ -136,24 +133,27 @@ I was interviewed for a series of short video documentaries about neuroscientist
 {% include video provider="youtube" id="kmrpB39reOM" %}
 {% include video provider="youtube" id="tdT4T0VaKBc" %}
 
-I was interviewed after co-hosting and speaking at [Orchestrating the Brain](https://www.sainsburywellcome.org/web/public-engagement/orchestrating-brain){:target="_blank"}, a 2018 FitzFest event hosted by the Sainsbury Wellcome Centre and created in collaboration with April Cashin-Garbutt, SWC Communications Manager, and Dan Bates, Artistic Director of FitzFest. Produced by Jake Fairnie and April Cashin-Garbutt. 
-{% include video provider="youtube" id="njGtLvk8Ess"%}
+I was asked to describe on-camera the research we do at the Sainsbury Wellcome Centre for Neural Circuits and Behaviour in this short video introduction. Filmed and edited by [Barry J Gibb](barryjamesgibb.com){:target="_blank"}.    
+{% include video provider="youtube" id="Hw2PpkREBVE" %}
 
-On 24 May, 2019, I hosted a [Dear Neuroscience event focused on Touch and Proprioception](http://www.everymind.online/DearNeuroscience/){:target="_blank"}, working with local performers, crafters, and clinicians to connect neuroscience research to our daily lives. The event was funded by a [UCL Train and Engage Fellowship](https://www.ucl.ac.uk/culture/projects/train-and-engage){:target="_blank"}, and this mini-video documentary was filmed and produced by Jake Fairnie. 
-{% include video provider="youtube" id="z4WGR1wmAlk" %}
+In this video, I draw and narrate an explanation of the research goals and interests of the Intelligent Systems lab using only the top "ten-hundred" words in English. 
+{% include video provider="youtube" id="aDSavyoXqhk" %}
 
 ## Live Performances
 
-**[Building Bridges project](https://group.sciencemuseum.org.uk/our-work/learning/projects-and-partnerships/building-bridges/){:target="_blank"}**: A science outreach project at the London Science Museum where I spoke to groups of visiting primary school children about my research. Spring 2017. 
-{% include figure image_path="/assets/images/openLabNotebook/20170418_BuildingBridgesLondonScienceMuseum_BackyardBrains.jpg" alt="A Backyard Brains pocket electrophysiology box" caption="In the spring of 2017, I spoke to primary school children about my research, with the help of this pocket electrophysiology box (by [Backyard Brains](https://backyardbrains.com))" %}
+On 24 May, 2019, I hosted a **[Dear Neuroscience event focused on Touch and Proprioception](http://www.everymind.online/DearNeuroscience/){:target="_blank"}**, working with local performers, crafters, and clinicians to connect neuroscience research to our daily lives. The event was funded by a [UCL Train and Engage Fellowship](https://www.ucl.ac.uk/culture/projects/train-and-engage){:target="_blank"}, and this mini-video documentary was filmed and produced by Jake Fairnie. 
+{% include video provider="youtube" id="z4WGR1wmAlk" %}
+
+**[Soapbox Science, London 2018](http://soapboxscience.org/soapbox-science-2018-london/){:target="_blank"}**: Another event at which I did some "science busking", this time along the South Bank of the Thames! 
+{% include figure image_path="/assets/images/openLabNotebook/CuttlefishDance_SoapboxScience2018.jpg" alt="Everyone dance along to the cuttlefish dance!" caption="I talked about cuttlefish and how they relate to my PhD research on a lovely Saturday afternoon, while standing on a soapbox along the South Bank of the Thames!  We got into the nitty gritty of cuttlefish hunting behaviour with the help of laser-cut plastic models (made with assistance from Lory Calcaterra, and seen in the photo above held in the hands of my lovely volunteer assistants) and an original song and dance (which is being performed in the above photo by my lovely audience)! Photo credit: Chanuki Seresinhe" %}
+
+**[Wellcome Collection Friday Late Spectacular: Your Reality is Broken](https://wellcomecollection.org/events/friday-late-spectacular-your-reality-broken){:target="_blank"}**: A "science busking" gig on Friday, 01 December 2017, where I spoke to the general public about my research while wandering the Wellcome Trust Collection. 
 
 **["Pilot Data, an Aronauts EP"](http://www.danbeekim.org/brainplay/2017-09-14-Pilot-Data-Aronauts-EP/){:target="_blank"}**: An original set of science songs performed at the 2017 Live Music Symposium at the Francis Crick Institute.
 {% include video provider="youtube" id="0dSHJEOLxBY" %}
 
-**[Wellcome Collection Friday Late Spectacular: Your Reality is Broken](https://wellcomecollection.org/events/friday-late-spectacular-your-reality-broken){:target="_blank"}**: A "science busking" gig on Friday, 01 December 2017, where I spoke to the general public about my research while wandering the Wellcome Trust Collection. 
-
-**[Soapbox Science, London 2018](http://soapboxscience.org/soapbox-science-2018-london/){:target="_blank"}**: Another event at which I did some "science busking", this time along the South Bank of the Thames! 
-{% include figure image_path="/assets/images/openLabNotebook/CuttlefishDance_SoapboxScience2018.jpg" alt="Everyone dance along to the cuttlefish dance!" caption="I talked about cuttlefish and how they relate to my PhD research on a lovely Saturday afternoon, while standing on a soapbox along the South Bank of the Thames!  We got into the nitty gritty of cuttlefish hunting behaviour with the help of laser-cut plastic models (made with assistance from Lory Calcaterra, and seen in the photo above held in the hands of my lovely volunteer assistants) and an original song and dance (which is being performed in the above photo by my lovely audience)! Photo credit: Chanuki Seresinhe" %}
+**[Building Bridges project](https://group.sciencemuseum.org.uk/our-work/learning/projects-and-partnerships/building-bridges/){:target="_blank"}**: A science outreach project at the London Science Museum where I spoke to groups of visiting primary school children about my research. Spring 2017. 
+{% include figure image_path="/assets/images/openLabNotebook/20170418_BuildingBridgesLondonScienceMuseum_BackyardBrains.jpg" alt="A Backyard Brains pocket electrophysiology box" caption="In the spring of 2017, I spoke to primary school children about my research, with the help of this pocket electrophysiology box (by [Backyard Brains](https://backyardbrains.com))" %}
 
 ## Projects
 
