@@ -5,23 +5,4 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/headshot_2017Greece_bright.jpg
 excerpt: '<p style="text-align: right;">Hi! <br />This is my corner of the internet. <br /> It is constantly under revision ^.^ <br /> <br /> If you would like to get in touch, <br />please email danbee at danbeekim dot org.<br /> <br /> <br />Some of my favorite things: <br /><a href="http://bluescholars.com" style="color:#4f00bd">Blue Scholars</a><br /><a href="http://scubaphone.org" style="color:#4f00bd">Scubaphone</a><br /><a href="https://youtu.be/L-cxg8mF_Lw" style="color:#4f00bd">Cuttlefish</a><br /><a href="https://youtu.be/P8-Bv7E3pcE" style="color:#4f00bd">Star Wars Parkour</a><br /><a href="http://memory-alpha.wikia.com/wiki/Data" style="color:#4f00bd">Lt. Cmdr. Data</a><br /><a href="https://www.flying-frenchies.com/en/movies" style="color:#4f00bd">Flying</a><br /><br /><br />Thanks for visiting!<br /></p>'
-feature_row:
-  - image_path: /assets/images/openLabNotebook/Cuttles.png
-    alt: "PhD thesis"
-    title: "Comparative, Citizen Neuroscience"
-    excerpt: "How can we get more brains involved in the study of brains?"
-    url: "/open-lab-notebook/"
-    btn_label: "Learn More"
-  - image_path: /assets/images/openLabNotebook/20170404_142656.jpg
-    alt: "every mind online"
-    title: "Everymind.online"
-    excerpt: "An online database for the study of surprise in humans, as part of an exhibit about the comparative study of intelligence at the Brighton Sea Life Center, July-August 2017"
-    url: "http://www.everymind.online"
-    btn_label: "Visit Everymind.online"
-  - image_path: /assets/images/catGallery/Minima-Ramiro_effect_web.png
-    alt: "cats!"
-    title: "Shameless Cat Gallery"
-    excerpt: "We all have our familiars. Here are pictures of some of mine. "
-    url: "/galleries/cats/"
-    btn_label: "Go to Cat Gallery"
 ---

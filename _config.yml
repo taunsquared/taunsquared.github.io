@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "TaunVIRS"
+title                    : "Danbee 'Tauntaun' Kim, PhD"
 title_separator          : "-"
 name                     : "Danbee Kim"
-description              : "Hi! This is my corner of the internet. It is constantly under revision ^.^"
+description              : "Hi! Welcome to the TaunVIRS. It is constantly under revision ^.^"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
