@@ -69,7 +69,7 @@ The Intelligent Systems Lab studied how nervous systems "in the wild" (as oppose
 Teacher for **Neuronautas**, a field neuroscience summer camp for Portuguese youth. Funded by the [Academias Gulbenkian do Conhecimento](https://gulbenkian.pt/academias/projects/fundacao-champalimaud/){:target="_blank"}, 2019 - 2022. 
 {% include video provider="youtube" id="FRCwWx-dlZE" %}
 
-Teacher for the [Appalachian Institute for Creative Learning](https://www.appalachianinstitute.org/){:target="_blank"}: since January 2010. 
+Teacher for the [**Appalachian Institute for Creative Learning**](https://www.appalachianinstitute.org/){:target="_blank"}: since January 2010. 
 
 Teaching Assistant for **Intro to Techniques in Neuroscience**. Champalimaud Neuroscience Program, January 2014.
 
