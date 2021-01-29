@@ -28,7 +28,11 @@ Hi everyone! My name is Danbee Kim, and I’m a teacher and neuroscientist colla
 
 I started this collaboration because I want to tell stories that **make science and technology topics more accessible to EVERYONE, from young people (and any other science-curious, comic-loving human!) to experts in other specialities.** I hope stories like mine can start conversations about what we define as "scientific activity", and how to build humane support structures to nurture such activity. 
 
-# Update: Our crowdfunding campaign was a success!!
+# Interested in buying a printed copy of *The First VIRS*?
+
+Please fill out this [interest form](https://forms.gle/u7oy5LYHa4sBzS2s8){:target="_blank"}!
+
+# Powered by the People
 
 With the help of 155 backers, [**we raised $11,125 through our crowdfunding campaign!!**](https://www.kickstarter.com/projects/taunsquared/a-sci-fi-graphic-novel-based-on-real-neuroscience){:target="_blank"} THANK YOU to everyone who supported this project and made it possible to pay our artists IN FULL!!
 
