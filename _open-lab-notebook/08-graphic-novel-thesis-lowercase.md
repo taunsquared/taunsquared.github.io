@@ -32,7 +32,7 @@ I started this collaboration because I want to tell stories that **make science 
 
 ### Digital PDF
 
-Please [use this link](paypal.me/DanbeeKim) to "pay what you want" for a digital pdf of *The First VIRS*. Suggested donation is $2, and please write "Digital copy of The First VIRS for [your email here]" in the "Add a note" section. 
+Please [use this link](paypal.me/DanbeeKim) to "pay what you want" for a digital pdf of *The First VIRS*! Suggested donation is $2, and please write "Digital copy of The First VIRS for [your email here]" in the "Add a note" section. 
 
 ### Printed book
 
