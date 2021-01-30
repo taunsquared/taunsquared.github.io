@@ -28,7 +28,13 @@ Hi everyone! My name is Danbee Kim, and I’m a teacher and neuroscientist colla
 
 I started this collaboration because I want to tell stories that **make science and technology topics more accessible to EVERYONE, from young people (and any other science-curious, comic-loving human!) to experts in other specialities.** I hope stories like mine can start conversations about what we define as "scientific activity", and how to build humane support structures to nurture such activity. 
 
-# Interested in buying a printed copy of *The First VIRS*?
+# Interested in getting a copy of *The First VIRS*?
+
+### Digital PDF
+
+Please [use this link](paypal.me/DanbeeKim) to "pay what you want" for a digital pdf of *The First VIRS*. Suggested donation is $5, and please write "Digital copy of The First VIRS for [your email here]" in the "Add a note" section. 
+
+### Printed book
 
 Please fill out this [interest form](https://forms.gle/u7oy5LYHa4sBzS2s8){:target="_blank"}!
 
