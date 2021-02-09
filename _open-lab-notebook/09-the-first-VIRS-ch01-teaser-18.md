@@ -1,5 +1,5 @@
 ---
-title: "*The First VIRS*: Chapter 01 teaser, with annotated companion script"
+title: "*The First VIRS*: Chapter 01 teaser"
 permalink: /VIRS/ch01-teaser/18
 excerpt: 
 categories:
