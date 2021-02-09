@@ -19,7 +19,7 @@ You can [**read the full-text of my doctoral thesis here**](https://www.dropbox.
 
 I will continue to develop and teach Field Neuroscience with the UK-based company [NeuroGears](http://neurogears.org/about-us/), focusing on building collaborative projects that use storytelling and interactive experiences to help people apply scientific methods of understanding to their daily lives. <br/>
 
-If you would like to get in touch, please tweet @taunbot or email me at danbee at danbeekim dot org.
+If you would like to get in touch, please tweet @taunbot or email me at danbee[at]danbeekim[dot]org.
 
 [Curriculum Vitae](/assets/files/DanbeeKim_WebsiteCV_20200120.pdf)
 
