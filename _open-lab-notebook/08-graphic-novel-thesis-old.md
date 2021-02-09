@@ -32,7 +32,7 @@ I started this collaboration because I want to tell stories that **make science 
 
 ### Digital PDF
 
-Please [use this link](https://www.paypal.com/paypalme/DanbeeKim) to "pay what you want" for a digital pdf of *The First VIRS*! Suggested donation is $2, and please write "Digital copy of The First VIRS for [your email here]" in the "Add a note" section. 
+If you are a school teacher, librarian, community educator, education researcher, or science-curious, comic-loving human interested in a free digital copy of *The First VIRS*, please send an email to TheFirstVIRS[at]danbeekim[dot]org, with subject "Request for digital pdf of The First VIRS". 
 
 ### Printed book
 
@@ -43,6 +43,10 @@ Please fill out this [interest form](https://forms.gle/u7oy5LYHa4sBzS2s8){:targe
 With the help of 155 backers, [**we raised $11,125 through our crowdfunding campaign!!**](https://www.kickstarter.com/projects/taunsquared/a-sci-fi-graphic-novel-based-on-real-neuroscience){:target="_blank"} THANK YOU to everyone who supported this project and made it possible to pay our artists IN FULL!!
 
 {% include video id="IuEBOJE9te4" provider="youtube" %}
+
+### Want to help me write more stories in the universe of *The First VIRS*?
+
+If you loved *The First VIRS* and want more stories about Soka, Min, and their quest to join the Space Exploration Corps, please [send me a donation!](https://www.paypal.com/paypalme/DanbeeKim)
 
 # Teaser pages and story album
 
