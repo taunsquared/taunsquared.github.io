@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.10.2)  10 FEB 2021 17:12
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.10.2)  10 FEB 2021 17:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -782,24 +782,24 @@ LaTeX Info: Redefining \nameref on input line 4.
 \openout4 = `cv.out'.
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00107pt on input line 21.
+(Font)              scaled to size 10.00107pt on input line 22.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00075pt on input line 21.
+(Font)              scaled to size 7.00075pt on input line 22.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 21.
+(Font)              scaled to size 5.00053pt on input line 22.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 21.
+(Font)              scaled to size 9.99893pt on input line 22.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 21.
+(Font)              scaled to size 6.99925pt on input line 22.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 21.
+(Font)              scaled to size 4.99947pt on input line 22.
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--52
+Underfull \hbox (badness 10000) in paragraph at lines 43--57
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--111
+Underfull \hbox (badness 10000) in paragraph at lines 60--82
 
  []
 
@@ -810,21 +810,21 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 114--205
+Underfull \hbox (badness 10000) in paragraph at lines 113--204
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 208--297
+Underfull \hbox (badness 10000) in paragraph at lines 207--296
 
  []
 
 [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 298.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 298.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 297.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 297.
  (./cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 298.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 298.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 297.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 297.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
