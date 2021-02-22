@@ -6,7 +6,7 @@ permalink: /about-me/
 
 Hi! ^.^  
 
-My name is Danbee (단비), which in Korean means (literally) "sweet rain" and (idiomatically) "the first rain after a drought". I'm a neuroscientist, teacher, and comic book author who spends a lot of time thinking about education, permaculture, circus, and humane living. I love being in the wilderness, especially in the mountains and by the sea. <br/>
+My name is Danbee (단비), which in Korean means (literally) "sweet rain" and (idiomatically) "the first rain after a drought". I'm a field neuroscientist and comic book author who spends a lot of time thinking about creative learning experiences, decolonisation, capoeira, circus, and cuttlefish. I love being in the wilderness, especially in the mountains and by the sea. <br/>
 
 I believe art has an important role in organising and building knowledge, as a tool for helping experts across specialities collaborate and share insights. I got hooked on the neuroscience of storytelling while co-writing and choreographing an original musical called <a href="https://hackpunttool.com/">Hack, Punt, Tool</a> (you can watch the <a href="https://youtu.be/IPpqXyo4jhM">2017 production on YouTube</a>). Since then I've written and performed a set of [original "science songs"](/brainplay/2017-09-14-Pilot-Data-Aronauts-EP/), created an [interactive aquarium exhibit](http://www.everymind.online/SurprisingMinds/) that collected neuroscience data from over 20,000 participants, and wrote and published a science fiction graphic novel called [*The First VIRS*](/VIRS). My dream future is to train and play as a musician, capoeirista, and [VIRS (vigilante intergalactic roustabout scholar)](/projects/2018/02/28/VIRS-principles/). <br/>
 
@@ -17,7 +17,7 @@ My [doctoral research](/open-lab-notebook/) with [Adam Kampff](http://www.kampff
 
 You can [**read the full-text of my doctoral thesis here**](https://www.dropbox.com/s/iqyfmj1rmcn083z/DanbeeKim_INDP2013_PhDThesis.pdf?dl=0). <br/>
 
-I will continue to develop and teach Field Neuroscience with the UK-based company [NeuroGears](http://neurogears.org/about-us/), focusing on building collaborative projects that use storytelling and interactive experiences to help people apply scientific methods of understanding to their daily lives. <br/>
+I will continue to develop and teach Field Neuroscience with the UK-based company [NeuroGears](http://neurogears.org/about-us/), focusing on building collaborative projects that use storytelling and interactive experiences to help people apply scientific methods of understanding to their daily lives. I currently organize and teach for the [Appalachian Institute for Creative Learning](https://appalachianinstitute.org/), a summer enrichment camp for rising 3rd through 12th graders, and [Neuronautas](https://gulbenkian.pt/academias/videos/fundacao-champalimaud/), a summer intensive field neuroscience program for teenagers. <br/>
 
 If you would like to get in touch, please tweet @taunbot or email me at danbee[at]danbeekim[dot]org.
 
