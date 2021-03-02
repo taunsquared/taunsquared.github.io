@@ -44,7 +44,7 @@ With the help of 155 backers, [**we raised $11,125 through our crowdfunding camp
 
 {% include video id="IuEBOJE9te4" provider="youtube" %}
 
-### Want to help me write more stories in the universe of *The First VIRS*?
+## Donate to my story-writing fund!
 
 If you loved *The First VIRS* and want more stories about Soka, Min, and their quest to join the Space Exploration Corps, please [send me a donation!](https://www.paypal.com/paypalme/DanbeeKim)
 
