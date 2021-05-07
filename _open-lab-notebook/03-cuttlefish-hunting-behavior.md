@@ -36,6 +36,14 @@ Keywords: behavior, attack, predation, secondary defense, Cephalopod, body patte
 
 {% include figure image_path="/assets/images/openLabNotebook/CuttleShuttle/Paper_CuttleShuttle_GraphicalAbstract_V4.jpg" alt="Graphical Abstract" caption="" %}
 
+### Video Summary
+
+{% include video provider="youtube" id="aLFmZGZHS_4" %}
+
+## Further Research and Opportunities for Collaboration
+
+The behavior paradigm and quantification methods described by this paper open up exciting opportunities to further study aspects of hunting behavior in freely behaving cuttlefish, both in the lab and in the wild. If you are interested in collaborating on research along these lines, I'd love to chat! Please email me at danbee [at] danbeekim.org or message me on twitter @taunbot.
+
 ## Figures
 
 Below are the latest drafts of the figures included in the academic paper I've written about this project, titled "An experimental method for evoking and characterizing dynamic color patterning of cuttlefish during prey capture" (in prep):
@@ -58,21 +66,19 @@ Below are the latest drafts of the figures included in the academic paper I've w
 
 {% include figure image_path="/assets/images/openLabNotebook/CuttleShuttle/Paper_Table2.jpg" alt="Table 2: Summary of TSP dynamics" caption="**Table 2:** Summary of TSP dynamics, showing mean timing of appearance of TSP, and timing of significant (p<0.05) divergence between successful and unsuccessful hunts." %}
 
-## Supplemental Figures
+## Supplemental Materials
+
+### Supplemental Figures
 
 {% include figure image_path="/assets/images/openLabNotebook/CuttleShuttle/PaperFig_ExpTank.jpg" alt="Supplemental Figure 1: The Experimental Tank" caption="**Fig. S1: The Experimental tank, showing the hunting box, with hardware setup controlling the robotic prey, inside the circular holding tank lined with LED lighting, with overhead Point Grey FlyCap2 camera.** Photo by D. Kim; figure generated in Adobe Illustrator by D. Kim." %}
 
 {% include figure image_path="/assets/images/openLabNotebook/CuttleShuttle/PaperFig_HuntingBox.jpg" alt="Supplemental Figure 2: Overhead view of the hunting box." caption="**Fig. S2: Overhead view of hunting box inside the experimental tank.** This image is a screenshot from the session videos recorded by the overhead PointGrey FlyCap2 camera. Figure generated in Adobe Illustrator by D. Kim." %}
 
-## Video Summary
-
-{% include video provider="youtube" id="aLFmZGZHS_4" %}
-
-## Experimental Protocol
+### Experimental Protocol
 
 Read the full [experimental protocol](/assets/files/ExperimentalProtocol_CuttleShuttle_20160620.pdf).
 
-## Datasets
+### Datasets
 
 The full dataset for this experiment, including all videos from the overhead view monochrome camera and annotations, is shared online via the Harvard Dataverse and can be accessed [here](https://dataverse.harvard.edu/dataverse/CuttleShuttle).
 
@@ -86,13 +92,9 @@ A low resolution version of the video dataset can be found online here:
 
 - <a href="https://www.youtube.com/playlist?list=PLM8kdf7qFeq-ewYerw0KcYMe-xdBvc5CT">Cropped and Aligned clips used for analysis</a>
 
-## Analysis Code Repository
+### Analysis Code Repository
 
 All code used to analyze this dataset can be found [here](https://github.com/everymind/CuttleShuttle_Paper).
-
-## Further Research and Opportunities for Collaboration
-
-The behavior paradigm and quantification methods described by this paper open up exciting opportunities to further study aspects of hunting behavior in freely behaving cuttlefish, both in the lab and in the wild. If you are interested in collaborating on research along these lines, I'd love to chat! Please email me at danbee [at] danbeekim.org or message me on twitter @taunbot.
 
 ## Posters
 
