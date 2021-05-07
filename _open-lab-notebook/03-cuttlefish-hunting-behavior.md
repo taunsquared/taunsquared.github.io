@@ -20,7 +20,7 @@ Taking care of the cuttlefish on a daily basis taught me a lot about their behav
 
 Many thanks to Kendra Buresch, Stephen Senft, Alex Schnell, Andrew Carvey, Arthur Petron, Troy McInerney, Kelsey Cramer, Corinne Cramer, Andrea Rummell, George Bell, Alan Kuzirian, Barbara Burbank, Lyda Harris, Dan Calzarette, and Roger T Hanlon for their support and assistance at Woods Hole during this project. Additional thanks to Adam Kampff and the Intelligent Systems lab for enabling and supporting this collaboration.
 
-The behavior paradigm and quantification methods described below open up exciting opportunities to further study aspects of hunting behavior in freely behaving cuttlefish, both in the lab and in the wild. If you are interested in collaborating on research along these lines, I'd love to chat! Please email me at danbee [at] danbeekim.org or message me on twitter @taunbot.
+The behavior paradigm and quantification methods described below open up exciting opportunities to further study aspects of hunting behavior in freely behaving cuttlefish, both in the lab and in the wild. **If you are interested in collaborating on research along these lines, I'd love to chat!** Please email me at danbee [at] danbeekim.org or message me on twitter @taunbot.
 
 ## Introduction
 
