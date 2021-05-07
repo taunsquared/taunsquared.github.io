@@ -135,3 +135,33 @@ Further information about analysis work on the Cuttle Shuttle video dataset can 
 {% include video provider="youtube" id="3SStj5fYHjU" %}
 
 {% include video provider="youtube" id="pAByIF0VAW8" %}
+
+## References
+
+1. Adamo SA, Ehgoetz K, Sangster C, Whitehorne I (2006) Signaling to the enemy? Body pattern expression and its response to external cues during hunting in the cuttlefish Sepia officinalis (Cephalopoda). The Biol Bull 210(3):192-200.
+2. Holmes W (1940) The colour changes and colour patterns of Sepia officinalis L. Proceedings of the Zoological Society of London 110 (1-2): 17-35.
+3. How MJ, Norman MD, Finn J, Chung WS, Marshall NJ (2017) Dynamic skin patterns in cephalopods. Front Physiol 19(8):393.
+4. Langridge KV (2006) Symmetrical crypsis and asymmetrical signalling in the cuttlefish Sepia officinalis. Proceedings of the Royal Society B: Biological Sciences 273(1589):959-67.
+5. Langridge KV, Broom M, Osorio D (2007) Selective signalling by cuttlefish to predators. Current Biology 17(24):R1044-5.
+6. Shashar N, Rutledge P, Cronin T (1996) Polarization vision in cuttlefish in a concealed communication channel?. Journal of Experimental Biology 199(9):2077-84.
+7. Hanlon RT, Messenger JB (2018) Cephalopod behaviour. Cambridge University Press.
+8. Messenger JB (1968) The visual attack of the cuttlefish, Sepia officinalis. Animal Behaviour 16(2-3):342-57.
+9. Sereni E (1930) The chromatophores of the cephalopods. The Biol Bull 59(3):247-68.
+10. Thompson DW (1910) Aristotle: Historia animalium. The works of Aristotle translated into English, book IV. The Classical Review.
+11. Cole PD, Adamo SA. Cuttlefish (Sepia officinalis: Cephalopoda) hunting behavior and associative learning (2005) Anim cogn 8(1):27-30.
+12. Duval P, Chichery MP, Chichery R (1984) Prey capture by the cuttlefish (Sepia officinalis L): an experimental study of two strategies. Behavioural processes 9(1):13-21.
+13. Feord RC, Sumner ME, Pusdekar S, Kalra L, Gonzalez-Bellido PT, Wardill TJ (2020) Cuttlefish use stereopsis to strike at prey. Sci Adv 6(2):eaay6036.
+14. Zylinski S, Osorio D, Shohet AJ (2009) Cuttlefish camouflage: context-dependent body pattern use during motion. Proceedings of the Royal Society B: Biological Sciences 276(1675):3963-9.
+15. Hanlon RT, Messenger JB (1988) Adaptive coloration in young cuttlefish (Sepia officinalis L.): the morphology and development of body patterns and their relation to behaviour. Philosophical Transactions of the Royal Society of London. B, Biological Sciences 320(1200):437-87.
+16. Carreno Castilla A, Hernandez-Urcera J, Gouraguine A, Guerra Á, Cabanellas-Reboredo M (2020) Predation behaviour of the European squid Loligo vulgaris. J Ethol 38:311-22.
+17. Gordon D, Pugh P, Cooke GM (2019) Social Media and citizen science provide valuable data for behavioural ecology research: Are cuttlefish using pursuit-deterrent signals during hunting?. bioRxiv: 760926.
+18. Lopes G, Nogueira J, Dimitriadis G, Menendez JA, Paton JJ, Kampff AR (2017) A robust role for motor cortex. bioRxiv: 058917
+19. Panetta D, Solomon M, Buresch K, Hanlon RT (2017) Small-scale rearing of cuttlefish (Sepia officinalis) for research purposes. Mar Freshw Behav Physiol 50(2):115-24.
+20. Lopes G, Bonacchi N, Frazão J, Neto JP, Atallah BV, Soares S, Moreira L, Matias S, Itskov PM, Correia PA, Medina RE (2015) Bonsai: an event-based framework for processing and controlling data streams. Front Neuroinform 9:7.
+21. Barbosa A, Mäthger LM, Buresch KC, Kelly J, Chubb C, Chiao CC, Hanlon RT (2008) Cuttlefish camouflage: the effects of substrate contrast and size in evoking uniform, mottle or disruptive body patterns. Vision Res 48(10):1242-53.
+22. Packard A, Hochberg FG (1977) Skin patterning in Octopus and other genera. In Symp. Zool. Soc. Lond 38: 191-231.
+23. Graving JM, Chae D, Naik H, Li L, Koger B, Costelloe BR, Couzin ID (2019) DeepPoseKit, a software toolkit for fast and robust animal pose estimation using deep learning. Elife 8:e47994.
+24. Mathis A, Mamidanna P, Cury KM, Abe T, Murthy VN, Mathis MW, Bethge M (2018) DeepLabCut: markerless pose estimation of user-defined body parts with deep learning. Nat Neurosci 21(9):1281-9.
+25. Nath T, Mathis A, Chen AC, Patel A, Bethge M, Mathis MW (2019) Using DeepLabCut for 3D markerless pose estimation across species and behaviors. Nat Protoc 14(7):2152-76.
+26. Laan A, Gutnick T, Kuba MJ, Laurent G (2014) Behavioral analysis of cuttlefish traveling waves and its implications for neural control. Current Biology 24(15):1737-42.
+27. Reiter S, Hülsdunk P, Woo T, Lauterbach MA, Eberle JS, Akay LA, Longo A, Meier-Credo J, Kretschmer F, Langer JD, Kaschube M (2018) Elucidating the control and development of skin patterning in cuttlefish. Nature 562(7727):361-6.
