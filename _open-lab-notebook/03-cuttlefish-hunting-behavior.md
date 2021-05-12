@@ -34,7 +34,7 @@ Keywords: behavior, attack, predation, secondary defense, Cephalopod, body patte
 
 ### Graphical Abstract
 
-{% include figure image_path="/assets/images/openLabNotebook/CuttleShuttle/Paper_CuttleShuttle_GraphicalAbstract_V4.jpg" alt="Graphical Abstract" caption="" %}
+{% include figure image_path="/assets/images/openLabNotebook/CuttleShuttle/Paper_CuttleShuttle_GraphicalAbstract_highRes.jpg" alt="Graphical Abstract" caption="" %}
 
 ### Video Summary
 
