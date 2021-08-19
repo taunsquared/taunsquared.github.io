@@ -37,7 +37,7 @@ If you are a school teacher, librarian, community educator, education researcher
 
 ### Printed book
 
-If you would like to buy a printed copy of _The First VIRS_, please fill out this [pre-order form](https://forms.gle/ZYLELEsF5WfvLX5Y7){:target="\_blank"}!
+If you would like to buy a printed copy of _The First VIRS_, please fill out this [order form](https://forms.gle/yFExHJyREr9hSfuG8){:target="\_blank"}!
 
 # Powered by the People
 
