@@ -16,8 +16,6 @@ header:
   image: /assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_book-title_web-header.jpg
 ---
 
-{% include toc title="The First VIRS: A graphic novel thesis" %}
-
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_Kickstarter_plotSynopsis-01.jpg" alt="Plot synopsis: In 2067, the Global Water Crisis wiped out much of humanity, forcing survivors to flee underground or escape
 into orbit. 50 years later, teenager Asoka Morei lives in sheltered privilege at a Green Haven, far from
 the dark and over-crowded Underground Cities. But when Asoka’s Haven is attacked, they must journey into
@@ -25,19 +23,15 @@ the Red Zone to find a mysterious people who may be re-growing the decimated Ama
 
 Hi everyone! My name is Danbee Kim, and I’m a teacher and neuroscientist collaborating with [**17 amazing artists**](/VIRS/credits){:target="\_blank"} to create **_The First VIRS_** ([Vigilante Intergalactic Roustabout Scholar](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/){:target="\_blank"}), a graphic novel that combines cutting-edge topics in science and technology into a near-future hard science fiction story about two teens on a post-climate-apocalypse Earth who wield the ancient craft of neuroscience against an oppressive World Government.
 
-**Read the [Chapter 1 teaser here](/VIRS/ch01-teaser/01){:target="\_blank"}!**
-
-I started this collaboration because I want to tell stories that **make science and technology topics more accessible to EVERYONE, from young people (and any other science-curious, comic-loving human!) to experts in other specialities.** I hope stories like mine can start conversations about what we define as "scientific activity", and how to build humane support structures to nurture such activity.
-
-# Interested in getting a copy of _The First VIRS_?
-
-### Digital PDF
+**To buy a printed copy of _The First VIRS_, please fill out this [order form](https://forms.gle/yFExHJyREr9hSfuG8){:target="\_blank"}!**
 
 If you are a school teacher, librarian, community educator, education researcher, or science-curious, comic-loving human interested in a free digital copy of _The First VIRS_, please send an email to TheFirstVIRS[at]danbeekim[dot]org, with subject "Request for digital pdf of The First VIRS".
 
-### Printed book
+**Read the [Chapter 1 teaser here](/VIRS/ch01-teaser/01){:target="\_blank"}!**
 
-If you would like to buy a printed copy of _The First VIRS_, please fill out this [order form](https://forms.gle/yFExHJyREr9hSfuG8){:target="\_blank"}!
+I created this graphic novel because I want to tell stories that **make science and technology topics more accessible to EVERYONE, from young people (and any other science-curious, comic-loving human!) to experts in other specialities.** I hope stories like mine can start conversations about what we define as "scientific activity", and how to build humane support structures to nurture such activity.
+
+{% include toc title="The First VIRS: A graphic novel thesis" %}
 
 # Powered by the People
 
