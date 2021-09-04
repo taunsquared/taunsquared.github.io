@@ -23,7 +23,7 @@ the Red Zone to find a mysterious people who may be re-growing the decimated Ama
 
 Hi everyone! My name is Danbee Kim, and I’m a teacher and neuroscientist collaborating with [**17 amazing artists**](/VIRS/credits){:target="\_blank"} to create **_The First VIRS_** ([Vigilante Intergalactic Roustabout Scholar](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/){:target="\_blank"}), a graphic novel that combines cutting-edge topics in science and technology into a near-future hard science fiction story about two teens on a post-climate-apocalypse Earth who wield the ancient craft of neuroscience against an oppressive World Government.
 
-**To buy a printed copy of _The First VIRS_, please fill out this [order form](https://forms.gle/yFExHJyREr9hSfuG8){:target="\_blank"}!**
+**[BUY A PRINT COPY OF _The First VIRS_](https://forms.gle/yFExHJyREr9hSfuG8){:target="\_blank"}!**
 
 If you are a school teacher, librarian, community educator, education researcher, or science-curious, comic-loving human interested in a free digital copy of _The First VIRS_, please send an email to TheFirstVIRS[at]danbeekim[dot]org, with subject "Request for digital pdf of The First VIRS".
 
