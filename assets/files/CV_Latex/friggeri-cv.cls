@@ -158,7 +158,7 @@ BoldItalicFont=JosefinSans-Italic.ttf
 
 \setlength{\tabcolsep}{0pt}
 \newenvironment{entrylist}{%
-  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}ll}
+  \begin{tabular*}{\textwidth}{@{\extracolsep{0.15cm}}ll}
 }{%
   \end{tabular*}
 }
@@ -201,5 +201,5 @@ BoldItalicFont=JosefinSans-Italic.ttf
 % Other tweaks %
 %%%%%%%%%%%%%%%%
 
-\RequirePackage[left=4.5cm,top=2cm,right=0.9cm,bottom=2.5cm,nohead,nofoot]{geometry}
+\RequirePackage[left=4.5cm,top=2cm,right=1.7cm,bottom=1.5cm,nohead,nofoot]{geometry}
 \RequirePackage{hyperref}
