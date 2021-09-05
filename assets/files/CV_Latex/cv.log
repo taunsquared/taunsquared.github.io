@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.10.2)  5 SEP 2021 09:56
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.10.2)  5 SEP 2021 12:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -735,14 +735,14 @@ t line 4.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(128.0374pt, 437.88802pt, 48.36958pt)
-* v-part:(T,H,B)=(56.9055pt, 695.38536pt, 42.67912pt)
+* v-part:(T,H,B)=(36.98866pt, 723.8381pt, 34.14322pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=437.88802pt
-* \textheight=695.38536pt
+* \textheight=723.8381pt
 * \oddsidemargin=55.76741pt
 * \evensidemargin=55.76741pt
-* \topmargin=-15.36449pt
+* \topmargin=-35.28133pt
 * \headheight=0.0pt
 * \headsep=0.0pt
 * \topskip=10.0pt
@@ -809,12 +809,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--56
  []
 
 
-Overfull \hbox (14.3288pt too wide) in alignment at lines 59--85
+Overfull \hbox (14.3288pt too wide) in alignment at lines 59--80
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--86
+Underfull \hbox (badness 10000) in paragraph at lines 59--81
 
  []
 
@@ -825,38 +825,38 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 [1
 
 ]
-Overfull \hbox (18.86879pt too wide) in alignment at lines 117--220
+Overfull \hbox (17.94879pt too wide) in alignment at lines 112--202
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--221
+Underfull \hbox (badness 10000) in paragraph at lines 112--203
 
  []
 
 [2]
-Overfull \hbox (20.85878pt too wide) in alignment at lines 224--300
+Overfull \hbox (20.85878pt too wide) in alignment at lines 206--311
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--301
+Underfull \hbox (badness 10000) in paragraph at lines 206--312
 
  []
 
 [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 302.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 302.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 313.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 313.
  (./cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 302.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 302.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 313.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 313.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  26504 strings out of 481804
  513249 string characters out of 5937876
- 902236 words of memory out of 5000000
+ 902238 words of memory out of 5000000
  43082 multiletter control sequences out of 15000+600000
  533774 words of font info for 74 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191

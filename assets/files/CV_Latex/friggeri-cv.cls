@@ -97,7 +97,7 @@ BoldItalicFont=JosefinSans-Italic.ttf
 
 \newcommand{\header}[3]{%
   \begin{tikzpicture}[remember picture,overlay]
-    \node [rectangle, fill=fillheader, anchor=north, minimum width=\paperwidth, minimum height=3.4cm] (box) at (current page.north){};
+    \node [rectangle, fill=fillheader, anchor=north, minimum width=\paperwidth, minimum height=3.1cm] (box) at (current page.north){};
     \node [anchor=center] (name) at (box) {%
       \fontsize{32pt}{62pt}\color{header}%
       {\bodyfont #1}{\thinfont #2}
@@ -107,7 +107,7 @@ BoldItalicFont=JosefinSans-Italic.ttf
       \thinfont #3%
     };
   \end{tikzpicture}
-  \vspace{1.7cm}
+  \vspace{1.8cm}
   \vspace{-2\parskip}
 }
 
@@ -181,7 +181,7 @@ BoldItalicFont=JosefinSans-Italic.ttf
 
 \RequirePackage[absolute,overlay]{textpos}
 \setlength{\TPHorizModule}{0.9cm}
-\setlength{\TPVertModule}{0.95cm}
+\setlength{\TPVertModule}{0.8cm}
 \newenvironment{aside}{%
   \let\oldsection\section
   \renewcommand{\section}[1]{
@@ -201,5 +201,5 @@ BoldItalicFont=JosefinSans-Italic.ttf
 % Other tweaks %
 %%%%%%%%%%%%%%%%
 
-\RequirePackage[left=4.5cm,top=2cm,right=1.7cm,bottom=1.5cm,nohead,nofoot]{geometry}
+\RequirePackage[left=4.5cm,top=1.3cm,right=1.7cm,bottom=1.2cm,nohead,nofoot]{geometry}
 \RequirePackage{hyperref}
