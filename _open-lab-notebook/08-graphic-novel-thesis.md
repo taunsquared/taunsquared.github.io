@@ -24,6 +24,8 @@ Hi everyone! My name is Danbee Kim, and I’m a teacher and neuroscientist colla
 
 I created this graphic novel because I want to tell stories that **make science and technology topics more accessible to EVERYONE, from young people (and any other science-curious, comic-loving human!) to experts in other specialities.** I hope stories like mine can start conversations about what we define as "scientific activity", and how to build humane support structures to nurture such activity.
 
+{% include toc title="The First VIRS: A graphic novel thesis" %}
+
 ## Like what you see and want more?
 
 If you are a school teacher, librarian, community educator, education researcher, or science-curious, comic-loving human interested in a free digital copy of _The First VIRS_, please send an email to TheFirstVIRS[at]danbeekim[dot]org, with subject "Request for digital pdf of The First VIRS".
@@ -33,8 +35,6 @@ If you would like to support my mission to share neuroscience research and make 
 **[BUY A PRINT COPY OF _The First VIRS_ !](https://forms.gle/yFExHJyREr9hSfuG8){:target="\_blank"}**
 
 If you want to show even more support, for me, for scientific storytelling, for the movement to decolonize education and make research accessible to everyone, you can also [send me a donation!](https://www.paypal.com/paypalme/DanbeeKim)
-
-{% include toc title="The First VIRS: A graphic novel thesis" %}
 
 # Teaser pages and story album
 
