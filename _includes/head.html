@@ -3,7 +3,7 @@
 {% include seo.html %}
 
 <link
-  href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"
+  href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' }}{% endif %}"
   type="application/atom+xml"
   rel="alternate"
   title="{{ site.title }} Feed"
