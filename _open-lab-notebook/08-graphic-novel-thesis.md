@@ -36,7 +36,7 @@ If you would like to support my mission to share neuroscience research and make 
 
 If you want to show even more support, for me, for scientific storytelling, for the movement to decolonize education and make research accessible to everyone, you can also [send me a donation!](https://www.paypal.com/paypalme/DanbeeKim)
 
-# Teaser pages and story album
+# Teaser pages and story soundtrack
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_ch1_p00_teaser-01.jpg" alt="Chapter 1
 title page" caption="Chapter 1 title page, 'The First VIRS'. Art by Xiao Xiao, Lettering by Danbee Kim." %}
