@@ -64,7 +64,7 @@ With the help of 155 backers, [**we raised $11,125 through our crowdfunding camp
 
 ## What do you mean, a graphic novel thesis?
 
-**_The First VIRS_** is a graphic novel about teenagers Asoka Morei and Minka Traoré, who live in a potential post-climate-apocalypse future 100 years from now. By presenting this world through the eyes of an average teenager, we hope our story can help more people connect and engage with the **long-term goals of scientific research**.
+**_The First VIRS_** is a graphic novel about teenagers Asoka Morei and Minka Traoré, who live in a potential post-climate-apocalypse future 100 years from now. By presenting this world through the eyes of an average teenager, we hope our story can help more people connect and engage with the **long-term goals of decolonized scientific research**.
 
 The story has 7 chapters, 7 scientific diagrams, and 3 dream sequences. I've divided the illustration work amongst [my 17 collaborators](http://www.danbeekim.org/VIRS/credits){:target="\_blank"}, who joined this project from various locations in the US, UK, France, Germany, Portugal, and Taiwan. To coordinate our efforts, I first wrote a full story script describing the imagery I wanted for each page and the visual characteristics I wanted for each character. Based on these descriptions, the artists then created the illustrations, with several stages of feedback and iteration mediated by a shared Dropbox folder. I'm now editing and typesetting the text and dialogue which appear on top of the illustrations.
 
@@ -90,7 +90,7 @@ For instance, [the Golden Age of Science Fiction](https://en.wikipedia.org/wiki/
 
 ### The neuroscience of speculation and "just dealing with it"
 
-How brains face the unknown and the unexpected has been the core motivation behind my PhD research and the research vision of my advisor, Dr. Adam Kampff. For the last 7 years, I've had the privilege of working with him and the amazing people of the [Intelligent Systems Lab](https://www.kampff-lab.org/){:target="\_blank"}. Together we have developed a diverse range of tools and strategies to study how brains build expectations about how things "should" work (often called our "model of the world"), and how brains adapt when new information or experiences break our expectations.
+How brains face the unknown and the unexpected has been the core motivation behind my PhD research and the research vision of my advisor, Dr. Adam Kampff. Since 2013, I've had the privilege of working with him and the amazing people of the [Intelligent Systems Lab](https://www.kampff-lab.org/){:target="\_blank"}. Together we have developed a diverse range of tools and strategies to study how brains build expectations about how things "should" work (often called our "model of the world"), and how brains adapt when new information or experiences break our expectations.
 
 ### Bringing neuroscience "into the wild"
 
