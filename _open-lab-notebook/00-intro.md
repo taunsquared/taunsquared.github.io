@@ -55,6 +55,10 @@ The Intelligent Systems Lab studied how nervous systems "in the wild" (as oppose
 
 ## Writings
 
+Danbee Kim. [``Are cephalopods making a comeback in neuroscience?''](https://www.biotechniques.com/neuroscience/are-cephalopods-making-a-comeback-in-neuroscience/){:target="\_blank"}. BioTechniques. 22 Jun 2022.
+
+Danbee Kim, Kendra Buresch, Roger Hanlon, Adam R. Kampff. [``An experimental method for evoking and characterizing dynamic color patterning of cuttlefish during prey capture''](https://jbmethods.org/jbm/article/view/386/450){:target="\_blank"}. Journal of Biological Methods, 9.2 (2022):e161. DOI: 10.14440/jbm.2022.386.
+
 [``Neuroscience Does Design: What the Brain's Architecture Can Teach Architects''](https://sci-hub.do/https://onlinelibrary.wiley.com/doi/abs/10.1002/ad.2637){:target="\_blank"}. Co-written with Adam R. Kampff. Published by _Architectural Design_, 2020. DOI: 10.1002/ad.2637.
 
 ["Why I refuse to do animal testing in my science career"](https://massivesci.com/articles/frankenstein-kim-animal-testing/){:target="\_blank"} Published by [MassiveSci.com](https://massivesci.com/){:target="\_blank"}, 2018, for the 200th anniversary of Mary Shelley's first publication of Frankenstein.
