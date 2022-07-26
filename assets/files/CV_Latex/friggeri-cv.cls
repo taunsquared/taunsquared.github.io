@@ -122,10 +122,10 @@ BoldItalicFont=JosefinSans-Italic.ttf
   {%
     \color{%
       \ifcase\value{colorCounter}%
-        blue\or%
         red\or%
-        orange\or%
         green\or%
+        blue\or%
+        orange\or%
         purple\or%
         brown\else%
         headercolor\fi%
@@ -181,13 +181,13 @@ BoldItalicFont=JosefinSans-Italic.ttf
 
 \RequirePackage[absolute,overlay]{textpos}
 \setlength{\TPHorizModule}{0.9cm}
-\setlength{\TPVertModule}{0.75cm}
+\setlength{\TPVertModule}{0.7cm}
 \newenvironment{aside}{%
   \let\oldsection\section
   \renewcommand{\section}[1]{
     \par\vspace{\baselineskip}{\Large\headingfont\color{headercolor} ##1}
   }
-  \begin{textblock}{3.8}(0.4, 3.6)
+  \begin{textblock}{3.8}(0.8, 3.8)
   \begin{flushright}
   \obeycr
 }{%
