@@ -21,7 +21,7 @@ I will continue to develop and teach Field Neuroscience with the UK-based compan
 
 If you would like to get in touch, please tweet @taunbot or email me at danbee[at]danbeekim[dot]org.
 
-[Curriculum Vitae](/assets/files/DanbeeKim_WebsiteCV_20220614.pdf)
+[Curriculum Vitae](/assets/files/DanbeeKim_WebsiteCV_20220729.pdf)
 
 <figure style="width: 320px" class="align-center">
   <img src="/assets/images/certifications/20190521_NOLS_Certification-01.gif" alt="Wilderness First Responder Certification from NOLS Wilderness Medicine">
