@@ -9,7 +9,7 @@ site.data.authors[page.author] %} {% else %} {% assign author = site.author %}
     <img src="{{ author.avatar }}" alt="{{ author.name }}" itemprop="image" />
     {% else %}
     <img
-      src="author.avatar"
+      src="{{ author.avatar | absolute_url }}"
       class="author__avatar"
       alt="{{ author.name }}"
       itemprop="image"
