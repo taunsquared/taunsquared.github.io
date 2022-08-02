@@ -77,7 +77,7 @@ analytics:
 # Site Author
 author:
   name: "Dr. 단비 'Tauntaun' Kim, PhD"
-  avatar: "assets/images/DanbeeKim.jpg"
+  avatar: "/assets/images/DanbeeKim.jpg"
   bio: "Vigilante Intergalactic Roustabout Scholar"
   location: "the multiverse"
   email: "danbee@danbeekim.org"
