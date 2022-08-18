@@ -1,9 +1,21 @@
 # Fdb version 3
-["pdflatex"] 1655308078 "c:/Users/taunsquared/Documents/GitHub/taunsquared.github.io/assets/files/CV_Latex/cv.tex" "cv.pdf" "cv" 1655308078
+["pdflatex"] 1658876672 "c:/Users/taunsquared/Documents/GitHub/taunsquared.github.io/assets/files/CV_Latex/cv.tex" "cv.pdf" "cv" 1658876672
+  "c:/Users/taunsquared/Documents/GitHub/taunsquared.github.io/assets/files/CV_Latex/cv.tex" 1658876658 17564 b687e102dbb5225bf4ff33b2c2120d07 ""
+  "c:/texlive/2021/texmf-dist/tex/latex/base/article.cls" 1644871766 20144 8a7de377ae7a11ee924a7499611f5a9d ""
+  "c:/texlive/2021/texmf-dist/tex/latex/base/size10.clo" 1644871766 8448 96f18c76bf608a36ee6fbf021ac1dd32 ""
+  "c:/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty" 1644869971 1656 7e824878bad4df5a3e8bba4e463d9126 ""
+  "c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1644870484 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
+  "c:/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def" 1644870486 19103 48d29b6e2a64cb717117ef65f107b404 ""
+  "c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1644871689 29921 d0acc05a38bd4aa3af2017f0b7c137ce ""
+  "c:/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty" 1644871703 6107 5b501a28f1305d5928945559531c13e2 ""
+  "c:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1644871712 6758 7d9d899cbbfc962fbc4bb93f4c69eec2 ""
+  "c:/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty" 1644876223 56029 3f7889dab51d620aa43177c391b7b190 ""
   "c:/texlive/2021/texmf-dist/web2c/texmf.cnf" 1644871620 40042 fe981136cbb5f3715ab1b0e46e3d3892 ""
   "c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1644876690 2797302 e83937c92faf105891245d6c25c98fb8 ""
   "c:/texlive/2021/texmf.cnf" 1644876532 713 e69b156964470283e0530f5060668171 ""
-  "cv.tex" 1655308069 16371 a79502b1d059e8b0bf5c5baf00f9ed15 ""
+  "cv.aux" 1658876672 34 3985256e7290058c681f74d7a3565a19 ""
+  "cv.tex" 1658876658 17564 b687e102dbb5225bf4ff33b2c2120d07 ""
+  "friggeri-cv.cls" 1658864301 4741 aa5e09ac0e879f8a4194a12c91286d82 ""
   (generated)
   "cv.log"
   "cv.pdf"
