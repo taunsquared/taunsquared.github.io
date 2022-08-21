@@ -23,7 +23,7 @@ If you would like to get in touch, please tweet @taunbot or email me at danbee[a
 
 [Curriculum Vitae](/assets/files/DanbeeKim_CV_20220822.pdf)
 
-<figure style="width: 320px" class="align-center">
+<!-- <figure style="width: 320px" class="align-center">
   <img src="/assets/images/certifications/20190521_NOLS_Certification-01.gif" alt="Wilderness First Responder Certification from NOLS Wilderness Medicine">
   <figcaption class="align-center"><a href="https://www.nols.edu/en/courses/courses/wilderness-first-responder-WFR/">Wilderness First Responder certified</a></figcaption>
-</figure>
+</figure> -->
