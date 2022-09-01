@@ -6,7 +6,7 @@ permalink: /about-me/
 
 Hi! ^.^
 
-My name is Danbee (단비), which in Korean means (literally) "sweet rain" and (idiomatically) "the first rain after a drought". I'm a field neuroscientist and comic book author who spends a lot of time thinking about creative learning experiences, decolonisation, capoeira, circus, and cuttlefish. I love being in the wilderness, especially in the mountains and by the sea. <br/>
+My name is Danbee (단비), which in Korean means (literally) "sweet rain" and (idiomatically) "rain that comes at just the right moment". I'm a field neuroscientist and comic book author who spends a lot of time thinking about creative learning experiences, decolonisation, capoeira, circus, and cuttlefish. I love being in the wilderness, especially in the mountains and by the sea. <br/>
 
 I believe art has an important role in organising and building knowledge, as a tool for helping experts across specialities collaborate and share insights. I got hooked on the neuroscience of storytelling while co-writing and choreographing an original musical called <a href="https://hackpunttool.com/">Hack, Punt, Tool</a> (you can watch the <a href="https://youtu.be/IPpqXyo4jhM">2017 production on YouTube</a>). Since then I've written and performed a set of [original "science songs"](/brainplay/2017-09-14-Pilot-Data-Aronauts-EP/), created an [interactive aquarium exhibit](http://www.everymind.online/SurprisingMinds/) that collected neuroscience data from over 20,000 participants, and wrote and published a science fiction graphic novel called [_The First VIRS_](/VIRS). My dream future is to train and play as a musician, capoeirista, and [VIRS (vigilante intergalactic roustabout scholar)](/projects/2018/02/28/VIRS-principles/). <br/>
 
