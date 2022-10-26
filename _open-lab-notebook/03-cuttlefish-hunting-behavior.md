@@ -22,7 +22,7 @@ Many thanks to Kendra Buresch, Stephen Senft, Alex Schnell, Andrew Carvey, Arthu
 
 The behavior paradigm and quantification methods described below open up exciting opportunities to further study aspects of hunting behavior in freely behaving cuttlefish, both in the lab and in the wild. **If you are interested in collaborating on research along these lines, I'd love to chat!** Please email me at danbee [at] danbeekim.org or message me on twitter @taunbot.
 
-The following write-up of the project is currently being distilled into an academic paper titled "An experimental method for evoking and characterizing dynamic color patterning of cuttlefish during prey capture" (in prep).
+The following documentation of this project is distilled into an academic paper titled ["An experimental method for evoking and characterizing dynamic color patterning of cuttlefish during prey capture" (2022)](https://jbmethods.org/jbm/article/view/386/450).
 
 ## Introduction
 
