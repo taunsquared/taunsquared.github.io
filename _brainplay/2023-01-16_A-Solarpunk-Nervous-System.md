@@ -1,6 +1,6 @@
 ---
 title: "A Solarpunk Nervous System: References and Further Reading"
-excerpt: "References and Further Reading for the article A Solarpunk Nervous System, by Danbee Kim, Xiao Xiao, and Amelia Goldie; published in Vector, the critical magazine of the British Science Fiction Association."
+excerpt: "References and Further Reading for the article A Solarpunk Nervous System, by Danbee Kim, Xiao Xiao, and Amelia Goldie."
 categories:
   - VIRS
   - Solarpunk
