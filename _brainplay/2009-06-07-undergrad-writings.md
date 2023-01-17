@@ -8,7 +8,7 @@ tags:
   - admissions blog
   - The Tech
 header:
-  teaser: "assets/images/brainPlay/taunbot.jpg"
+  teaser: "/assets/images/brainPlay/taunbot.jpg"
 ---
 
 {% include figure image_path="/assets/images/brainPlay/taunbot.jpg" alt="Four Asynchronicities on the Theme of Contact, The Second. By Peter Alexander Torpey" caption="Me as 'Four Asynchronicities on the Theme of Contact, The Second'. Photo credit: Peter Alexander Torpey" %}
