@@ -9,7 +9,7 @@ tags:
   - pedagogy
   - education
 header:
-  teaser: "assets/images/brainPlay/blueScholars_longMarch.jpg"
+  teaser: "/assets/images/brainPlay/blueScholars_longMarch.jpg"
 ---
 
 {% include figure image_path="/assets/images/brainPlay/blueScholars_longMarch.jpg" alt="The Long March EP, by Blue Scholars" caption="The Long March EP album cover" %}
