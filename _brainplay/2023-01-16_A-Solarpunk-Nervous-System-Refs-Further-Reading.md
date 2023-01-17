@@ -14,6 +14,8 @@ tags:
 header: 
   teaser: "/assets/images/brainPlay/Solarpunk-Nervous-System_header-image.jpg"
 ---
+{% include figure image_path="/assets/images/brainPlay/Solarpunk-Nervous-System_header-image.jpg" alt="Background illustration for pages 4 and 5 of 'A Solarpunk Nervous System', by Danbee Kim, Xiao Xiao, and Amelia Goldie. Illustration by Amelia Goldie." caption="Background illustration for pages 4 and 5 of 'A Solarpunk Nervous System', by Danbee Kim, Xiao Xiao, and Amelia Goldie. Illustration credit: Amelia Goldie." %}
+
 {% include toc title="A Solarpunk Nervous System" %}
 
 References and Further Reading for the article "A Solarpunk Nervous System", by Danbee Kim, Xiao Xiao, and Amelia Goldie. The full article will be published in Vector, the critical magazine of the British Science Fiction Association (link to be posted soon!).
