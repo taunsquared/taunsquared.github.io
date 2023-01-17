@@ -14,7 +14,7 @@ tags:
 header: 
   teaser: "/assets/images/brainPlay/Solarpunk-Nervous-System_header-image.jpg"
 ---
-{% include figure image_path="/assets/images/brainPlay/Solarpunk-Nervous-System_header-image.jpg" alt="Background illustration for pages 4 and 5 of 'A Solarpunk Nervous System', by Danbee Kim, Xiao Xiao, and Amelia Goldie. Illustration by Amelia Goldie." caption="Background illustration for pages 4 and 5 of 'A Solarpunk Nervous System', by Danbee Kim, Xiao Xiao, and Amelia Goldie. Illustration credit: Amelia Goldie." %}
+{% include figure image_path="/assets/images/brainPlay/Solarpunk-Nervous-System_header-image.jpg" alt="Illustration of several islands floating in a blue sky (from left): a crowd marches with signs, a colorful castle with a flag that says Ye Olde Prison of Art, a dark cyberpunk planet, and a bright green solarpunk planet. A ladder connects the cyberpunk planet to the solarpunk planet and several people can be seen escaping the cyberpunk planet via this ladder." caption="Illustration credit: Amelia Goldie." %}
 
 {% include toc title="A Solarpunk Nervous System" %}
 
