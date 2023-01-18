@@ -154,7 +154,7 @@ Institut Pasteur Paris in France.
 I now work as a freelance scientific illustrator and Adobe software coach for scientists. In parallel I am studying a 
 Master’s in Knowledge Visualization at the Zurich University of the Arts.
 
-Website: [http://www.acb-images.com/](http://www.acb-images.com/)
+Website: [https://www.scivislab.com/](https://www.scivislab.com/)
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/KuangTingCheng.png" alt="Kuang-Ting (Emma) 
 Cheng" caption="Kuang-Ting (Emma) Cheng: Scientific Diagram 2 Illustrator and Colourist" %}
