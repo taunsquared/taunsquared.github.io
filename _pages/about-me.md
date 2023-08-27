@@ -12,7 +12,7 @@ I believe art has an important role in organising and building knowledge, as a t
 
 My dream future is full of communities of creative and cooperative people passionate about life-long learning and mutual benefit. I believe that empowering everyone to study their own nervous systems in their daily lives and making neuroscience research as accessible as possible is an important part of achieving this future. <br/>
 
-I am currently Research and Outreach Scientist at the UK-based company [NeuroGears](http://neurogears.org/about-us/), focusing on building collaborative projects that use storytelling and interactive experiences to help people apply scientific methods of understanding to their daily lives. I also organize and teach for the [Appalachian Institute for Creative Learning](https://appalachianinstitute.org/), a summer enrichment camp for rising 3rd through 12th graders in the US, and [Neuronautas](https://gulbenkian.pt/academias/videos/fundacao-champalimaud/), a summer intensive field neuroscience program for teenagers in Portugal and the UK. <br/>
+I am currently Lead Instructor at [Matter Neuroscience](https://matter.xyz/), where I create learning experiences and resources that help people understand and apply the neuroscience of happiness in their daily lives. I also organize and teach for the [Appalachian Institute for Creative Learning](https://appalachianinstitute.org/), a summer enrichment camp for rising 3rd through 12th graders in the US, and [Neuronautas](https://gulbenkian.pt/academias/videos/fundacao-champalimaud/), a summer intensive field neuroscience program for teenagers in Portugal and the UK. <br/>
 
 If you would like to get in touch, please tweet @taunbot or email me at danbee[at]danbeekim[dot]org.
 
