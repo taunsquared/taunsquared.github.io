@@ -6,15 +6,15 @@ permalink: /about-me/
 
 Hi! ^.^
 
-My name is Danbee (단비), which in Korean means (literally) "sweet rain" and (idiomatically) "rain that comes at just the right moment". I'm a queer Korean-American field neuroscientist and multi-disciplinary educator who spends a lot of time thinking about brains, movement, empowerment, community building, decolonisation, and the ocean. I love being in the wilderness, especially in the mountains and by the sea. <br/>
+My name is Danbee (단비), which in Korean means (literally) "sweet rain" and (idiomatically) "rain that comes at just the right moment". I'm a queer Korean-American field neuroscientist and multi-disciplinary educator who spends a lot of time thinking about brains, movement, empowerment, community building, decolonisation/indigenisation, and the ocean. I love being in the wilderness, especially in the mountains and by the sea. <br/>
 
 I believe art has an important role in organising and building knowledge, as a tool for helping experts across specialities collaborate and share insights. I got hooked on the neuroscience of storytelling while co-writing and choreographing an original musical called <a href="https://hackpunttool.com/">Hack, Punt, Tool</a> (you can watch the <a href="https://youtu.be/IPpqXyo4jhM">2017 production on YouTube</a>). Since then I've written and performed a set of [original "science songs"](/brainplay/2017-09-14-Pilot-Data-Aronauts-EP/), created an [interactive aquarium exhibit](http://www.everymind.online/SurprisingMinds/) that collected neuroscience data from over 24,000 participants, and wrote and published a science fiction graphic novel called [_The First VIRS_](/VIRS). <br/>
 
 My dream future is full of communities of creative and cooperative people passionate about life-long learning and mutual benefit. I believe that empowering everyone to study their own nervous systems in their daily lives and making neuroscience research as accessible as possible is an important part of achieving this future. <br/>
 
-I am currently Lead Instructor at [Matter Neuroscience](https://matter.xyz/), where I create learning experiences and resources that help people understand and apply the neuroscience of happiness in their daily lives. I also organize and teach for the [Appalachian Institute for Creative Learning](https://appalachianinstitute.org/), a summer enrichment camp for rising 3rd through 12th graders in the US, and [Neuronautas](https://gulbenkian.pt/academias/videos/fundacao-champalimaud/), a summer intensive field neuroscience program for teenagers in Portugal and the UK. <br/>
+I am currently based in London, UK. I organize and teach for the [Appalachian Institute for Creative Learning](https://appalachianinstitute.org/), a summer enrichment camp for rising 3rd through 12th graders in the US, and [Neuronautas](https://gulbenkian.pt/academias/videos/fundacao-champalimaud/), a summer intensive field neuroscience program for teenagers in Portugal and wider age groups the UK. <br/>
 
-If you would like to get in touch, please tweet @taunbot or email me at danbee[at]danbeekim[dot]org.
+If you would like to get in touch, please email me at danbee[at]danbeekim[dot]org.
 
 [Curriculum Vitae](/assets/files/CV_Illustrator/2023_CV_DanbeeKim.pdf)
 
