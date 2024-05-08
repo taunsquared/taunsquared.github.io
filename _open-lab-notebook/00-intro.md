@@ -37,7 +37,7 @@ gallery:
 
 {% include toc title="Open Lab Notebook" %}
 
-Welcome to my Open Lab Notebook! This space holds all of the ideas and thought processes that went into my doctoral research with the [Intelligent Systems Lab](https://www.kampff-lab.org/), led by Dr. Adam R. Kampff. You can [**read the full-text of my doctoral thesis here**](https://www.dropbox.com/s/iqyfmj1rmcn083z/DanbeeKim_INDP2013_PhDThesis.pdf?dl=0).
+Welcome to my Open Lab Notebook! This space holds all of the ideas and thought processes that went into my doctoral research with the [Intelligent Systems Lab](https://www.kampff-lab.org/), led by Dr. Adam R. Kampff. You can [**read the full-text of my doctoral thesis here**](https://www.dropbox.com/s/iqyfmj1rmcn083z/DanbeeKim_INDP2013_PhDThesis.pdf?st=4jmmexqt&dl=0).
 
 The Intelligent Systems Lab studied how nervous systems "in the wild" (as opposed to in the laboratory) are robust and flexible enough to deal with unexpected situations. Within this context, I developed a framework for precisely observing nervous systems in increasingly natural environments and contexts. I worked with the following goals in mind:
 
