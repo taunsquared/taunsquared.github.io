@@ -6,7 +6,7 @@ permalink: /about-me/
 
 Hi! ^.^
 
-My name is Danbee (단비), which in Korean means (literally) "sweet rain" and (idiomatically) "rain that comes at just the right moment". I'm a queer Korean-American neuroscientist, writer, and performance artist who spends a lot of time thinking about neuroanatomy, movement, empowerment, community building, decolonisation/reindigenisation, diasporas, and the ocean. I love being in the wilderness, especially in the mountains and by the sea. <br/>
+My name is Danbee (단비), which in Korean means (literally) "sweet rain" and (idiomatically) "rain that comes at just the right moment". I'm a queer Korean-American neuroscientist, writer, and performance artist who spends a lot of time thinking about neuroanatomy, movement, empowerment, community building, decolonisation/re-indigenisation, diasporas, and the ocean. I love being in the wilderness, especially in the mountains and by the sea. <br/>
 
 I love helping experts across specialities collaborate and share insights. I especially enjoy crafting stories that can become multi-sensory interactive learning experiences. <br/>
 
