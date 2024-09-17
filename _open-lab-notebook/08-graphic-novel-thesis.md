@@ -18,7 +18,9 @@ header:
 
 {% include figure image_path="/assets/images/openLabNotebook/TheFirstVIRS/TheFirstVIRS_Kickstarter_plotSynopsis-01.jpg" alt="Plot synopsis: In 2067, the Global Water Crisis wiped out much of humanity, forcing survivors to flee underground or escape into orbit. 50 years later, teenager Asoka Morei lives in sheltered privilege at a Green Haven, far from the dark and over-crowded Underground Cities. But when Asoka’s Haven is attacked, they must journey into the Red Zone to find a mysterious people who may be re-growing the decimated Amazon Rainforest." caption="From Ch.4 of The First VIRS. Art by Julia Zimmerman, Lettering by Danbee Kim" %}
 
-Hi everyone! My name is Danbee Kim, and I’m a teacher and neuroscientist collaborating with [**17 amazing artists**](/VIRS/credits){:target="\_blank"} to create **_The First VIRS_** ([Vigilante Intergalactic Roustabout Scholar](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/){:target="\_blank"}), a graphic novel that combines cutting-edge topics in science and technology into a near-future hard science fiction story about two teens on a post-climate-apocalypse Earth who wield the ancient craft of neuroscience against an oppressive World Government.
+**[PRE-ORDER A PRINT COPY OF _The First VIRS_ !](https://forms.gle/qjkDYCjzATXVPVNP8){:target="\_blank"}**
+
+Hi everyone! My name is Danbee Kim, and I’m a neuroscientist, educator, and performance artist. I collaborated with [**17 amazing artists**](/VIRS/credits){:target="\_blank"} to create **_The First VIRS_** ([Vigilante Intergalactic Roustabout Scholar](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/){:target="\_blank"}), a graphic novel that combines cutting-edge topics in science and technology into a speculative fiction story about two teens on a post-climate-apocalypse Earth who wield the ancient craft of neuroscience against an oppressive World Government.
 
 **Read the [Chapter 1 teaser here](/VIRS/ch01-teaser/01){:target="\_blank"}!**
 
@@ -32,7 +34,7 @@ If you are a school teacher, librarian, community educator, education researcher
 
 If you would like to support my mission to share neuroscience research and make it more accessible, please consider purchasing a print copy of _The First VIRS_ ! Because I self-publish, every penny comes to me to cover printing and shipping costs, with a little leftover to make this whole adventure sustainable for me.
 
-**[BUY A PRINT COPY OF _The First VIRS_ !](https://forms.gle/yFExHJyREr9hSfuG8){:target="\_blank"}**
+**[PRE-ORDER A PRINT COPY OF _The First VIRS_ !](https://forms.gle/qjkDYCjzATXVPVNP8){:target="\_blank"}**
 
 If you want to show even more support, for me, for scientific storytelling, for the movement to decolonize education and make research accessible to everyone, you can also [send me a donation!](https://www.paypal.com/paypalme/DanbeeKim)
 
