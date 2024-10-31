@@ -1,7 +1,7 @@
 ---
 title: "Open Lab Notebook"
 permalink: /open-lab-notebook/
-excerpt: "This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title 'On the aims and methods of Field Neuroscience: non-invasive techniques for studying nervous systems in natural settings'."
+excerpt: "This page is my primary documentation of my thought processes related to my research, currently focused on advancing tools and techniques for field neuroscience, or the non-invasive study of nervous systems _in situ_."
 categories:
   - open-lab-notebook
 tags:
@@ -37,11 +37,25 @@ gallery:
 
 {% include toc title="Open Lab Notebook" %}
 
-Welcome to my Open Lab Notebook! This space holds all of the ideas and thought processes that went into my doctoral research with the [Intelligent Systems Lab](https://www.kampff-lab.org/), led by Dr. Adam R. Kampff. You can [**read the full-text of my doctoral thesis here**](https://www.dropbox.com/s/iqyfmj1rmcn083z/DanbeeKim_INDP2013_PhDThesis.pdf?st=4jmmexqt&dl=0).
+Welcome to my Open Lab Notebook! This space holds the majority of my practices, theories, and explorations of Field Neuroscience, or the non-invasive study of nervous systems _in situ_. 
 
-The Intelligent Systems Lab studied how nervous systems "in the wild" (as opposed to in the laboratory) are robust and flexible enough to deal with unexpected situations. Within this context, I developed a framework for precisely observing nervous systems in increasingly natural environments and contexts. I worked with the following goals in mind:
+I began this work in collaboration with the [Intelligent Systems Lab](https://www.kampff-lab.org/), where I was a PhD student advised by Dr. Adam R. Kampff. The Intelligent Systems Lab studied how nervous systems "in the wild" (as opposed to in the laboratory) are robust and flexible enough to deal with unexpected situations. Within this context, I developed a framework for non-invasively studying nervous systems in environments and contexts beyond the traditional laboratory. 
 
-- to connect how we study the brain to the subjective experience of living with one;
+You can [**read the full-text of my doctoral thesis here**](https://www.dropbox.com/s/iqyfmj1rmcn083z/DanbeeKim_INDP2013_PhDThesis.pdf?st=4jmmexqt&dl=0). 
+
+## Current Research Interests and Goals
+
+I am currently interested in applying the field neuroscience framework to the following ideas: 
+
+ - Nurturing and sustaining multi-generational free-choice [()]() embodied learning [(_Macedonia 2019_)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02098/full) communities;
+
+ - 
+
+I define "ritual" as any collection of behaviors which are repeated with intention in specific contexts. I define "improvisation" as 
+
+I worked with the following goals in mind:
+
+- to connect what we know about nervous system evolution and development to ;
 
 - to explore frameworks and narratives for nervous system function beyond the stimulus-response-machine metaphor and open-loop causal model of behavioural organization;
 
