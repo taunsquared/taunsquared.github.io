@@ -55,7 +55,7 @@ My top priorities when conducting research are:
 
 I am currently interested in applying the field neuroscience framework to the following ideas and projects:
 
- - Developing a "neuroscience induction" that connects nervous system anatomy, physiology, evolution, and development with our subjective daily experiences as multi-cellular organisms living with nervous systems; 
+ - Developing and sharing a "neuroscience induction" that connects nervous system anatomy, physiology, evolution, and development with our subjective daily experiences as multi-cellular organisms living with nervous systems; 
 
  - Designing and implementing non-invasive replication studies of classic laboratory neuroscience, psychology, and psychophysics experiments with larger, more diverse sample sizes and with participants who are not captive nor coerced; 
 
@@ -66,11 +66,11 @@ I am currently interested in applying the field neuroscience framework to the fo
 
 ### References
 
-Dierking, L. D. (2005). Lessons without limit: how free-choice learning is transforming science and technology education. _História, Ciências, Saúde-Manguinhos_, 12, 145-160.
+Dierking, L. D. (2005). [Lessons without limit: how free-choice learning is transforming science and technology education](https://www.researchgate.net/publication/7105454_Lessons_without_limit_how_free-choice_learning_is_transforming_science_and_technology_education). _História, Ciências, Saúde-Manguinhos_, 12, 145-160.
 
 Falk, J. H. (2002). Lessons without limit: How free-choice learning is transforming education. _Rowman Altamira_.
 
-Falk, J. H., & Storksdieck, M. (2005). Learning science from museums. _História, ciências, saúde-Manguinhos_, 12, 117-143.
+Falk, J. H., & Storksdieck, M. (2005). [Learning science from museums](https://www.researchgate.net/publication/7105453_Learning_science_from_museums). _História, ciências, saúde-Manguinhos_, 12, 117-143.
 
 Macedonia, M. (2019). [Embodied learning: Why at school the mind needs the body.](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02098/full) _Frontiers in psychology_, 10, 2098.
 
