@@ -59,7 +59,7 @@ I am currently interested in applying the field neuroscience framework to the fo
 
  - Designing and implementing non-invasive replication studies of classic laboratory neuroscience, psychology, and psychophysics experiments with larger, more diverse sample sizes and with participants who are not captive nor coerced; 
 
- - Nurturing and sustaining multi-generational free-choice ([Dierking 2005](https://www.researchgate.net/publication/7105454_Lessons_without_limit_how_free-choice_learning_is_transforming_science_and_technology_education), Falk 2022, [Falk & Storksdieck 2005](https://www.researchgate.net/publication/7105453_Learning_science_from_museums)) embodied learning [(_Macedonia 2019_)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02098/full) communities;
+ - Nurturing and sustaining multi-generational free-choice ([Dierking 2005](https://www.researchgate.net/publication/7105454_Lessons_without_limit_how_free-choice_learning_is_transforming_science_and_technology_education), Falk 2022, [Falk & Storksdieck 2005](https://www.researchgate.net/publication/7105453_Learning_science_from_museums)) embodied learning ([Macedonia 2019](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02098/full)) communities;
 
  - Studying and characterising cultural practices that harness "superpowers of the brain" and can act as rituals that enhance improvisation, especially in the face of the unknown (i.e. emergency medical training, storytelling, etc); 
 
