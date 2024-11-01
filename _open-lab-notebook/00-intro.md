@@ -1,7 +1,7 @@
 ---
 title: "Open Lab Notebook"
 permalink: /open-lab-notebook/
-excerpt: "This page is my primary documentation of my thought processes related to my PhD work, currently clustered under the working title 'On the aims and methods of Field Neuroscience: non-invasive techniques for studying nervous systems in natural settings'."
+excerpt: "This page is my primary documentation of my thought processes related to my PhD work, currently focused on advancing tools and techniques for field neuroscience, or the non-invasive study of nervous systems _in situ_."
 categories:
   - open-lab-notebook
 tags:
@@ -37,21 +37,43 @@ gallery:
 
 {% include toc title="Open Lab Notebook" %}
 
-Welcome to my Open Lab Notebook! This space holds all of the ideas and thought processes that went into my doctoral research with the [Intelligent Systems Lab](https://www.kampff-lab.org/), led by Dr. Adam R. Kampff. You can [**read the full-text of my doctoral thesis here**](https://www.dropbox.com/s/iqyfmj1rmcn083z/DanbeeKim_INDP2013_PhDThesis.pdf?st=4jmmexqt&dl=0).
+Welcome to my Open Lab Notebook! This space holds the majority of my practices, theories, and explorations of Field Neuroscience, or the non-invasive study of nervous systems _in situ_. 
 
-The Intelligent Systems Lab studied how nervous systems "in the wild" (as opposed to in the laboratory) are robust and flexible enough to deal with unexpected situations. Within this context, I developed a framework for precisely observing nervous systems in increasingly natural environments and contexts. I worked with the following goals in mind:
 
-- to connect how we study the brain to the subjective experience of living with one;
+I began this work in collaboration with the [Intelligent Systems Lab](https://www.kampff-lab.org/), where I was a PhD student advised by Dr. Adam R. Kampff. The Intelligent Systems Lab studied how nervous systems "in the wild" (as opposed to in the laboratory) are robust and flexible enough to deal with unexpected situations. Within this context, I developed a framework for non-invasively studying nervous systems in environments and contexts beyond the traditional laboratory. 
 
-- to explore frameworks and narratives for nervous system function beyond the stimulus-response-machine metaphor and open-loop causal model of behavioural organization;
+You can [**read the full-text of my doctoral thesis here**](https://www.dropbox.com/s/iqyfmj1rmcn083z/DanbeeKim_INDP2013_PhDThesis.pdf?st=4jmmexqt&dl=0). 
 
-- to complement and support laboratory neuroscience by a) checking the ethological validity of behaviour studies and of humane research techniques, and b) increasing the diversity and quantity of neural systems accessible to empirical neuroscientific study;
+## Current Research Interests and Goals
 
-- to contribute comparative research studying nervous systems in non-rodent and non-human species, in order to better guide generalizations and translations of empirical results beyond the specific individuals or populations that participate in any one experiment;
+My top priorities when conducting research are: 
 
-- to nurture a culture of collaboration, trust, and rigorous imagination in research; and
+- to nurture a culture of collaboration, trust, and rigorous imagination; and
 
 - to engage with historical context and in questioning the status quo, both in and out of science.
+
+
+I am currently interested in applying the field neuroscience framework to the following ideas and projects:
+
+ - Developing a "neuroscience induction" that connects nervous system anatomy, physiology, evolution, and development with our subjective daily experiences as multi-cellular organisms living with nervous systems; 
+
+ - Designing and implementing non-invasive replication studies of classic laboratory neuroscience, psychology, and psychophysics experiments with larger, more diverse sample sizes and with participants who are not captive nor coerced; 
+
+ - Nurturing and sustaining multi-generational free-choice ([Dierking 2005](https://www.researchgate.net/publication/7105454_Lessons_without_limit_how_free-choice_learning_is_transforming_science_and_technology_education), Falk 2022, [Falk & Storksdieck 2005](https://www.researchgate.net/publication/7105453_Learning_science_from_museums)) embodied learning [(_Macedonia 2019_)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02098/full) communities;
+
+ - Studying and characterising cultural practices that harness "superpowers of the brain" and can act as rituals that enhance improvisation, especially in the face of the unknown (i.e. emergency medical training, storytelling, etc); 
+
+
+### References
+
+Dierking, L. D. (2005). Lessons without limit: how free-choice learning is transforming science and technology education. _História, Ciências, Saúde-Manguinhos_, 12, 145-160.
+
+Falk, J. H. (2002). Lessons without limit: How free-choice learning is transforming education. _Rowman Altamira_.
+
+Falk, J. H., & Storksdieck, M. (2005). Learning science from museums. _História, ciências, saúde-Manguinhos_, 12, 117-143.
+
+Macedonia, M. (2019). [Embodied learning: Why at school the mind needs the body.](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02098/full) _Frontiers in psychology_, 10, 2098.
+
 
 ## Writings
 
