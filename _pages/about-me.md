@@ -10,19 +10,29 @@ My name is Danbee (단비), which in Korean means (literally) "sweet rain" and (
 
 I'm a queer Korean-American field neuroscientist, storyteller, dancer, and dreamer who spends a lot of time thinking about anatomy, movement, empowerment, community building, re-indigenisation, diasporas, and the ocean. I love being in the wilderness, especially in the mountains and by the sea. <br/>
 
-I love exploring and strengthening connections across many different topics, as a way to collaborate and share insights. I especially enjoy crafting multi-sensory interactive experiences, and my heart's work is nurturing and stewarding intergenerational communities for collective, free-choice learning. My passion for this work began when I participated in [Terrascope](https://terrascope.mit.edu/), a freshman seminar course at the Massachusetts Institute of Technology. I continued my participation in Terrascope, first as an Undergraduate Teaching Fellow, then as an Alumni Mentor. <br/>
+I love exploring and strengthening connections across many different topics, as a way to collaborate and share insights. I especially enjoy crafting multi-sensory interactive experiences, and my heart's work is nurturing and stewarding intergenerational communities for collective, free-choice learning.<br/>
 
-Since 2010, I've organized and taught for the [Appalachian Institute for Creative Learning](https://appalachianinstitute.org/), a summer enrichment camp for rising 3rd through 12th graders established in 1981 in the southern Appalachia region of the US. In 2018 I co-founded [Neuronautas](https://gulbenkian.pt/academias/videos/fundacao-champalimaud/), a summer intensive field neuroscience program for teenagers in Portugal. <br/>
+My passion for this work began when I participated in [Terrascope](https://terrascope.mit.edu/), a freshman seminar course at the Massachusetts Institute of Technology (MIT). I continued my participation in Terrascope, first as an Undergraduate Teaching Fellow, then to this day as an Alumni Mentor. I also spent almost 15 years singing, dancing, acting, directing, designing costumes and props, writing, and more for the MIT Musical Theater Guild -- another intergenerational community of friends, drawn together by a shared love of creating ambitiously nerdy musicals.<br/>
 
-My dream futures are full of radical, joyful villages of creative and cooperative people passionate about lifelong learning and mutual benefit. I believe that empowering everyone to study nervous systems in their daily lives and making neuroscience research as accessible as possible through excellent storytelling is an important part of achieving this future. <br/>
+Another long-term community dear to me is the [Appalachian Institute for Creative Learning (AICL)](https://appalachianinstitute.org/), a summer enrichment camp for rising 3rd through 12th graders established in 1981 in the southern Appalachia region of the US. When I started teaching there in 2010, I had no idea how much I would learn and grow with this incredible community, and no idea how much benevolent change I would witness in a part of the world carrying such a heavy heritage of oppression. 
 
-I got hooked on the neuroscience of storytelling while co-writing and choreographing an original musical called <a href="https://hackpunttool.com/">Hack, Punt, Tool</a> (you can watch the <a href="https://youtu.be/IPpqXyo4jhM">2017 production on YouTube</a>). Since then I've written and performed a set of [original "science songs"](/brainplay/2017-09-14-Pilot-Data-Aronauts-EP/); created an [interactive aquarium exhibit](http://www.everymind.online/SurprisingMinds/) that collected neuroscience data from over 24,000 visitors; and self-published a YA sci-fi graphic novel called [_The First VIRS_](/VIRS). <br/>
+Teaching at AICL got me confident enough to try spinning up learning communities in contexts further from home. In 2018 I co-founded [Neuronautas](https://gulbenkian.pt/academias/videos/fundacao-champalimaud/), a summer intensive field neuroscience program for teenagers in the Lisbon and Oeiras, Portugal. In 2022, I helped organise and teach Neuronauts UK, a sister program with very similar content and structure as Neuronautas. In 2023, Neuronauts (Portugal) successfully ran our first Junior TA program, in which alumni of the program could come back as junior members of the teaching staff.<br/>
 
-I am currently based in the UK, but I travel often in order to also be in community with loved ones in the US and Portugal. <br/>
+I'm now eager to create learning communities that meet up more often than a few weeks every year. I'm currently a co-director at [Pulse & Pickle](https://pulseandpickle.github.io), a community hub and creative global kitchen in North London, committed to gathering with local residents to collectively grow, cook, and eat sustainable, accessible vegan food. 
 
-If you would like to get in touch, please email me at danbee[at]alum[dot]mit[dot]edu. <br/>
+My dream futures are full of communities like Terrascope, AICL, Neuronautas, and Pulse & Pickle -- radical, joyful villages of creative and cooperative people passionate about lifelong learning and mutual benefit. I want to give my energies to build those futures by building bridges between modern neuroscience and indigenous wisdom. <br/>
 
-[Curriculum Vitae](/assets/files/CV_Illustrator/2024_CV_DanbeeKim.pdf)
+If any of this sounds fun or interesting to you, I'd love to chat. You can get in touch by emailing me at danbee[at]alum[dot]mit[dot]edu. <br/>
+
+[Curriculum Vitae](/assets/files/CV_Illustrator/2024_CV_DanbeeKim.pdf)<br/>
+
+Other fun things I've done:<br/>
+
+ - Co-wrote and choreographed an original musical called <a href="https://hackpunttool.com/">Hack, Punt, Tool</a> (you can watch the <a href="https://youtu.be/IPpqXyo4jhM">2017 production on YouTube</a>);
+
+ - Created an [interactive aquarium exhibit](http://www.everymind.online/SurprisingMinds/) that collected neuroscience data from over 24,000 visitors;
+
+ - Self-published a YA sci-fi graphic novel called [_The First VIRS_](/VIRS).
 
 <!-- <figure style="width: 320px" class="align-center">
   <img src="/assets/images/certifications/20190521_NOLS_Certification-01.gif" alt="Wilderness First Responder Certification from NOLS Wilderness Medicine">
