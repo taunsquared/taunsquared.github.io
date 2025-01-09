@@ -55,7 +55,9 @@ My top priorities when conducting research are:
 
 I am currently interested in applying the field neuroscience framework to the following ideas and projects:
 
- - Developing and sharing a neuroscience primer that builds a "big picture" map of core knowledge in neuroscience, grounded in nervous system anatomy, physiology, evolution, and development and with the intent of inspiring explorations of our subjective daily experiences as multi-cellular organisms living with nervous systems; 
+ - Developing and sharing a neuroscience primer that builds a "big picture" map of core knowledge in neuroscience, grounded in nervous system anatomy, physiology, evolution, and development and with the intent of inspiring explorations of our subjective daily experiences as multi-cellular organisms living with nervous systems;
+
+ - Creating a multi-language dictionary of neuroscience research terms, with a priority on learning, documenting, and co-creating accessible words for neuroscience concepts in endangered languages; 
 
  - Designing and implementing non-invasive replication studies of classic laboratory neuroscience, psychology, and psychophysics experiments with larger, more diverse sample sizes and with participants who are not captive nor coerced; 
 
