@@ -18,7 +18,7 @@ Another long-term community dear to me is the [Appalachian Institute for Creativ
 
 Teaching at AICL got me confident enough to try spinning up learning communities in contexts further from home. In 2018 I co-founded [Neuronautas](https://gulbenkian.pt/academias/videos/fundacao-champalimaud/), a summer intensive field neuroscience program for teenagers in the Lisbon and Oeiras, Portugal. In 2022, I helped organise and teach Neuronauts UK, a sister program with very similar content and structure as Neuronautas. In 2023, Neuronauts (Portugal) successfully ran our first Junior TA program, in which alumni of the program could come back as junior members of the teaching staff.<br/>
 
-I'm now eager to create learning communities that meet up more often than a few weeks every year. I'm currently a co-director at [Pulse & Pickle](https://pulseandpickle.github.io/), a community hub and creative global kitchen in North London, committed to gathering with local residents to collectively grow, cook, and eat sustainable, accessible vegan food. <br/>
+I'm now eager to create learning communities that meet up more often than a few weeks every year. I'm currently a co-director at [Pulse \& Pickle](https://pulseandpickle.github.io/), a community hub and creative global kitchen in North London, committed to gathering with local residents to collectively grow, cook, and eat sustainable, accessible vegan food. <br/>
 
 My dream futures are full of communities like Terrascope, AICL, Neuronautas, and Pulse & Pickle -- radical, joyful villages of creative and cooperative people passionate about lifelong learning and mutual benefit. I want to give my energies to build those futures by building bridges between modern neuroscience and indigenous wisdom. <br/>
 
