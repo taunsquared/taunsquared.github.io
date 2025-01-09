@@ -30,6 +30,6 @@ Other fun things I've done:
 
  - Co-wrote and choreographed an original musical called [Hack, Punt, Tool](https://hackpunttool.com/). You can watch the [2017 production on YouTube](https://youtu.be/IPpqXyo4jhM);
 
- - Created an [interactive aquarium exhibit](http://www.everymind.online/SurprisingMinds/) that collected neuroscience data from over 24,000 visitors;
+ - Created an interactive aquarium exhibit that collected neuroscience data from over 24,000 visitors;
 
  - Self-published a YA sci-fi graphic novel called [_The First VIRS_](/VIRS).
