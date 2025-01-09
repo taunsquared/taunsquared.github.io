@@ -28,13 +28,8 @@ If any of this sounds fun or interesting to you, I'd love to chat. You can get i
 
 Other fun things I've done:<br/>
 
- - Co-wrote and choreographed an original musical called <a href="https://hackpunttool.com/">Hack, Punt, Tool</a> (you can watch the <a href="https://youtu.be/IPpqXyo4jhM">2017 production on YouTube</a>);<br/>
+ - Co-wrote and choreographed an original musical called [Hack, Punt, Tool](https://hackpunttool.com/) (you can watch the [2017 production on YouTube](https://youtu.be/IPpqXyo4jhM));<br/>
 
  - Created an [interactive aquarium exhibit](http://www.everymind.online/SurprisingMinds/) that collected neuroscience data from over 24,000 visitors;<br/>
 
  - Self-published a YA sci-fi graphic novel called [_The First VIRS_](/VIRS).
-
-<!-- <figure style="width: 320px" class="align-center">
-  <img src="/assets/images/certifications/20190521_NOLS_Certification-01.gif" alt="Wilderness First Responder Certification from NOLS Wilderness Medicine">
-  <figcaption class="align-center"><a href="https://www.nols.edu/en/courses/courses/wilderness-first-responder-WFR/">Wilderness First Responder certified</a></figcaption>
-</figure> -->
