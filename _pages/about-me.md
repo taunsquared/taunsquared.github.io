@@ -18,13 +18,13 @@ Another long-term community dear to me is the [Appalachian Institute for Creativ
 
 Teaching at AICL got me confident enough to try spinning up learning communities in contexts further from home. In 2018 I co-founded [Neuronautas](https://gulbenkian.pt/academias/videos/fundacao-champalimaud/), a summer intensive field neuroscience program for teenagers in the Lisbon and Oeiras, Portugal. In 2022, I helped organise and teach Neuronauts UK, a sister program with very similar content and structure as Neuronautas. In 2023, Neuronautas (Portugal) successfully ran our first Junior TA program, in which alumni of the program could come back as junior members of the teaching staff.
 
-I'm now eager to create learning communities that meet up more often than a few weeks every year. I'm currently a co-director at [Pulse & Pickle](https://www.pulseandpickle.org/), a community hub and creative global kitchen in North London, committed to gathering with local residents to collectively grow, cook, and eat sustainable, accessible vegan food. 
+I'm now eager to create learning communities that meet up more often than a few weeks every year. I've spent the last few years exploring what learning communities outside of academia can look and feel like, by nurturing multigenerational free choice learning experiences in projects like [F*Choir](https://fchoir.com/), [Pulse & Pickle](https://www.pulseandpickle.org/), Dear Neuroscience, and Chapunk Hour. 
 
 My dream futures are full of communities like Terrascope, AICL, Neuronautas, and Pulse & Pickle -- radical, joyful villages of creative and cooperative people passionate about lifelong learning and mutual benefit. I want to give my energies to build those futures by building bridges between modern neuroscience and indigenous wisdom. 
 
 If any of this sounds fun or interesting to you, I'd love to chat.
 
-[Curriculum Vitae](/assets/files/CV_Illustrator/2024_CV_DanbeeKim.pdf)<br/>
+[Curriculum Vitae](/assets/files/CV_Illustrator/2025_CV_DanbeeKim.pdf)<br/>
 
 Other fun things I've done:
 
