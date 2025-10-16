@@ -18,7 +18,7 @@ Another long-term community dear to me is the [Appalachian Institute for Creativ
 
 Teaching at AICL got me confident enough to try spinning up learning communities in contexts further from home. In 2018 I co-founded [Neuronautas](https://gulbenkian.pt/academias/videos/fundacao-champalimaud/), a summer intensive field neuroscience program for teenagers in the Lisbon and Oeiras, Portugal. In 2022, I helped organise and teach Neuronauts UK, a sister program with very similar content and structure as Neuronautas. In 2023, Neuronautas (Portugal) successfully ran our first Junior TA program, in which alumni of the program could come back as junior members of the teaching staff.
 
-I'm now eager to create learning communities that meet up more often than a few weeks every year. I've spent the last few years exploring what learning communities outside of academia can look and feel like, by nurturing multigenerational free choice learning experiences in projects like [F*Choir](https://fchoir.com/), [Pulse & Pickle](https://www.pulseandpickle.org/), Dear Neuroscience, and Chapunk Hour. 
+I'm now eager to create learning communities that meet up more often than a few weeks every year. I've spent the last few years exploring what learning communities outside of academia can look and feel like, by nurturing multigenerational free choice learning experiences in projects like [F*Choir](https://fchoir.com/), [Pulse & Pickle](https://www.pulseandpickle.org/), [Dear Neuroscience](https://everymind.github.io/DearNeuroscience/), and [Chapunk Hour](https://events.humanitix.com/chapunk-hour-july2025). 
 
 My dream futures are full of communities like Terrascope, AICL, Neuronautas, and Pulse & Pickle -- radical, joyful villages of creative and cooperative people passionate about lifelong learning and mutual benefit. I want to give my energies to build those futures by building bridges between modern neuroscience and indigenous wisdom. 
 
@@ -30,6 +30,6 @@ Other fun things I've done:
 
  - Co-wrote and choreographed an original musical called [Hack, Punt, Tool](https://hackpunttool.com/). You can watch the [2017 production on YouTube](https://youtu.be/IPpqXyo4jhM);
 
- - Created an interactive aquarium exhibit that collected neuroscience data from over 24,000 visitors;
+ - Created [Surprising Minds](https://everymind.github.io/SurprisingMinds/), an interactive aquarium exhibit that collected neuroscience data from over 24,000 visitors;
 
  - Self-published a YA sci-fi graphic novel called [_The First VIRS_](/VIRS).
