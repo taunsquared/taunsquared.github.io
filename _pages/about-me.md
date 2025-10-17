@@ -20,7 +20,9 @@ Teaching at AICL got me confident enough to try spinning up learning communities
 
 I'm now eager to create learning communities that meet up more often than a few weeks every year. I've spent the last few years exploring what learning communities outside of academia can look and feel like, by nurturing multigenerational free choice learning experiences in projects like [F*Choir](https://fchoir.com/), [Pulse & Pickle](https://www.pulseandpickle.org/), [Dear Neuroscience](https://everymind.github.io/DearNeuroscience/), and [Chapunk Hour](https://events.humanitix.com/chapunk-hour-july2025). 
 
-My dream futures are full of communities like Terrascope, AICL, Neuronautas, and Pulse & Pickle -- radical, joyful villages of creative and cooperative people passionate about lifelong learning and mutual benefit. I want to give my energies to build those futures by building bridges between modern neuroscience and indigenous wisdom. 
+My dream futures are full of communities like Terrascope, AICL, Neuronautas, and Pulse & Pickle -- radical, joyful villages of creative and cooperative people passionate about lifelong learning and mutual benefit. I want to give my energies to build those futures by building bridges between modern neuroscience, indigenous wisdom, and the many stories in between.
+
+Curious about how exactly I intend to do this? Give my [current research proposal](/assets/files/Research/DanbeeKim_ResearchProposal_2025.pdf) a read. 
 
 If any of this sounds fun or interesting to you, I'd love to chat.
 
