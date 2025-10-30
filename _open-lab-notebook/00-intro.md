@@ -48,24 +48,24 @@ I am now interested in re-examining existing neuroscience data with a new lens -
 
 ## Current Research Interests and Goals
 
-My top priorities when conducting research are: 
+My top priorities when conducting research are:
+
+- to further develop theoretical frameworks and experimental methods that can support **field neuroscience**, or **the humane study of nervous systems _in situ_**;
+
+- to critically analyze the role of modern neuroscience in perpetuating current systems of oppression, and to redirect the knowledge, wisdom, and insights derived from modern neuroscience towards radical collective liberation;
 
 - to nurture a culture of collaboration, trust, and rigorous imagination; and
 
 - to engage with historical context and in questioning the status quo, both in and out of science.
 
 
-I am currently interested in applying the field neuroscience framework to the following ideas and projects:
+I am currently interested in developing and collaborating on the following ideas and projects:
 
- - Developing and sharing a neuroscience primer that builds a "big picture" map of core knowledge in neuroscience, grounded in nervous system anatomy, physiology, evolution, and development and with the intent of inspiring explorations of our subjective daily experiences as multi-cellular organisms living with nervous systems;
+ - **An engaging, accessible, and multi-lingual neuroscience primer** _(as in, a succinct "big picture" introduction)_ that can develop shared vocabularies between experts coming together from significantly diverse backgrounds. _By significantly diverse, I don't just mean diverse in academic discipline -- I also mean diverse in cultural heritage, language, geographical location, socio-economic situations, learning and communication styles, lived experiences of marginalization, etc._
 
- - Creating a multi-language dictionary of neuroscience research terms, with a priority on learning, documenting, and co-creating accessible words for neuroscience concepts in endangered languages; 
+ - Non-invasive replication studies of classic laboratory neuroscience, psychology, and psychophysics experiments with **larger, more diverse sample sizes and with participants who are neither captive nor coerced**; 
 
- - Designing and implementing non-invasive replication studies of classic laboratory neuroscience, psychology, and psychophysics experiments with larger, more diverse sample sizes and with participants who are not captive nor coerced; 
-
- - Nurturing and sustaining multi-generational free-choice ([Dierking 2005](https://www.researchgate.net/publication/7105454_Lessons_without_limit_how_free-choice_learning_is_transforming_science_and_technology_education), Falk 2022, [Falk & Storksdieck 2005](https://www.researchgate.net/publication/7105453_Learning_science_from_museums)) embodied learning ([Macedonia 2019](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02098/full)) communities;
-
- - Studying and characterising cultural practices that harness "superpowers of the brain" and can act as rituals that enhance improvisation, especially in the face of the unknown (i.e. emergency medical training, storytelling, life-long learning communities, etc); 
+ - **Long-term, multi-generational, free-choice ([Dierking 2005](https://www.researchgate.net/publication/7105454_Lessons_without_limit_how_free-choice_learning_is_transforming_science_and_technology_education), Falk 2022, [Falk & Storksdieck 2005](https://www.researchgate.net/publication/7105453_Learning_science_from_museums)) and embodied learning ([Macedonia 2019](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02098/full)) communities**;
 
 
 ### References
