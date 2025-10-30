@@ -37,12 +37,14 @@ gallery:
 
 {% include toc title="Open Lab Notebook" %}
 
-Welcome to my Open Lab Notebook! This space holds the majority of my practices, theories, and explorations of Field Neuroscience, or the non-invasive study of nervous systems _in situ_. 
+Welcome to my Open Lab Notebook! This space is where I collect and document my practices, theories, and explorations of Field Neuroscience, or the non-invasive study of nervous systems _in situ_. 
 
 
 I began this work in collaboration with the [Intelligent Systems Lab](https://www.kampff-lab.org/), where I was a PhD student advised by Dr. Adam R. Kampff. The Intelligent Systems Lab studied how nervous systems "in the wild" (as opposed to in the laboratory) are robust and flexible enough to deal with unexpected situations. Within this context, I developed a framework for non-invasively studying nervous systems in environments and contexts beyond the traditional laboratory. 
 
-You can [**read the full-text of my doctoral thesis here**](https://www.dropbox.com/s/iqyfmj1rmcn083z/DanbeeKim_INDP2013_PhDThesis.pdf?st=4jmmexqt&dl=0). 
+You can [**read the full-text of my doctoral thesis here**](https://www.dropbox.com/s/iqyfmj1rmcn083z/DanbeeKim_INDP2013_PhDThesis.pdf?st=4jmmexqt&dl=0).
+
+I am now interested in re-examining existing neuroscience data with a new lens -- that **our nervous systems are _storytelling engines_ that our cells build, develop, and evolve to coordinate behavior throughout our body collective**. To learn more, please check out [my current research proposal](/assets/files/Research/DanbeeKim_ResearchProposal_2025.pdf). 
 
 ## Current Research Interests and Goals
 
