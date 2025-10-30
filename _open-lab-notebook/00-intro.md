@@ -61,7 +61,7 @@ My top priorities when conducting research are:
 
 I am currently interested in developing and collaborating on the following ideas and projects:
 
- - **An engaging, accessible, and multi-lingual neuroscience primer** _(as in, a succinct "big picture" introduction)_ that can develop shared vocabularies between experts coming together from significantly diverse backgrounds. _By significantly diverse, I don't just mean diverse in academic discipline -- I also mean diverse in cultural heritage, language, geographical location, socio-economic situations, learning and communication styles, lived experiences of marginalization, etc._
+ - **An engaging, accessible, and multi-lingual neuroscience primer** _(aka a succinct "big picture" introduction)_ that can **develop shared vocabularies between experts coming together from significantly diverse backgrounds** --  _not just diverse in academic discipline, but also in cultural heritage, language, geographical location, socio-economic situations, learning and communication styles, lived experiences of marginalization, etc._
 
  - Non-invasive replication studies of classic laboratory neuroscience, psychology, and psychophysics experiments with **larger, more diverse sample sizes and with participants who are neither captive nor coerced**; 
 
