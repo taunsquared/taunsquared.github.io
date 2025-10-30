@@ -65,18 +65,7 @@ I am currently interested in developing and collaborating on the following ideas
 
  - Non-invasive replication studies of classic laboratory neuroscience, psychology, and psychophysics experiments with **larger, more diverse sample sizes and with participants who are neither captive nor coerced**; 
 
- - **Long-term, multi-generational, free-choice ([Dierking 2005](https://www.researchgate.net/publication/7105454_Lessons_without_limit_how_free-choice_learning_is_transforming_science_and_technology_education), Falk 2022, [Falk & Storksdieck 2005](https://www.researchgate.net/publication/7105453_Learning_science_from_museums)) and embodied learning ([Macedonia 2019](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02098/full)) communities**;
-
-
-### References
-
-Dierking, L. D. (2005). [Lessons without limit: how free-choice learning is transforming science and technology education](https://www.researchgate.net/publication/7105454_Lessons_without_limit_how_free-choice_learning_is_transforming_science_and_technology_education). _História, Ciências, Saúde-Manguinhos_, 12, 145-160.
-
-Falk, J. H. (2002). Lessons without limit: How free-choice learning is transforming education. _Rowman Altamira_.
-
-Falk, J. H., & Storksdieck, M. (2005). [Learning science from museums](https://www.researchgate.net/publication/7105453_Learning_science_from_museums). _História, ciências, saúde-Manguinhos_, 12, 117-143.
-
-Macedonia, M. (2019). [Embodied learning: Why at school the mind needs the body.](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02098/full) _Frontiers in psychology_, 10, 2098.
+ - **Sustainable long-term, multi-generational, free-choice learning communities**;
 
 
 ## Writings
