@@ -18,7 +18,7 @@ header:
 
 {% include toc title="A Solarpunk Nervous System" %}
 
-References and Further Reading for the article "A Solarpunk Nervous System", by Danbee Kim, Xiao Xiao, and Amelia Goldie. The full article will be published in Vector, the critical magazine of the British Science Fiction Association (link to be posted soon!).
+References and Further Reading for the article "A Solarpunk Nervous System", by Danbee Kim, Xiao Xiao, and Amelia Goldie. The [full article](https://vector-bsfa.com/2023/04/19/a-solarpunk-nervous-system/) is published in Vector, the critical magazine of the British Science Fiction Association.
 
 # References:
 **[1]** Swanson, Larry W. Brain architecture: understanding the basic plan. Oxford University Press, 2012.
@@ -83,9 +83,9 @@ www.biorxiv.org/content/10.1101/058917v2
 **[30]** Kimmerer, Robin. Braiding sweetgrass: Indigenous wisdom, scientific knowledge and the teachings of plants. Milkweed editions, 2013.
 
 # Further Reading (A Solarpunk Primer)
-- An Introduction to Solarpunk: https://solarpunks.net/post/187176200722/an-introduction-to-solarpunk 
-- 9 Reasons Why Solarpunk is the Future: https://solarpunkmagazine.com/2021/10/24/9-reasons-why-solarpunk-is-the-future/ 
-- What Sets Solarpunk Apart? Alternative vs Possible Futures: https://solarpunkmagazine.com/2021/11/02/what-sets-solarpunk-apart-alternative-vs-possible-futures/ 
-- A Metamodern Solarpunk Manifesto: https://www.joelightfoot.org/post/the-metamodern-solarpunk-manifesto 
-- What is Solarpunk? By Solarpunk Stories: https://www.solarpunkstories.com/what-is-solarpunk 
+- [An Introduction to Solarpunk](https://solarpunks.net/post/187176200722/an-introduction-to-solarpunk)
+- [9 Reasons Why Solarpunk is the Future](https://solarpunkmagazine.com/2021/10/24/9-reasons-why-solarpunk-is-the-future/) 
+- [What Sets Solarpunk Apart? Alternative vs Possible Futures](https://solarpunkmagazine.com/2021/11/02/what-sets-solarpunk-apart-alternative-vs-possible-futures/)
+- [A Metamodern Solarpunk Manifesto](https://www.joelightfoot.org/post/the-metamodern-solarpunk-manifesto)
+- [What is Solarpunk? By Solarpunk Stories](https://www.solarpunkstories.com/what-is-solarpunk)
 
