@@ -26,7 +26,7 @@ Curious about how exactly I intend to do this? Give my [current research proposa
 
 If any of this sounds fun or interesting to you, I'd love to chat.
 
-[Curriculum Vitae](/assets/files/CV_Illustrator/2025_CV_DanbeeKim.pdf)<br/>
+[Curriculum Vitae](/assets/files/CV_Illustrator/2026_CV_DanbeeKim.pdf)<br/>
 
 Other fun things I've done:
 
