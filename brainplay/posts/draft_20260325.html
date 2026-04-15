@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>draft blog post - Dr. 단비 Tauntaun Kim, PhD</title>
+  <link rel="stylesheet" href="../../style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" />
+</head>
+<body>
+
+<div class="page-wrapper">
+
+  <!-- Header -->
+  <header class="site-header">
+    <a href="../../index.html" class="logo">Dr. <span>단비</span> Tauntaun <span>Kim</span>, PhD</a>
+    <nav>
+      <a href="../about.html">about</a>
+
+      <!-- Dropdown submenu -->
+      <div class="nav-dropdown">
+        <a href="../open-lab-notebook.html" class="active">open lab notebook</a>
+        <div class="dropdown-menu">
+          <a href="philosophy-ethics.html">philosophy & ethics</a>
+          <a href="phd-thesis-proposal.html">PhD thesis proposal</a>
+          <a href="cuttlefish.html">cuttlefish hunting behavior</a>
+          <a href="movement-control.html">movement control</a>
+	  <a href="every-mind.html">every mind online</a>
+	  <a href="surprising-minds.html">surprising minds</a>
+	  <a href="theory-puzzle.html">theoretical puzzle pieces</a>
+	  <a href="gnt-call-for-artists.html">graphic novel thesis: call for artists!</a>
+	  <a href="FirstVIRS.html">The First VIRS</a>
+        </div>
+      </div>
+
+      <a href="brainplay.html">brainplay</a>
+      <a href="scribbles.html">scribbles</a>
+      <a href="galleries.html">galleries</a>
+    </nav>
+  </header>
+
+  <!-- Hero section: image -->
+  <div class="page-hero">
+    <img src="../../assets/images/open-lab-notebook/OpenLabNotebook_header.jpg" alt="a drawing depicting aspects of Danbee's PhD research" />
+  </div>
+
+  <!-- Main: two-column layout -->
+  <main class="page-main" id="main">
+
+    <!-- Sidebar: Table of Contents Mode -->
+    <aside class="sidebar">
+      <nav class="sidebar-toc" aria-label="Table of contents">
+        <ul class="toc-list">
+	  <li><a href="#key-ideas" class="toc-h2 active">Core principles</a></li>
+	  <li><a href="#freedom-doubt" class="toc-h3">freedom to doubt in community</a></li>
+	  <li><a href="#we-think-all-bodies" class="toc-h3">we think with our all our bodies</a></li>
+	  <li><a href="#projects-archive" class="toc-h3">archive</a></li>
+          <li><a href="#journey" class="toc-h2">Key ideas</a></li>
+        </ul>
+      </nav>
+    </aside>
+
+    <!-- Main Content -->
+    <article class="content">
+      <header class="content-header">
+        <p class="content-eyebrow">cellular stories</p>
+      </header>
+
+      <!-- SECTION: MAIN CONTENT -->
+      <p>I'm now excited to explore a model that labels the chemicals passed between cells as “cellular stories”, based on a definition of storytelling as "<span>a method for sharing complex information about an inner world with other agents sharing an outer world.</span>"</p>
+      <p>This analogy is motivated by observations that stories have demonstrated great power for inspiring massive, long-lasting coordinations amongst humans -- similar to how our bodies, and the bodies of every multi-cellular organism, are living testaments of our cells' abilities to effectively coordinate as massive collectives. These coordinations can span distances many times larger than a cell, and can last many lifetimes longer than the lifespan of any individual cell.</p>
+      <p>At this moment, our global superorganism is especially dysfunctional and self-destructive. By combining studies of BIPOC liberationist storytellers such as Octavia Butler, bell hooks, and adrienne maree brown with an exploration of cellular strategies for collective actions, I hope to gain fresh ideas for building healthy, sustainable, compassionate, and resilient human and beyond human communities.</p>
+      
+    </article>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-col">
+        <a href="pages/about.html">about me</a>
+        <a href="pages/open-lab-notebook.html">open lab notebook</a>
+        <a href="notes.html">brainplay</a>
+        <a href="contact.html">scribbles</a>
+	<a href="contact.html">galleries</a>
+      </div>
+      <div class="footer-col">
+	<a href="mailto:danbee@danbeekim.org"><i class="fa fa-envelope"></i> email</a>
+	<a href="https://github.com/taunsquared"><i class="fa-brands fa-github" style="font-size:0.8rem"></i> github</a>
+	<a href="https://www.instagram.com/taunbot/"><i class="fa-brands fa-instagram" style="font-size:0.8rem"></i> insta</a>
+	<a href="#"><i class="fa-solid fa-rss"></i> rss feed</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>All content on this website, unless otherwise noted, is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</span>
+    </div>
+  </footer>
+
+</div>
+
+<script>
+  
+  const header = document.querySelector('.site-header');
+  const nav = header.querySelector('nav');
+  const navDropdown = nav.querySelector('.nav-dropdown');
+  const dropdownTrigger = nav.querySelector('.nav-dropdown > a');
+  const dropdownMenu = nav.querySelector('.dropdown-menu');
+
+  // Create hamburger button (hidden on desktop via CSS)
+  const hamburger = document.createElement('button');
+  hamburger.className = 'hamburger';
+  hamburger.setAttribute('aria-label', 'Toggle menu');
+  hamburger.innerHTML = '<span></span><span></span><span></span>';
+  header.appendChild(hamburger);
+
+  // Create mobile submenu once, append to nav
+  const mobileSubmenu = document.createElement('div');
+  mobileSubmenu.className = 'mobile-submenu';
+  mobileSubmenu.innerHTML = `
+  <a href="open-lab-notebook.html">→ open lab notebook (main page)</a>
+  ${dropdownMenu.innerHTML}
+`;
+  navDropdown.insertAdjacentElement('afterend', mobileSubmenu);
+
+  const isMobile = () => window.innerWidth <= 1088;
+  
+  hamburger.addEventListener('click', () => {
+      hamburger.classList.toggle('open');
+      nav.classList.toggle('open');
+      if (!nav.classList.contains('open')) {
+	  mobileSubmenu.classList.remove('open');
+      }
+  });
+
+  dropdownTrigger.addEventListener('click', e => {
+      if (isMobile()) {
+	  e.preventDefault();
+	  mobileSubmenu.classList.toggle('open');
+      }
+  });
+
+  nav.querySelectorAll('a:not(.nav-dropdown > a)').forEach(link => {
+      link.addEventListener('click', () => {
+	  if (isMobile()) {
+	      hamburger.classList.remove('open');
+	      nav.classList.remove('open');
+	      mobileSubmenu.classList.remove('open');
+	  }
+      });
+  });
+
+  // Highlight active TOC link on scroll
+  const headings = document.querySelectorAll('.content h1[id], .content h2[id], .content h3[id]');
+  const tocLinks = document.querySelectorAll('.toc-list a');
+
+  const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+	  if (entry.isIntersecting) {
+	      const id = entry.target.id;
+	      tocLinks.forEach(a => {
+		  a.classList.toggle('active', a.getAttribute('href') === '#' + id);
+	      });
+	  }
+      });
+  }, { rootMargin: '-20% 0px -70% 0px' });
+  
+  headings.forEach(h => observer.observe(h));
+  
+</script>
+
+</body>
+</html>

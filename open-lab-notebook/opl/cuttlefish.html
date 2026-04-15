@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cuttlefish Hunting Behavior: OLN, Dr. 단비 Tauntaun Kim, PhD</title>
+  <link rel="stylesheet" href="/style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" />
+</head>
+<body>
+
+<div class="page-wrapper">
+
+  <!-- Header -->
+  <header class="site-header" id="site-header"></header>
+
+  <!-- Main: two-column layout -->
+  <main class="page-main" id="main">
+
+    <!-- Sidebar: Table of Contents Mode -->
+    <aside class="sidebar">
+      <nav class="sidebar-toc" aria-label="Table of contents">
+	<ul class="toc-list"></ul>
+      </nav>
+    </aside>
+
+    <!-- Main Content -->
+    <article class="content">
+
+      <!-- SECTION: THESIS PROPOSAL -->
+      <h1 class="content-title" id="cuttlefish">Cuttlefish Hunting Behavior</h1>
+
+      <p>From February 2014 to February 2015, I collaborated with the Marine Biology Lab at Woods Hole, USA, to study cuttlefish, an invertebrate marine animal related to octopus and squid, from the perspective of neuroscience. My primary goal was to learn about their behaviour, how to take care of them, and how to modify our lab’s behaviour experiment setups for rats to work with cuttlefish. I took care of cuttlefish in all stages of their life cycle and even developed unique relationships with individuals.</p>
+
+      <p>Taking care of the cuttlefish on a daily basis taught me a lot about their behaviour, especially their hunting behaviour. I tried out many different experimental setups to study their hunting behaviour more closely, and learned a lot about arduinos and cameras and how to film sea creatures before I came up with the final design of the Cuttle Shuttle experiment.</p>
+
+      <p>The following documentation of this project is distilled into an academic paper titled "<a href="/assets/files/opl/research/jbm-9-2-e161.pdf">An experimental method for evoking and characterizing dynamic color patterning of cuttlefish during prey capture</a>" (2022).</p>
+
+      <p>The behavior paradigm and quantification methods described below open up exciting opportunities to further study aspects of hunting behavior in freely behaving cuttlefish, both in the lab and in the wild. If you are interested in collaborating on research along these lines, I’d love to chat! Please email me at danbee [at] danbeekim.org.</p>
+
+      <h2 id="acknowledgements">project acknowledgements</h2>
+
+      <p>Many thanks to Kendra Buresch, Stephen Senft, Alex Schnell, Andrew Carvey, Arthur Petron, Troy McInerney, Kelsey Cramer, Corinne Cramer, Andrea Rummell, George Bell, Alan Kuzirian, Barbara Burbank, Lyda Harris, Dan Calzarette, and Roger T Hanlon for their support and assistance at Woods Hole during this project. Additional thanks to Adam Kampff and the Intelligent Systems lab for enabling and supporting this collaboration.</p>
+
+      <h2 id="graphical-abstract">graphical abstract</h2>
+
+      <figure>
+	<img src="/assets/images/opl/cuttlefish/Paper_CuttleShuttle_GraphicalAbstract_highRes.jpg" alt="Graphical abstract of the cuttle shuttle experiment" class="img-center lightbox" />
+	<figcaption></figcaption>
+      </figure>
+
+      <h2 id="related-art">related artwork</h2>
+
+      <p>Below are acrylic models I made to show the main phases of a cuttlefish hunt:</p>
+
+      <figure>
+	<img src="/assets/images/opl/cuttlefish/CuttlefishHuntingBehaviour_1-AtRest.jpg" alt="Cuttlefish hunting behavior, phase 1: at rest" class="img-center lightbox" />
+	<figcaption><em>Cuttlefish hunting behavior, phase 1: at rest.</em> When a cuttlefish is 'at rest', or just hanging out, all of their arms lie flat over their mouth. Their eyes are usually on the sides of their head, in a position optimal for having a 360 degree view all around them. The body pattern on the cuttlefish's mantle, or back, is optimised to camouflage the cuttlefish and blend into its surroundings.</figcaption>
+      </figure>
+
+      <figure>
+	<img src="/assets/images/opl/cuttlefish/CuttlefishHuntingBehaviour_2-Attention.jpg" alt="Cuttlefish hunting behavior, phase 2: attention" class="img-center lightbox" />
+	<figcaption><em>Cuttlefish hunting behavior, phase 2: attention.</em> When a cuttlefish first notices food or prey, it will turn to face the food or prey, and often it will raise its two middle arms.</figcaption>
+      </figure>
+
+      <figure>
+	<img src="/assets/images/opl/cuttlefish/CuttlefishHuntingBehaviour_3-Positioning.jpg" alt="Cuttlefish hunting behavior, phase 3: positioning" class="img-center lightbox" />
+	<figcaption><em>Cuttlefish hunting behavior, phase 3: positioning.</em> As stealth hunters, cuttlefish sneak closer to their prey or let their prey come closer to them, as the cuttlefish hide by camouflaging themselves or burrowing into sand on the ocean floor. The two middle arms often remain raised in front of their face. When the cuttlefish is about one body length away from its food or prey, the next four arms create a barrel to guide and aim their tentacles, the tips of which can become visible during this phase.</figcaption>
+      </figure>
+
+      <figure>
+	<img src="/assets/images/opl/cuttlefish/CuttlefishHuntingBehaviour_4-TGB.jpg" alt="Cuttlefish hunting behavior, phase 4: TGB" class="img-center lightbox" />
+	<figcaption><em>Cuttlefish hunting behavior, phase 4: Tentacles Go Ballistic (TGB).</em> When the cuttlefish is ready, it will throw its tentacles towards the food or prey, a moment that we call 'tentacles go ballistic' (TGB). The middle two arms are usually still raised, and the next four arms are still formed into a 'barrel' to aim the tentacles. During this phase, the bottom 2 arms spread out, as if to create a stabilizing tripod for the moment when tentacles go ballistic. The TGB moment also marks the appearance of the 'tentacle shot pattern', a unique, highly fractalated body pattern that appears only in this moment and not at any other time in the cuttlefish’s behavioural repetoire.</figcaption>
+      </figure>
+
+      <h2 id="vids">videos</h2>
+
+      <h3 id="vid-summary">video summary</h3>
+
+      <div class="video-embed">
+	<iframe src="https://www.youtube.com/embed/G3Xx_AnrMyw"
+		title="YouTube video player"
+		frameborder="0"
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+		referrerpolicy="strict-origin-when-cross-origin"
+		allowfullscreen>
+	</iframe>
+      </div>
+
+      <h3 id="other-vids">other videos</h3>
+
+      <div class="video-embed">
+	<iframe src="https://www.youtube.com/embed/Q2XCCKyhBG8"
+		title="YouTube video player"
+		frameborder="0"
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+		referrerpolicy="strict-origin-when-cross-origin"
+		allowfullscreen>
+	</iframe>
+      </div>
+
+      <div class="video-embed">
+	<iframe src="https://www.youtube.com/embed/TGo0AM7calI"
+		title="YouTube video player"
+		frameborder="0"
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+		referrerpolicy="strict-origin-when-cross-origin"
+		allowfullscreen>
+	</iframe>
+      </div>
+
+      <div class="video-embed">
+	<iframe src="https://www.youtube.com/embed/CHrMDdK78Sk"
+		title="YouTube video player"
+		frameborder="0"
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+		referrerpolicy="strict-origin-when-cross-origin"
+		allowfullscreen>
+	</iframe>
+      </div>
+
+      <div class="video-embed">
+	<iframe src="https://www.youtube.com/embed/CgWJwalk8c8"
+		title="YouTube video player"
+		frameborder="0"
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+		referrerpolicy="strict-origin-when-cross-origin"
+		allowfullscreen>
+	</iframe>
+      </div>
+      
+	
+      <!-- SECTION: PROJECTS -->
+      <h1 class="content-title" id="projects">Explore more projects</h1>
+
+      <!-- *--* ongoing projects *--* -->
+      <div id="projects-ongoing-inject"></div>
+      
+      <!-- *--* project archive *--* -->
+      <div id="projects-archive-inject"></div> 
+      
+      
+    </article>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer" id="site-footer"></footer>
+
+</div>
+
+<!-- SCRIPTS -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+
+<!-- Shared nav: header + footer + hamburger menu -->
+<script src="/assets/js/nav.js" data-root="../../"></script>
+
+<!-- Table of Contents generator -->
+<script src="/assets/js/toc.js"></script>
+
+<!-- Projects: ongoing and archive -->
+<script src="/assets/js/projects-ongoing.js"></script>
+<script src="/assets/js/projects-archive.js"></script>
+
+<!-- Lightbox image expander -->
+<script src="/assets/js/lightbox.js"></script>
+
+<!-- Footnotes generator -->
+<script src="/assets/js/footnotes.js"></script>
+
+</body>
+</html>

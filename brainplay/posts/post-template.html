@@ -1,0 +1,127 @@
+<!--
+title: blog post template
+date: 2025-03-10
+tags: neuroscience, education
+excerpt: A short teaser sentence goes here.
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Post title — Dr. 단비 Tauntaun Kim, PhD</title>
+  <link rel="stylesheet" href="/style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" />
+</head>
+<body>
+
+  <div class="page-wrapper">
+    
+    <header class="site-header" id="site-header"></header>
+    
+    <main class="page-main" id="main">
+      
+      <!-- Sidebar: Table of Contents (auto-populated by script below) -->
+      <aside class="sidebar">
+	<nav class="sidebar-toc" aria-label="Table of contents">
+          <ul class="toc-list" id="toc-list">
+            <!-- Headings are injected here automatically -->
+          </ul>
+	</nav>
+      </aside>
+      
+      <!-- Post content -->
+      <article class="content">
+	<header class="content-header">
+	  
+          <!-- Breadcrumb back to index -->
+          <p class="content-eyebrow">
+            <a href="../scribbles.html" style="text-transform:uppercase; letter-spacing:0.1em;">← scribbles</a>
+          </p>
+	  
+          <!-- Post title -->
+          <h1 class="content-title">Post title goes here</h1>
+	  
+          <!-- Metadata row -->
+          <div class="post-meta-row">
+            <time class="post-date" datetime="YYYY-MM-DD">DD Mon YYYY</time>
+            <span class="post-tags">
+              <span class="post-tag">tag-one</span>
+              <span class="post-tag">tag-two</span>
+            </span>
+          </div>
+	  
+          <!-- Optional: one-sentence lede -->
+          <p class="content-subtitle">A short lede or subtitle that frames the piece.</p>
+	  
+	</header>
+	
+	<!-- ═══════════════════════════════════════════════════════
+             POST BODY
+             Use standard content classes:
+             <h2> for major sections  (appears in TOC)
+             <h3> for subsections     (appears in TOC)
+	     <p>  for paragraphs
+	     <blockquote> for pull quotes
+	     <ul> / <ol> for lists
+	     <span> for highlighted/bold inline text
+	     <a class="fn-ref" data-fn="slug"></a> for footnotes
+	     ═══════════════════════════════════════════════════════ -->
+			   
+	     <h2 id="first-section">First section heading</h2>
+	       <p>Your post content goes here. You can use <span>highlighted text</span> for emphasis, and <a href="#">links</a> as normal.</p>
+	       
+	       <blockquote>
+		 A pull quote or longer excerpt goes here, styled with the existing blockquote rules.
+	       </blockquote>
+	       
+	       <p>Continue writing here. Add as many <code>&lt;h2&gt;</code> and <code>&lt;h3&gt;</code> headings as you like — the table of contents in the sidebar will populate automatically.</p>
+	       
+	       <h2 id="second-section">Second section heading</h2>
+	       <p>More content here.</p>
+	       
+	       <h3 id="a-subsection">A subsection</h3>
+	       <p>Subsection content. Use a footnote like this<a class="fn-ref" data-fn="example-fn"></a> and it will be auto-numbered.</p>
+	       
+	       <!-- ── Footnotes ──────────────────────────────────────────
+		    Add a marker in text: <a class="fn-ref" data-fn="slug"></a>
+		    Add an entry below:   <li data-fn-id="slug">Text.</li>
+		    Numbering is automatic. Delete this section if unused.
+		    ─────────────────────────────────────────────────────────── -->
+	       <section class="footnotes" aria-label="Footnotes">
+		 <p class="footnotes-title">Notes</p>
+		 <ol class="footnotes-list">
+		   <li data-fn-id="example-fn">This is an example footnote. Replace or delete it.</li>
+		   <!-- Add more <li data-fn-id="slug"> entries as needed -->
+		 </ol>
+	       </section>
+	       
+      </article>
+    </main>
+    
+    <footer class="site-footer" id="site-footer"></footer>
+    
+  </div>
+  
+  <!-- SCRIPTS -->
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+
+  <!-- Shared nav: header + footer + hamburger menu -->
+  <script src="/assets/js/nav.js" data-root="../../"></script>
+  
+  <!-- Table of Contents generator -->
+  <script src="/assets/js/toc.js"></script>
+  
+  <!-- Projects: ongoing and archive -->
+  <script src="/assets/js/projects-ongoing.js"></script>
+  <script src="/assets/js/projects-archive.js"></script>
+  
+  <!-- Lightbox image expander -->
+  <script src="/assets/js/lightbox.js"></script>
+  
+  <!-- Footnotes generator -->
+  <script src="/assets/js/footnotes.js"></script>
+  
+</body>
+</html>

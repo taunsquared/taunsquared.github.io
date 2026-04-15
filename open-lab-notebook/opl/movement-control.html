@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Movement Control: OLN, Dr. 단비 Tauntaun Kim, PhD</title>
+  <link rel="stylesheet" href="/style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" />
+</head>
+<body>
+
+<div class="page-wrapper">
+
+  <!-- Header -->
+  <header class="site-header" id="site-header"></header>
+
+  <!-- Main: two-column layout -->
+  <main class="page-main" id="main">
+
+    <!-- Sidebar: Table of Contents Mode -->
+    <aside class="sidebar">
+      <nav class="sidebar-toc" aria-label="Table of contents">
+	<ul class="toc-list"></ul>
+      </nav>
+    </aside>
+
+    <!-- Main Content -->
+    <article class="content">
+
+      <!-- SECTION: THESIS PROPOSAL -->
+      <h1 class="content-title" id="movement-control">Movement control across timescales</h1>
+
+      <h2 id="move-at-diff-timescales">moving at different timescales</h2>
+
+      <p>In this project, we want to probe the ability to adjust movements to fit into the different timescales. It’s a familiar aspect of hip hop dance; skilled movement artists in many disciplines can rescale their movements with eery accuracy:</p>
+
+      <div class="video-embed">
+	<iframe src="https://www.youtube.com/embed/zzxY_iRRFIo"
+		title="YouTube video player"
+		frameborder="0"
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+		referrerpolicy="strict-origin-when-cross-origin"
+		allowfullscreen>
+	</iframe>
+      </div>
+
+      <p>Re-scaling movements are also a fundamental skill for hunting:</p>
+
+      <div class="video-embed">
+	<iframe src="https://www.youtube.com/embed/4CETcbXsB9Q"
+		title="YouTube video player"
+		frameborder="0"
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+		referrerpolicy="strict-origin-when-cross-origin"
+		allowfullscreen>
+	</iframe>
+      </div>
+
+      <h2 id="non-invasive-study">so what are non-invasive ways to study this ability?</h2>
+
+      <p>To find out, we ran a short little study asking humans to adjust their movements to fit into different timescales. Participants were asked to move from point A to point B, using a movement of their choice, within 3 timescales: "normal", "slow", and "fast". The "normal" timescale was defined as 8 seconds, indicated by 5 beats of a metronome at 30bpm (beats per minute). The "slow" timescale was defined as 16 seconds, indicated by 5 beats of a metronome at 60bpm. The "fast" timescale was defined as 4 seconds, indicated by 5 beats of a metronome at 15bpm. Participants were told that their goal is to make their movements as identical as possible across all three timescales.</p>
+
+      <figure>
+	<img src="/assets/images/opl/movement-control/movementControlAcrossTimescales_pilot1.jpg" alt="Movement control experimental setup" class="img-center lightbox" />
+	<figcaption>The experimental setup.</figcaption>
+      </figure>
+
+      <h2 id="dataset">dataset</h2>
+
+      <p>Using the software <a href="https://bonsai-rx.org/">Bonsai</a>, the image of the moving participant was extracted from the videos of all three timescales and color-coded. The playback speeds were then adjusted such that all three images moved for the same length of time. The three images were then super-imposed upon each other into one video.</p>
+
+      <div class="video-embed">
+	<iframe src="https://www.youtube.com/embed/g4HGWhlV9So"
+		title="YouTube video player"
+		frameborder="0"
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+		referrerpolicy="strict-origin-when-cross-origin"
+		allowfullscreen>
+	</iframe>
+      </div>
+
+      <h2 id="next-steps">next steps</h2>
+
+      <p>To help us study more natural movements and to explore this idea in a more open-ended setup, we want to build an arena with an overhead camera to record movements. A fun and fascinating cross-species study could build 2 experimental setups -- one at the scale of humans, and one at the scale of rats.</p>
+
+      <figure>
+	<img src="/assets/images/opl/movement-control/movementControlAcrossTimescales_pilot2.jpg" alt="Movement control experimental setup, next step overhead view" class="img-center lightbox" />
+	<figcaption>Overhead view of a more natural, open-ended experimental setup.</figcaption>
+      </figure>
+
+      <figure>
+	<img src="/assets/images/opl/movement-control/movementControlAcrossTimescales_pilot3.jpg" alt="Movement control experimental setup, next step side view" class="img-center lightbox" />
+	<figcaption>Side view of a more natural, open-ended experimental setup.</figcaption>
+      </figure>
+
+      <p>My labmate Lorenza Calcaterra is working on a rat video game to explore this idea with rodents! Check out the <a href="https://everymind.github.io/projects/rat-video-game/">Rat Video Game project page</a> on Every Mind Online to learn more. </p>
+      
+
+      <!-- SECTION: PROJECTS -->
+      <h1 class="content-title" id="projects">Explore more projects</h1>
+
+      <!-- *--* ongoing projects *--* -->
+      <div id="projects-ongoing-inject"></div>
+      
+      <!-- *--* project archive *--* -->
+      <div id="projects-archive-inject"></div> 
+      
+      
+    </article>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer" id="site-footer"></footer>
+
+</div>
+
+<!-- SCRIPTS -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+
+<!-- Shared nav: header + footer + hamburger menu -->
+<script src="/assets/js/nav.js" data-root="../../"></script>
+
+<!-- Table of Contents generator -->
+<script src="/assets/js/toc.js"></script>
+
+<!-- Projects: ongoing and archive -->
+<script src="/assets/js/projects-ongoing.js"></script>
+<script src="/assets/js/projects-archive.js"></script>
+
+<!-- Lightbox image expander -->
+<script src="/assets/js/lightbox.js"></script>
+
+<!-- Footnotes generator -->
+<script src="/assets/js/footnotes.js"></script>
+
+</body>
+</html>
