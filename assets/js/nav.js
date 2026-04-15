@@ -83,7 +83,7 @@
         <a href="mailto:danbee@danbeekim.org"><i class="fa fa-envelope"></i> email</a>
         <a href="https://github.com/taunsquared"><i class="fa-brands fa-github"></i> github</a>
 <a href="https://www.linkedin.com/in/danbeet2kim/"><i class="fa-brands fa-linkedin"></i> linkedin</a>
-        <a href="/assets/files/2026_CV_DanbeeKim.pdf"><i class="fa-solid fa-file-arrow-down"></i> CV</a>
+        <a href="/assets/files/cv/DanbeeKim_CV_2026.pdf"><i class="fa-solid fa-file-arrow-down"></i> CV</a>
       </div>
     </div>
     <div class="footer-bottom">
