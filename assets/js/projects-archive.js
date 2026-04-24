@@ -23,7 +23,7 @@
         </a>
 
         <!-- project: graphic novel thesis call for artists -->
-        <a href="/open-lab-notebook/opl/FirstVIRS/FirstVIRS-call-for-artists.html" class="project-card">
+        <a href="/FirstVIRS/FirstVIRS-call-for-artists.html" class="project-card">
           <img src="/assets/images/opl/project-cards/JuliaZimmerman_Neuron.jpeg" alt="Illustration by Julia Zimmerman. A typical neuron is stylized and re-imagined as a gothic horror creature, with an axon terminal made of many hands, and dendrites made of multiple people. August 2018." />
           <div class="project-card-overlay">
             <h3 class="project-card-title">call for artists</h3>
